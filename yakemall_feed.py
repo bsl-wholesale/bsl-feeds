@@ -60,7 +60,7 @@ def env_bool(name, default):
 SHOP = env("SHOPIFY_SHOP", "0kym5e-we.myshopify.com")
 API_VERSION = env("SHOPIFY_API_VERSION", "2026-10")
 PRODUCT_QUERY = env("PRODUCT_QUERY", "status:active")
-INCLUDE_TR = env_bool("INCLUDE_TR", True)            # Türkçe başlık/ürün tipi (read_translations gerekir)
+INCLUDE_TR = env_bool("INCLUDE_TR", False)           # Türkçe başlık/ürün tipi (kapalı: pazaryeri kendisi çeviriyor)
 INCLUDE_ZERO_STOCK = env_bool("INCLUDE_ZERO_STOCK", True)  # stoğu biten renkler packs_in_stock=0 ile kalsın
 MAX_IMAGES = int(env("MAX_IMAGES", "10"))
 SAFETY_STOCK = int(env("SAFETY_STOCK", "1"))        # her renkten düşülen güvenlik payı (seri)

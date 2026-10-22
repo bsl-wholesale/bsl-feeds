@@ -20,9 +20,7 @@ Hiyerarşi şöyle: **model → renk → beden**. Satılabilir birim bir rengin 
     <shopify_id>…</shopify_id>
     <updated_at>2026-10-22T08:26:50Z</updated_at>
     <title><![CDATA[Shawl-Collar Double-Breasted Blazer]]></title>
-    <title_tr><![CDATA[…]]></title_tr>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
-    <product_type_tr><![CDATA[…]]></product_type_tr>
     <category><![CDATA[Apparel & Accessories > … > Blazers]]></category>
     <gender>Woman</gender>
     <season/> <material/> <fit/> <fabric_type/> <length/> <waist/> <measurements/> <description/>
@@ -47,7 +45,6 @@ Hiyerarşi şöyle: **model → renk → beden**. Satılabilir birim bir rengin 
 | Alan | Anlamı |
 |---|---|
 | `product@id` | Model kodu (Nebim stok kodu). Sabit anahtar. |
-| `title_tr`, `product_type_tr` | Shopify'daki Türkçe çeviri. Çevirisi olmayan modellerde boş gelir. |
 | `category` | Shopify standart kategori yolu. Atanmamış modellerde boş ya da `Uncategorized` gelir. |
 | `pack` | Seri içeriği: hangi bedenden kaç adet. `size` serideki toplam adettir. |
 | `color@id` | `{model}-{renk kodu}`. Pazaryerinde ürünün sabit anahtarı olarak kullanılmalı. |
@@ -102,7 +99,7 @@ Elinizde eski tip bir admin custom app token'ı (`shpat_…`) varsa, Client ID v
 | `SHOPIFY_API_VERSION` | `2026-10` | Admin API sürümü. Yılda bir güncellenmeli. |
 | `PRODUCT_QUERY` | `status:active` | Feed'e girecek ürünlerin Shopify arama filtresi |
 | `INCLUDE_ZERO_STOCK` | `1` | Stoğu biten renkler `packs_in_stock=0` ile feed'de kalsın mı? Kalırsa pazaryeri onları tükendi olarak gösterir. |
-| `INCLUDE_TR` | `1` | Türkçe başlık ve ürün tipi eklensin mi? `read_translations` kapsamı gerekir. |
+| `INCLUDE_TR` | `0` | `1` yapılırsa Shopify'daki Türkçe başlık ve ürün tipi de gönderilir (`title_tr`, `product_type_tr`). Yakemall kendisi çevirdiği için kapalı. |
 | `MAX_IMAGES` | `10` | Renk başına en fazla görsel |
 | `SAFETY_STOCK` | `1` | Her renkten düşülen güvenlik payı (seri). Senkron gecikmesinde fazla satışı önler. `0` yapılırsa gerçek stok gönderilir. |
 | `SHRINK_GUARD` | `0.5` | Model sayısı önceki feed'in %50'sinin altına düşerse feed **yazılmaz**, iş hata verir. |
@@ -112,8 +109,7 @@ Elinizde eski tip bir admin custom app token'ı (`shpat_…`) varsa, Client ID v
 - **Uyarılar:** Başarısız çalışmalarda GitHub e-posta gönderir.
 - **Rapor:** Her çalışmanın özet sayfasında şunlar listelenir:
   - stokta olduğu halde görseli olmayan renkler (bunlar feed'e girmez),
-  - seri tanımı eksik modeller,
-  - Türkçe başlığı olmayan modeller.
+  - seri tanımı eksik modeller.
 - **60 gün kuralı:** GitHub, 60 gün hiç etkinlik olmayan public repolarda zamanlanmış işleri durdurur. Feed stok değiştikçe commit attığı için normalde sorun olmaz. Durursa Actions sekmesinden tek tıkla yeniden açılır.
 - **Feed herkese açık:** Feed adresi USD fiyat ve stok içerir ve herkese açıktır. Shopify'ın `/products/<handle>.js` adresleri fiyatı zaten herkese döndürdüğü için bu yeni bir açık yaratmaz.
 
