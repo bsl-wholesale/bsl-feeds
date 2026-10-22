@@ -162,16 +162,13 @@ def build_bulk_query():
   products(query: {json.dumps(PRODUCT_QUERY)}) {{
     edges {{
       node {{
-        id handle title productType vendor updatedAt descriptionHtml
+        id handle title productType vendor updatedAt
         category {{ fullName }}
         {translations}
         itemGroup: metafield(namespace: "custom", key: "item_group_id") {{ value }}
-        season: metafield(namespace: "custom", key: "season") {{ value }}
         material: metafield(namespace: "custom", key: "material") {{ value }}
         fit: metafield(namespace: "custom", key: "fit") {{ value }}
         fabricType: metafield(namespace: "custom", key: "fabric_type") {{ value }}
-        length: metafield(namespace: "custom", key: "length") {{ value }}
-        waist: metafield(namespace: "custom", key: "waist") {{ value }}
         measurements: metafield(namespace: "custom", key: "product_measurements") {{ value }}
         packContent: metafield(namespace: "custom", key: "pack_content") {{ value }}
         packSize: metafield(namespace: "custom", key: "pack_size") {{ value }}
@@ -283,14 +280,10 @@ def normalize_product(node, variants, media_urls):
         "product_type_tr": translations.get("product_type", ""),
         "category": ((node.get("category") or {}).get("fullName") or "").strip(),
         "updated_at": node.get("updatedAt") or "",
-        "description": (node.get("descriptionHtml") or "").strip(),
         "item_group": mf(node, "itemGroup"),
-        "season": mf(node, "season"),
         "material": mf(node, "material"),
         "fit": mf(node, "fit"),
         "fabric_type": mf(node, "fabricType"),
-        "length": mf(node, "length"),
-        "waist": mf(node, "waist"),
         "measurements": mf(node, "measurements"),
         "pack_content": mf(node, "packContent"),
         "pack_size": mf(node, "packSize"),
@@ -640,7 +633,7 @@ def render_xml(catalog):
             out.append(f'    <product_type_tr>{cdata(p["product_type_tr"])}</product_type_tr>')
         out.append(f'    <category>{cdata(p["category"])}</category>')
         out.append(f'    <gender>{attr(GENDER)}</gender>')
-        for tag in ("season", "material", "fit", "fabric_type", "length", "waist", "measurements", "description"):
+        for tag in ("material", "fit", "fabric_type", "measurements"):
             out.append(f'    <{tag}>{cdata(p[tag])}</{tag}>')
         out.append(f'    <pack size="{p["pack_total"]}" content="{attr(p["pack_content"])}">')
         for size, qty in p["pack"]:

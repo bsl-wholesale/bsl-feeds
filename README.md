@@ -23,7 +23,7 @@ Hiyerarşi şöyle: **model → renk → beden**. Satılabilir birim bir rengin 
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > … > Blazers]]></category>
     <gender>Woman</gender>
-    <season/> <material/> <fit/> <fabric_type/> <length/> <waist/> <measurements/> <description/>
+    <material/> <fit/> <fabric_type/> <measurements/>
     <pack size="6" content="XS/1-S/2-M/2-L/1">
       <item size="XS" qty="1"/> …
     </pack>
