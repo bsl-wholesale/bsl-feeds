@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog brand="BSL" currency="USD" products="883" colors="1698">
+<catalog brand="BSL" currency="USD" products="890" colors="1718">
   <product id="16290">
     <shopify_id>8486485327942</shopify_id>
     <updated_at>2026-10-22T00:46:07Z</updated_at>
@@ -680,6 +680,219 @@
           <variant sku="16878-09-S" barcode="8682502347146" size="S" pack_qty="2" stock="6" price="2.50"/>
           <variant sku="16878-09-M" barcode="8682502347139" size="M" pack_qty="2" stock="6" price="2.50"/>
           <variant sku="16878-09-L" barcode="8682502347122" size="L" pack_qty="1" stock="3" price="2.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16894">
+    <shopify_id>8530165858374</shopify_id>
+    <updated_at>2026-10-22T00:46:41Z</updated_at>
+    <title><![CDATA[Rib-Knit Cuffed Mini Shorts]]></title>
+    <title_tr><![CDATA[Fitilli Örme Manşetli Mini Şort]]></title_tr>
+    <product_type><![CDATA[Activewear]]></product_type>
+    <product_type_tr><![CDATA[Aktif giyim]]></product_type_tr>
+    <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Legging Shorts]]></category>
+    <gender>Woman</gender>
+    <season><![CDATA[Summer 2021]]></season>
+    <material><![CDATA[Elastane %10, Polyamid %90]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <length><![CDATA[]]></length>
+    <waist><![CDATA[]]></waist>
+    <measurements><![CDATA[Waist 29 cm - Hip 44 cm  - Length 38 cm]]></measurements>
+    <description><![CDATA[]]></description>
+    <pack size="6" content="XS-S/3-M-L/3">
+      <item size="XS-S" qty="3"/>
+      <item size="M-L" qty="3"/>
+    </pack>
+    <colors>
+      <color id="16894-10" code="10" name="Cream">
+        <unit_price>4.50</unit_price>
+        <pack_price>27.00</pack_price>
+        <packs_in_stock>18</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_krem-krem_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_krem-krem_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_krem-krem_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_krem-krem_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_krem-krem_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_krem-krem_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_krem-krem_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16894-10-XS-S" barcode="8682502348846" size="XS-S" pack_qty="3" stock="54" price="4.50"/>
+          <variant sku="16894-10-M-L" barcode="8682502348839" size="M-L" pack_qty="3" stock="54" price="4.50"/>
+        </variants>
+      </color>
+      <color id="16894-11" code="11" name="Pink">
+        <unit_price>4.50</unit_price>
+        <pack_price>27.00</pack_price>
+        <packs_in_stock>23</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_pembe-pembe_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_pembe-pembe_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_pembe-pembe_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_pembe-pembe_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_pembe-pembe_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_pembe-pembe_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_pembe-pembe_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16894-11-XS-S" barcode="8682502348860" size="XS-S" pack_qty="3" stock="69" price="4.50"/>
+          <variant sku="16894-11-M-L" barcode="8682502348853" size="M-L" pack_qty="3" stock="69" price="4.50"/>
+        </variants>
+      </color>
+      <color id="16894-14" code="14" name="Green">
+        <unit_price>4.50</unit_price>
+        <pack_price>27.00</pack_price>
+        <packs_in_stock>17</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_yesil-yesil_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_yesil-yesil_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_yesil-yesil_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_yesil-yesil_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_yesil-yesil_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_yesil-yesil_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_yesil-yesil_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16894-14-XS-S" barcode="8682502348884" size="XS-S" pack_qty="3" stock="51" price="4.50"/>
+          <variant sku="16894-14-M-L" barcode="8682502348877" size="M-L" pack_qty="3" stock="51" price="4.50"/>
+        </variants>
+      </color>
+      <color id="16894-63" code="63" name="Salmon">
+        <unit_price>4.50</unit_price>
+        <pack_price>27.00</pack_price>
+        <packs_in_stock>26</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_somon-somon_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_somon-somon_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_somon-somon_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_somon-somon_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_somon-somon_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_somon-somon_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-ucu-fitil-detayli-mini-sort_16894_somon-somon_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16894-63-XS-S" barcode="8682502348907" size="XS-S" pack_qty="3" stock="78" price="4.50"/>
+          <variant sku="16894-63-M-L" barcode="8682502348891" size="M-L" pack_qty="3" stock="78" price="4.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16896">
+    <shopify_id>8486485721158</shopify_id>
+    <updated_at>2026-10-22T02:03:16Z</updated_at>
+    <title><![CDATA[Ruffled Hem Mini Short]]></title>
+    <title_tr><![CDATA[Fırfırlı Etek Uçlu Mini Şort]]></title_tr>
+    <product_type><![CDATA[Activewear]]></product_type>
+    <product_type_tr><![CDATA[Aktif giyim]]></product_type_tr>
+    <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
+    <gender>Woman</gender>
+    <season><![CDATA[Summer 2021]]></season>
+    <material><![CDATA[Elastane %10, Polyamid %90]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <length><![CDATA[]]></length>
+    <waist><![CDATA[]]></waist>
+    <measurements><![CDATA[Waist 29 cm - Hip 44 cm  - Length 38 cm]]></measurements>
+    <description><![CDATA[]]></description>
+    <pack size="6" content="XS-S/3-M-L/3">
+      <item size="XS-S" qty="3"/>
+      <item size="M-L" qty="3"/>
+    </pack>
+    <colors>
+      <color id="16896-02" code="02" name="Black">
+        <unit_price>2.50</unit_price>
+        <pack_price>15.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_siyah-siyah_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_siyah-siyah_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_siyah-siyah_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_siyah-siyah_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_siyah-siyah_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_siyah-siyah_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_siyah-siyah_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16896-02-XS-S" barcode="8682502349225" size="XS-S" pack_qty="3" stock="0" price="2.50"/>
+          <variant sku="16896-02-M-L" barcode="8682502349218" size="M-L" pack_qty="3" stock="0" price="2.50"/>
+        </variants>
+      </color>
+      <color id="16896-10" code="10" name="Cream">
+        <unit_price>2.50</unit_price>
+        <pack_price>15.00</pack_price>
+        <packs_in_stock>4</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_krem-krem_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_krem-krem_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_krem-krem_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_krem-krem_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_krem-krem_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_krem-krem_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_krem-krem_7_buyuk_ac05e2d5-21ee-40a2-88ea-b07fe692e502.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16896-10-XS-S" barcode="8682502349249" size="XS-S" pack_qty="3" stock="12" price="2.50"/>
+          <variant sku="16896-10-M-L" barcode="8682502349232" size="M-L" pack_qty="3" stock="12" price="2.50"/>
+        </variants>
+      </color>
+      <color id="16896-39" code="39" name="Melon">
+        <unit_price>2.50</unit_price>
+        <pack_price>15.00</pack_price>
+        <packs_in_stock>18</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_kavun-ekru_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_kavun-ekru_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_kavun-ekru_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_kavun-ekru_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_kavun-ekru_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_kavun-ekru_6_buyuk_85091bdc-a89c-4b5b-b6b2-b1708af522e4.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_kavun-ekru_7_buyuk_899758fa-21ee-4666-a2f8-30f0e19e183c.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16896-39-XS-S" barcode="8682502349263" size="XS-S" pack_qty="3" stock="54" price="2.50"/>
+          <variant sku="16896-39-M-L" barcode="8682502349256" size="M-L" pack_qty="3" stock="54" price="2.50"/>
+        </variants>
+      </color>
+      <color id="16896-50" code="50" name="Powder">
+        <unit_price>2.50</unit_price>
+        <pack_price>15.00</pack_price>
+        <packs_in_stock>32</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_pudra-pudra_1_buyuk_828684f1-718f-48cb-a330-b7c4e2ce6bff.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_pudra-pudra_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_pudra-pudra_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_pudra-pudra_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_pudra-pudra_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_pudra-pudra_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_pudra-pudra_7_buyuk_d7d70c11-0de1-449d-b544-728366aca1b5.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16896-50-XS-S" barcode="8682502349287" size="XS-S" pack_qty="3" stock="96" price="2.50"/>
+          <variant sku="16896-50-M-L" barcode="8682502349270" size="M-L" pack_qty="3" stock="96" price="2.50"/>
+        </variants>
+      </color>
+      <color id="16896-56" code="56" name="Mint">
+        <unit_price>2.50</unit_price>
+        <pack_price>15.00</pack_price>
+        <packs_in_stock>7</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_2_buyuk_291e16e8-a14a-45f6-bf4b-17b426bf4337.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_4_buyuk_9bdd5032-9ce0-49db-9ff7-af25decf893a.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_7_buyuk_96d694df-689c-415a-8a2a-22843504a876.jpg</image>
+          <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_8_buyuk_d5db2ca5-4910-4a2e-a874-0ec3f8ee124c.jpg</image>
+          <image position="9">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_9_buyuk.jpg</image>
+          <image position="10">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/paca-firfir-detayli-mini-sort_16896_mint-yesil_10_buyuk_0c259cef-da46-4a7f-a818-43c1a8f2867f.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16896-56-XS-S" barcode="8682502349300" size="XS-S" pack_qty="3" stock="21" price="2.50"/>
+          <variant sku="16896-56-M-L" barcode="8682502349294" size="M-L" pack_qty="3" stock="21" price="2.50"/>
         </variants>
       </color>
     </colors>
@@ -7010,6 +7223,49 @@
           <variant sku="18485-07-S" barcode="8682502548482" size="S" pack_qty="2" stock="100" price="7.25"/>
           <variant sku="18485-07-M" barcode="8682502548475" size="M" pack_qty="2" stock="100" price="7.25"/>
           <variant sku="18485-07-L" barcode="8682502548468" size="L" pack_qty="1" stock="50" price="7.25"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="18493">
+    <shopify_id>8486480707654</shopify_id>
+    <updated_at>2026-10-22T03:35:46Z</updated_at>
+    <title><![CDATA[Crew neck oversize knitted sweater]]></title>
+    <title_tr><![CDATA[Bisiklet yaka oversize örgü kazak]]></title_tr>
+    <product_type><![CDATA[Knitwear]]></product_type>
+    <product_type_tr><![CDATA[Örme Giyim]]></product_type_tr>
+    <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
+    <gender>Woman</gender>
+    <season><![CDATA[Winter 2023]]></season>
+    <material><![CDATA[Acrylic %85, Polyamid %6, Elit Pbt %9]]></material>
+    <fit><![CDATA[Oversize]]></fit>
+    <fabric_type><![CDATA[Knitting]]></fabric_type>
+    <length><![CDATA[]]></length>
+    <waist><![CDATA[]]></waist>
+    <measurements><![CDATA[Chest 56 cm, Sleeve Length 41 cm, Length 56cm]]></measurements>
+    <description><![CDATA[]]></description>
+    <pack size="6" content="XS-S/3-M-L/3">
+      <item size="XS-S" qty="3"/>
+      <item size="M-L" qty="3"/>
+    </pack>
+    <colors>
+      <color id="18493-26" code="26" name="Beige">
+        <unit_price>14.00</unit_price>
+        <pack_price>84.00</pack_price>
+        <packs_in_stock>32</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_7_buyuk.jpg</image>
+          <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_8_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="18493-26-XS-S" barcode="8682502549113" size="XS-S" pack_qty="3" stock="96" price="14.00"/>
+          <variant sku="18493-26-M-L" barcode="8682502549106" size="M-L" pack_qty="3" stock="96" price="14.00"/>
         </variants>
       </color>
     </colors>
@@ -13527,6 +13783,48 @@
           <variant sku="19334-14-S" barcode="8682502646010" size="S" pack_qty="2" stock="38" price="12.00"/>
           <variant sku="19334-14-M" barcode="8682502646003" size="M" pack_qty="2" stock="38" price="12.00"/>
           <variant sku="19334-14-L" barcode="8682502645990" size="L" pack_qty="1" stock="19" price="12.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="19336">
+    <shopify_id>8486477987910</shopify_id>
+    <updated_at>2026-10-22T02:36:46Z</updated_at>
+    <title><![CDATA[Bat-wing Sleeve Denim Coat]]></title>
+    <title_tr><![CDATA[Yarasa Kollu Kot Mont]]></title_tr>
+    <product_type><![CDATA[Jackets & Coats]]></product_type>
+    <product_type_tr><![CDATA[Ceketler ve Montlar]]></product_type_tr>
+    <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
+    <gender>Woman</gender>
+    <season><![CDATA[Winter 2024]]></season>
+    <material><![CDATA[Cotton %100]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Denim]]></fabric_type>
+    <length><![CDATA[]]></length>
+    <waist><![CDATA[]]></waist>
+    <measurements><![CDATA[Chest:80cm Sleeve Length;: 7 cm Length:50cm Shoulder:26cm]]></measurements>
+    <description><![CDATA[]]></description>
+    <pack size="4" content="XS-S/2-M-L/2">
+      <item size="XS-S" qty="2"/>
+      <item size="M-L" qty="2"/>
+    </pack>
+    <colors>
+      <color id="19336-40" code="40" name="Anthracite">
+        <unit_price>25.50</unit_price>
+        <pack_price>102.00</pack_price>
+        <packs_in_stock>36</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarasa-kollu-denim-mont_19336_antrasit-antrasit_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarasa-kollu-denim-mont_19336_antrasit-antrasit_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarasa-kollu-denim-mont_19336_antrasit-antrasit_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarasa-kollu-denim-mont_19336_antrasit-antrasit_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarasa-kollu-denim-mont_19336_antrasit-antrasit_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarasa-kollu-denim-mont_19336_antrasit-antrasit_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarasa-kollu-denim-mont_19336_antrasit-antrasit_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="19336-40-XS-S" barcode="8682502643866" size="XS-S" pack_qty="2" stock="72" price="25.50"/>
+          <variant sku="19336-40-M-L" barcode="8682502643859" size="M-L" pack_qty="2" stock="72" price="25.50"/>
         </variants>
       </color>
     </colors>
@@ -27725,22 +28023,6 @@
       <item size="L" qty="1"/>
     </pack>
     <colors>
-      <color id="20695-01" code="01" name="White">
-        <unit_price>13.00</unit_price>
-        <pack_price>78.00</pack_price>
-        <packs_in_stock>0</packs_in_stock>
-        <images>
-          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/polo-yakali-maksi-pike-elbise_20695_lacivert-lacivert_1_buyuk.jpg</image>
-          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/polo-yakali-maksi-pike-elbise_20695_lacivert-lacivert_2_buyuk.jpg</image>
-          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/polo-yakali-maksi-pike-elbise_20695_lacivert-lacivert_3_buyuk.jpg</image>
-        </images>
-        <variants>
-          <variant sku="20695-01-XS" barcode="8682502788345" size="XS" pack_qty="1" stock="0" price="13.00"/>
-          <variant sku="20695-01-S" barcode="8682502788338" size="S" pack_qty="2" stock="0" price="13.00"/>
-          <variant sku="20695-01-M" barcode="8682502788321" size="M" pack_qty="2" stock="0" price="13.00"/>
-          <variant sku="20695-01-L" barcode="8682502788314" size="L" pack_qty="1" stock="0" price="13.00"/>
-        </variants>
-      </color>
       <color id="20695-04" code="04" name="Blue">
         <unit_price>13.00</unit_price>
         <pack_price>78.00</pack_price>
@@ -39080,6 +39362,138 @@
       </color>
     </colors>
   </product>
+  <product id="21188">
+    <shopify_id>8486277677126</shopify_id>
+    <updated_at>2026-10-22T04:10:16Z</updated_at>
+    <title><![CDATA[Hooded Zip-Up Knit Sweater]]></title>
+    <title_tr><![CDATA[Kapüşonlu Fermuarlı Örme Kazak]]></title_tr>
+    <product_type><![CDATA[Sweatshirts]]></product_type>
+    <product_type_tr><![CDATA[Kazağın]]></product_type_tr>
+    <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
+    <gender>Woman</gender>
+    <season><![CDATA[Winter 2026]]></season>
+    <material><![CDATA[Viscose %52, Pes %27, Polyamid %21]]></material>
+    <fit><![CDATA[Oversize]]></fit>
+    <fabric_type><![CDATA[Knitting]]></fabric_type>
+    <length><![CDATA[]]></length>
+    <waist><![CDATA[]]></waist>
+    <measurements><![CDATA[Chest: 56 cm - Sleeve Length: 50 cm - Length: 56 cm]]></measurements>
+    <description><![CDATA[]]></description>
+    <pack size="4" content="XS-S/2-M-L/2">
+      <item size="XS-S" qty="2"/>
+      <item size="M-L" qty="2"/>
+    </pack>
+    <colors>
+      <color id="21188-02" code="02" name="Black">
+        <unit_price>24.00</unit_price>
+        <pack_price>96.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_siyah-siyah_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_siyah-siyah_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_siyah-siyah_3_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21188-02-XS-S" barcode="8682502851285" size="XS-S" pack_qty="2" stock="0" price="24.00"/>
+          <variant sku="21188-02-M-L" barcode="8682502851278" size="M-L" pack_qty="2" stock="0" price="24.00"/>
+        </variants>
+      </color>
+      <color id="21188-06" code="06" name="Grey">
+        <unit_price>24.00</unit_price>
+        <pack_price>96.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_gri-gri_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_gri-gri_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_gri-gri_3_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21188-06-XS-S" barcode="8682502851308" size="XS-S" pack_qty="2" stock="12" price="24.00"/>
+          <variant sku="21188-06-M-L" barcode="8682502851292" size="M-L" pack_qty="2" stock="12" price="24.00"/>
+        </variants>
+      </color>
+      <color id="21188-07" code="07" name="Brown">
+        <unit_price>24.00</unit_price>
+        <pack_price>96.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_kahve-kahverengi_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_kahve-kahverengi_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-fermuarli-triko_21188_kahve-kahverengi_3_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21188-07-XS-S" barcode="8682502851322" size="XS-S" pack_qty="2" stock="12" price="24.00"/>
+          <variant sku="21188-07-M-L" barcode="8682502851315" size="M-L" pack_qty="2" stock="12" price="24.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21189">
+    <shopify_id>8486277709894</shopify_id>
+    <updated_at>2026-10-22T02:23:26Z</updated_at>
+    <title><![CDATA[Knitted Straight Leg Trousers]]></title>
+    <title_tr><![CDATA[Örgü Düz Paça Pantolon]]></title_tr>
+    <product_type><![CDATA[Pants]]></product_type>
+    <product_type_tr><![CDATA[Pantolon]]></product_type_tr>
+    <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
+    <gender>Woman</gender>
+    <season><![CDATA[Winter 2026]]></season>
+    <material><![CDATA[Viscose %52, Pes %27, Polyamid %21]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Knitting]]></fabric_type>
+    <length><![CDATA[Regular]]></length>
+    <waist><![CDATA[Elastic]]></waist>
+    <measurements><![CDATA[Waist: 28 cm - Hips: 36 cm - Height: 106 cm]]></measurements>
+    <description><![CDATA[]]></description>
+    <pack size="4" content="XS-S/2-M-L/2">
+      <item size="XS-S" qty="2"/>
+      <item size="M-L" qty="2"/>
+    </pack>
+    <colors>
+      <color id="21189-02" code="02" name="Black">
+        <unit_price>19.00</unit_price>
+        <pack_price>76.00</pack_price>
+        <packs_in_stock>3</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_siyah-siyah_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_siyah-siyah_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_siyah-siyah_3_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21189-02-XS-S" barcode="8682502851513" size="XS-S" pack_qty="2" stock="6" price="19.00"/>
+          <variant sku="21189-02-M-L" barcode="8682502851506" size="M-L" pack_qty="2" stock="6" price="19.00"/>
+        </variants>
+      </color>
+      <color id="21189-06" code="06" name="Grey">
+        <unit_price>19.00</unit_price>
+        <pack_price>76.00</pack_price>
+        <packs_in_stock>9</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_gri-gri_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_gri-gri_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_gri-gri_3_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21189-06-XS-S" barcode="8682502851537" size="XS-S" pack_qty="2" stock="18" price="19.00"/>
+          <variant sku="21189-06-M-L" barcode="8682502851520" size="M-L" pack_qty="2" stock="18" price="19.00"/>
+        </variants>
+      </color>
+      <color id="21189-07" code="07" name="Brown">
+        <unit_price>19.00</unit_price>
+        <pack_price>76.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_kahve-kahverengi_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_kahve-kahverengi_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_kahve-kahverengi_3_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21189-07-XS-S" barcode="8682502851551" size="XS-S" pack_qty="2" stock="12" price="19.00"/>
+          <variant sku="21189-07-M-L" barcode="8682502851544" size="M-L" pack_qty="2" stock="12" price="19.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="21190">
     <shopify_id>8486277808198</shopify_id>
     <updated_at>2026-10-22T01:59:01Z</updated_at>
@@ -41557,6 +41971,94 @@
           <variant sku="21267-02-S" barcode="8682502859489" size="S" pack_qty="2" stock="16" price="7.00"/>
           <variant sku="21267-02-M" barcode="8682502859472" size="M" pack_qty="2" stock="16" price="7.00"/>
           <variant sku="21267-02-L" barcode="8682502859465" size="L" pack_qty="1" stock="8" price="7.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21269">
+    <shopify_id>8486147391558</shopify_id>
+    <updated_at>2026-10-22T00:58:11Z</updated_at>
+    <title><![CDATA[Basic Printed Oversize T-shirt]]></title>
+    <title_tr><![CDATA[Baskılı Oversize Temel Tişört]]></title_tr>
+    <product_type><![CDATA[T-Shirts]]></product_type>
+    <product_type_tr><![CDATA[Tişörtler]]></product_type_tr>
+    <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > T-Shirts]]></category>
+    <gender>Woman</gender>
+    <season><![CDATA[Summer 2026]]></season>
+    <material><![CDATA[Cotton %100]]></material>
+    <fit><![CDATA[Oversize]]></fit>
+    <fabric_type><![CDATA[Knitting]]></fabric_type>
+    <length><![CDATA[Standard Size]]></length>
+    <waist><![CDATA[]]></waist>
+    <measurements><![CDATA[Chest: 57 cm - Sleeve Length: 24 cm - Length: 58 cm]]></measurements>
+    <description><![CDATA[]]></description>
+    <pack size="6" content="XS-S/3-M-L/3">
+      <item size="XS-S" qty="3"/>
+      <item size="M-L" qty="3"/>
+    </pack>
+    <colors>
+      <color id="21269-01" code="01" name="White">
+        <unit_price>9.00</unit_price>
+        <pack_price>54.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_beyaz-beyaz_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_beyaz-beyaz_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_beyaz-beyaz_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_beyaz-beyaz_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_beyaz-beyaz_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_beyaz-beyaz_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21269-01-XS-S" barcode="8682502859632" size="XS-S" pack_qty="3" stock="0" price="9.00"/>
+          <variant sku="21269-01-M-L" barcode="8682502859625" size="M-L" pack_qty="3" stock="0" price="9.00"/>
+        </variants>
+      </color>
+      <color id="21269-02" code="02" name="Black">
+        <unit_price>9.00</unit_price>
+        <pack_price>54.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_siyah-siyah_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_siyah-siyah_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_siyah-siyah_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_siyah-siyah_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_siyah-siyah_5_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21269-02-XS-S" barcode="8682502859656" size="XS-S" pack_qty="3" stock="0" price="9.00"/>
+          <variant sku="21269-02-M-L" barcode="8682502859649" size="M-L" pack_qty="3" stock="0" price="9.00"/>
+        </variants>
+      </color>
+      <color id="21269-48" code="48" name="Ecru">
+        <unit_price>9.00</unit_price>
+        <pack_price>54.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_ekru-ekru_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_ekru-ekru_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_ekru-ekru_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_ekru-ekru_4_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21269-48-XS-S" barcode="8682502859670" size="XS-S" pack_qty="3" stock="0" price="9.00"/>
+          <variant sku="21269-48-M-L" barcode="8682502859663" size="M-L" pack_qty="3" stock="0" price="9.00"/>
+        </variants>
+      </color>
+      <color id="21269-55" code="55" name="Mıxed">
+        <unit_price>9.00</unit_price>
+        <pack_price>54.00</pack_price>
+        <packs_in_stock>5</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_hardal-hardal_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_hardal-hardal_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_hardal-hardal_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_hardal-hardal_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-baskili-oversize-tshirt_21269_hardal-hardal_5_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21269-55-XS-S" barcode="8682502859694" size="XS-S" pack_qty="3" stock="15" price="9.00"/>
+          <variant sku="21269-55-M-L" barcode="8682502859687" size="M-L" pack_qty="3" stock="15" price="9.00"/>
         </variants>
       </color>
     </colors>
