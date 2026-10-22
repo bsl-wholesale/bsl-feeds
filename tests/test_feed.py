@@ -229,6 +229,34 @@ def main():
     assert p19415.findtext("title_tr") == "Carmen Boyun Askılı Detaylı Midi Triko Elbise"
     assert root.get("products") == "5" and root.get("colors") == str(len(by_id))
 
+    # Seri tanımı ayrıştırma (birleşik bedenler dahil)
+    assert feed.parse_pack("XS/1-S/2-M/2-L/1") == [("XS", 1), ("S", 2), ("M", 2), ("L", 1)]
+    assert feed.parse_pack("XS-S/3-M-L/3") == [("XS-S", 3), ("M-L", 3)]
+    assert feed.parse_pack("XS/2-S/2-M/2-L/1") == [("XS", 2), ("S", 2), ("M", 2), ("L", 1)]
+    assert feed.parse_pack("bozuk") == [] and feed.parse_pack("") == []
+
+    # 16894: birleşik bedenli şort (XS-S / M-L), seri 3+3
+    p = product(1, "Rib-Knit Cuffed Mini Shorts", "Shorts", "x-16894", "", "", [], "16894", "", "", "", "", None,
+                "", "XS-S/3-M-L/3", "6")
+    v = [variant("c1", "16894-10-M-L", "1", "5.00", 54, "Cream", "M-L", "c_1.jpg"),
+         variant("c2", "16894-10-XS-S", "2", "5.00", 54, "Cream", "XS-S", "c_1.jpg")]
+    m = [media("cm1", "c_1.jpg"), media("cm2", "c_2.jpg")]
+    shorts = feed.build_catalog(feed.products_from_jsonl(to_bulk_jsonl([(p, v, m)])), feed.Report())
+    assert shorts[0]["colors"][0]["packs"] == 18
+    assert [x["size"] for x in shorts[0]["colors"][0]["variants"]] == ["XS-S", "M-L"]
+
+    # 20695: görselsiz renk (White) sahipsiz başka renk fotoğraflarıyla eşleştirilmemeli
+    p = product(2, "Polo Collar Maxi Pique Dress", "Dresses", "x-20695", "", "", [], "20695", "", "", "", "", None,
+                "", PACK6, "6")
+    v = [variant(f"w{s}", f"20695-01-{s}", f"w{s}", "9.00", 0, "White", s) for s in ("XS", "S", "M", "L")] + \
+        [variant(f"n{s}", f"20695-05-{s}", f"n{s}", "9.00", 2, "Navy", s, "8682502788420_1.jpg") for s in ("XS", "S", "M", "L")]
+    m = [media("l1", "polo-yakali-maksi-pike-elbise_20695_lacivert-lacivert_1_buyuk.jpg"),
+         media("n1", "8682502788420_1.jpg"), media("n2", "8682502788420_2.jpg")]
+    rep = feed.Report()
+    polo = feed.build_catalog(feed.products_from_jsonl(to_bulk_jsonl([(p, v, m)])), rep)
+    assert [c["name"] for c in polo[0]["colors"]] == ["Navy"]
+    assert ("20695", "White", 0) in rep.skipped_colors
+
     print(f"Tüm kontroller geçti: {root.get('products')} model, {root.get('colors')} renk.\n")
     print(report.render())
 
