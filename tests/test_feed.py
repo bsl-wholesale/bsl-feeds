@@ -225,9 +225,13 @@ def main():
     assert sizes == ["XS", "S", "M", "L"], sizes
     assert by_id["19415-45"].find("variants/variant").get("pack_qty") == "2"
 
-    # Türkçe başlık
+    # Türkçe alanlar varsayılan olarak gönderilmez (INCLUDE_TR=0); açılırsa çeviri gelir
     p19415 = root.find("product[@id='19415']")
-    assert p19415.findtext("title_tr") == "Carmen Boyun Askılı Detaylı Midi Triko Elbise"
+    assert p19415.find("title_tr") is None and p19415.find("product_type_tr") is None
+    feed.INCLUDE_TR = True
+    tr_root = ET.fromstring(feed.render_xml(catalog).encode("utf-8"))
+    assert tr_root.find("product[@id='19415']").findtext("title_tr") == "Carmen Boyun Askılı Detaylı Midi Triko Elbise"
+    feed.INCLUDE_TR = False
     assert root.get("products") == "5" and root.get("colors") == str(len(by_id))
 
     # Seri tanımı ayrıştırma (birleşik bedenler dahil)
