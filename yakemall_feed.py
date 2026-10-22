@@ -341,21 +341,24 @@ def products_from_graphql(nodes):
 # İş kuralları
 # --------------------------------------------------------------------------
 
-PACK_PART = re.compile(r"^\s*([A-Za-z0-9]+)\s*/\s*(\d+)\s*$")
+PACK_PART = re.compile(r"\s*([^/]+?)\s*/\s*(\d+)\s*(?:-|$)")
 
 
 def parse_pack(text):
-    """'XS/1-S/2-M/2-L/1' -> [('XS', 1), ('S', 2), ('M', 2), ('L', 1)]"""
+    """'XS/1-S/2-M/2-L/1' -> [('XS', 1), ('S', 2), ('M', 2), ('L', 1)]
+    Birleşik bedenler de desteklenir: 'XS-S/3-M-L/3' -> [('XS-S', 3), ('M-L', 3)]"""
+    text = (text or "").strip()
     if not text:
         return []
-    pairs = []
-    for part in text.split("-"):
-        match = PACK_PART.match(part)
-        if not match:
+    pairs, position = [], 0
+    while position < len(text):
+        match = PACK_PART.match(text, position)
+        if not match or match.end() == position:
             return []
         qty = int(match.group(2))
         if qty > 0:
             pairs.append((match.group(1).upper(), qty))
+        position = match.end()
     return pairs
 
 
@@ -386,7 +389,8 @@ def assign_images(product, colors, report):
     1) Varyant görseli (renk çapası) ile aynı dosya grubundaki görseller
     2) Dosya adı rengin varyant barkodlarından biriyle başlayan görseller
     3) Tek renkli ürünse tüm görseller
-    4) Tek eşleşmemiş renk + tek sahipsiz görsel grubu kaldıysa ikisi eşleştirilir (rapora düşer)"""
+    Eşleşmeyen renk feed'e girmez ve rapora düşer; yanlış renkte fotoğraf göstermektense
+    rengi hiç göndermemek tercih edilir."""
     groups = OrderedDict()
     seen = set()
     for url in product["media"]:
@@ -416,13 +420,6 @@ def assign_images(product, colors, report):
         only = next(iter(colors))
         assigned[only] = list(groups)
         used_keys.update(groups)
-
-    missing = [c for c in colors if c not in assigned]
-    free = [k for k in groups if k not in used_keys]
-    if len(missing) == 1 and len(free) == 1:
-        assigned[missing[0]] = free
-        report.warn(f"{product['item_group']} / {missing[0]}: görsel, kalan tek sahipsiz grup "
-                    f"({free[0]}) ile tahminen eşleştirildi — kontrol edin.")
 
     result = {}
     for color, keys in assigned.items():
