@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog brand="BSL" currency="USD" products="890" colors="1718">
+<catalog brand="BSL" currency="USD" products="891" colors="1723">
   <product id="16290">
     <shopify_id>8486485327942</shopify_id>
     <updated_at>2026-10-22T00:46:07Z</updated_at>
@@ -11976,6 +11976,64 @@
           <variant sku="18967-07-S" barcode="8682502604416" size="S" pack_qty="2" stock="6" price="9.00"/>
           <variant sku="18967-07-M" barcode="8682502604409" size="M" pack_qty="2" stock="6" price="9.00"/>
           <variant sku="18967-07-L" barcode="8682502604393" size="L" pack_qty="1" stock="3" price="9.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="18992">
+    <shopify_id>8530180407366</shopify_id>
+    <updated_at>2026-10-22T10:07:35Z</updated_at>
+    <title><![CDATA[Slitted Mini Shor Skirt]]></title>
+    <title_tr><![CDATA[Yırtmaçlı Mini Şort Etek]]></title_tr>
+    <product_type><![CDATA[Skirts]]></product_type>
+    <product_type_tr><![CDATA[Etekler]]></product_type_tr>
+    <category><![CDATA[Apparel & Accessories > Clothing > Skorts]]></category>
+    <gender>Woman</gender>
+    <season><![CDATA[Summer 2023]]></season>
+    <material><![CDATA[Pes %100]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <length><![CDATA[]]></length>
+    <waist><![CDATA[]]></waist>
+    <measurements><![CDATA[Waist:32cm  Hip:45,5cm  Length Side: 33cm]]></measurements>
+    <description><![CDATA[]]></description>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="18992-03" code="03" name="Red">
+        <unit_price>6.50</unit_price>
+        <pack_price>39.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yirtmacli-mini-sort-etek_18992_kirmizi-kirmizi_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yirtmacli-mini-sort-etek_18992_kirmizi-kirmizi_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yirtmacli-mini-sort-etek_18992_kirmizi-kirmizi_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yirtmacli-mini-sort-etek_18992_kirmizi-kirmizi_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yirtmacli-mini-sort-etek_18992_kirmizi-kirmizi_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="18992-03-XS" barcode="8682502607622" size="XS" pack_qty="1" stock="6" price="6.50"/>
+          <variant sku="18992-03-S" barcode="8682502607615" size="S" pack_qty="2" stock="12" price="6.50"/>
+          <variant sku="18992-03-M" barcode="8682502607608" size="M" pack_qty="2" stock="12" price="6.50"/>
+          <variant sku="18992-03-L" barcode="8682502607592" size="L" pack_qty="1" stock="6" price="6.50"/>
+        </variants>
+      </color>
+      <color id="18992-57" code="57" name="Fuschia">
+        <unit_price>6.50</unit_price>
+        <pack_price>39.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yirtmacli-mini-sort-etek_18992_fusya-fusya_1_buyuk_accda0e6-9edb-4a5d-8a72-ee8180f980e4.jpg</image>
+        </images>
+        <variants>
+          <variant sku="18992-57-XS" barcode="8682502607660" size="XS" pack_qty="1" stock="0" price="6.50"/>
+          <variant sku="18992-57-S" barcode="8682502607653" size="S" pack_qty="2" stock="0" price="6.50"/>
+          <variant sku="18992-57-M" barcode="8682502607646" size="M" pack_qty="2" stock="0" price="6.50"/>
+          <variant sku="18992-57-L" barcode="8682502607639" size="L" pack_qty="1" stock="0" price="6.50"/>
         </variants>
       </color>
     </colors>
@@ -28391,12 +28449,12 @@
   </product>
   <product id="20727">
     <shopify_id>8486258769990</shopify_id>
-    <updated_at>2026-10-22T01:17:32Z</updated_at>
+    <updated_at>2026-10-22T10:14:26Z</updated_at>
     <title><![CDATA[Oversize Knitted Shirt]]></title>
     <title_tr><![CDATA[Oversize Triko Gömlek]]></title_tr>
     <product_type><![CDATA[Shirts]]></product_type>
     <product_type_tr><![CDATA[Gömlekler]]></product_type_tr>
-    <category><![CDATA[]]></category>
+    <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Overshirts]]></category>
     <gender>Woman</gender>
     <season><![CDATA[Summer 2025]]></season>
     <material><![CDATA[Elastane %5, Pes %95]]></material>
@@ -28418,15 +28476,45 @@
         <pack_price>81.00</pack_price>
         <packs_in_stock>7</packs_in_stock>
         <images>
-          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/oversize-krasli-gomlek_20727_lacivert-lacivert_1_buyuk.jpg</image>
-          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/oversize-krasli-gomlek_20727_lacivert-lacivert_2_buyuk.jpg</image>
-          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/oversize-krasli-gomlek_20727_lacivert-lacivert_3_buyuk.jpg</image>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502793660_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502793660_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502793660_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502793660_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502793660_5.jpg</image>
         </images>
         <variants>
           <variant sku="20727-05-XS" barcode="8682502793660" size="XS" pack_qty="1" stock="7" price="13.50"/>
           <variant sku="20727-05-S" barcode="8682502793653" size="S" pack_qty="2" stock="14" price="13.50"/>
           <variant sku="20727-05-M" barcode="8682502793646" size="M" pack_qty="2" stock="14" price="13.50"/>
           <variant sku="20727-05-L" barcode="8682502793639" size="L" pack_qty="1" stock="7" price="13.50"/>
+        </variants>
+      </color>
+      <color id="20727-40" code="40" name="Anthracite">
+        <unit_price>13.50</unit_price>
+        <pack_price>81.00</pack_price>
+        <packs_in_stock>27</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502793707_1.jpg</image>
+        </images>
+        <variants>
+          <variant sku="20727-40-XS" barcode="8682502793707" size="XS" pack_qty="1" stock="27" price="13.50"/>
+          <variant sku="20727-40-S" barcode="8682502793691" size="S" pack_qty="2" stock="54" price="13.50"/>
+          <variant sku="20727-40-M" barcode="8682502793684" size="M" pack_qty="2" stock="54" price="13.50"/>
+          <variant sku="20727-40-L" barcode="8682502793677" size="L" pack_qty="1" stock="27" price="13.50"/>
+        </variants>
+      </color>
+      <color id="20727-41" code="41" name="İndigo">
+        <unit_price>13.50</unit_price>
+        <pack_price>81.00</pack_price>
+        <packs_in_stock>24</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502793745_1_4e17a06f-9f43-4e40-8e88-fdc10b47e39e.jpg</image>
+        </images>
+        <variants>
+          <variant sku="20727-41-XS" barcode="8682502793745" size="XS" pack_qty="1" stock="24" price="13.50"/>
+          <variant sku="20727-41-S" barcode="8682502793738" size="S" pack_qty="2" stock="48" price="13.50"/>
+          <variant sku="20727-41-M" barcode="8682502793721" size="M" pack_qty="2" stock="48" price="13.50"/>
+          <variant sku="20727-41-L" barcode="8682502793714" size="L" pack_qty="1" stock="24" price="13.50"/>
         </variants>
       </color>
     </colors>
@@ -41722,12 +41810,12 @@
   </product>
   <product id="21263">
     <shopify_id>8486146998342</shopify_id>
-    <updated_at>2026-10-22T04:34:22Z</updated_at>
+    <updated_at>2026-10-22T10:08:33Z</updated_at>
     <title><![CDATA[Square Neck Tank Top]]></title>
     <title_tr><![CDATA[Kare Yaka Atlet]]></title_tr>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <product_type_tr><![CDATA[Üst Giyim ve Tulumlar]]></product_type_tr>
-    <category><![CDATA[]]></category>
+    <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
     <gender>Woman</gender>
     <season><![CDATA[Summer 2026]]></season>
     <material><![CDATA[Cotton %95, Elastane %5]]></material>
@@ -41832,6 +41920,20 @@
           <variant sku="21263-13-S" barcode="8682502858925" size="S" pack_qty="2" stock="0" price="6.50"/>
           <variant sku="21263-13-M" barcode="8682502858918" size="M" pack_qty="2" stock="0" price="6.50"/>
           <variant sku="21263-13-L" barcode="8682502858901" size="L" pack_qty="1" stock="0" price="6.50"/>
+        </variants>
+      </color>
+      <color id="21263-48" code="48" name="Ecru">
+        <unit_price>6.50</unit_price>
+        <pack_price>39.00</pack_price>
+        <packs_in_stock>32</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502876363_1.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21263-48-XS" barcode="8682502876363" size="XS" pack_qty="1" stock="32" price="6.50"/>
+          <variant sku="21263-48-S" barcode="8682502876356" size="S" pack_qty="2" stock="64" price="6.50"/>
+          <variant sku="21263-48-M" barcode="8682502876349" size="M" pack_qty="2" stock="64" price="6.50"/>
+          <variant sku="21263-48-L" barcode="8682502876332" size="L" pack_qty="1" stock="32" price="6.50"/>
         </variants>
       </color>
     </colors>
