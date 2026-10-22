@@ -27,7 +27,7 @@
       <color id="18553-278" code="278" name="Multı colour">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>133</packs_in_stock>
+        <packs_in_stock>132</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502555541_2.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502555541_3.jpg</image>
@@ -72,7 +72,7 @@
       <color id="19415-03" code="03" name="Red">
         <unit_price>12.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>24</packs_in_stock>
+        <packs_in_stock>23</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kirmizi-kirmizi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kirmizi-kirmizi_2_buyuk.jpg</image>
@@ -92,7 +92,7 @@
       <color id="19415-07" code="07" name="Brown">
         <unit_price>12.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>28</packs_in_stock>
+        <packs_in_stock>27</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kahve-kahverengi_2_buyuk.jpg</image>
@@ -112,7 +112,7 @@
       <color id="19415-45" code="45" name="Mink">
         <unit_price>12.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>42</packs_in_stock>
+        <packs_in_stock>41</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_vizon-vizon_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_vizon-vizon_2_buyuk.jpg</image>
@@ -159,7 +159,7 @@
       <color id="21620-02" code="02" name="Black">
         <unit_price>33.00</unit_price>
         <pack_price>198.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895630_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895630_2.jpg</image>
@@ -177,7 +177,7 @@
       <color id="21620-40" code="40" name="Anthracite">
         <unit_price>33.00</unit_price>
         <pack_price>198.00</pack_price>
-        <packs_in_stock>14</packs_in_stock>
+        <packs_in_stock>13</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895715_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895715_2.jpg</image>
@@ -221,7 +221,7 @@
       <color id="21635-25" code="25" name="Mılk coffee">
         <unit_price>8.00</unit_price>
         <pack_price>48.00</pack_price>
-        <packs_in_stock>10</packs_in_stock>
+        <packs_in_stock>9</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897788_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897788_2.jpg</image>
@@ -265,7 +265,7 @@
       <color id="21637-02" code="02" name="Black">
         <unit_price>8.00</unit_price>
         <pack_price>48.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502898129_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502898129_2.jpg</image>

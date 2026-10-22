@@ -189,6 +189,7 @@ def to_bulk_jsonl(fixture):
 
 
 def main():
+    feed.SAFETY_STOCK = 0          # temel hesap kontrolleri güvenlik payı olmadan
     lines = to_bulk_jsonl(FIXTURE)
     report = feed.Report()
     catalog = feed.build_catalog(feed.products_from_jsonl(lines), report)
@@ -257,12 +258,20 @@ def main():
     assert [c["name"] for c in polo[0]["colors"]] == ["Navy"]
     assert ("20695", "White", 0) in rep.skipped_colors
 
+    # Güvenlik payı: her renkten 1 seri düşülür, 0'ın altına inmez; görselsiz renk raporu gerçek stoğu gösterir
+    feed.SAFETY_STOCK = 1
+    rep = feed.Report()
+    buffered = feed.build_catalog(feed.products_from_jsonl(lines), rep)
+    packs = {c["id"]: c["packs"] for p in buffered for c in p["colors"]}
+    assert packs["21620-40"] == 13 and packs["21620-02"] == 0 and packs["18553-278"] == 132
+    assert ("19415", "Black", 51) in rep.skipped_colors
+
     print(f"Tüm kontroller geçti: {root.get('products')} model, {root.get('colors')} renk.\n")
     print(report.render())
 
     if len(sys.argv) > 1:
         with open(sys.argv[1], "w", encoding="utf-8") as handle:
-            handle.write(xml_text)
+            handle.write(feed.render_xml(buffered))   # canlı ayarla (1 seri güvenlik payı)
         print(f"\nÖrnek XML yazıldı: {sys.argv[1]}")
 
 
