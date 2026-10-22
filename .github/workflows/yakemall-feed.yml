@@ -1,0 +1,47 @@
+name: Yakemall feed
+
+on:
+  schedule:
+    - cron: "17,47 * * * *"   # her 30 dakikada bir (saatin 17. ve 47. dakikası, UTC)
+  workflow_dispatch:           # Actions sekmesinden elle çalıştırma
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yakemall-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Feed'i üret
+        env:
+          SHOPIFY_SHOP: ${{ vars.SHOPIFY_SHOP }}
+          SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
+          SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
+          SHOPIFY_ACCESS_TOKEN: ${{ secrets.SHOPIFY_ACCESS_TOKEN }}
+          INCLUDE_ZERO_STOCK: ${{ vars.INCLUDE_ZERO_STOCK }}
+          INCLUDE_TR: ${{ vars.INCLUDE_TR }}
+          MAX_IMAGES: ${{ vars.MAX_IMAGES }}
+        run: python yakemall_feed.py --out docs/yakemall.xml
+
+      - name: Değiştiyse yayınla
+        run: |
+          git config user.name "bsl-feed-bot"
+          git config user.email "bsl-feed-bot@users.noreply.github.com"
+          git add docs/yakemall.xml
+          if git diff --cached --quiet; then
+            echo "Feed değişmedi."
+          else
+            git commit -m "Yakemall feed güncellendi"
+            git push
+          fi
