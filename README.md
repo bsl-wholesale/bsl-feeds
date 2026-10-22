@@ -53,7 +53,7 @@ Hiyerarşi şöyle: **model → renk → beden**. Satılabilir birim bir rengin 
 | `color@id` | `{model}-{renk kodu}`. Pazaryerinde ürünün sabit anahtarı olarak kullanılmalı. |
 | `unit_price` | Adet fiyatı, USD. |
 | `pack_price` | Seri fiyatı (adet fiyatı × serideki adet), USD. |
-| `packs_in_stock` | **Satılabilir seri sayısı.** Beden stoklarından tamamlanabilen tam seri kadardır. `0` tükendi demektir. |
+| `packs_in_stock` | **Satılabilir seri sayısı.** Beden stoklarından tamamlanabilen tam seri sayısından güvenlik payı (varsayılan 1 seri) düşülerek hesaplanır. `0` tükendi demektir. |
 | `images` | Yalnızca bu renge ait görseller, sıralı (en fazla 10). |
 | `variant@stock` | Beden bazlı ham stok, bilgi amaçlı. Satış `packs_in_stock` üzerinden yapılmalı. |
 | `variant@barcode` | Bedenin barkodu (Nebim). |
@@ -104,6 +104,7 @@ Elinizde eski tip bir admin custom app token'ı (`shpat_…`) varsa, Client ID v
 | `INCLUDE_ZERO_STOCK` | `1` | Stoğu biten renkler `packs_in_stock=0` ile feed'de kalsın mı? Kalırsa pazaryeri onları tükendi olarak gösterir. |
 | `INCLUDE_TR` | `1` | Türkçe başlık ve ürün tipi eklensin mi? `read_translations` kapsamı gerekir. |
 | `MAX_IMAGES` | `10` | Renk başına en fazla görsel |
+| `SAFETY_STOCK` | `1` | Her renkten düşülen güvenlik payı (seri). Senkron gecikmesinde fazla satışı önler. `0` yapılırsa gerçek stok gönderilir. |
 | `SHRINK_GUARD` | `0.5` | Model sayısı önceki feed'in %50'sinin altına düşerse feed **yazılmaz**, iş hata verir. |
 
 ## Güvenlik ve izleme

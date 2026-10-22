@@ -63,6 +63,7 @@ PRODUCT_QUERY = env("PRODUCT_QUERY", "status:active")
 INCLUDE_TR = env_bool("INCLUDE_TR", True)            # Türkçe başlık/ürün tipi (read_translations gerekir)
 INCLUDE_ZERO_STOCK = env_bool("INCLUDE_ZERO_STOCK", True)  # stoğu biten renkler packs_in_stock=0 ile kalsın
 MAX_IMAGES = int(env("MAX_IMAGES", "10"))
+SAFETY_STOCK = int(env("SAFETY_STOCK", "1"))        # her renkten düşülen güvenlik payı (seri)
 GENDER = env("GENDER", "Woman")
 BRAND = env("BRAND", "BSL")
 SHRINK_GUARD = float(env("SHRINK_GUARD", "0.5"))     # ürün sayısı önceki feed'in bu oranının altına düşerse yazma
@@ -482,6 +483,7 @@ class Report:
             f"- Shopify'dan gelen ürün: **{s['products_in']}**",
             f"- Feed'deki model: **{s['products_out']}**, renk: **{s['colors_out']}** "
             f"(stoğu 0 olan renk: {s['colors_zero']})",
+            f"- Güvenlik payı: her renkten {SAFETY_STOCK} seri düşülüyor",
             f"- Atlanan model: {len(self.skipped_products)}, görseli olmadığı için atlanan renk: "
             f"{len(self.skipped_colors)}",
             f"- Türkçe başlığı olmayan model: {len(self.missing_tr)}" if INCLUDE_TR else "",
@@ -543,10 +545,11 @@ def build_catalog(products, report):
             stock_by_size = Counter()
             for v in variants:
                 stock_by_size[v["size"].upper()] += v["stock"]
-            packs = min(stock_by_size.get(size, 0) // qty for size, qty in pack)
+            real_packs = min(stock_by_size.get(size, 0) // qty for size, qty in pack)
+            packs = max(real_packs - SAFETY_STOCK, 0)
 
             if not images.get(color):
-                report.skipped_colors.append((label, color or "(renk yok)", packs))
+                report.skipped_colors.append((label, color or "(renk yok)", real_packs))
                 continue
             if packs == 0 and not INCLUDE_ZERO_STOCK:
                 continue
