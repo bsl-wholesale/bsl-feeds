@@ -32,6 +32,7 @@ jobs:
           INCLUDE_ZERO_STOCK: ${{ vars.INCLUDE_ZERO_STOCK }}
           INCLUDE_TR: ${{ vars.INCLUDE_TR }}
           MAX_IMAGES: ${{ vars.MAX_IMAGES }}
+          SAFETY_STOCK: ${{ vars.SAFETY_STOCK }}
         run: python yakemall_feed.py --out docs/yakemall.xml
 
       - name: Değiştiyse yayınla
