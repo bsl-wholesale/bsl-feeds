@@ -48618,7 +48618,7 @@
   </product>
   <product id="21568">
     <shopify_id>10238690361414</shopify_id>
-    <updated_at>2026-10-23T10:44:46Z</updated_at>
+    <updated_at>2026-10-23T13:43:04Z</updated_at>
     <title><![CDATA[Mini Dress with Pocket Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -48655,15 +48655,15 @@
       <color id="21568-05" code="05" name="Navy blue">
         <unit_price>25.00</unit_price>
         <pack_price>150.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895036_1.jpg</image>
         </images>
         <variants>
-          <variant sku="21568-05-XS" barcode="8682502895036" size="XS" pack_qty="1" stock="9" price="25.00"/>
-          <variant sku="21568-05-S" barcode="8682502895029" size="S" pack_qty="2" stock="18" price="25.00"/>
-          <variant sku="21568-05-M" barcode="8682502895012" size="M" pack_qty="2" stock="18" price="25.00"/>
-          <variant sku="21568-05-L" barcode="8682502895005" size="L" pack_qty="1" stock="9" price="25.00"/>
+          <variant sku="21568-05-XS" barcode="8682502895036" size="XS" pack_qty="1" stock="7" price="25.00"/>
+          <variant sku="21568-05-S" barcode="8682502895029" size="S" pack_qty="2" stock="14" price="25.00"/>
+          <variant sku="21568-05-M" barcode="8682502895012" size="M" pack_qty="2" stock="14" price="25.00"/>
+          <variant sku="21568-05-L" barcode="8682502895005" size="L" pack_qty="1" stock="7" price="25.00"/>
         </variants>
       </color>
       <color id="21568-26" code="26" name="Beige">
