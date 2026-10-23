@@ -15103,7 +15103,7 @@
   </product>
   <product id="19507">
     <shopify_id>8486479036486</shopify_id>
-    <updated_at>2026-10-23T01:31:30Z</updated_at>
+    <updated_at>2026-10-23T07:43:26Z</updated_at>
     <title><![CDATA[Collared Crop Top]]></title>
     <product_type><![CDATA[Crop Tops]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Activewear > Activewear Tops > Crop Tops]]></category>
@@ -15161,7 +15161,7 @@
       <color id="19507-10" code="10" name="Cream">
         <unit_price>9.00</unit_price>
         <pack_price>63.00</pack_price>
-        <packs_in_stock>12</packs_in_stock>
+        <packs_in_stock>11</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yakali-crop-top_19507_krem-krem_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yakali-crop-top_19507_krem-krem_2_buyuk.jpg</image>
@@ -15172,10 +15172,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yakali-crop-top_19507_krem-krem_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19507-10-XS" barcode="8682502664083" size="XS" pack_qty="2" stock="26" price="9.00"/>
-          <variant sku="19507-10-S" barcode="8682502664076" size="S" pack_qty="2" stock="26" price="9.00"/>
-          <variant sku="19507-10-M" barcode="8682502664069" size="M" pack_qty="2" stock="26" price="9.00"/>
-          <variant sku="19507-10-L" barcode="8682502664052" size="L" pack_qty="1" stock="13" price="9.00"/>
+          <variant sku="19507-10-XS" barcode="8682502664083" size="XS" pack_qty="2" stock="24" price="9.00"/>
+          <variant sku="19507-10-S" barcode="8682502664076" size="S" pack_qty="2" stock="24" price="9.00"/>
+          <variant sku="19507-10-M" barcode="8682502664069" size="M" pack_qty="2" stock="24" price="9.00"/>
+          <variant sku="19507-10-L" barcode="8682502664052" size="L" pack_qty="1" stock="12" price="9.00"/>
         </variants>
       </color>
       <color id="19507-26" code="26" name="Beige">
@@ -27472,7 +27472,7 @@
   </product>
   <product id="20825">
     <shopify_id>8486264799302</shopify_id>
-    <updated_at>2026-10-23T01:35:45Z</updated_at>
+    <updated_at>2026-10-23T07:43:26Z</updated_at>
     <title><![CDATA[100% Linen Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -27508,15 +27508,15 @@
       <color id="20825-08" code="08" name="Khaki">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502888922_1.jpg</image>
         </images>
         <variants>
-          <variant sku="20825-08-XS" barcode="8682502888922" size="XS" pack_qty="1" stock="6" price="27.00"/>
-          <variant sku="20825-08-S" barcode="8682502888915" size="S" pack_qty="2" stock="12" price="27.00"/>
-          <variant sku="20825-08-M" barcode="8682502888908" size="M" pack_qty="2" stock="12" price="27.00"/>
-          <variant sku="20825-08-L" barcode="8682502888892" size="L" pack_qty="1" stock="6" price="27.00"/>
+          <variant sku="20825-08-XS" barcode="8682502888922" size="XS" pack_qty="1" stock="4" price="27.00"/>
+          <variant sku="20825-08-S" barcode="8682502888915" size="S" pack_qty="2" stock="8" price="27.00"/>
+          <variant sku="20825-08-M" barcode="8682502888908" size="M" pack_qty="2" stock="8" price="27.00"/>
+          <variant sku="20825-08-L" barcode="8682502888892" size="L" pack_qty="1" stock="4" price="27.00"/>
         </variants>
       </color>
       <color id="20825-26" code="26" name="Beige">
@@ -27539,7 +27539,7 @@
   </product>
   <product id="20826">
     <shopify_id>8486264864838</shopify_id>
-    <updated_at>2026-10-23T00:29:32Z</updated_at>
+    <updated_at>2026-10-23T07:43:26Z</updated_at>
     <title><![CDATA[100% Linen Loose Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -27575,15 +27575,15 @@
       <color id="20826-08" code="08" name="Khaki">
         <unit_price>25.00</unit_price>
         <pack_price>150.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502888885_1.jpg</image>
         </images>
         <variants>
-          <variant sku="20826-08-XS" barcode="8682502888885" size="XS" pack_qty="1" stock="2" price="25.00"/>
-          <variant sku="20826-08-S" barcode="8682502888878" size="S" pack_qty="2" stock="4" price="25.00"/>
-          <variant sku="20826-08-M" barcode="8682502888861" size="M" pack_qty="2" stock="4" price="25.00"/>
-          <variant sku="20826-08-L" barcode="8682502888854" size="L" pack_qty="1" stock="2" price="25.00"/>
+          <variant sku="20826-08-XS" barcode="8682502888885" size="XS" pack_qty="1" stock="1" price="25.00"/>
+          <variant sku="20826-08-S" barcode="8682502888878" size="S" pack_qty="2" stock="2" price="25.00"/>
+          <variant sku="20826-08-M" barcode="8682502888861" size="M" pack_qty="2" stock="2" price="25.00"/>
+          <variant sku="20826-08-L" barcode="8682502888854" size="L" pack_qty="1" stock="1" price="25.00"/>
         </variants>
       </color>
       <color id="20826-26" code="26" name="Beige">
@@ -34835,7 +34835,7 @@
   </product>
   <product id="21153">
     <shopify_id>8486276694086</shopify_id>
-    <updated_at>2026-10-23T04:30:42Z</updated_at>
+    <updated_at>2026-10-23T07:43:16Z</updated_at>
     <title><![CDATA[Draped Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -34854,7 +34854,7 @@
       <color id="21153-08" code="08" name="Khaki">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_haki-haki_2_buyuk.jpg</image>
@@ -34862,10 +34862,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_haki-haki_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21153-08-XS" barcode="8682502846137" size="XS" pack_qty="1" stock="2" price="11.50"/>
-          <variant sku="21153-08-S" barcode="8682502846120" size="S" pack_qty="2" stock="4" price="11.50"/>
-          <variant sku="21153-08-M" barcode="8682502846113" size="M" pack_qty="2" stock="4" price="11.50"/>
-          <variant sku="21153-08-L" barcode="8682502846106" size="L" pack_qty="1" stock="2" price="11.50"/>
+          <variant sku="21153-08-XS" barcode="8682502846137" size="XS" pack_qty="1" stock="0" price="11.50"/>
+          <variant sku="21153-08-S" barcode="8682502846120" size="S" pack_qty="2" stock="0" price="11.50"/>
+          <variant sku="21153-08-M" barcode="8682502846113" size="M" pack_qty="2" stock="0" price="11.50"/>
+          <variant sku="21153-08-L" barcode="8682502846106" size="L" pack_qty="1" stock="0" price="11.50"/>
         </variants>
       </color>
       <color id="21153-40" code="40" name="Anthracite">
@@ -35045,7 +35045,7 @@
   </product>
   <product id="21160">
     <shopify_id>8486276890694</shopify_id>
-    <updated_at>2026-10-23T01:22:44Z</updated_at>
+    <updated_at>2026-10-23T07:43:25Z</updated_at>
     <title><![CDATA[Long-Sleeved Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35064,17 +35064,17 @@
       <color id="21160-25" code="25" name="Mılk coffee">
         <unit_price>7.50</unit_price>
         <pack_price>45.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/uzun-kollu-bodysuit_21160_sutlu-kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/uzun-kollu-bodysuit_21160_sutlu-kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/uzun-kollu-bodysuit_21160_sutlu-kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21160-25-XS" barcode="8682502846694" size="XS" pack_qty="1" stock="2" price="7.50"/>
-          <variant sku="21160-25-S" barcode="8682502846687" size="S" pack_qty="2" stock="4" price="7.50"/>
-          <variant sku="21160-25-M" barcode="8682502846670" size="M" pack_qty="2" stock="4" price="7.50"/>
-          <variant sku="21160-25-L" barcode="8682502846663" size="L" pack_qty="1" stock="2" price="7.50"/>
+          <variant sku="21160-25-XS" barcode="8682502846694" size="XS" pack_qty="1" stock="1" price="7.50"/>
+          <variant sku="21160-25-S" barcode="8682502846687" size="S" pack_qty="2" stock="2" price="7.50"/>
+          <variant sku="21160-25-M" barcode="8682502846670" size="M" pack_qty="2" stock="2" price="7.50"/>
+          <variant sku="21160-25-L" barcode="8682502846663" size="L" pack_qty="1" stock="1" price="7.50"/>
         </variants>
       </color>
     </colors>
@@ -47225,7 +47225,7 @@
   </product>
   <product id="21521">
     <shopify_id>8491534090310</shopify_id>
-    <updated_at>2026-10-23T03:38:25Z</updated_at>
+    <updated_at>2026-10-23T07:43:13Z</updated_at>
     <title><![CDATA[Asymmetrical Tulle Handkerchief Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -47244,7 +47244,7 @@
       <color id="21521-02" code="02" name="Black">
         <unit_price>9.50</unit_price>
         <pack_price>57.00</pack_price>
-        <packs_in_stock>32</packs_in_stock>
+        <packs_in_stock>30</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502889837_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502889837_2.jpg</image>
@@ -47253,10 +47253,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502889837_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21521-02-XS" barcode="8682502889837" size="XS" pack_qty="1" stock="33" price="9.50"/>
-          <variant sku="21521-02-S" barcode="8682502889820" size="S" pack_qty="2" stock="66" price="9.50"/>
-          <variant sku="21521-02-M" barcode="8682502889813" size="M" pack_qty="2" stock="66" price="9.50"/>
-          <variant sku="21521-02-L" barcode="8682502889806" size="L" pack_qty="1" stock="33" price="9.50"/>
+          <variant sku="21521-02-XS" barcode="8682502889837" size="XS" pack_qty="1" stock="31" price="9.50"/>
+          <variant sku="21521-02-S" barcode="8682502889820" size="S" pack_qty="2" stock="62" price="9.50"/>
+          <variant sku="21521-02-M" barcode="8682502889813" size="M" pack_qty="2" stock="62" price="9.50"/>
+          <variant sku="21521-02-L" barcode="8682502889806" size="L" pack_qty="1" stock="31" price="9.50"/>
         </variants>
       </color>
     </colors>
