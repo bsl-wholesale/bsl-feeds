@@ -35276,7 +35276,7 @@
   </product>
   <product id="21169">
     <shopify_id>8486277152838</shopify_id>
-    <updated_at>2026-10-23T02:38:42Z</updated_at>
+    <updated_at>2026-10-23T15:13:51Z</updated_at>
     <title><![CDATA[Bicycle Collar Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35295,7 +35295,7 @@
       <color id="21169-07" code="07" name="Brown">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_kahve-kahverengi_2_buyuk.jpg</image>
@@ -35303,16 +35303,16 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_kahve-kahverengi_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21169-07-XS" barcode="8682502847493" size="XS" pack_qty="1" stock="6" price="11.50"/>
-          <variant sku="21169-07-S" barcode="8682502847486" size="S" pack_qty="2" stock="12" price="11.50"/>
-          <variant sku="21169-07-M" barcode="8682502847479" size="M" pack_qty="2" stock="12" price="11.50"/>
-          <variant sku="21169-07-L" barcode="8682502847462" size="L" pack_qty="1" stock="6" price="11.50"/>
+          <variant sku="21169-07-XS" barcode="8682502847493" size="XS" pack_qty="1" stock="5" price="11.50"/>
+          <variant sku="21169-07-S" barcode="8682502847486" size="S" pack_qty="2" stock="10" price="11.50"/>
+          <variant sku="21169-07-M" barcode="8682502847479" size="M" pack_qty="2" stock="10" price="11.50"/>
+          <variant sku="21169-07-L" barcode="8682502847462" size="L" pack_qty="1" stock="5" price="11.50"/>
         </variants>
       </color>
       <color id="21169-08" code="08" name="Khaki">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>9</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_2_buyuk.jpg</image>
@@ -35320,10 +35320,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21169-08-XS" barcode="8682502847530" size="XS" pack_qty="1" stock="10" price="11.50"/>
-          <variant sku="21169-08-S" barcode="8682502847523" size="S" pack_qty="2" stock="20" price="11.50"/>
-          <variant sku="21169-08-M" barcode="8682502847516" size="M" pack_qty="2" stock="20" price="11.50"/>
-          <variant sku="21169-08-L" barcode="8682502847509" size="L" pack_qty="1" stock="10" price="11.50"/>
+          <variant sku="21169-08-XS" barcode="8682502847530" size="XS" pack_qty="1" stock="9" price="11.50"/>
+          <variant sku="21169-08-S" barcode="8682502847523" size="S" pack_qty="2" stock="18" price="11.50"/>
+          <variant sku="21169-08-M" barcode="8682502847516" size="M" pack_qty="2" stock="18" price="11.50"/>
+          <variant sku="21169-08-L" barcode="8682502847509" size="L" pack_qty="1" stock="9" price="11.50"/>
         </variants>
       </color>
     </colors>
@@ -48395,7 +48395,7 @@
   </product>
   <product id="21563">
     <shopify_id>10232328552518</shopify_id>
-    <updated_at>2026-10-23T01:31:31Z</updated_at>
+    <updated_at>2026-10-23T15:13:55Z</updated_at>
     <title><![CDATA[Patterned Baggy Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -48431,24 +48431,24 @@
       <color id="21563-22" code="22" name="Oil">
         <unit_price>5.00</unit_price>
         <pack_price>30.00</pack_price>
-        <packs_in_stock>32</packs_in_stock>
+        <packs_in_stock>30</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_2.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_3.jpg</image>
         </images>
         <variants>
-          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="33" price="5.00"/>
-          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="66" price="5.00"/>
-          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="66" price="5.00"/>
-          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="33" price="5.00"/>
+          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="31" price="5.00"/>
+          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="62" price="5.00"/>
+          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="62" price="5.00"/>
+          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="31" price="5.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21564">
     <shopify_id>10232328847430</shopify_id>
-    <updated_at>2026-10-23T02:37:26Z</updated_at>
+    <updated_at>2026-10-23T15:13:39Z</updated_at>
     <title><![CDATA[Patterned Vest with Darts]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -48485,7 +48485,7 @@
       <color id="21564-22" code="22" name="Oil">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>32</packs_in_stock>
+        <packs_in_stock>31</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894398_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894398_2.jpg</image>
@@ -48494,10 +48494,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894398_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21564-22-XS" barcode="8682502894398" size="XS" pack_qty="1" stock="33" price="12.00"/>
-          <variant sku="21564-22-S" barcode="8682502894381" size="S" pack_qty="2" stock="66" price="12.00"/>
-          <variant sku="21564-22-M" barcode="8682502894374" size="M" pack_qty="2" stock="66" price="12.00"/>
-          <variant sku="21564-22-L" barcode="8682502894367" size="L" pack_qty="1" stock="33" price="12.00"/>
+          <variant sku="21564-22-XS" barcode="8682502894398" size="XS" pack_qty="1" stock="32" price="12.00"/>
+          <variant sku="21564-22-S" barcode="8682502894381" size="S" pack_qty="2" stock="64" price="12.00"/>
+          <variant sku="21564-22-M" barcode="8682502894374" size="M" pack_qty="2" stock="64" price="12.00"/>
+          <variant sku="21564-22-L" barcode="8682502894367" size="L" pack_qty="1" stock="32" price="12.00"/>
         </variants>
       </color>
     </colors>
@@ -48765,7 +48765,7 @@
   </product>
   <product id="21598">
     <shopify_id>10238690459718</shopify_id>
-    <updated_at>2026-10-23T04:09:25Z</updated_at>
+    <updated_at>2026-10-23T15:13:51Z</updated_at>
     <title><![CDATA[Collared Mini Dress with Decorative Buttons]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -48784,7 +48784,7 @@
       <color id="21598-05" code="05" name="Navy blue">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897948_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897948_2.jpg</image>
@@ -48793,10 +48793,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897948_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21598-05-XS" barcode="8682502897948" size="XS" pack_qty="1" stock="9" price="18.00"/>
-          <variant sku="21598-05-S" barcode="8682502897931" size="S" pack_qty="2" stock="18" price="18.00"/>
-          <variant sku="21598-05-M" barcode="8682502897924" size="M" pack_qty="2" stock="18" price="18.00"/>
-          <variant sku="21598-05-L" barcode="8682502897917" size="L" pack_qty="1" stock="9" price="18.00"/>
+          <variant sku="21598-05-XS" barcode="8682502897948" size="XS" pack_qty="1" stock="8" price="18.00"/>
+          <variant sku="21598-05-S" barcode="8682502897931" size="S" pack_qty="2" stock="16" price="18.00"/>
+          <variant sku="21598-05-M" barcode="8682502897924" size="M" pack_qty="2" stock="16" price="18.00"/>
+          <variant sku="21598-05-L" barcode="8682502897917" size="L" pack_qty="1" stock="8" price="18.00"/>
         </variants>
       </color>
     </colors>
