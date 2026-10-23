@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog brand="BSL" currency="USD" products="891" colors="1723">
+<catalog brand="BSL" currency="USD" products="892" colors="1724">
   <product id="16290">
     <shopify_id>8486485327942</shopify_id>
     <updated_at>2026-10-23T00:46:04Z</updated_at>
@@ -48985,6 +48985,44 @@
           <variant sku="21624-08-S" barcode="8682502896132" size="S" pack_qty="2" stock="26" price="15.00"/>
           <variant sku="21624-08-M" barcode="8682502896125" size="M" pack_qty="2" stock="26" price="15.00"/>
           <variant sku="21624-08-L" barcode="8682502896118" size="L" pack_qty="1" stock="13" price="15.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21627">
+    <shopify_id>10248052015174</shopify_id>
+    <updated_at>2026-10-23T12:47:52Z</updated_at>
+    <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
+    <product_type><![CDATA[Pants]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %5, Viscose %31, Pes %64]]></material>
+    <fit><![CDATA[Comfortable]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Waist: 35.5 cm - Hips: 50 cm - Height: 111 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21627-05" code="05" name="Navy blue">
+        <unit_price>18.00</unit_price>
+        <pack_price>108.00</pack_price>
+        <packs_in_stock>8</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_5.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="9" price="18.00"/>
+          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="18" price="18.00"/>
+          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="18" price="18.00"/>
+          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="9" price="18.00"/>
         </variants>
       </color>
     </colors>
