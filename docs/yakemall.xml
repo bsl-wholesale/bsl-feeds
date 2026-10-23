@@ -44655,7 +44655,7 @@
   </product>
   <product id="21468">
     <shopify_id>8486154731590</shopify_id>
-    <updated_at>2026-10-23T01:00:56Z</updated_at>
+    <updated_at>2026-10-23T09:13:16Z</updated_at>
     <title><![CDATA[Strapless Underwired Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[]]></category>
@@ -44674,7 +44674,7 @@
       <color id="21468-02" code="02" name="Black">
         <unit_price>10.50</unit_price>
         <pack_price>63.00</pack_price>
-        <packs_in_stock>23</packs_in_stock>
+        <packs_in_stock>22</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/straplez-balenli-top_21468_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/straplez-balenli-top_21468_siyah-siyah_2_buyuk.jpg</image>
@@ -44683,10 +44683,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/straplez-balenli-top_21468_siyah-siyah_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21468-02-XS" barcode="8682502882357" size="XS" pack_qty="1" stock="24" price="10.50"/>
-          <variant sku="21468-02-S" barcode="8682502882340" size="S" pack_qty="2" stock="48" price="10.50"/>
-          <variant sku="21468-02-M" barcode="8682502882333" size="M" pack_qty="2" stock="48" price="10.50"/>
-          <variant sku="21468-02-L" barcode="8682502882326" size="L" pack_qty="1" stock="24" price="10.50"/>
+          <variant sku="21468-02-XS" barcode="8682502882357" size="XS" pack_qty="1" stock="23" price="10.50"/>
+          <variant sku="21468-02-S" barcode="8682502882340" size="S" pack_qty="2" stock="46" price="10.50"/>
+          <variant sku="21468-02-M" barcode="8682502882333" size="M" pack_qty="2" stock="46" price="10.50"/>
+          <variant sku="21468-02-L" barcode="8682502882326" size="L" pack_qty="1" stock="23" price="10.50"/>
         </variants>
       </color>
     </colors>
@@ -48689,7 +48689,7 @@
   </product>
   <product id="21580">
     <shopify_id>10238690394182</shopify_id>
-    <updated_at>2026-10-23T02:20:13Z</updated_at>
+    <updated_at>2026-10-23T09:13:16Z</updated_at>
     <title><![CDATA[Stand-Collar Jacket with Button Detail]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -48708,7 +48708,7 @@
       <color id="21580-02" code="02" name="Black">
         <unit_price>32.00</unit_price>
         <pack_price>192.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>14</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_2.jpg</image>
@@ -48717,10 +48717,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21580-02-XS" barcode="8682502897986" size="XS" pack_qty="1" stock="3" price="32.00"/>
-          <variant sku="21580-02-S" barcode="8682502897979" size="S" pack_qty="2" stock="6" price="32.00"/>
-          <variant sku="21580-02-M" barcode="8682502897962" size="M" pack_qty="2" stock="6" price="32.00"/>
-          <variant sku="21580-02-L" barcode="8682502897955" size="L" pack_qty="1" stock="3" price="32.00"/>
+          <variant sku="21580-02-XS" barcode="8682502897986" size="XS" pack_qty="1" stock="15" price="32.00"/>
+          <variant sku="21580-02-S" barcode="8682502897979" size="S" pack_qty="2" stock="30" price="32.00"/>
+          <variant sku="21580-02-M" barcode="8682502897962" size="M" pack_qty="2" stock="30" price="32.00"/>
+          <variant sku="21580-02-L" barcode="8682502897955" size="L" pack_qty="1" stock="15" price="32.00"/>
         </variants>
       </color>
     </colors>
