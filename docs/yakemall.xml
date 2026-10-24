@@ -31472,7 +31472,7 @@
   </product>
   <product id="21041">
     <shopify_id>8486271811654</shopify_id>
-    <updated_at>2026-10-24T01:34:46Z</updated_at>
+    <updated_at>2026-10-24T10:43:25Z</updated_at>
     <title><![CDATA[Geometric Pattern Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -31491,7 +31491,7 @@
       <color id="21041-07" code="07" name="Brown">
         <unit_price>17.00</unit_price>
         <pack_price>102.00</pack_price>
-        <packs_in_stock>15</packs_in_stock>
+        <packs_in_stock>14</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/geometrik-desen-gomlek_21041_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/geometrik-desen-gomlek_21041_kahve-kahverengi_2_buyuk.jpg</image>
@@ -31499,10 +31499,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/geometrik-desen-gomlek_21041_kahve-kahverengi_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21041-07-XS" barcode="8682502824920" size="XS" pack_qty="1" stock="16" price="17.00"/>
-          <variant sku="21041-07-S" barcode="8682502824913" size="S" pack_qty="2" stock="32" price="17.00"/>
-          <variant sku="21041-07-M" barcode="8682502824906" size="M" pack_qty="2" stock="32" price="17.00"/>
-          <variant sku="21041-07-L" barcode="8682502824890" size="L" pack_qty="1" stock="16" price="17.00"/>
+          <variant sku="21041-07-XS" barcode="8682502824920" size="XS" pack_qty="1" stock="15" price="17.00"/>
+          <variant sku="21041-07-S" barcode="8682502824913" size="S" pack_qty="2" stock="30" price="17.00"/>
+          <variant sku="21041-07-M" barcode="8682502824906" size="M" pack_qty="2" stock="30" price="17.00"/>
+          <variant sku="21041-07-L" barcode="8682502824890" size="L" pack_qty="1" stock="15" price="17.00"/>
         </variants>
       </color>
     </colors>
@@ -31713,7 +31713,7 @@
   </product>
   <product id="21047">
     <shopify_id>8486272008262</shopify_id>
-    <updated_at>2026-10-24T01:49:02Z</updated_at>
+    <updated_at>2026-10-24T10:43:16Z</updated_at>
     <title><![CDATA[Plaid Ruffled Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -31732,17 +31732,17 @@
       <color id="21047-08" code="08" name="Khaki">
         <unit_price>20.00</unit_price>
         <pack_price>120.00</pack_price>
-        <packs_in_stock>24</packs_in_stock>
+        <packs_in_stock>22</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-volanli-midi-etek_21047_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-volanli-midi-etek_21047_haki-haki_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-volanli-midi-etek_21047_haki-haki_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21047-08-XS" barcode="8682502826405" size="XS" pack_qty="1" stock="25" price="20.00"/>
-          <variant sku="21047-08-S" barcode="8682502826399" size="S" pack_qty="2" stock="50" price="20.00"/>
-          <variant sku="21047-08-M" barcode="8682502826382" size="M" pack_qty="2" stock="50" price="20.00"/>
-          <variant sku="21047-08-L" barcode="8682502826375" size="L" pack_qty="1" stock="25" price="20.00"/>
+          <variant sku="21047-08-XS" barcode="8682502826405" size="XS" pack_qty="1" stock="23" price="20.00"/>
+          <variant sku="21047-08-S" barcode="8682502826399" size="S" pack_qty="2" stock="46" price="20.00"/>
+          <variant sku="21047-08-M" barcode="8682502826382" size="M" pack_qty="2" stock="46" price="20.00"/>
+          <variant sku="21047-08-L" barcode="8682502826375" size="L" pack_qty="1" stock="23" price="20.00"/>
         </variants>
       </color>
     </colors>
@@ -35222,7 +35222,7 @@
   </product>
   <product id="21168">
     <shopify_id>8486277120070</shopify_id>
-    <updated_at>2026-10-24T01:35:46Z</updated_at>
+    <updated_at>2026-10-24T10:43:20Z</updated_at>
     <title><![CDATA[Wide Neck Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35258,7 +35258,7 @@
       <color id="21168-08" code="08" name="Khaki">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>4</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/genis-yakali-bodysuit_21168_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/genis-yakali-bodysuit_21168_haki-haki_2_buyuk.jpg</image>
@@ -35266,10 +35266,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/genis-yakali-bodysuit_21168_haki-haki_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21168-08-XS" barcode="8682502847455" size="XS" pack_qty="1" stock="5" price="11.50"/>
-          <variant sku="21168-08-S" barcode="8682502847448" size="S" pack_qty="2" stock="10" price="11.50"/>
-          <variant sku="21168-08-M" barcode="8682502847431" size="M" pack_qty="2" stock="10" price="11.50"/>
-          <variant sku="21168-08-L" barcode="8682502847424" size="L" pack_qty="1" stock="5" price="11.50"/>
+          <variant sku="21168-08-XS" barcode="8682502847455" size="XS" pack_qty="1" stock="3" price="11.50"/>
+          <variant sku="21168-08-S" barcode="8682502847448" size="S" pack_qty="2" stock="6" price="11.50"/>
+          <variant sku="21168-08-M" barcode="8682502847431" size="M" pack_qty="2" stock="6" price="11.50"/>
+          <variant sku="21168-08-L" barcode="8682502847424" size="L" pack_qty="1" stock="3" price="11.50"/>
         </variants>
       </color>
     </colors>
@@ -47964,7 +47964,7 @@
   </product>
   <product id="21551">
     <shopify_id>10221187727430</shopify_id>
-    <updated_at>2026-10-24T01:26:46Z</updated_at>
+    <updated_at>2026-10-24T10:43:11Z</updated_at>
     <title><![CDATA[Mini Dress with Bow-Tie Neckline]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -47983,7 +47983,7 @@
       <color id="21551-02" code="02" name="Black">
         <unit_price>23.00</unit_price>
         <pack_price>138.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893032_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893032_2.jpg</image>
@@ -47992,10 +47992,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893032_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21551-02-XS" barcode="8682502893032" size="XS" pack_qty="1" stock="2" price="23.00"/>
-          <variant sku="21551-02-S" barcode="8682502893025" size="S" pack_qty="2" stock="4" price="23.00"/>
-          <variant sku="21551-02-M" barcode="8682502893018" size="M" pack_qty="2" stock="4" price="23.00"/>
-          <variant sku="21551-02-L" barcode="8682502893001" size="L" pack_qty="1" stock="2" price="23.00"/>
+          <variant sku="21551-02-XS" barcode="8682502893032" size="XS" pack_qty="1" stock="0" price="23.00"/>
+          <variant sku="21551-02-S" barcode="8682502893025" size="S" pack_qty="2" stock="0" price="23.00"/>
+          <variant sku="21551-02-M" barcode="8682502893018" size="M" pack_qty="2" stock="0" price="23.00"/>
+          <variant sku="21551-02-L" barcode="8682502893001" size="L" pack_qty="1" stock="0" price="23.00"/>
         </variants>
       </color>
     </colors>
@@ -48078,7 +48078,7 @@
   </product>
   <product id="21554">
     <shopify_id>10222350237766</shopify_id>
-    <updated_at>2026-10-24T02:09:46Z</updated_at>
+    <updated_at>2026-10-24T10:43:16Z</updated_at>
     <title><![CDATA[Button-Top Poplin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -48097,7 +48097,7 @@
       <color id="21554-01" code="01" name="White">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893278_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893278_2.jpg</image>
@@ -48106,10 +48106,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893278_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21554-01-XS" barcode="8682502893278" size="XS" pack_qty="1" stock="3" price="15.00"/>
-          <variant sku="21554-01-S" barcode="8682502893261" size="S" pack_qty="2" stock="6" price="15.00"/>
-          <variant sku="21554-01-M" barcode="8682502893254" size="M" pack_qty="2" stock="6" price="15.00"/>
-          <variant sku="21554-01-L" barcode="8682502893247" size="L" pack_qty="1" stock="3" price="15.00"/>
+          <variant sku="21554-01-XS" barcode="8682502893278" size="XS" pack_qty="1" stock="2" price="15.00"/>
+          <variant sku="21554-01-S" barcode="8682502893261" size="S" pack_qty="2" stock="4" price="15.00"/>
+          <variant sku="21554-01-M" barcode="8682502893254" size="M" pack_qty="2" stock="4" price="15.00"/>
+          <variant sku="21554-01-L" barcode="8682502893247" size="L" pack_qty="1" stock="2" price="15.00"/>
         </variants>
       </color>
     </colors>
@@ -49328,7 +49328,7 @@
   </product>
   <product id="21637">
     <shopify_id>10251588370502</shopify_id>
-    <updated_at>2026-10-24T01:00:16Z</updated_at>
+    <updated_at>2026-10-24T10:43:16Z</updated_at>
     <title><![CDATA[Sheer Lace Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -49347,7 +49347,7 @@
       <color id="21637-02" code="02" name="Black">
         <unit_price>8.00</unit_price>
         <pack_price>48.00</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>5</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502898129_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502898129_2.jpg</image>
@@ -49356,10 +49356,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502898129_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21637-02-XS" barcode="8682502898129" size="XS" pack_qty="1" stock="7" price="8.00"/>
-          <variant sku="21637-02-S" barcode="8682502898112" size="S" pack_qty="2" stock="14" price="8.00"/>
-          <variant sku="21637-02-M" barcode="8682502898105" size="M" pack_qty="2" stock="14" price="8.00"/>
-          <variant sku="21637-02-L" barcode="8682502898099" size="L" pack_qty="1" stock="7" price="8.00"/>
+          <variant sku="21637-02-XS" barcode="8682502898129" size="XS" pack_qty="1" stock="6" price="8.00"/>
+          <variant sku="21637-02-S" barcode="8682502898112" size="S" pack_qty="2" stock="12" price="8.00"/>
+          <variant sku="21637-02-M" barcode="8682502898105" size="M" pack_qty="2" stock="12" price="8.00"/>
+          <variant sku="21637-02-L" barcode="8682502898099" size="L" pack_qty="1" stock="6" price="8.00"/>
         </variants>
       </color>
     </colors>
