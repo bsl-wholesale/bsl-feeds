@@ -32586,7 +32586,7 @@
   </product>
   <product id="21082">
     <shopify_id>8486273351750</shopify_id>
-    <updated_at>2026-10-24T00:33:01Z</updated_at>
+    <updated_at>2026-10-24T06:13:11Z</updated_at>
     <title><![CDATA[Hooded Velvet Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -32605,7 +32605,7 @@
       <color id="21082-05" code="05" name="Navy">
         <unit_price>20.00</unit_price>
         <pack_price>120.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-kadife-sweatshirt_21082_lacivert-lacivert_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-kadife-sweatshirt_21082_lacivert-lacivert_2_buyuk.jpg</image>
@@ -32613,17 +32613,17 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapusonlu-kadife-sweatshirt_21082_lacivert-lacivert_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21082-05-XS" barcode="8682502832659" size="XS" pack_qty="1" stock="3" price="20.00"/>
-          <variant sku="21082-05-S" barcode="8682502832642" size="S" pack_qty="2" stock="6" price="20.00"/>
-          <variant sku="21082-05-M" barcode="8682502832635" size="M" pack_qty="2" stock="6" price="20.00"/>
-          <variant sku="21082-05-L" barcode="8682502832628" size="L" pack_qty="1" stock="3" price="20.00"/>
+          <variant sku="21082-05-XS" barcode="8682502832659" size="XS" pack_qty="1" stock="2" price="20.00"/>
+          <variant sku="21082-05-S" barcode="8682502832642" size="S" pack_qty="2" stock="4" price="20.00"/>
+          <variant sku="21082-05-M" barcode="8682502832635" size="M" pack_qty="2" stock="4" price="20.00"/>
+          <variant sku="21082-05-L" barcode="8682502832628" size="L" pack_qty="1" stock="2" price="20.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21083">
     <shopify_id>8486273744966</shopify_id>
-    <updated_at>2026-10-24T03:02:05Z</updated_at>
+    <updated_at>2026-10-24T06:13:16Z</updated_at>
     <title><![CDATA[Wide-leg velvet trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -32642,7 +32642,7 @@
       <color id="21083-05" code="05" name="Navy">
         <unit_price>16.00</unit_price>
         <pack_price>96.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kadife-bol-pantolon_21083_lacivert-lacivert_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kadife-bol-pantolon_21083_lacivert-lacivert_2_buyuk.jpg</image>
@@ -32650,10 +32650,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kadife-bol-pantolon_21083_lacivert-lacivert_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21083-05-XS" barcode="8682502832611" size="XS" pack_qty="1" stock="4" price="16.00"/>
-          <variant sku="21083-05-S" barcode="8682502832604" size="S" pack_qty="2" stock="8" price="16.00"/>
-          <variant sku="21083-05-M" barcode="8682502832598" size="M" pack_qty="2" stock="8" price="16.00"/>
-          <variant sku="21083-05-L" barcode="8682502832581" size="L" pack_qty="1" stock="4" price="16.00"/>
+          <variant sku="21083-05-XS" barcode="8682502832611" size="XS" pack_qty="1" stock="3" price="16.00"/>
+          <variant sku="21083-05-S" barcode="8682502832604" size="S" pack_qty="2" stock="6" price="16.00"/>
+          <variant sku="21083-05-M" barcode="8682502832598" size="M" pack_qty="2" stock="6" price="16.00"/>
+          <variant sku="21083-05-L" barcode="8682502832581" size="L" pack_qty="1" stock="3" price="16.00"/>
         </variants>
       </color>
     </colors>
@@ -34481,7 +34481,7 @@
   </product>
   <product id="21143">
     <shopify_id>8486276333638</shopify_id>
-    <updated_at>2026-10-24T00:17:28Z</updated_at>
+    <updated_at>2026-10-24T06:13:16Z</updated_at>
     <title><![CDATA[Ribbed Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -34500,24 +34500,24 @@
       <color id="21143-26" code="26" name="Beige">
         <unit_price>9.00</unit_price>
         <pack_price>54.00</pack_price>
-        <packs_in_stock>29</packs_in_stock>
+        <packs_in_stock>27</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-duz-kesim-pantolon_21143_bej-bej_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-duz-kesim-pantolon_21143_bej-bej_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-duz-kesim-pantolon_21143_bej-bej_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21143-26-XS" barcode="8682502844898" size="XS" pack_qty="1" stock="30" price="9.00"/>
-          <variant sku="21143-26-S" barcode="8682502844881" size="S" pack_qty="2" stock="60" price="9.00"/>
-          <variant sku="21143-26-M" barcode="8682502844874" size="M" pack_qty="2" stock="60" price="9.00"/>
-          <variant sku="21143-26-L" barcode="8682502844867" size="L" pack_qty="1" stock="30" price="9.00"/>
+          <variant sku="21143-26-XS" barcode="8682502844898" size="XS" pack_qty="1" stock="28" price="9.00"/>
+          <variant sku="21143-26-S" barcode="8682502844881" size="S" pack_qty="2" stock="56" price="9.00"/>
+          <variant sku="21143-26-M" barcode="8682502844874" size="M" pack_qty="2" stock="56" price="9.00"/>
+          <variant sku="21143-26-L" barcode="8682502844867" size="L" pack_qty="1" stock="28" price="9.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21144">
     <shopify_id>8486276366406</shopify_id>
-    <updated_at>2026-10-24T04:14:01Z</updated_at>
+    <updated_at>2026-10-24T06:13:16Z</updated_at>
     <title><![CDATA[Ribbed High-Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -34536,17 +34536,17 @@
       <color id="21144-26" code="26" name="Beige">
         <unit_price>7.50</unit_price>
         <pack_price>45.00</pack_price>
-        <packs_in_stock>24</packs_in_stock>
+        <packs_in_stock>22</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-dik-yakali-top_21144_bej-bej_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-dik-yakali-top_21144_bej-bej_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-dik-yakali-top_21144_bej-bej_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21144-26-XS" barcode="8682502844935" size="XS" pack_qty="1" stock="25" price="7.50"/>
-          <variant sku="21144-26-S" barcode="8682502844928" size="S" pack_qty="2" stock="50" price="7.50"/>
-          <variant sku="21144-26-M" barcode="8682502844911" size="M" pack_qty="2" stock="50" price="7.50"/>
-          <variant sku="21144-26-L" barcode="8682502844904" size="L" pack_qty="1" stock="25" price="7.50"/>
+          <variant sku="21144-26-XS" barcode="8682502844935" size="XS" pack_qty="1" stock="23" price="7.50"/>
+          <variant sku="21144-26-S" barcode="8682502844928" size="S" pack_qty="2" stock="46" price="7.50"/>
+          <variant sku="21144-26-M" barcode="8682502844911" size="M" pack_qty="2" stock="46" price="7.50"/>
+          <variant sku="21144-26-L" barcode="8682502844904" size="L" pack_qty="1" stock="23" price="7.50"/>
         </variants>
       </color>
     </colors>
@@ -48395,7 +48395,7 @@
   </product>
   <product id="21563">
     <shopify_id>10232328552518</shopify_id>
-    <updated_at>2026-10-24T01:31:15Z</updated_at>
+    <updated_at>2026-10-24T06:13:25Z</updated_at>
     <title><![CDATA[Patterned Baggy Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -48431,24 +48431,24 @@
       <color id="21563-22" code="22" name="Oil">
         <unit_price>5.00</unit_price>
         <pack_price>30.00</pack_price>
-        <packs_in_stock>30</packs_in_stock>
+        <packs_in_stock>29</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_2.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_3.jpg</image>
         </images>
         <variants>
-          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="31" price="5.00"/>
-          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="62" price="5.00"/>
-          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="62" price="5.00"/>
-          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="31" price="5.00"/>
+          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="30" price="5.00"/>
+          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="60" price="5.00"/>
+          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="60" price="5.00"/>
+          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="30" price="5.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21564">
     <shopify_id>10232328847430</shopify_id>
-    <updated_at>2026-10-24T02:37:02Z</updated_at>
+    <updated_at>2026-10-24T06:13:25Z</updated_at>
     <title><![CDATA[Patterned Vest with Darts]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -48485,7 +48485,7 @@
       <color id="21564-22" code="22" name="Oil">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>31</packs_in_stock>
+        <packs_in_stock>30</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894398_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894398_2.jpg</image>
@@ -48494,10 +48494,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894398_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21564-22-XS" barcode="8682502894398" size="XS" pack_qty="1" stock="32" price="12.00"/>
-          <variant sku="21564-22-S" barcode="8682502894381" size="S" pack_qty="2" stock="64" price="12.00"/>
-          <variant sku="21564-22-M" barcode="8682502894374" size="M" pack_qty="2" stock="64" price="12.00"/>
-          <variant sku="21564-22-L" barcode="8682502894367" size="L" pack_qty="1" stock="32" price="12.00"/>
+          <variant sku="21564-22-XS" barcode="8682502894398" size="XS" pack_qty="1" stock="31" price="12.00"/>
+          <variant sku="21564-22-S" barcode="8682502894381" size="S" pack_qty="2" stock="62" price="12.00"/>
+          <variant sku="21564-22-M" barcode="8682502894374" size="M" pack_qty="2" stock="62" price="12.00"/>
+          <variant sku="21564-22-L" barcode="8682502894367" size="L" pack_qty="1" stock="31" price="12.00"/>
         </variants>
       </color>
     </colors>
