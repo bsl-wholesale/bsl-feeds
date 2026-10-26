@@ -33544,7 +33544,7 @@
   </product>
   <product id="21119">
     <shopify_id>8486275579974</shopify_id>
-    <updated_at>2026-10-26T01:19:55Z</updated_at>
+    <updated_at>2026-10-26T07:43:16Z</updated_at>
     <title><![CDATA[Braided Knit Midi Narrow Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -33578,16 +33578,16 @@
       <color id="21119-26" code="26" name="Beige">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sacorgu-triko-midi-dar-etek_21119_bej-bej_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sacorgu-triko-midi-dar-etek_21119_bej-bej_2_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21119-26-XS" barcode="8682502837982" size="XS" pack_qty="1" stock="6" price="12.00"/>
-          <variant sku="21119-26-S" barcode="8682502837975" size="S" pack_qty="2" stock="12" price="12.00"/>
-          <variant sku="21119-26-M" barcode="8682502837968" size="M" pack_qty="2" stock="12" price="12.00"/>
-          <variant sku="21119-26-L" barcode="8682502837951" size="L" pack_qty="1" stock="6" price="12.00"/>
+          <variant sku="21119-26-XS" barcode="8682502837982" size="XS" pack_qty="1" stock="5" price="12.00"/>
+          <variant sku="21119-26-S" barcode="8682502837975" size="S" pack_qty="2" stock="10" price="12.00"/>
+          <variant sku="21119-26-M" barcode="8682502837968" size="M" pack_qty="2" stock="10" price="12.00"/>
+          <variant sku="21119-26-L" barcode="8682502837951" size="L" pack_qty="1" stock="5" price="12.00"/>
         </variants>
       </color>
       <color id="21119-398" code="398" name="Cinnamon">
@@ -33641,7 +33641,7 @@
   </product>
   <product id="21120">
     <shopify_id>8486275645510</shopify_id>
-    <updated_at>2026-10-26T04:09:31Z</updated_at>
+    <updated_at>2026-10-26T07:43:11Z</updated_at>
     <title><![CDATA[Braided Oversize Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -33698,10 +33698,10 @@
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sacorgu-triko-oversize-kazak_21120_bej-bej_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21120-26-XS" barcode="8682502838224" size="XS" pack_qty="1" stock="1" price="12.00"/>
-          <variant sku="21120-26-S" barcode="8682502838217" size="S" pack_qty="2" stock="2" price="12.00"/>
-          <variant sku="21120-26-M" barcode="8682502838200" size="M" pack_qty="2" stock="2" price="12.00"/>
-          <variant sku="21120-26-L" barcode="8682502838194" size="L" pack_qty="1" stock="1" price="12.00"/>
+          <variant sku="21120-26-XS" barcode="8682502838224" size="XS" pack_qty="1" stock="0" price="12.00"/>
+          <variant sku="21120-26-S" barcode="8682502838217" size="S" pack_qty="2" stock="0" price="12.00"/>
+          <variant sku="21120-26-M" barcode="8682502838200" size="M" pack_qty="2" stock="0" price="12.00"/>
+          <variant sku="21120-26-L" barcode="8682502838194" size="L" pack_qty="1" stock="0" price="12.00"/>
         </variants>
       </color>
       <color id="21120-398" code="398" name="Cinnamon">
