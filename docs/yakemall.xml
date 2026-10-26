@@ -6712,7 +6712,7 @@
   </product>
   <product id="18501">
     <shopify_id>8530176213062</shopify_id>
-    <updated_at>2026-10-26T00:17:10Z</updated_at>
+    <updated_at>2026-10-26T09:28:06Z</updated_at>
     <title><![CDATA[Jacket collar patterned coat]]></title>
     <product_type><![CDATA[Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Overcoats]]></category>
@@ -6729,8 +6729,8 @@
     </pack>
     <colors>
       <color id="18501-48" code="48" name="Ecru">
-        <unit_price>22.00</unit_price>
-        <pack_price>132.00</pack_price>
+        <unit_price>15.00</unit_price>
+        <pack_price>90.00</pack_price>
         <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ceket-yakali-desenli-kaban_18501_ekru-ekru_1_buyuk.jpg</image>
@@ -6742,10 +6742,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ceket-yakali-desenli-kaban_18501_ekru-ekru_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18501-48-XS" barcode="8682502549991" size="XS" pack_qty="1" stock="4" price="22.00"/>
-          <variant sku="18501-48-S" barcode="8682502549984" size="S" pack_qty="2" stock="8" price="22.00"/>
-          <variant sku="18501-48-M" barcode="8682502549977" size="M" pack_qty="2" stock="8" price="22.00"/>
-          <variant sku="18501-48-L" barcode="8682502549960" size="L" pack_qty="1" stock="4" price="22.00"/>
+          <variant sku="18501-48-XS" barcode="8682502549991" size="XS" pack_qty="1" stock="4" price="15.00"/>
+          <variant sku="18501-48-S" barcode="8682502549984" size="S" pack_qty="2" stock="8" price="15.00"/>
+          <variant sku="18501-48-M" barcode="8682502549977" size="M" pack_qty="2" stock="8" price="15.00"/>
+          <variant sku="18501-48-L" barcode="8682502549960" size="L" pack_qty="1" stock="4" price="15.00"/>
         </variants>
       </color>
     </colors>
@@ -21422,7 +21422,7 @@
   </product>
   <product id="20362">
     <shopify_id>8486470942790</shopify_id>
-    <updated_at>2026-10-26T04:05:40Z</updated_at>
+    <updated_at>2026-10-26T09:13:21Z</updated_at>
     <title><![CDATA[Transparent Lace Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -21441,7 +21441,7 @@
       <color id="20362-108" code="108" name="Coral">
         <unit_price>8.00</unit_price>
         <pack_price>48.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-dantel-top_20362_mercan-mercan_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-dantel-top_20362_mercan-mercan_2_buyuk.jpg</image>
@@ -21452,10 +21452,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-dantel-top_20362_mercan-mercan_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20362-108-XS" barcode="8682502757983" size="XS" pack_qty="1" stock="4" price="8.00"/>
-          <variant sku="20362-108-S" barcode="8682502757976" size="S" pack_qty="2" stock="8" price="8.00"/>
-          <variant sku="20362-108-M" barcode="8682502757969" size="M" pack_qty="2" stock="8" price="8.00"/>
-          <variant sku="20362-108-L" barcode="8682502757952" size="L" pack_qty="1" stock="4" price="8.00"/>
+          <variant sku="20362-108-XS" barcode="8682502757983" size="XS" pack_qty="1" stock="3" price="8.00"/>
+          <variant sku="20362-108-S" barcode="8682502757976" size="S" pack_qty="2" stock="6" price="8.00"/>
+          <variant sku="20362-108-M" barcode="8682502757969" size="M" pack_qty="2" stock="6" price="8.00"/>
+          <variant sku="20362-108-L" barcode="8682502757952" size="L" pack_qty="1" stock="3" price="8.00"/>
         </variants>
       </color>
     </colors>
@@ -30068,7 +30068,7 @@
   </product>
   <product id="20989">
     <shopify_id>8486269812806</shopify_id>
-    <updated_at>2026-10-26T04:44:45Z</updated_at>
+    <updated_at>2026-10-26T09:13:20Z</updated_at>
     <title><![CDATA[Square Neck Buttoned Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -30103,17 +30103,17 @@
       <color id="20989-05" code="05" name="Navy">
         <unit_price>33.00</unit_price>
         <pack_price>198.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kare-yakali-dugmeli-mini-elbise_20989_lacivert-lacivert_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kare-yakali-dugmeli-mini-elbise_20989_lacivert-lacivert_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kare-yakali-dugmeli-mini-elbise_20989_lacivert-lacivert_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20989-05-XS" barcode="8682502818097" size="XS" pack_qty="1" stock="2" price="33.00"/>
-          <variant sku="20989-05-S" barcode="8682502818080" size="S" pack_qty="2" stock="4" price="33.00"/>
-          <variant sku="20989-05-M" barcode="8682502818073" size="M" pack_qty="2" stock="4" price="33.00"/>
-          <variant sku="20989-05-L" barcode="8682502818066" size="L" pack_qty="1" stock="2" price="33.00"/>
+          <variant sku="20989-05-XS" barcode="8682502818097" size="XS" pack_qty="1" stock="1" price="33.00"/>
+          <variant sku="20989-05-S" barcode="8682502818080" size="S" pack_qty="2" stock="2" price="33.00"/>
+          <variant sku="20989-05-M" barcode="8682502818073" size="M" pack_qty="2" stock="2" price="33.00"/>
+          <variant sku="20989-05-L" barcode="8682502818066" size="L" pack_qty="1" stock="1" price="33.00"/>
         </variants>
       </color>
       <color id="20989-26" code="26" name="Beige">
@@ -33209,7 +33209,7 @@
   </product>
   <product id="21110">
     <shopify_id>8486275153990</shopify_id>
-    <updated_at>2026-10-26T03:45:00Z</updated_at>
+    <updated_at>2026-10-26T09:13:30Z</updated_at>
     <title><![CDATA[Plaid Midi Flared Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -33245,7 +33245,7 @@
       <color id="21110-48" code="48" name="Ecru">
         <unit_price>24.00</unit_price>
         <pack_price>144.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-midi-klos-etek_21110_ekru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-midi-klos-etek_21110_ekru-ekru_2_buyuk.jpg</image>
@@ -33254,10 +33254,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-midi-klos-etek_21110_ekru-ekru_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21110-48-XS" barcode="8682502837012" size="XS" pack_qty="1" stock="4" price="24.00"/>
-          <variant sku="21110-48-S" barcode="8682502837005" size="S" pack_qty="2" stock="8" price="24.00"/>
-          <variant sku="21110-48-M" barcode="8682502836992" size="M" pack_qty="2" stock="8" price="24.00"/>
-          <variant sku="21110-48-L" barcode="8682502836985" size="L" pack_qty="1" stock="4" price="24.00"/>
+          <variant sku="21110-48-XS" barcode="8682502837012" size="XS" pack_qty="1" stock="3" price="24.00"/>
+          <variant sku="21110-48-S" barcode="8682502837005" size="S" pack_qty="2" stock="6" price="24.00"/>
+          <variant sku="21110-48-M" barcode="8682502836992" size="M" pack_qty="2" stock="6" price="24.00"/>
+          <variant sku="21110-48-L" barcode="8682502836985" size="L" pack_qty="1" stock="3" price="24.00"/>
         </variants>
       </color>
     </colors>
@@ -48689,7 +48689,7 @@
   </product>
   <product id="21580">
     <shopify_id>10238690394182</shopify_id>
-    <updated_at>2026-10-26T02:20:00Z</updated_at>
+    <updated_at>2026-10-26T09:13:25Z</updated_at>
     <title><![CDATA[Stand-Collar Jacket with Button Detail]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -48708,7 +48708,7 @@
       <color id="21580-02" code="02" name="Black">
         <unit_price>32.00</unit_price>
         <pack_price>192.00</pack_price>
-        <packs_in_stock>14</packs_in_stock>
+        <packs_in_stock>15</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_2.jpg</image>
@@ -48717,10 +48717,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21580-02-XS" barcode="8682502897986" size="XS" pack_qty="1" stock="15" price="32.00"/>
-          <variant sku="21580-02-S" barcode="8682502897979" size="S" pack_qty="2" stock="30" price="32.00"/>
-          <variant sku="21580-02-M" barcode="8682502897962" size="M" pack_qty="2" stock="30" price="32.00"/>
-          <variant sku="21580-02-L" barcode="8682502897955" size="L" pack_qty="1" stock="15" price="32.00"/>
+          <variant sku="21580-02-XS" barcode="8682502897986" size="XS" pack_qty="1" stock="16" price="32.00"/>
+          <variant sku="21580-02-S" barcode="8682502897979" size="S" pack_qty="2" stock="32" price="32.00"/>
+          <variant sku="21580-02-M" barcode="8682502897962" size="M" pack_qty="2" stock="32" price="32.00"/>
+          <variant sku="21580-02-L" barcode="8682502897955" size="L" pack_qty="1" stock="16" price="32.00"/>
         </variants>
       </color>
     </colors>
