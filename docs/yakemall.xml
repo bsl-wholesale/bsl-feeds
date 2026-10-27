@@ -41103,7 +41103,7 @@
   </product>
   <product id="21382">
     <shopify_id>8486151127110</shopify_id>
-    <updated_at>2026-10-27T00:50:01Z</updated_at>
+    <updated_at>2026-10-27T09:13:11Z</updated_at>
     <title><![CDATA[100% Cotton Open Collar Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -41130,10 +41130,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-cotton-acik-yakali-gomlek_21382_beyaz-beyaz_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21382-01-XS" barcode="8682502871436" size="XS" pack_qty="1" stock="1" price="13.00"/>
-          <variant sku="21382-01-S" barcode="8682502871429" size="S" pack_qty="2" stock="2" price="13.00"/>
-          <variant sku="21382-01-M" barcode="8682502871412" size="M" pack_qty="2" stock="2" price="13.00"/>
-          <variant sku="21382-01-L" barcode="8682502871405" size="L" pack_qty="1" stock="1" price="13.00"/>
+          <variant sku="21382-01-XS" barcode="8682502871436" size="XS" pack_qty="1" stock="0" price="13.00"/>
+          <variant sku="21382-01-S" barcode="8682502871429" size="S" pack_qty="2" stock="0" price="13.00"/>
+          <variant sku="21382-01-M" barcode="8682502871412" size="M" pack_qty="2" stock="0" price="13.00"/>
+          <variant sku="21382-01-L" barcode="8682502871405" size="L" pack_qty="1" stock="0" price="13.00"/>
         </variants>
       </color>
     </colors>
