@@ -31153,7 +31153,7 @@
   </product>
   <product id="21026">
     <shopify_id>8486271549510</shopify_id>
-    <updated_at>2026-10-28T02:03:58Z</updated_at>
+    <updated_at>2026-10-28T06:13:14Z</updated_at>
     <title><![CDATA[Satin Wrap Closure Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -31188,17 +31188,17 @@
       <color id="21026-14" code="14" name="Green">
         <unit_price>20.00</unit_price>
         <pack_price>120.00</pack_price>
-        <packs_in_stock>15</packs_in_stock>
+        <packs_in_stock>12</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-anvelop-kapama-midi-etek_21026_yesil-yesil_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-anvelop-kapama-midi-etek_21026_yesil-yesil_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-anvelop-kapama-midi-etek_21026_yesil-yesil_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21026-14-XS" barcode="8682502821745" size="XS" pack_qty="1" stock="16" price="20.00"/>
-          <variant sku="21026-14-S" barcode="8682502821738" size="S" pack_qty="2" stock="32" price="20.00"/>
-          <variant sku="21026-14-M" barcode="8682502821721" size="M" pack_qty="2" stock="32" price="20.00"/>
-          <variant sku="21026-14-L" barcode="8682502821714" size="L" pack_qty="1" stock="16" price="20.00"/>
+          <variant sku="21026-14-XS" barcode="8682502821745" size="XS" pack_qty="1" stock="13" price="20.00"/>
+          <variant sku="21026-14-S" barcode="8682502821738" size="S" pack_qty="2" stock="26" price="20.00"/>
+          <variant sku="21026-14-M" barcode="8682502821721" size="M" pack_qty="2" stock="26" price="20.00"/>
+          <variant sku="21026-14-L" barcode="8682502821714" size="L" pack_qty="1" stock="13" price="20.00"/>
         </variants>
       </color>
     </colors>
