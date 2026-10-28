@@ -35992,7 +35992,7 @@
   </product>
   <product id="21208">
     <shopify_id>8486278037574</shopify_id>
-    <updated_at>2026-10-28T01:17:50Z</updated_at>
+    <updated_at>2026-10-28T07:43:16Z</updated_at>
     <title><![CDATA[Plaid Flared Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -36011,17 +36011,17 @@
       <color id="21208-45" code="45" name="Mink">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>24</packs_in_stock>
+        <packs_in_stock>23</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21208_vizon-vizon_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21208_vizon-vizon_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21208_vizon-vizon_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21208-45-XS" barcode="8682502853449" size="XS" pack_qty="1" stock="25" price="15.00"/>
-          <variant sku="21208-45-S" barcode="8682502853432" size="S" pack_qty="2" stock="50" price="15.00"/>
-          <variant sku="21208-45-M" barcode="8682502853425" size="M" pack_qty="2" stock="50" price="15.00"/>
-          <variant sku="21208-45-L" barcode="8682502853418" size="L" pack_qty="1" stock="25" price="15.00"/>
+          <variant sku="21208-45-XS" barcode="8682502853449" size="XS" pack_qty="1" stock="24" price="15.00"/>
+          <variant sku="21208-45-S" barcode="8682502853432" size="S" pack_qty="2" stock="48" price="15.00"/>
+          <variant sku="21208-45-M" barcode="8682502853425" size="M" pack_qty="2" stock="48" price="15.00"/>
+          <variant sku="21208-45-L" barcode="8682502853418" size="L" pack_qty="1" stock="24" price="15.00"/>
         </variants>
       </color>
     </colors>
