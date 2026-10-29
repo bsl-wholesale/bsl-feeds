@@ -48002,7 +48002,7 @@
   </product>
   <product id="21552">
     <shopify_id>10224569483334</shopify_id>
-    <updated_at>2026-10-29T00:46:51Z</updated_at>
+    <updated_at>2026-10-29T15:13:32Z</updated_at>
     <title><![CDATA[Button-Detail Maxi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -48021,7 +48021,7 @@
       <color id="21552-02" code="02" name="Black">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>16</packs_in_stock>
+        <packs_in_stock>15</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_2.jpg</image>
@@ -48030,10 +48030,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21552-02-XS" barcode="8682502893070" size="XS" pack_qty="2" stock="34" price="15.00"/>
-          <variant sku="21552-02-S" barcode="8682502893063" size="S" pack_qty="2" stock="34" price="15.00"/>
-          <variant sku="21552-02-M" barcode="8682502893056" size="M" pack_qty="1" stock="17" price="15.00"/>
-          <variant sku="21552-02-XXS" barcode="8682502896859" size="XXS" pack_qty="1" stock="17" price="15.00"/>
+          <variant sku="21552-02-XS" barcode="8682502893070" size="XS" pack_qty="2" stock="32" price="15.00"/>
+          <variant sku="21552-02-S" barcode="8682502893063" size="S" pack_qty="2" stock="32" price="15.00"/>
+          <variant sku="21552-02-M" barcode="8682502893056" size="M" pack_qty="1" stock="16" price="15.00"/>
+          <variant sku="21552-02-XXS" barcode="8682502896859" size="XXS" pack_qty="1" stock="16" price="15.00"/>
         </variants>
       </color>
     </colors>
