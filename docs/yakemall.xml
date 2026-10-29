@@ -15971,7 +15971,7 @@
   </product>
   <product id="19888">
     <shopify_id>8530235719750</shopify_id>
-    <updated_at>2026-10-29T07:43:07Z</updated_at>
+    <updated_at>2026-10-29T07:43:56Z</updated_at>
     <title><![CDATA[Frayed Denim Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Denim Shorts]]></category>
@@ -16003,7 +16003,7 @@
         <variants>
           <variant sku="19888-04-26" barcode="8682502704079" size="26" pack_qty="1" stock="14" price="16.00"/>
           <variant sku="19888-04-27" barcode="8682502704086" size="27" pack_qty="2" stock="28" price="16.00"/>
-          <variant sku="19888-04-28" barcode="8682502704093" size="28" pack_qty="2" stock="32" price="16.00"/>
+          <variant sku="19888-04-28" barcode="8682502704093" size="28" pack_qty="2" stock="28" price="16.00"/>
           <variant sku="19888-04-29" barcode="8682502704109" size="29" pack_qty="1" stock="14" price="16.00"/>
         </variants>
       </color>
@@ -22358,7 +22358,7 @@
   </product>
   <product id="20462">
     <shopify_id>8486249136198</shopify_id>
-    <updated_at>2026-10-29T07:43:21Z</updated_at>
+    <updated_at>2026-10-29T07:43:43Z</updated_at>
     <title><![CDATA[Lined Lace Loose Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[]]></category>
@@ -24488,7 +24488,7 @@
   </product>
   <product id="20655">
     <shopify_id>8486254608454</shopify_id>
-    <updated_at>2026-10-29T07:43:28Z</updated_at>
+    <updated_at>2026-10-29T07:43:46Z</updated_at>
     <title><![CDATA[Square Neck Tank Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[]]></category>
@@ -26211,7 +26211,7 @@
   </product>
   <product id="20759">
     <shopify_id>8486261063750</shopify_id>
-    <updated_at>2026-10-29T07:43:15Z</updated_at>
+    <updated_at>2026-10-29T07:44:01Z</updated_at>
     <title><![CDATA[Cowl Neck Asymmetrical Skirt Detailed Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -26244,7 +26244,7 @@
         <variants>
           <variant sku="20759-02-XS" barcode="8682502797453" size="XS" pack_qty="1" stock="3" price="16.00"/>
           <variant sku="20759-02-S" barcode="8682502797446" size="S" pack_qty="2" stock="6" price="16.00"/>
-          <variant sku="20759-02-M" barcode="8682502797439" size="M" pack_qty="2" stock="8" price="16.00"/>
+          <variant sku="20759-02-M" barcode="8682502797439" size="M" pack_qty="2" stock="6" price="16.00"/>
           <variant sku="20759-02-L" barcode="8682502797422" size="L" pack_qty="1" stock="3" price="16.00"/>
         </variants>
       </color>
@@ -27663,7 +27663,7 @@
   </product>
   <product id="20830">
     <shopify_id>8486264995910</shopify_id>
-    <updated_at>2026-10-29T07:43:15Z</updated_at>
+    <updated_at>2026-10-29T07:43:43Z</updated_at>
     <title><![CDATA[100% Linen Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -36461,7 +36461,7 @@
   </product>
   <product id="21222">
     <shopify_id>8486145458246</shopify_id>
-    <updated_at>2026-10-29T07:43:27Z</updated_at>
+    <updated_at>2026-10-29T07:44:01Z</updated_at>
     <title><![CDATA[Cupra Oversize Basic T-shirt]]></title>
     <product_type><![CDATA[T-Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > T-Shirts]]></category>
@@ -36546,7 +36546,7 @@
           <variant sku="21222-48-S" barcode="8682502855245" size="S" pack_qty="2" stock="4" price="9.50"/>
           <variant sku="21222-48-M" barcode="8682502855238" size="M" pack_qty="2" stock="4" price="9.50"/>
           <variant sku="21222-48-L" barcode="8682502855221" size="L" pack_qty="1" stock="2" price="9.50"/>
-          <variant sku="21222-48-XL" barcode="8682502855252" size="XL" pack_qty="1" stock="4" price="9.50"/>
+          <variant sku="21222-48-XL" barcode="8682502855252" size="XL" pack_qty="1" stock="2" price="9.50"/>
         </variants>
       </color>
     </colors>
@@ -39392,7 +39392,7 @@
   </product>
   <product id="21313">
     <shopify_id>8486149226566</shopify_id>
-    <updated_at>2026-10-29T07:43:26Z</updated_at>
+    <updated_at>2026-10-29T07:43:46Z</updated_at>
     <title><![CDATA[Linen Harem Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -39421,7 +39421,7 @@
         </images>
         <variants>
           <variant sku="21313-02-XS" barcode="8682502862922" size="XS" pack_qty="1" stock="3" price="17.00"/>
-          <variant sku="21313-02-S" barcode="8682502862915" size="S" pack_qty="2" stock="8" price="17.00"/>
+          <variant sku="21313-02-S" barcode="8682502862915" size="S" pack_qty="2" stock="6" price="17.00"/>
           <variant sku="21313-02-M" barcode="8682502862908" size="M" pack_qty="2" stock="6" price="17.00"/>
           <variant sku="21313-02-L" barcode="8682502862892" size="L" pack_qty="1" stock="3" price="17.00"/>
         </variants>
@@ -40624,7 +40624,7 @@
   </product>
   <product id="21365">
     <shopify_id>8486150635590</shopify_id>
-    <updated_at>2026-10-29T07:43:26Z</updated_at>
+    <updated_at>2026-10-29T07:43:47Z</updated_at>
     <title><![CDATA[Textured Dropped Sleeve Tie-Up Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -41140,7 +41140,7 @@
   </product>
   <product id="21384">
     <shopify_id>8486151225414</shopify_id>
-    <updated_at>2026-10-29T07:43:20Z</updated_at>
+    <updated_at>2026-10-29T07:44:06Z</updated_at>
     <title><![CDATA[Textured Trousers with Slit Hem]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[]]></category>
@@ -41171,7 +41171,7 @@
         <variants>
           <variant sku="21384-106-XS" barcode="8682502871801" size="XS" pack_qty="1" stock="0" price="11.00"/>
           <variant sku="21384-106-S" barcode="8682502871795" size="S" pack_qty="2" stock="0" price="11.00"/>
-          <variant sku="21384-106-M" barcode="8682502871788" size="M" pack_qty="2" stock="2" price="11.00"/>
+          <variant sku="21384-106-M" barcode="8682502871788" size="M" pack_qty="2" stock="0" price="11.00"/>
           <variant sku="21384-106-L" barcode="8682502871771" size="L" pack_qty="1" stock="0" price="11.00"/>
         </variants>
       </color>
@@ -41188,10 +41188,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pacasi-yirtmacli-dokulu-pantolon_21384_bej-bej_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21384-26-XS" barcode="8682502871849" size="XS" pack_qty="1" stock="3" price="11.00"/>
+          <variant sku="21384-26-XS" barcode="8682502871849" size="XS" pack_qty="1" stock="2" price="11.00"/>
           <variant sku="21384-26-S" barcode="8682502871832" size="S" pack_qty="2" stock="4" price="11.00"/>
           <variant sku="21384-26-M" barcode="8682502871825" size="M" pack_qty="2" stock="4" price="11.00"/>
-          <variant sku="21384-26-L" barcode="8682502871818" size="L" pack_qty="1" stock="3" price="11.00"/>
+          <variant sku="21384-26-L" barcode="8682502871818" size="L" pack_qty="1" stock="2" price="11.00"/>
         </variants>
       </color>
     </colors>
@@ -41332,7 +41332,7 @@
   </product>
   <product id="21389">
     <shopify_id>8486151422022</shopify_id>
-    <updated_at>2026-10-29T07:43:20Z</updated_at>
+    <updated_at>2026-10-29T07:43:36Z</updated_at>
     <title><![CDATA[Textured Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[]]></category>
@@ -42244,7 +42244,7 @@
   </product>
   <product id="21416">
     <shopify_id>8486152536134</shopify_id>
-    <updated_at>2026-10-29T07:43:27Z</updated_at>
+    <updated_at>2026-10-29T07:43:56Z</updated_at>
     <title><![CDATA[Linen Shirt with Pockets]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -42272,8 +42272,8 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/cepli-keten-gomlek_21416_bej-bej_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21416-26-XS" barcode="8682502875946" size="XS" pack_qty="1" stock="3" price="24.00"/>
-          <variant sku="21416-26-S" barcode="8682502875939" size="S" pack_qty="2" stock="6" price="24.00"/>
+          <variant sku="21416-26-XS" barcode="8682502875946" size="XS" pack_qty="1" stock="2" price="24.00"/>
+          <variant sku="21416-26-S" barcode="8682502875939" size="S" pack_qty="2" stock="4" price="24.00"/>
           <variant sku="21416-26-M" barcode="8682502875922" size="M" pack_qty="2" stock="4" price="24.00"/>
           <variant sku="21416-26-L" barcode="8682502875915" size="L" pack_qty="1" stock="2" price="24.00"/>
         </variants>
@@ -44693,7 +44693,7 @@
   </product>
   <product id="21469">
     <shopify_id>8486154764358</shopify_id>
-    <updated_at>2026-10-29T07:43:16Z</updated_at>
+    <updated_at>2026-10-29T07:43:47Z</updated_at>
     <title><![CDATA[100% Linen Bermuda Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Bermudas]]></category>
@@ -44723,7 +44723,7 @@
         </images>
         <variants>
           <variant sku="21469-01-XS" barcode="8682502882395" size="XS" pack_qty="1" stock="2" price="20.00"/>
-          <variant sku="21469-01-S" barcode="8682502882388" size="S" pack_qty="2" stock="6" price="20.00"/>
+          <variant sku="21469-01-S" barcode="8682502882388" size="S" pack_qty="2" stock="4" price="20.00"/>
           <variant sku="21469-01-M" barcode="8682502882371" size="M" pack_qty="2" stock="4" price="20.00"/>
           <variant sku="21469-01-L" barcode="8682502882364" size="L" pack_qty="1" stock="2" price="20.00"/>
         </variants>
@@ -44768,7 +44768,7 @@
   </product>
   <product id="21470">
     <shopify_id>8486154829894</shopify_id>
-    <updated_at>2026-10-29T07:43:32Z</updated_at>
+    <updated_at>2026-10-29T07:43:56Z</updated_at>
     <title><![CDATA[100% Linen Double-Breasted Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -44796,7 +44796,7 @@
         </images>
         <variants>
           <variant sku="21470-01-XS" barcode="8682502882517" size="XS" pack_qty="1" stock="2" price="23.00"/>
-          <variant sku="21470-01-S" barcode="8682502882500" size="S" pack_qty="2" stock="6" price="23.00"/>
+          <variant sku="21470-01-S" barcode="8682502882500" size="S" pack_qty="2" stock="4" price="23.00"/>
           <variant sku="21470-01-M" barcode="8682502882494" size="M" pack_qty="2" stock="4" price="23.00"/>
           <variant sku="21470-01-L" barcode="8682502882487" size="L" pack_qty="1" stock="2" price="23.00"/>
         </variants>
@@ -45825,7 +45825,7 @@
   </product>
   <product id="21491">
     <shopify_id>8486156861510</shopify_id>
-    <updated_at>2026-10-29T07:43:26Z</updated_at>
+    <updated_at>2026-10-29T07:43:46Z</updated_at>
     <title><![CDATA[Modal Ruffled Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -45855,7 +45855,7 @@
         <variants>
           <variant sku="21491-26-XS" barcode="8682502884979" size="XS" pack_qty="1" stock="2" price="16.00"/>
           <variant sku="21491-26-S" barcode="8682502884962" size="S" pack_qty="2" stock="4" price="16.00"/>
-          <variant sku="21491-26-M" barcode="8682502884955" size="M" pack_qty="2" stock="6" price="16.00"/>
+          <variant sku="21491-26-M" barcode="8682502884955" size="M" pack_qty="2" stock="4" price="16.00"/>
           <variant sku="21491-26-L" barcode="8682502884948" size="L" pack_qty="1" stock="2" price="16.00"/>
         </variants>
       </color>
@@ -46889,7 +46889,7 @@
   </product>
   <product id="21513">
     <shopify_id>8491533762630</shopify_id>
-    <updated_at>2026-10-29T07:43:38Z</updated_at>
+    <updated_at>2026-10-29T07:43:55Z</updated_at>
     <title><![CDATA[100% Linen Pleated Bermuda Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Bermudas]]></category>
@@ -46958,7 +46958,7 @@
         <variants>
           <variant sku="21513-07-XS" barcode="8682502888489" size="XS" pack_qty="1" stock="3" price="16.00"/>
           <variant sku="21513-07-S" barcode="8682502888472" size="S" pack_qty="2" stock="6" price="16.00"/>
-          <variant sku="21513-07-M" barcode="8682502888465" size="M" pack_qty="2" stock="8" price="16.00"/>
+          <variant sku="21513-07-M" barcode="8682502888465" size="M" pack_qty="2" stock="6" price="16.00"/>
           <variant sku="21513-07-L" barcode="8682502888458" size="L" pack_qty="1" stock="3" price="16.00"/>
         </variants>
       </color>
@@ -48195,7 +48195,7 @@
   </product>
   <product id="21557">
     <shopify_id>10221188841542</shopify_id>
-    <updated_at>2026-10-29T07:43:27Z</updated_at>
+    <updated_at>2026-10-29T07:43:56Z</updated_at>
     <title><![CDATA[Batwing-Sleeve Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -48225,7 +48225,7 @@
         <variants>
           <variant sku="21557-01-XS" barcode="8682502893605" size="XS" pack_qty="1" stock="3" price="10.00"/>
           <variant sku="21557-01-S" barcode="8682502893599" size="S" pack_qty="2" stock="6" price="10.00"/>
-          <variant sku="21557-01-M" barcode="8682502893582" size="M" pack_qty="2" stock="8" price="10.00"/>
+          <variant sku="21557-01-M" barcode="8682502893582" size="M" pack_qty="2" stock="6" price="10.00"/>
           <variant sku="21557-01-L" barcode="8682502893575" size="L" pack_qty="1" stock="3" price="10.00"/>
         </variants>
       </color>
@@ -48243,7 +48243,7 @@
         <variants>
           <variant sku="21557-02-XS" barcode="8682502893643" size="XS" pack_qty="1" stock="5" price="10.00"/>
           <variant sku="21557-02-S" barcode="8682502893636" size="S" pack_qty="2" stock="10" price="10.00"/>
-          <variant sku="21557-02-M" barcode="8682502893629" size="M" pack_qty="2" stock="12" price="10.00"/>
+          <variant sku="21557-02-M" barcode="8682502893629" size="M" pack_qty="2" stock="10" price="10.00"/>
           <variant sku="21557-02-L" barcode="8682502893612" size="L" pack_qty="1" stock="5" price="10.00"/>
         </variants>
       </color>
@@ -48727,7 +48727,7 @@
   </product>
   <product id="21584">
     <shopify_id>10255293382726</shopify_id>
-    <updated_at>2026-10-29T07:43:37Z</updated_at>
+    <updated_at>2026-10-29T07:43:56Z</updated_at>
     <title><![CDATA[Button-Detail Cropped Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -48757,7 +48757,7 @@
         <variants>
           <variant sku="21584-02-XS" barcode="8682502897894" size="XS" pack_qty="1" stock="0" price="24.00"/>
           <variant sku="21584-02-S" barcode="8682502897887" size="S" pack_qty="2" stock="0" price="24.00"/>
-          <variant sku="21584-02-M" barcode="8682502897870" size="M" pack_qty="2" stock="8" price="24.00"/>
+          <variant sku="21584-02-M" barcode="8682502897870" size="M" pack_qty="2" stock="0" price="24.00"/>
           <variant sku="21584-02-L" barcode="8682502897863" size="L" pack_qty="1" stock="0" price="24.00"/>
         </variants>
       </color>
