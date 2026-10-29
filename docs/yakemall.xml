@@ -30209,7 +30209,7 @@
   </product>
   <product id="20995">
     <shopify_id>8486269911110</shopify_id>
-    <updated_at>2026-10-29T00:29:26Z</updated_at>
+    <updated_at>2026-10-29T13:43:16Z</updated_at>
     <title><![CDATA[Ribbed Slim Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -30228,7 +30228,7 @@
       <color id="20995-06" code="06" name="Grey">
         <unit_price>8.50</unit_price>
         <pack_price>51.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-slim-top_20995_gri-gri_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-slim-top_20995_gri-gri_2_buyuk.jpg</image>
@@ -30237,10 +30237,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-slim-top_20995_gri-gri_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20995-06-XS" barcode="8682502818929" size="XS" pack_qty="2" stock="6" price="8.50"/>
-          <variant sku="20995-06-S" barcode="8682502818912" size="S" pack_qty="2" stock="6" price="8.50"/>
-          <variant sku="20995-06-M" barcode="8682502818905" size="M" pack_qty="1" stock="3" price="8.50"/>
-          <variant sku="20995-06-XXS" barcode="8682502821509" size="XXS" pack_qty="1" stock="3" price="8.50"/>
+          <variant sku="20995-06-XS" barcode="8682502818929" size="XS" pack_qty="2" stock="2" price="8.50"/>
+          <variant sku="20995-06-S" barcode="8682502818912" size="S" pack_qty="2" stock="2" price="8.50"/>
+          <variant sku="20995-06-M" barcode="8682502818905" size="M" pack_qty="1" stock="1" price="8.50"/>
+          <variant sku="20995-06-XXS" barcode="8682502821509" size="XXS" pack_qty="1" stock="1" price="8.50"/>
         </variants>
       </color>
     </colors>
@@ -35738,7 +35738,7 @@
   </product>
   <product id="21190">
     <shopify_id>8486277808198</shopify_id>
-    <updated_at>2026-10-29T01:55:50Z</updated_at>
+    <updated_at>2026-10-29T13:43:16Z</updated_at>
     <title><![CDATA[Striped Zip-Up Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -35757,7 +35757,7 @@
       <color id="21190-40" code="40" name="Anthracite">
         <unit_price>21.00</unit_price>
         <pack_price>126.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>9</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-fermuarli-sweatshirt_21190_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-fermuarli-sweatshirt_21190_antrasit-antrasit_2_buyuk.jpg</image>
@@ -35765,10 +35765,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-fermuarli-sweatshirt_21190_antrasit-antrasit_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21190-40-XS" barcode="8682502851933" size="XS" pack_qty="1" stock="9" price="21.00"/>
-          <variant sku="21190-40-S" barcode="8682502851926" size="S" pack_qty="2" stock="18" price="21.00"/>
-          <variant sku="21190-40-M" barcode="8682502851919" size="M" pack_qty="2" stock="18" price="21.00"/>
-          <variant sku="21190-40-L" barcode="8682502851902" size="L" pack_qty="1" stock="9" price="21.00"/>
+          <variant sku="21190-40-XS" barcode="8682502851933" size="XS" pack_qty="1" stock="10" price="21.00"/>
+          <variant sku="21190-40-S" barcode="8682502851926" size="S" pack_qty="2" stock="20" price="21.00"/>
+          <variant sku="21190-40-M" barcode="8682502851919" size="M" pack_qty="2" stock="20" price="21.00"/>
+          <variant sku="21190-40-L" barcode="8682502851902" size="L" pack_qty="1" stock="10" price="21.00"/>
         </variants>
       </color>
     </colors>
@@ -35955,7 +35955,7 @@
   </product>
   <product id="21207">
     <shopify_id>8486278004806</shopify_id>
-    <updated_at>2026-10-29T03:41:05Z</updated_at>
+    <updated_at>2026-10-29T13:43:15Z</updated_at>
     <title><![CDATA[Striped Trimmed Sports Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -35974,7 +35974,7 @@
       <color id="21207-40" code="40" name="Anthracite">
         <unit_price>17.50</unit_price>
         <pack_price>105.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>9</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-spor-pantolon_21207_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-spor-pantolon_21207_antrasit-antrasit_2_buyuk.jpg</image>
@@ -35982,10 +35982,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-spor-pantolon_21207_antrasit-antrasit_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21207-40-XS" barcode="8682502853227" size="XS" pack_qty="1" stock="9" price="17.50"/>
-          <variant sku="21207-40-S" barcode="8682502853210" size="S" pack_qty="2" stock="18" price="17.50"/>
-          <variant sku="21207-40-M" barcode="8682502853203" size="M" pack_qty="2" stock="18" price="17.50"/>
-          <variant sku="21207-40-L" barcode="8682502853197" size="L" pack_qty="1" stock="9" price="17.50"/>
+          <variant sku="21207-40-XS" barcode="8682502853227" size="XS" pack_qty="1" stock="10" price="17.50"/>
+          <variant sku="21207-40-S" barcode="8682502853210" size="S" pack_qty="2" stock="20" price="17.50"/>
+          <variant sku="21207-40-M" barcode="8682502853203" size="M" pack_qty="2" stock="20" price="17.50"/>
+          <variant sku="21207-40-L" barcode="8682502853197" size="L" pack_qty="1" stock="10" price="17.50"/>
         </variants>
       </color>
     </colors>
@@ -49252,7 +49252,7 @@
   </product>
   <product id="21634">
     <shopify_id>10248052179014</shopify_id>
-    <updated_at>2026-10-29T01:32:05Z</updated_at>
+    <updated_at>2026-10-29T13:43:12Z</updated_at>
     <title><![CDATA[Plaid Maxi Skirt with Asymmetric Hem Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -49271,7 +49271,7 @@
       <color id="21634-66" code="66" name="Black-white">
         <unit_price>14.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>11</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897740_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897740_2.jpg</image>
@@ -49280,10 +49280,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897740_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21634-66-XS" barcode="8682502897740" size="XS" pack_qty="1" stock="12" price="14.00"/>
-          <variant sku="21634-66-S" barcode="8682502897733" size="S" pack_qty="2" stock="24" price="14.00"/>
-          <variant sku="21634-66-M" barcode="8682502897726" size="M" pack_qty="2" stock="24" price="14.00"/>
-          <variant sku="21634-66-L" barcode="8682502897719" size="L" pack_qty="1" stock="12" price="14.00"/>
+          <variant sku="21634-66-XS" barcode="8682502897740" size="XS" pack_qty="1" stock="9" price="14.00"/>
+          <variant sku="21634-66-S" barcode="8682502897733" size="S" pack_qty="2" stock="18" price="14.00"/>
+          <variant sku="21634-66-M" barcode="8682502897726" size="M" pack_qty="2" stock="18" price="14.00"/>
+          <variant sku="21634-66-L" barcode="8682502897719" size="L" pack_qty="1" stock="9" price="14.00"/>
         </variants>
       </color>
     </colors>
