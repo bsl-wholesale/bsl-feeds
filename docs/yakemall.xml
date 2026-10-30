@@ -32222,7 +32222,7 @@
   </product>
   <product id="21061">
     <shopify_id>8486272696390</shopify_id>
-    <updated_at>2026-10-30T04:20:26Z</updated_at>
+    <updated_at>2026-10-30T13:43:13Z</updated_at>
     <title><![CDATA[Pleated Palazzo Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Palazzo Pants]]></category>
@@ -32241,17 +32241,17 @@
       <color id="21061-02" code="02" name="Black">
         <unit_price>17.00</unit_price>
         <pack_price>102.00</pack_price>
-        <packs_in_stock>27</packs_in_stock>
+        <packs_in_stock>26</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pileli-palazzo-pantolon_21061_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pileli-palazzo-pantolon_21061_siyah-siyah_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pileli-palazzo-pantolon_21061_siyah-siyah_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21061-02-XS" barcode="8682502828508" size="XS" pack_qty="1" stock="28" price="17.00"/>
-          <variant sku="21061-02-S" barcode="8682502828492" size="S" pack_qty="2" stock="56" price="17.00"/>
-          <variant sku="21061-02-M" barcode="8682502828485" size="M" pack_qty="2" stock="56" price="17.00"/>
-          <variant sku="21061-02-L" barcode="8682502828478" size="L" pack_qty="1" stock="28" price="17.00"/>
+          <variant sku="21061-02-XS" barcode="8682502828508" size="XS" pack_qty="1" stock="27" price="17.00"/>
+          <variant sku="21061-02-S" barcode="8682502828492" size="S" pack_qty="2" stock="54" price="17.00"/>
+          <variant sku="21061-02-M" barcode="8682502828485" size="M" pack_qty="2" stock="54" price="17.00"/>
+          <variant sku="21061-02-L" barcode="8682502828478" size="L" pack_qty="1" stock="27" price="17.00"/>
         </variants>
       </color>
     </colors>
@@ -42414,7 +42414,7 @@
   </product>
   <product id="21422">
     <shopify_id>8486152798278</shopify_id>
-    <updated_at>2026-10-30T01:15:40Z</updated_at>
+    <updated_at>2026-10-30T13:43:13Z</updated_at>
     <title><![CDATA[Satin Palazzo Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Palazzo Pants]]></category>
@@ -42433,7 +42433,7 @@
       <color id="21422-01" code="01" name="White">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-palazzo-pantolon_21422_beyaz-beyaz_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-palazzo-pantolon_21422_beyaz-beyaz_2_buyuk.jpg</image>
@@ -42442,10 +42442,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-palazzo-pantolon_21422_beyaz-beyaz_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21422-01-XS" barcode="8682502876561" size="XS" pack_qty="1" stock="9" price="15.00"/>
-          <variant sku="21422-01-S" barcode="8682502876554" size="S" pack_qty="2" stock="18" price="15.00"/>
-          <variant sku="21422-01-M" barcode="8682502876547" size="M" pack_qty="2" stock="18" price="15.00"/>
-          <variant sku="21422-01-L" barcode="8682502876530" size="L" pack_qty="1" stock="9" price="15.00"/>
+          <variant sku="21422-01-XS" barcode="8682502876561" size="XS" pack_qty="1" stock="7" price="15.00"/>
+          <variant sku="21422-01-S" barcode="8682502876554" size="S" pack_qty="2" stock="14" price="15.00"/>
+          <variant sku="21422-01-M" barcode="8682502876547" size="M" pack_qty="2" stock="14" price="15.00"/>
+          <variant sku="21422-01-L" barcode="8682502876530" size="L" pack_qty="1" stock="7" price="15.00"/>
         </variants>
       </color>
     </colors>
