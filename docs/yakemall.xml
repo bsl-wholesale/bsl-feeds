@@ -7679,7 +7679,7 @@
       <color id="18591-02" code="02" name="Black">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>122</packs_in_stock>
+        <packs_in_stock>121</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mini-boy-gomlek-elbise_18591_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mini-boy-gomlek-elbise_18591_siyah-siyah_2_buyuk.jpg</image>
@@ -7690,10 +7690,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mini-boy-gomlek-elbise_18591_siyah-siyah_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18591-02-XS" barcode="8682502560477" size="XS" pack_qty="1" stock="123" price="12.00"/>
-          <variant sku="18591-02-S" barcode="8682502560460" size="S" pack_qty="2" stock="246" price="12.00"/>
-          <variant sku="18591-02-M" barcode="8682502560453" size="M" pack_qty="2" stock="246" price="12.00"/>
-          <variant sku="18591-02-L" barcode="8682502560446" size="L" pack_qty="1" stock="123" price="12.00"/>
+          <variant sku="18591-02-XS" barcode="8682502560477" size="XS" pack_qty="1" stock="122" price="12.00"/>
+          <variant sku="18591-02-S" barcode="8682502560460" size="S" pack_qty="2" stock="244" price="12.00"/>
+          <variant sku="18591-02-M" barcode="8682502560453" size="M" pack_qty="2" stock="244" price="12.00"/>
+          <variant sku="18591-02-L" barcode="8682502560446" size="L" pack_qty="1" stock="122" price="12.00"/>
         </variants>
       </color>
     </colors>
@@ -21462,7 +21462,7 @@
   </product>
   <product id="20375">
     <shopify_id>8486471073862</shopify_id>
-    <updated_at>2026-10-30T03:28:51Z</updated_at>
+    <updated_at>2026-10-30T07:43:06Z</updated_at>
     <title><![CDATA[Draped Mini Tulle Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33264,7 +33264,7 @@
   </product>
   <product id="21111">
     <shopify_id>8486275252294</shopify_id>
-    <updated_at>2026-10-30T02:15:50Z</updated_at>
+    <updated_at>2026-10-30T07:43:10Z</updated_at>
     <title><![CDATA[Knitted Carmel Collar Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33283,17 +33283,17 @@
       <color id="21111-02" code="02" name="Black">
         <unit_price>22.50</unit_price>
         <pack_price>135.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-carmel-yaka-mini-elbise_21111_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-carmel-yaka-mini-elbise_21111_siyah-siyah_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-carmel-yaka-mini-elbise_21111_siyah-siyah_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21111-02-XS" barcode="8682502837050" size="XS" pack_qty="1" stock="6" price="22.50"/>
-          <variant sku="21111-02-S" barcode="8682502837043" size="S" pack_qty="2" stock="12" price="22.50"/>
-          <variant sku="21111-02-M" barcode="8682502837036" size="M" pack_qty="2" stock="12" price="22.50"/>
-          <variant sku="21111-02-L" barcode="8682502837029" size="L" pack_qty="1" stock="6" price="22.50"/>
+          <variant sku="21111-02-XS" barcode="8682502837050" size="XS" pack_qty="1" stock="5" price="22.50"/>
+          <variant sku="21111-02-S" barcode="8682502837043" size="S" pack_qty="2" stock="10" price="22.50"/>
+          <variant sku="21111-02-M" barcode="8682502837036" size="M" pack_qty="2" stock="10" price="22.50"/>
+          <variant sku="21111-02-L" barcode="8682502837029" size="L" pack_qty="1" stock="5" price="22.50"/>
         </variants>
       </color>
       <color id="21111-07" code="07" name="Brown">
