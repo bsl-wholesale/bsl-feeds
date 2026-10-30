@@ -29965,7 +29965,7 @@
   </product>
   <product id="20979">
     <shopify_id>8486269550662</shopify_id>
-    <updated_at>2026-10-30T03:01:00Z</updated_at>
+    <updated_at>2026-10-30T09:13:16Z</updated_at>
     <title><![CDATA[Boat Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -30000,17 +30000,17 @@
       <color id="20979-07" code="07" name="Brown">
         <unit_price>8.50</unit_price>
         <pack_price>51.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kayik-yakali-top_20979_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kayik-yakali-top_20979_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kayik-yakali-top_20979_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20979-07-XS" barcode="8682502824678" size="XS" pack_qty="1" stock="8" price="8.50"/>
-          <variant sku="20979-07-S" barcode="8682502824661" size="S" pack_qty="2" stock="16" price="8.50"/>
-          <variant sku="20979-07-M" barcode="8682502824654" size="M" pack_qty="2" stock="16" price="8.50"/>
-          <variant sku="20979-07-L" barcode="8682502824647" size="L" pack_qty="1" stock="8" price="8.50"/>
+          <variant sku="20979-07-XS" barcode="8682502824678" size="XS" pack_qty="1" stock="7" price="8.50"/>
+          <variant sku="20979-07-S" barcode="8682502824661" size="S" pack_qty="2" stock="14" price="8.50"/>
+          <variant sku="20979-07-M" barcode="8682502824654" size="M" pack_qty="2" stock="14" price="8.50"/>
+          <variant sku="20979-07-L" barcode="8682502824647" size="L" pack_qty="1" stock="7" price="8.50"/>
         </variants>
       </color>
     </colors>
@@ -35045,7 +35045,7 @@
   </product>
   <product id="21160">
     <shopify_id>8486276890694</shopify_id>
-    <updated_at>2026-10-30T01:22:10Z</updated_at>
+    <updated_at>2026-10-30T09:13:17Z</updated_at>
     <title><![CDATA[Long-Sleeved Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35071,10 +35071,10 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/uzun-kollu-bodysuit_21160_sutlu-kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21160-25-XS" barcode="8682502846694" size="XS" pack_qty="1" stock="1" price="7.50"/>
-          <variant sku="21160-25-S" barcode="8682502846687" size="S" pack_qty="2" stock="2" price="7.50"/>
-          <variant sku="21160-25-M" barcode="8682502846670" size="M" pack_qty="2" stock="2" price="7.50"/>
-          <variant sku="21160-25-L" barcode="8682502846663" size="L" pack_qty="1" stock="1" price="7.50"/>
+          <variant sku="21160-25-XS" barcode="8682502846694" size="XS" pack_qty="1" stock="0" price="7.50"/>
+          <variant sku="21160-25-S" barcode="8682502846687" size="S" pack_qty="2" stock="0" price="7.50"/>
+          <variant sku="21160-25-M" barcode="8682502846670" size="M" pack_qty="2" stock="0" price="7.50"/>
+          <variant sku="21160-25-L" barcode="8682502846663" size="L" pack_qty="1" stock="0" price="7.50"/>
         </variants>
       </color>
     </colors>
@@ -48078,7 +48078,7 @@
   </product>
   <product id="21554">
     <shopify_id>10222350237766</shopify_id>
-    <updated_at>2026-10-30T02:09:06Z</updated_at>
+    <updated_at>2026-10-30T09:13:17Z</updated_at>
     <title><![CDATA[Button-Top Poplin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -48097,7 +48097,7 @@
       <color id="21554-01" code="01" name="White">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893278_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893278_2.jpg</image>
@@ -48106,10 +48106,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893278_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21554-01-XS" barcode="8682502893278" size="XS" pack_qty="1" stock="2" price="15.00"/>
-          <variant sku="21554-01-S" barcode="8682502893261" size="S" pack_qty="2" stock="4" price="15.00"/>
-          <variant sku="21554-01-M" barcode="8682502893254" size="M" pack_qty="2" stock="4" price="15.00"/>
-          <variant sku="21554-01-L" barcode="8682502893247" size="L" pack_qty="1" stock="2" price="15.00"/>
+          <variant sku="21554-01-XS" barcode="8682502893278" size="XS" pack_qty="1" stock="1" price="15.00"/>
+          <variant sku="21554-01-S" barcode="8682502893261" size="S" pack_qty="2" stock="2" price="15.00"/>
+          <variant sku="21554-01-M" barcode="8682502893254" size="M" pack_qty="2" stock="2" price="15.00"/>
+          <variant sku="21554-01-L" barcode="8682502893247" size="L" pack_qty="1" stock="1" price="15.00"/>
         </variants>
       </color>
     </colors>
@@ -49290,7 +49290,7 @@
   </product>
   <product id="21635">
     <shopify_id>10243633250374</shopify_id>
-    <updated_at>2026-10-30T02:36:45Z</updated_at>
+    <updated_at>2026-10-30T09:13:26Z</updated_at>
     <title><![CDATA[Boat Neck Draped Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -49309,7 +49309,7 @@
       <color id="21635-25" code="25" name="Mılk coffee">
         <unit_price>8.00</unit_price>
         <pack_price>48.00</pack_price>
-        <packs_in_stock>9</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897788_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897788_2.jpg</image>
@@ -49318,10 +49318,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897788_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21635-25-XS" barcode="8682502897788" size="XS" pack_qty="1" stock="10" price="8.00"/>
-          <variant sku="21635-25-S" barcode="8682502897771" size="S" pack_qty="2" stock="20" price="8.00"/>
-          <variant sku="21635-25-M" barcode="8682502897764" size="M" pack_qty="2" stock="20" price="8.00"/>
-          <variant sku="21635-25-L" barcode="8682502897757" size="L" pack_qty="1" stock="10" price="8.00"/>
+          <variant sku="21635-25-XS" barcode="8682502897788" size="XS" pack_qty="1" stock="9" price="8.00"/>
+          <variant sku="21635-25-S" barcode="8682502897771" size="S" pack_qty="2" stock="18" price="8.00"/>
+          <variant sku="21635-25-M" barcode="8682502897764" size="M" pack_qty="2" stock="18" price="8.00"/>
+          <variant sku="21635-25-L" barcode="8682502897757" size="L" pack_qty="1" stock="9" price="8.00"/>
         </variants>
       </color>
     </colors>
