@@ -21422,7 +21422,7 @@
   </product>
   <product id="20362">
     <shopify_id>8486470942790</shopify_id>
-    <updated_at>2026-10-31T04:03:31Z</updated_at>
+    <updated_at>2026-10-31T10:43:12Z</updated_at>
     <title><![CDATA[Transparent Lace Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -21441,7 +21441,7 @@
       <color id="20362-108" code="108" name="Coral">
         <unit_price>8.00</unit_price>
         <pack_price>48.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-dantel-top_20362_mercan-mercan_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-dantel-top_20362_mercan-mercan_2_buyuk.jpg</image>
@@ -21452,10 +21452,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-dantel-top_20362_mercan-mercan_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20362-108-XS" barcode="8682502757983" size="XS" pack_qty="1" stock="2" price="8.00"/>
-          <variant sku="20362-108-S" barcode="8682502757976" size="S" pack_qty="2" stock="4" price="8.00"/>
-          <variant sku="20362-108-M" barcode="8682502757969" size="M" pack_qty="2" stock="4" price="8.00"/>
-          <variant sku="20362-108-L" barcode="8682502757952" size="L" pack_qty="1" stock="2" price="8.00"/>
+          <variant sku="20362-108-XS" barcode="8682502757983" size="XS" pack_qty="1" stock="1" price="8.00"/>
+          <variant sku="20362-108-S" barcode="8682502757976" size="S" pack_qty="2" stock="2" price="8.00"/>
+          <variant sku="20362-108-M" barcode="8682502757969" size="M" pack_qty="2" stock="2" price="8.00"/>
+          <variant sku="20362-108-L" barcode="8682502757952" size="L" pack_qty="1" stock="1" price="8.00"/>
         </variants>
       </color>
     </colors>
@@ -30017,7 +30017,7 @@
   </product>
   <product id="20985">
     <shopify_id>8486269747270</shopify_id>
-    <updated_at>2026-10-31T00:53:01Z</updated_at>
+    <updated_at>2026-10-31T10:43:07Z</updated_at>
     <title><![CDATA[Midi Flared Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -30052,16 +30052,16 @@
       <color id="20985-14" code="14" name="Green">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/midi-klos-etek_20985_yesil-yesil_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/midi-klos-etek_20985_yesil-yesil_2_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20985-14-XS" barcode="8682502817755" size="XS" pack_qty="1" stock="2" price="18.00"/>
-          <variant sku="20985-14-S" barcode="8682502817748" size="S" pack_qty="2" stock="4" price="18.00"/>
-          <variant sku="20985-14-M" barcode="8682502817731" size="M" pack_qty="2" stock="4" price="18.00"/>
-          <variant sku="20985-14-L" barcode="8682502817724" size="L" pack_qty="1" stock="2" price="18.00"/>
+          <variant sku="20985-14-XS" barcode="8682502817755" size="XS" pack_qty="1" stock="1" price="18.00"/>
+          <variant sku="20985-14-S" barcode="8682502817748" size="S" pack_qty="2" stock="2" price="18.00"/>
+          <variant sku="20985-14-M" barcode="8682502817731" size="M" pack_qty="2" stock="2" price="18.00"/>
+          <variant sku="20985-14-L" barcode="8682502817724" size="L" pack_qty="1" stock="1" price="18.00"/>
         </variants>
       </color>
     </colors>
@@ -49252,7 +49252,7 @@
   </product>
   <product id="21634">
     <shopify_id>10248052179014</shopify_id>
-    <updated_at>2026-10-31T01:32:36Z</updated_at>
+    <updated_at>2026-10-31T10:43:16Z</updated_at>
     <title><![CDATA[Plaid Maxi Skirt with Asymmetric Hem Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -49271,7 +49271,7 @@
       <color id="21634-66" code="66" name="Black-white">
         <unit_price>14.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897740_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897740_2.jpg</image>
@@ -49280,10 +49280,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897740_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21634-66-XS" barcode="8682502897740" size="XS" pack_qty="1" stock="9" price="14.00"/>
-          <variant sku="21634-66-S" barcode="8682502897733" size="S" pack_qty="2" stock="18" price="14.00"/>
-          <variant sku="21634-66-M" barcode="8682502897726" size="M" pack_qty="2" stock="18" price="14.00"/>
-          <variant sku="21634-66-L" barcode="8682502897719" size="L" pack_qty="1" stock="9" price="14.00"/>
+          <variant sku="21634-66-XS" barcode="8682502897740" size="XS" pack_qty="1" stock="8" price="14.00"/>
+          <variant sku="21634-66-S" barcode="8682502897733" size="S" pack_qty="2" stock="16" price="14.00"/>
+          <variant sku="21634-66-M" barcode="8682502897726" size="M" pack_qty="2" stock="16" price="14.00"/>
+          <variant sku="21634-66-L" barcode="8682502897719" size="L" pack_qty="1" stock="8" price="14.00"/>
         </variants>
       </color>
     </colors>
