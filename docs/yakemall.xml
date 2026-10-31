@@ -22193,7 +22193,7 @@
   </product>
   <product id="20442">
     <shopify_id>8486248906822</shopify_id>
-    <updated_at>2026-10-31T02:00:36Z</updated_at>
+    <updated_at>2026-10-31T09:13:25Z</updated_at>
     <title><![CDATA[Piece Satin Midi Shirt Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[]]></category>
@@ -22212,7 +22212,7 @@
       <color id="20442-497" code="497" name="Olive">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/parcali-saten-midi-gomlek-elbise_20442_yag-yesili-yesil_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/parcali-saten-midi-gomlek-elbise_20442_yag-yesili-yesil_2_buyuk.jpg</image>
@@ -22220,10 +22220,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/parcali-saten-midi-gomlek-elbise_20442_yag-yesili-yesil_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20442-497-XS" barcode="8682502766879" size="XS" pack_qty="1" stock="6" price="27.00"/>
-          <variant sku="20442-497-S" barcode="8682502766862" size="S" pack_qty="2" stock="12" price="27.00"/>
-          <variant sku="20442-497-M" barcode="8682502766855" size="M" pack_qty="2" stock="12" price="27.00"/>
-          <variant sku="20442-497-L" barcode="8682502766848" size="L" pack_qty="1" stock="6" price="27.00"/>
+          <variant sku="20442-497-XS" barcode="8682502766879" size="XS" pack_qty="1" stock="5" price="27.00"/>
+          <variant sku="20442-497-S" barcode="8682502766862" size="S" pack_qty="2" stock="10" price="27.00"/>
+          <variant sku="20442-497-M" barcode="8682502766855" size="M" pack_qty="2" stock="10" price="27.00"/>
+          <variant sku="20442-497-L" barcode="8682502766848" size="L" pack_qty="1" stock="5" price="27.00"/>
         </variants>
       </color>
     </colors>
@@ -30942,7 +30942,7 @@
   </product>
   <product id="21021">
     <shopify_id>8486271287366</shopify_id>
-    <updated_at>2026-10-31T00:35:11Z</updated_at>
+    <updated_at>2026-10-31T09:13:26Z</updated_at>
     <title><![CDATA[Suede-Look Mini Button-Down Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -30961,23 +30961,23 @@
       <color id="21021-12" code="12" name="Burgundy">
         <unit_price>21.00</unit_price>
         <pack_price>126.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-dugmeli-elbise_21021_bordo-bordo_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-dugmeli-elbise_21021_bordo-bordo_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-dugmeli-elbise_21021_bordo-bordo_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21021-12-XS" barcode="8682502821240" size="XS" pack_qty="1" stock="9" price="21.00"/>
-          <variant sku="21021-12-S" barcode="8682502821233" size="S" pack_qty="2" stock="18" price="21.00"/>
-          <variant sku="21021-12-M" barcode="8682502821226" size="M" pack_qty="2" stock="18" price="21.00"/>
-          <variant sku="21021-12-L" barcode="8682502821219" size="L" pack_qty="1" stock="9" price="21.00"/>
+          <variant sku="21021-12-XS" barcode="8682502821240" size="XS" pack_qty="1" stock="8" price="21.00"/>
+          <variant sku="21021-12-S" barcode="8682502821233" size="S" pack_qty="2" stock="16" price="21.00"/>
+          <variant sku="21021-12-M" barcode="8682502821226" size="M" pack_qty="2" stock="16" price="21.00"/>
+          <variant sku="21021-12-L" barcode="8682502821219" size="L" pack_qty="1" stock="8" price="21.00"/>
         </variants>
       </color>
       <color id="21021-55" code="55" name="Mıxed">
         <unit_price>21.00</unit_price>
         <pack_price>126.00</pack_price>
-        <packs_in_stock>9</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-dugmeli-elbise_21021_hardal-hardal_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-dugmeli-elbise_21021_hardal-hardal_2_buyuk.jpg</image>
@@ -30986,10 +30986,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-dugmeli-elbise_21021_hardal-hardal_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21021-55-XS" barcode="8682502821288" size="XS" pack_qty="1" stock="10" price="21.00"/>
-          <variant sku="21021-55-S" barcode="8682502821271" size="S" pack_qty="2" stock="20" price="21.00"/>
-          <variant sku="21021-55-M" barcode="8682502821264" size="M" pack_qty="2" stock="20" price="21.00"/>
-          <variant sku="21021-55-L" barcode="8682502821257" size="L" pack_qty="1" stock="10" price="21.00"/>
+          <variant sku="21021-55-XS" barcode="8682502821288" size="XS" pack_qty="1" stock="9" price="21.00"/>
+          <variant sku="21021-55-S" barcode="8682502821271" size="S" pack_qty="2" stock="18" price="21.00"/>
+          <variant sku="21021-55-M" barcode="8682502821264" size="M" pack_qty="2" stock="18" price="21.00"/>
+          <variant sku="21021-55-L" barcode="8682502821257" size="L" pack_qty="1" stock="9" price="21.00"/>
         </variants>
       </color>
     </colors>
@@ -44655,7 +44655,7 @@
   </product>
   <product id="21468">
     <shopify_id>8486154731590</shopify_id>
-    <updated_at>2026-10-31T01:00:55Z</updated_at>
+    <updated_at>2026-10-31T09:13:26Z</updated_at>
     <title><![CDATA[Strapless Underwired Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[]]></category>
@@ -44674,7 +44674,7 @@
       <color id="21468-02" code="02" name="Black">
         <unit_price>10.50</unit_price>
         <pack_price>63.00</pack_price>
-        <packs_in_stock>22</packs_in_stock>
+        <packs_in_stock>20</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/straplez-balenli-top_21468_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/straplez-balenli-top_21468_siyah-siyah_2_buyuk.jpg</image>
@@ -44683,10 +44683,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/straplez-balenli-top_21468_siyah-siyah_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21468-02-XS" barcode="8682502882357" size="XS" pack_qty="1" stock="23" price="10.50"/>
-          <variant sku="21468-02-S" barcode="8682502882340" size="S" pack_qty="2" stock="46" price="10.50"/>
-          <variant sku="21468-02-M" barcode="8682502882333" size="M" pack_qty="2" stock="46" price="10.50"/>
-          <variant sku="21468-02-L" barcode="8682502882326" size="L" pack_qty="1" stock="23" price="10.50"/>
+          <variant sku="21468-02-XS" barcode="8682502882357" size="XS" pack_qty="1" stock="21" price="10.50"/>
+          <variant sku="21468-02-S" barcode="8682502882340" size="S" pack_qty="2" stock="42" price="10.50"/>
+          <variant sku="21468-02-M" barcode="8682502882333" size="M" pack_qty="2" stock="42" price="10.50"/>
+          <variant sku="21468-02-L" barcode="8682502882326" size="L" pack_qty="1" stock="21" price="10.50"/>
         </variants>
       </color>
     </colors>
