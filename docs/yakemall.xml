@@ -7210,7 +7210,7 @@
   </product>
   <product id="18566">
     <shopify_id>8486480740422</shopify_id>
-    <updated_at>2026-11-02T03:05:40Z</updated_at>
+    <updated_at>2026-11-02T10:43:36Z</updated_at>
     <title><![CDATA[Twist neck top]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -7229,7 +7229,7 @@
       <color id="18566-01" code="01" name="White">
         <unit_price>4.00</unit_price>
         <pack_price>28.00</pack_price>
-        <packs_in_stock>16</packs_in_stock>
+        <packs_in_stock>15</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yaka-burgulu-top_18566_beyaz-beyaz_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yaka-burgulu-top_18566_beyaz-beyaz_2_buyuk.jpg</image>
@@ -7240,10 +7240,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yaka-burgulu-top_18566_beyaz-beyaz_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18566-01-XS" barcode="8682502557187" size="XS" pack_qty="2" stock="34" price="4.00"/>
-          <variant sku="18566-01-S" barcode="8682502557170" size="S" pack_qty="2" stock="34" price="4.00"/>
-          <variant sku="18566-01-M" barcode="8682502557163" size="M" pack_qty="2" stock="34" price="4.00"/>
-          <variant sku="18566-01-L" barcode="8682502557156" size="L" pack_qty="1" stock="17" price="4.00"/>
+          <variant sku="18566-01-XS" barcode="8682502557187" size="XS" pack_qty="2" stock="32" price="4.00"/>
+          <variant sku="18566-01-S" barcode="8682502557170" size="S" pack_qty="2" stock="32" price="4.00"/>
+          <variant sku="18566-01-M" barcode="8682502557163" size="M" pack_qty="2" stock="32" price="4.00"/>
+          <variant sku="18566-01-L" barcode="8682502557156" size="L" pack_qty="1" stock="16" price="4.00"/>
         </variants>
       </color>
       <color id="18566-02" code="02" name="Black">
@@ -48116,7 +48116,7 @@
   </product>
   <product id="21556">
     <shopify_id>10221187825734</shopify_id>
-    <updated_at>2026-11-02T02:28:05Z</updated_at>
+    <updated_at>2026-11-02T10:43:26Z</updated_at>
     <title><![CDATA[%100 Cotton Long-Sleeve V-Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -48135,7 +48135,7 @@
       <color id="21556-01" code="01" name="White">
         <unit_price>6.00</unit_price>
         <pack_price>36.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893445_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893445_2.jpg</image>
@@ -48143,10 +48143,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893445_4.jpg</image>
         </images>
         <variants>
-          <variant sku="21556-01-XS" barcode="8682502893445" size="XS" pack_qty="1" stock="9" price="6.00"/>
-          <variant sku="21556-01-S" barcode="8682502893438" size="S" pack_qty="2" stock="18" price="6.00"/>
-          <variant sku="21556-01-M" barcode="8682502893421" size="M" pack_qty="2" stock="18" price="6.00"/>
-          <variant sku="21556-01-L" barcode="8682502893414" size="L" pack_qty="1" stock="9" price="6.00"/>
+          <variant sku="21556-01-XS" barcode="8682502893445" size="XS" pack_qty="1" stock="8" price="6.00"/>
+          <variant sku="21556-01-S" barcode="8682502893438" size="S" pack_qty="2" stock="16" price="6.00"/>
+          <variant sku="21556-01-M" barcode="8682502893421" size="M" pack_qty="2" stock="16" price="6.00"/>
+          <variant sku="21556-01-L" barcode="8682502893414" size="L" pack_qty="1" stock="8" price="6.00"/>
         </variants>
       </color>
       <color id="21556-02" code="02" name="Black">
@@ -48897,7 +48897,7 @@
   </product>
   <product id="21621">
     <shopify_id>10224569548870</shopify_id>
-    <updated_at>2026-11-02T09:14:06Z</updated_at>
+    <updated_at>2026-11-02T10:43:22Z</updated_at>
     <title><![CDATA[Button-Detail Cardigan]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -48934,7 +48934,7 @@
       <color id="21621-02" code="02" name="Black">
         <unit_price>13.00</unit_price>
         <pack_price>78.00</pack_price>
-        <packs_in_stock>12</packs_in_stock>
+        <packs_in_stock>11</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895982_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895982_2.jpg</image>
@@ -48943,10 +48943,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895982_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21621-02-XS" barcode="8682502895982" size="XS" pack_qty="1" stock="13" price="13.00"/>
-          <variant sku="21621-02-S" barcode="8682502895975" size="S" pack_qty="2" stock="26" price="13.00"/>
-          <variant sku="21621-02-M" barcode="8682502895968" size="M" pack_qty="2" stock="26" price="13.00"/>
-          <variant sku="21621-02-L" barcode="8682502895951" size="L" pack_qty="1" stock="13" price="13.00"/>
+          <variant sku="21621-02-XS" barcode="8682502895982" size="XS" pack_qty="1" stock="12" price="13.00"/>
+          <variant sku="21621-02-S" barcode="8682502895975" size="S" pack_qty="2" stock="24" price="13.00"/>
+          <variant sku="21621-02-M" barcode="8682502895968" size="M" pack_qty="2" stock="24" price="13.00"/>
+          <variant sku="21621-02-L" barcode="8682502895951" size="L" pack_qty="1" stock="12" price="13.00"/>
         </variants>
       </color>
     </colors>
@@ -48991,7 +48991,7 @@
   </product>
   <product id="21627">
     <shopify_id>10248052015174</shopify_id>
-    <updated_at>2026-11-02T00:20:40Z</updated_at>
+    <updated_at>2026-11-02T10:43:26Z</updated_at>
     <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -49010,7 +49010,7 @@
       <color id="21627-05" code="05" name="Navy blue">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_2.jpg</image>
@@ -49019,10 +49019,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="9" price="18.00"/>
-          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="18" price="18.00"/>
-          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="18" price="18.00"/>
-          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="9" price="18.00"/>
+          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="8" price="18.00"/>
+          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="16" price="18.00"/>
+          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="16" price="18.00"/>
+          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="8" price="18.00"/>
         </variants>
       </color>
     </colors>
