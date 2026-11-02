@@ -35775,7 +35775,7 @@
   </product>
   <product id="21192">
     <shopify_id>8486277906502</shopify_id>
-    <updated_at>2026-11-02T01:35:00Z</updated_at>
+    <updated_at>2026-11-02T07:43:16Z</updated_at>
     <title><![CDATA[Plaid Flared Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35794,17 +35794,17 @@
       <color id="21192-40" code="40" name="Anthracite">
         <unit_price>16.00</unit_price>
         <pack_price>96.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21192_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21192_antrasit-antrasit_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21192_antrasit-antrasit_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21192-40-XS" barcode="8682502852015" size="XS" pack_qty="1" stock="2" price="16.00"/>
-          <variant sku="21192-40-S" barcode="8682502852008" size="S" pack_qty="2" stock="4" price="16.00"/>
-          <variant sku="21192-40-M" barcode="8682502851995" size="M" pack_qty="2" stock="4" price="16.00"/>
-          <variant sku="21192-40-L" barcode="8682502851988" size="L" pack_qty="1" stock="2" price="16.00"/>
+          <variant sku="21192-40-XS" barcode="8682502852015" size="XS" pack_qty="1" stock="1" price="16.00"/>
+          <variant sku="21192-40-S" barcode="8682502852008" size="S" pack_qty="2" stock="2" price="16.00"/>
+          <variant sku="21192-40-M" barcode="8682502851995" size="M" pack_qty="2" stock="2" price="16.00"/>
+          <variant sku="21192-40-L" barcode="8682502851988" size="L" pack_qty="1" stock="1" price="16.00"/>
         </variants>
       </color>
     </colors>
