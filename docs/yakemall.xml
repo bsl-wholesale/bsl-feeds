@@ -7130,7 +7130,7 @@
   </product>
   <product id="18555">
     <shopify_id>8530176737350</shopify_id>
-    <updated_at>2026-11-03T00:48:15Z</updated_at>
+    <updated_at>2026-11-03T10:43:25Z</updated_at>
     <title><![CDATA[Deep V-neck blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -7149,7 +7149,7 @@
       <color id="18555-13" code="13" name="Yellow">
         <unit_price>8.00</unit_price>
         <pack_price>48.00</pack_price>
-        <packs_in_stock>35</packs_in_stock>
+        <packs_in_stock>34</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/derin-v-yaka-detayli-bluz_18555_sari-sari_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/derin-v-yaka-detayli-bluz_18555_sari-sari_2_buyuk.jpg</image>
@@ -7160,10 +7160,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/derin-v-yaka-detayli-bluz_18555_sari-sari_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18555-13-XS" barcode="8682502555824" size="XS" pack_qty="1" stock="36" price="8.00"/>
-          <variant sku="18555-13-S" barcode="8682502555817" size="S" pack_qty="2" stock="72" price="8.00"/>
-          <variant sku="18555-13-M" barcode="8682502555800" size="M" pack_qty="2" stock="72" price="8.00"/>
-          <variant sku="18555-13-L" barcode="8682502555794" size="L" pack_qty="1" stock="36" price="8.00"/>
+          <variant sku="18555-13-XS" barcode="8682502555824" size="XS" pack_qty="1" stock="35" price="8.00"/>
+          <variant sku="18555-13-S" barcode="8682502555817" size="S" pack_qty="2" stock="70" price="8.00"/>
+          <variant sku="18555-13-M" barcode="8682502555800" size="M" pack_qty="2" stock="70" price="8.00"/>
+          <variant sku="18555-13-L" barcode="8682502555794" size="L" pack_qty="1" stock="35" price="8.00"/>
         </variants>
       </color>
     </colors>
@@ -15441,7 +15441,7 @@
   </product>
   <product id="19548">
     <shopify_id>8486479265862</shopify_id>
-    <updated_at>2026-11-03T02:41:55Z</updated_at>
+    <updated_at>2026-11-03T10:43:21Z</updated_at>
     <title><![CDATA[Vintage Look Straight Cut Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -15460,7 +15460,7 @@
       <color id="19548-07" code="07" name="Brown">
         <unit_price>10.50</unit_price>
         <pack_price>63.00</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>5</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/vintage-gorunumlu-duz-kesim-pantolon_19548_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/vintage-gorunumlu-duz-kesim-pantolon_19548_kahve-kahverengi_2_buyuk.jpg</image>
@@ -15470,10 +15470,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/vintage-gorunumlu-duz-kesim-pantolon_19548_kahve-kahverengi_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19548-07-XS" barcode="8682502668913" size="XS" pack_qty="1" stock="7" price="10.50"/>
-          <variant sku="19548-07-S" barcode="8682502668906" size="S" pack_qty="2" stock="14" price="10.50"/>
-          <variant sku="19548-07-M" barcode="8682502668890" size="M" pack_qty="2" stock="14" price="10.50"/>
-          <variant sku="19548-07-L" barcode="8682502668883" size="L" pack_qty="1" stock="7" price="10.50"/>
+          <variant sku="19548-07-XS" barcode="8682502668913" size="XS" pack_qty="1" stock="6" price="10.50"/>
+          <variant sku="19548-07-S" barcode="8682502668906" size="S" pack_qty="2" stock="12" price="10.50"/>
+          <variant sku="19548-07-M" barcode="8682502668890" size="M" pack_qty="2" stock="12" price="10.50"/>
+          <variant sku="19548-07-L" barcode="8682502668883" size="L" pack_qty="1" stock="6" price="10.50"/>
         </variants>
       </color>
     </colors>
@@ -20065,7 +20065,7 @@
   </product>
   <product id="20282">
     <shopify_id>8530242240582</shopify_id>
-    <updated_at>2026-11-03T02:59:25Z</updated_at>
+    <updated_at>2026-11-03T10:43:28Z</updated_at>
     <title><![CDATA[Madonna Collar Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -20084,7 +20084,7 @@
       <color id="20282-26" code="26" name="Beige">
         <unit_price>10.00</unit_price>
         <pack_price>60.00</pack_price>
-        <packs_in_stock>24</packs_in_stock>
+        <packs_in_stock>23</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502746901_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502746901_2.jpg</image>
@@ -20096,10 +20096,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502746901_10.jpg</image>
         </images>
         <variants>
-          <variant sku="20282-26-XS" barcode="8682502746901" size="XS" pack_qty="1" stock="25" price="10.00"/>
-          <variant sku="20282-26-S" barcode="8682502746895" size="S" pack_qty="2" stock="50" price="10.00"/>
-          <variant sku="20282-26-M" barcode="8682502746888" size="M" pack_qty="2" stock="50" price="10.00"/>
-          <variant sku="20282-26-L" barcode="8682502746871" size="L" pack_qty="1" stock="25" price="10.00"/>
+          <variant sku="20282-26-XS" barcode="8682502746901" size="XS" pack_qty="1" stock="24" price="10.00"/>
+          <variant sku="20282-26-S" barcode="8682502746895" size="S" pack_qty="2" stock="48" price="10.00"/>
+          <variant sku="20282-26-M" barcode="8682502746888" size="M" pack_qty="2" stock="48" price="10.00"/>
+          <variant sku="20282-26-L" barcode="8682502746871" size="L" pack_qty="1" stock="24" price="10.00"/>
         </variants>
       </color>
     </colors>
@@ -29475,7 +29475,7 @@
   </product>
   <product id="20954">
     <shopify_id>8486268534854</shopify_id>
-    <updated_at>2026-11-03T02:26:15Z</updated_at>
+    <updated_at>2026-11-03T10:43:11Z</updated_at>
     <title><![CDATA[Bi Color Wide Leg Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Jeans]]></category>
@@ -29502,10 +29502,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bi-color-bol-pantolon_20954_mavi-mavi_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20954-04-26" barcode="8682502814648" size="26" pack_qty="1" stock="1" price="22.00"/>
-          <variant sku="20954-04-27" barcode="8682502814655" size="27" pack_qty="2" stock="2" price="22.00"/>
-          <variant sku="20954-04-28" barcode="8682502814662" size="28" pack_qty="2" stock="2" price="22.00"/>
-          <variant sku="20954-04-29" barcode="8682502814679" size="29" pack_qty="1" stock="1" price="22.00"/>
+          <variant sku="20954-04-26" barcode="8682502814648" size="26" pack_qty="1" stock="0" price="22.00"/>
+          <variant sku="20954-04-27" barcode="8682502814655" size="27" pack_qty="2" stock="0" price="22.00"/>
+          <variant sku="20954-04-28" barcode="8682502814662" size="28" pack_qty="2" stock="0" price="22.00"/>
+          <variant sku="20954-04-29" barcode="8682502814679" size="29" pack_qty="1" stock="0" price="22.00"/>
         </variants>
       </color>
     </colors>
