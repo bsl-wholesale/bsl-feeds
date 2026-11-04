@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog brand="BSL" currency="USD" products="892" colors="1724">
+<catalog brand="BSL" currency="USD" products="899" colors="1732">
   <product id="16290">
     <shopify_id>8486485327942</shopify_id>
     <updated_at>2026-11-04T00:46:26Z</updated_at>
@@ -6635,7 +6635,7 @@
   </product>
   <product id="18493">
     <shopify_id>8486480707654</shopify_id>
-    <updated_at>2026-11-04T10:43:55Z</updated_at>
+    <updated_at>2026-11-04T13:43:16Z</updated_at>
     <title><![CDATA[Crew neck oversize knitted sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -6652,7 +6652,7 @@
       <color id="18493-26" code="26" name="Beige">
         <unit_price>14.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>30</packs_in_stock>
+        <packs_in_stock>28</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_2_buyuk.jpg</image>
@@ -6664,8 +6664,8 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18493-26-XS-S" barcode="8682502549113" size="XS-S" pack_qty="3" stock="93" price="14.00"/>
-          <variant sku="18493-26-M-L" barcode="8682502549106" size="M-L" pack_qty="3" stock="93" price="14.00"/>
+          <variant sku="18493-26-XS-S" barcode="8682502549113" size="XS-S" pack_qty="3" stock="87" price="14.00"/>
+          <variant sku="18493-26-M-L" barcode="8682502549106" size="M-L" pack_qty="3" stock="87" price="14.00"/>
         </variants>
       </color>
     </colors>
@@ -17706,7 +17706,7 @@
   </product>
   <product id="20082">
     <shopify_id>8486467371078</shopify_id>
-    <updated_at>2026-11-04T03:56:21Z</updated_at>
+    <updated_at>2026-11-04T13:43:31Z</updated_at>
     <title><![CDATA[100% Cotton Openwork Patterned Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -17725,7 +17725,7 @@
       <color id="20082-48" code="48" name="Ecru">
         <unit_price>14.50</unit_price>
         <pack_price>101.50</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-pamuk-ajur-desenli-kazak_20082_ekru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-pamuk-ajur-desenli-kazak_20082_ekru-ekru_2_buyuk.jpg</image>
@@ -17737,10 +17737,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-pamuk-ajur-desenli-kazak_20082_ekru-ekru_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20082-48-XS" barcode="8682502726866" size="XS" pack_qty="2" stock="8" price="14.50"/>
-          <variant sku="20082-48-S" barcode="8682502726859" size="S" pack_qty="2" stock="8" price="14.50"/>
-          <variant sku="20082-48-M" barcode="8682502726842" size="M" pack_qty="2" stock="8" price="14.50"/>
-          <variant sku="20082-48-L" barcode="8682502726835" size="L" pack_qty="1" stock="4" price="14.50"/>
+          <variant sku="20082-48-XS" barcode="8682502726866" size="XS" pack_qty="2" stock="6" price="14.50"/>
+          <variant sku="20082-48-S" barcode="8682502726859" size="S" pack_qty="2" stock="6" price="14.50"/>
+          <variant sku="20082-48-M" barcode="8682502726842" size="M" pack_qty="2" stock="6" price="14.50"/>
+          <variant sku="20082-48-L" barcode="8682502726835" size="L" pack_qty="1" stock="3" price="14.50"/>
         </variants>
       </color>
     </colors>
@@ -19506,7 +19506,7 @@
   </product>
   <product id="20259">
     <shopify_id>8530241650758</shopify_id>
-    <updated_at>2026-11-04T01:02:05Z</updated_at>
+    <updated_at>2026-11-04T13:43:36Z</updated_at>
     <title><![CDATA[Gilded Openwork Oversize Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -19525,7 +19525,7 @@
       <color id="20259-02" code="02" name="Black">
         <unit_price>14.50</unit_price>
         <pack_price>101.50</pack_price>
-        <packs_in_stock>11</packs_in_stock>
+        <packs_in_stock>10</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-kazak_20259_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-kazak_20259_siyah-siyah_2_buyuk.jpg</image>
@@ -19537,10 +19537,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-kazak_20259_siyah-siyah_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20259-02-XS" barcode="8682502744297" size="XS" pack_qty="2" stock="24" price="14.50"/>
-          <variant sku="20259-02-S" barcode="8682502744280" size="S" pack_qty="2" stock="24" price="14.50"/>
-          <variant sku="20259-02-M" barcode="8682502744273" size="M" pack_qty="2" stock="24" price="14.50"/>
-          <variant sku="20259-02-L" barcode="8682502744266" size="L" pack_qty="1" stock="12" price="14.50"/>
+          <variant sku="20259-02-XS" barcode="8682502744297" size="XS" pack_qty="2" stock="22" price="14.50"/>
+          <variant sku="20259-02-S" barcode="8682502744280" size="S" pack_qty="2" stock="22" price="14.50"/>
+          <variant sku="20259-02-M" barcode="8682502744273" size="M" pack_qty="2" stock="22" price="14.50"/>
+          <variant sku="20259-02-L" barcode="8682502744266" size="L" pack_qty="1" stock="11" price="14.50"/>
         </variants>
       </color>
     </colors>
@@ -27862,7 +27862,7 @@
   </product>
   <product id="20837">
     <shopify_id>8486267977798</shopify_id>
-    <updated_at>2026-11-04T04:21:26Z</updated_at>
+    <updated_at>2026-11-04T13:52:19Z</updated_at>
     <title><![CDATA[Distressed Knit Pencil Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33981,7 +33981,7 @@
   </product>
   <product id="21129">
     <shopify_id>8486275809350</shopify_id>
-    <updated_at>2026-11-04T09:14:21Z</updated_at>
+    <updated_at>2026-11-04T13:36:43Z</updated_at>
     <title><![CDATA[Shirt Collar Draped Satin Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -38956,7 +38956,7 @@
   </product>
   <product id="21299">
     <shopify_id>8486148440134</shopify_id>
-    <updated_at>2026-11-04T00:37:06Z</updated_at>
+    <updated_at>2026-11-04T13:43:26Z</updated_at>
     <title><![CDATA[Oversize Denim Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -38975,7 +38975,7 @@
       <color id="21299-05" code="05" name="Navy">
         <unit_price>17.00</unit_price>
         <pack_price>102.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/oversize-denim-gomlek_21299_lacivert-lacivert_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/oversize-denim-gomlek_21299_lacivert-lacivert_2_buyuk.jpg</image>
@@ -38984,10 +38984,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/oversize-denim-gomlek_21299_lacivert-lacivert_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21299-05-XS" barcode="8682502861789" size="XS" pack_qty="1" stock="8" price="17.00"/>
-          <variant sku="21299-05-S" barcode="8682502861772" size="S" pack_qty="2" stock="16" price="17.00"/>
-          <variant sku="21299-05-M" barcode="8682502861765" size="M" pack_qty="2" stock="16" price="17.00"/>
-          <variant sku="21299-05-L" barcode="8682502861758" size="L" pack_qty="1" stock="8" price="17.00"/>
+          <variant sku="21299-05-XS" barcode="8682502861789" size="XS" pack_qty="1" stock="5" price="17.00"/>
+          <variant sku="21299-05-S" barcode="8682502861772" size="S" pack_qty="2" stock="10" price="17.00"/>
+          <variant sku="21299-05-M" barcode="8682502861765" size="M" pack_qty="2" stock="10" price="17.00"/>
+          <variant sku="21299-05-L" barcode="8682502861758" size="L" pack_qty="1" stock="5" price="17.00"/>
         </variants>
       </color>
     </colors>
@@ -47964,7 +47964,7 @@
   </product>
   <product id="21551">
     <shopify_id>10221187727430</shopify_id>
-    <updated_at>2026-11-04T01:26:35Z</updated_at>
+    <updated_at>2026-11-04T13:40:08Z</updated_at>
     <title><![CDATA[Mini Dress with Bow-Tie Neckline]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -47990,6 +47990,7 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893032_3.jpg</image>
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893032_4.jpg</image>
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893032_5.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893032_6.jpg</image>
         </images>
         <variants>
           <variant sku="21551-02-XS" barcode="8682502893032" size="XS" pack_qty="1" stock="0" price="23.00"/>
@@ -48504,7 +48505,7 @@
   </product>
   <product id="21565">
     <shopify_id>10222350303302</shopify_id>
-    <updated_at>2026-11-04T01:03:35Z</updated_at>
+    <updated_at>2026-11-04T13:40:49Z</updated_at>
     <title><![CDATA[Stand-Collar Bomber Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Bomber Jackets]]></category>
@@ -48530,6 +48531,7 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894435_3.jpg</image>
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894435_4.jpg</image>
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894435_5.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894435_6.jpg</image>
         </images>
         <variants>
           <variant sku="21565-08-XS" barcode="8682502894435" size="XS" pack_qty="1" stock="4" price="28.00"/>
@@ -48763,6 +48765,44 @@
       </color>
     </colors>
   </product>
+  <product id="21597">
+    <shopify_id>10254105903174</shopify_id>
+    <updated_at>2026-11-04T13:29:01Z</updated_at>
+    <title><![CDATA[Stand-Collar Jacket]]></title>
+    <product_type><![CDATA[Jackets & Coats]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Inner Material: Pes %100, Outer Material: Pes %100]]></material>
+    <fit><![CDATA[Oversize]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Göğüs 60cm Kol boyu 60,5cm Boy 54,5cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21597-08" code="08" name="Khaki">
+        <unit_price>30.00</unit_price>
+        <pack_price>180.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_5.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21597-08-XS" barcode="8682502900198" size="XS" pack_qty="1" stock="7" price="30.00"/>
+          <variant sku="21597-08-S" barcode="8682502900181" size="S" pack_qty="2" stock="14" price="30.00"/>
+          <variant sku="21597-08-M" barcode="8682502900174" size="M" pack_qty="2" stock="14" price="30.00"/>
+          <variant sku="21597-08-L" barcode="8682502900167" size="L" pack_qty="1" stock="7" price="30.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="21598">
     <shopify_id>10238690459718</shopify_id>
     <updated_at>2026-11-04T09:14:26Z</updated_at>
@@ -48953,7 +48993,7 @@
   </product>
   <product id="21624">
     <shopify_id>10222350499910</shopify_id>
-    <updated_at>2026-11-04T00:39:39Z</updated_at>
+    <updated_at>2026-11-04T13:41:41Z</updated_at>
     <title><![CDATA[Gathered Midi Skirt with Bodice Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -48979,12 +49019,51 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896149_3.jpg</image>
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896149_4.jpg</image>
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896149_5.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896149_6.jpg</image>
         </images>
         <variants>
           <variant sku="21624-08-XS" barcode="8682502896149" size="XS" pack_qty="1" stock="11" price="15.00"/>
           <variant sku="21624-08-S" barcode="8682502896132" size="S" pack_qty="2" stock="22" price="15.00"/>
           <variant sku="21624-08-M" barcode="8682502896125" size="M" pack_qty="2" stock="22" price="15.00"/>
           <variant sku="21624-08-L" barcode="8682502896118" size="L" pack_qty="1" stock="11" price="15.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21626">
+    <shopify_id>10252638847046</shopify_id>
+    <updated_at>2026-11-04T13:44:03Z</updated_at>
+    <title><![CDATA[Double-Breasted Cropped Jacket]]></title>
+    <product_type><![CDATA[Jackets & Coats]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Inner Material: Pes %100, Outer Material: Pes %100]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Chest: 42 cm - Sleeve Length: 63.5 cm - Length: 43 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21626-02" code="02" name="Black">
+        <unit_price>19.00</unit_price>
+        <pack_price>114.00</pack_price>
+        <packs_in_stock>1</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896309_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896309_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896309_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896309_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896309_5.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21626-02-XS" barcode="8682502896309" size="XS" pack_qty="1" stock="2" price="19.00"/>
+          <variant sku="21626-02-S" barcode="8682502896293" size="S" pack_qty="2" stock="4" price="19.00"/>
+          <variant sku="21626-02-M" barcode="8682502896286" size="M" pack_qty="2" stock="4" price="19.00"/>
+          <variant sku="21626-02-L" barcode="8682502896279" size="L" pack_qty="1" stock="2" price="19.00"/>
         </variants>
       </color>
     </colors>
@@ -49121,12 +49200,66 @@
       </color>
     </colors>
   </product>
+  <product id="21629">
+    <shopify_id>10263763812422</shopify_id>
+    <updated_at>2026-11-04T13:46:49Z</updated_at>
+    <title><![CDATA[Pleated Slim-Leg Trousers]]></title>
+    <product_type><![CDATA[Pants]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %2, Viscose %34, Recycle Pes %64]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Waist: 34 cm - Hips: 49 cm - Height: 108 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21629-04" code="04" name="Blue">
+        <unit_price>20.00</unit_price>
+        <pack_price>120.00</pack_price>
+        <packs_in_stock>9</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897177_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897177_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897177_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897177_4.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21629-04-XS" barcode="8682502897177" size="XS" pack_qty="1" stock="10" price="20.00"/>
+          <variant sku="21629-04-S" barcode="8682502897160" size="S" pack_qty="2" stock="20" price="20.00"/>
+          <variant sku="21629-04-M" barcode="8682502897153" size="M" pack_qty="2" stock="20" price="20.00"/>
+          <variant sku="21629-04-L" barcode="8682502897146" size="L" pack_qty="1" stock="10" price="20.00"/>
+        </variants>
+      </color>
+      <color id="21629-26" code="26" name="Beige">
+        <unit_price>20.00</unit_price>
+        <pack_price>120.00</pack_price>
+        <packs_in_stock>3</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897214_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897214_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897214_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897214_4.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21629-26-XS" barcode="8682502897214" size="XS" pack_qty="1" stock="4" price="20.00"/>
+          <variant sku="21629-26-S" barcode="8682502897207" size="S" pack_qty="2" stock="8" price="20.00"/>
+          <variant sku="21629-26-M" barcode="8682502897191" size="M" pack_qty="2" stock="8" price="20.00"/>
+          <variant sku="21629-26-L" barcode="8682502897184" size="L" pack_qty="1" stock="4" price="20.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="21630">
     <shopify_id>10257999396934</shopify_id>
-    <updated_at>2026-11-04T01:26:15Z</updated_at>
+    <updated_at>2026-11-04T13:48:23Z</updated_at>
     <title><![CDATA[Satin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
-    <category><![CDATA[Uncategorized]]></category>
+    <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
     <gender>Woman</gender>
     <material><![CDATA[Viscose %100]]></material>
     <fit><![CDATA[Regular Fit]]></fit>
@@ -49144,8 +49277,11 @@
         <pack_price>84.00</pack_price>
         <packs_in_stock>3</packs_in_stock>
         <images>
-          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/WhatsAppImage2026-10-19at16.58.22.jpg</image>
-          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/WhatsAppImage2026-10-19at16.58.22_1.jpg</image>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_5.jpg</image>
         </images>
         <variants>
           <variant sku="21630-106-XS" barcode="8682502897382" size="XS" pack_qty="1" stock="4" price="14.00"/>
@@ -49246,6 +49382,44 @@
           <variant sku="21632-26-S" barcode="8682502897603" size="S" pack_qty="2" stock="10" price="17.00"/>
           <variant sku="21632-26-M" barcode="8682502897597" size="M" pack_qty="2" stock="10" price="17.00"/>
           <variant sku="21632-26-L" barcode="8682502897580" size="L" pack_qty="1" stock="5" price="17.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21633">
+    <shopify_id>10257999462470</shopify_id>
+    <updated_at>2026-11-04T13:50:26Z</updated_at>
+    <title><![CDATA[Sheer Draped Lace Mini Dress]]></title>
+    <product_type><![CDATA[Dresses]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Inner Material: Elastane %3, Pes %97, Elastane %1, Outer Material: Polyamid %99]]></material>
+    <fit><![CDATA[Slim Fit]]></fit>
+    <fabric_type><![CDATA[Knitting]]></fabric_type>
+    <measurements><![CDATA[Bust: 37 cm - Waist: 28 cm - Hips: 38 cm - Sleeve Length: 65 cm - Length: 79 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21633-02" code="02" name="Black">
+        <unit_price>11.00</unit_price>
+        <pack_price>66.00</pack_price>
+        <packs_in_stock>1</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897689_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897689_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897689_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897689_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897689_5.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21633-02-XS" barcode="8682502897689" size="XS" pack_qty="1" stock="2" price="11.00"/>
+          <variant sku="21633-02-S" barcode="8682502897672" size="S" pack_qty="2" stock="4" price="11.00"/>
+          <variant sku="21633-02-M" barcode="8682502897665" size="M" pack_qty="2" stock="4" price="11.00"/>
+          <variant sku="21633-02-L" barcode="8682502897658" size="L" pack_qty="1" stock="2" price="11.00"/>
         </variants>
       </color>
     </colors>
@@ -49462,6 +49636,120 @@
           <variant sku="21640-278-S" barcode="8682502899201" size="S" pack_qty="2" stock="14" price="15.50"/>
           <variant sku="21640-278-M" barcode="8682502899195" size="M" pack_qty="2" stock="14" price="15.50"/>
           <variant sku="21640-278-L" barcode="8682502899188" size="L" pack_qty="1" stock="7" price="15.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21647">
+    <shopify_id>10265110806598</shopify_id>
+    <updated_at>2026-11-04T13:33:11Z</updated_at>
+    <title><![CDATA[Button Detail Midi Pencil Skirt]]></title>
+    <product_type><![CDATA[Skirts]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Inner Material: Elastane %3, Pes %97, Outer Material: Pes %100]]></material>
+    <fit><![CDATA[Oversize]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Waist 33cm Hips 47.5cm Height 82cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21647-48" code="48" name="Ecru">
+        <unit_price>16.00</unit_price>
+        <pack_price>96.00</pack_price>
+        <packs_in_stock>1</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900075_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900075_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900075_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900075_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900075_5.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21647-48-XS" barcode="8682502900075" size="XS" pack_qty="1" stock="2" price="16.00"/>
+          <variant sku="21647-48-S" barcode="8682502900068" size="S" pack_qty="2" stock="4" price="16.00"/>
+          <variant sku="21647-48-M" barcode="8682502900051" size="M" pack_qty="2" stock="4" price="16.00"/>
+          <variant sku="21647-48-L" barcode="8682502900044" size="L" pack_qty="1" stock="2" price="16.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21648">
+    <shopify_id>10265111068742</shopify_id>
+    <updated_at>2026-11-04T13:33:31Z</updated_at>
+    <title><![CDATA[Blazer Jacket with Button Detail Without Collar]]></title>
+    <product_type><![CDATA[Jackets & Coats]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Inner Material: Elastane %3, Pes %97, Outer Material: Pes %100]]></material>
+    <fit><![CDATA[Oversize]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Chest 43cm Waist 38cm Arm length 69.5cm Height 52 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21648-48" code="48" name="Ecru">
+        <unit_price>26.00</unit_price>
+        <pack_price>156.00</pack_price>
+        <packs_in_stock>2</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_5.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21648-48-XS" barcode="8682502900112" size="XS" pack_qty="1" stock="3" price="26.00"/>
+          <variant sku="21648-48-S" barcode="8682502900105" size="S" pack_qty="2" stock="6" price="26.00"/>
+          <variant sku="21648-48-M" barcode="8682502900099" size="M" pack_qty="2" stock="6" price="26.00"/>
+          <variant sku="21648-48-L" barcode="8682502900082" size="L" pack_qty="1" stock="3" price="26.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21656">
+    <shopify_id>10270036951110</shopify_id>
+    <updated_at>2026-11-04T13:26:16Z</updated_at>
+    <title><![CDATA[Drape Tulle Maxi Skirt]]></title>
+    <product_type><![CDATA[Skirts]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Inner Material: Elastane %5, Pes %95, Outer Material: Polyamid %100]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Knitting]]></fabric_type>
+    <measurements><![CDATA[Waist: 33 cm, Hips: 44.5 cm, Height: 100 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21656-07" code="07" name="Brown">
+        <unit_price>11.00</unit_price>
+        <pack_price>66.00</pack_price>
+        <packs_in_stock>11</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502902574_1.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502902574_2.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502902574_3.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502902574_4.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502902574_5.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21656-07-XS" barcode="8682502902574" size="XS" pack_qty="1" stock="12" price="11.00"/>
+          <variant sku="21656-07-S" barcode="8682502902567" size="S" pack_qty="2" stock="24" price="11.00"/>
+          <variant sku="21656-07-M" barcode="8682502902550" size="M" pack_qty="2" stock="24" price="11.00"/>
+          <variant sku="21656-07-L" barcode="8682502902543" size="L" pack_qty="1" stock="12" price="11.00"/>
         </variants>
       </color>
     </colors>
