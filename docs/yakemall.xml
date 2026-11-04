@@ -15021,7 +15021,7 @@
   </product>
   <product id="19505">
     <shopify_id>8486479003718</shopify_id>
-    <updated_at>2026-11-04T01:02:23Z</updated_at>
+    <updated_at>2026-11-04T12:13:27Z</updated_at>
     <title><![CDATA[Zippered Knit Mini Pencil Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -15040,7 +15040,7 @@
       <color id="19505-02" code="02" name="Black">
         <unit_price>11.00</unit_price>
         <pack_price>77.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fermuarli-triko-mini-kalem-elbise_19505_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fermuarli-triko-mini-kalem-elbise_19505_siyah-siyah_2_buyuk.jpg</image>
@@ -15053,10 +15053,10 @@
           <image position="9">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fermuarli-triko-mini-kalem-elbise_19505_siyah-siyah_9_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19505-02-XS" barcode="8682502663888" size="XS" pack_qty="2" stock="16" price="11.00"/>
-          <variant sku="19505-02-S" barcode="8682502663871" size="S" pack_qty="2" stock="16" price="11.00"/>
-          <variant sku="19505-02-M" barcode="8682502663864" size="M" pack_qty="2" stock="16" price="11.00"/>
-          <variant sku="19505-02-L" barcode="8682502663857" size="L" pack_qty="1" stock="8" price="11.00"/>
+          <variant sku="19505-02-XS" barcode="8682502663888" size="XS" pack_qty="2" stock="14" price="11.00"/>
+          <variant sku="19505-02-S" barcode="8682502663871" size="S" pack_qty="2" stock="14" price="11.00"/>
+          <variant sku="19505-02-M" barcode="8682502663864" size="M" pack_qty="2" stock="14" price="11.00"/>
+          <variant sku="19505-02-L" barcode="8682502663857" size="L" pack_qty="1" stock="7" price="11.00"/>
         </variants>
       </color>
     </colors>
@@ -33264,7 +33264,7 @@
   </product>
   <product id="21111">
     <shopify_id>8486275252294</shopify_id>
-    <updated_at>2026-11-04T02:16:11Z</updated_at>
+    <updated_at>2026-11-04T12:13:16Z</updated_at>
     <title><![CDATA[Knitted Carmel Collar Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33299,17 +33299,17 @@
       <color id="21111-07" code="07" name="Brown">
         <unit_price>22.50</unit_price>
         <pack_price>135.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-carmel-yaka-mini-elbise_21111_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-carmel-yaka-mini-elbise_21111_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-carmel-yaka-mini-elbise_21111_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21111-07-XS" barcode="8682502837098" size="XS" pack_qty="1" stock="2" price="22.50"/>
-          <variant sku="21111-07-S" barcode="8682502837081" size="S" pack_qty="2" stock="4" price="22.50"/>
-          <variant sku="21111-07-M" barcode="8682502837074" size="M" pack_qty="2" stock="4" price="22.50"/>
-          <variant sku="21111-07-L" barcode="8682502837067" size="L" pack_qty="1" stock="2" price="22.50"/>
+          <variant sku="21111-07-XS" barcode="8682502837098" size="XS" pack_qty="1" stock="1" price="22.50"/>
+          <variant sku="21111-07-S" barcode="8682502837081" size="S" pack_qty="2" stock="2" price="22.50"/>
+          <variant sku="21111-07-M" barcode="8682502837074" size="M" pack_qty="2" stock="2" price="22.50"/>
+          <variant sku="21111-07-L" barcode="8682502837067" size="L" pack_qty="1" stock="1" price="22.50"/>
         </variants>
       </color>
     </colors>
@@ -34339,7 +34339,7 @@
   </product>
   <product id="21137">
     <shopify_id>8486276235334</shopify_id>
-    <updated_at>2026-11-04T03:50:15Z</updated_at>
+    <updated_at>2026-11-04T12:13:27Z</updated_at>
     <title><![CDATA[Asymmetrical Collar Buckle Knitted Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -34358,17 +34358,17 @@
       <color id="21137-02" code="02" name="Black">
         <unit_price>14.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_siyah-siyah_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_siyah-siyah_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21137-02-XS" barcode="8682502844577" size="XS" pack_qty="1" stock="3" price="14.00"/>
-          <variant sku="21137-02-S" barcode="8682502844560" size="S" pack_qty="2" stock="6" price="14.00"/>
-          <variant sku="21137-02-M" barcode="8682502844553" size="M" pack_qty="2" stock="6" price="14.00"/>
-          <variant sku="21137-02-L" barcode="8682502844546" size="L" pack_qty="1" stock="3" price="14.00"/>
+          <variant sku="21137-02-XS" barcode="8682502844577" size="XS" pack_qty="1" stock="2" price="14.00"/>
+          <variant sku="21137-02-S" barcode="8682502844560" size="S" pack_qty="2" stock="4" price="14.00"/>
+          <variant sku="21137-02-M" barcode="8682502844553" size="M" pack_qty="2" stock="4" price="14.00"/>
+          <variant sku="21137-02-L" barcode="8682502844546" size="L" pack_qty="1" stock="2" price="14.00"/>
         </variants>
       </color>
       <color id="21137-07" code="07" name="Brown">
@@ -34390,7 +34390,7 @@
       <color id="21137-48" code="48" name="Ecru">
         <unit_price>14.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_ekru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_ekru-ekru_2_buyuk.jpg</image>
@@ -34398,10 +34398,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_ekru-ekru_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21137-48-XS" barcode="8682502844652" size="XS" pack_qty="1" stock="8" price="14.00"/>
-          <variant sku="21137-48-S" barcode="8682502844645" size="S" pack_qty="2" stock="16" price="14.00"/>
-          <variant sku="21137-48-M" barcode="8682502844638" size="M" pack_qty="2" stock="16" price="14.00"/>
-          <variant sku="21137-48-L" barcode="8682502844621" size="L" pack_qty="1" stock="8" price="14.00"/>
+          <variant sku="21137-48-XS" barcode="8682502844652" size="XS" pack_qty="1" stock="7" price="14.00"/>
+          <variant sku="21137-48-S" barcode="8682502844645" size="S" pack_qty="2" stock="14" price="14.00"/>
+          <variant sku="21137-48-M" barcode="8682502844638" size="M" pack_qty="2" stock="14" price="14.00"/>
+          <variant sku="21137-48-L" barcode="8682502844621" size="L" pack_qty="1" stock="7" price="14.00"/>
         </variants>
       </color>
     </colors>
@@ -48991,7 +48991,7 @@
   </product>
   <product id="21627">
     <shopify_id>10248052015174</shopify_id>
-    <updated_at>2026-11-04T00:20:46Z</updated_at>
+    <updated_at>2026-11-04T12:13:26Z</updated_at>
     <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -49010,7 +49010,7 @@
       <color id="21627-05" code="05" name="Navy blue">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>5</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_2.jpg</image>
@@ -49019,10 +49019,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="7" price="18.00"/>
-          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="14" price="18.00"/>
-          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="14" price="18.00"/>
-          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="7" price="18.00"/>
+          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="6" price="18.00"/>
+          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="12" price="18.00"/>
+          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="12" price="18.00"/>
+          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="6" price="18.00"/>
         </variants>
       </color>
     </colors>
