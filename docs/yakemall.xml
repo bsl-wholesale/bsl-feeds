@@ -36461,7 +36461,7 @@
   </product>
   <product id="21222">
     <shopify_id>8486145458246</shopify_id>
-    <updated_at>2026-11-06T01:57:15Z</updated_at>
+    <updated_at>2026-11-06T15:13:35Z</updated_at>
     <title><![CDATA[Cupra Oversize Basic T-shirt]]></title>
     <product_type><![CDATA[T-Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > T-Shirts]]></category>
@@ -36534,7 +36534,7 @@
       <color id="21222-48" code="48" name="Ecru">
         <unit_price>9.50</unit_price>
         <pack_price>57.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/cupra-oversize-basic-tshirt_21222_ekru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/cupra-oversize-basic-tshirt_21222_ekru-ekru_2_buyuk.jpg</image>
@@ -36543,10 +36543,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/cupra-oversize-basic-tshirt_21222_ekru-ekru_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21222-48-S" barcode="8682502855245" size="S" pack_qty="2" stock="4" price="9.50"/>
-          <variant sku="21222-48-M" barcode="8682502855238" size="M" pack_qty="2" stock="4" price="9.50"/>
-          <variant sku="21222-48-L" barcode="8682502855221" size="L" pack_qty="1" stock="2" price="9.50"/>
-          <variant sku="21222-48-XL" barcode="8682502855252" size="XL" pack_qty="1" stock="2" price="9.50"/>
+          <variant sku="21222-48-S" barcode="8682502855245" size="S" pack_qty="2" stock="2" price="9.50"/>
+          <variant sku="21222-48-M" barcode="8682502855238" size="M" pack_qty="2" stock="2" price="9.50"/>
+          <variant sku="21222-48-L" barcode="8682502855221" size="L" pack_qty="1" stock="1" price="9.50"/>
+          <variant sku="21222-48-XL" barcode="8682502855252" size="XL" pack_qty="1" stock="1" price="9.50"/>
         </variants>
       </color>
     </colors>
