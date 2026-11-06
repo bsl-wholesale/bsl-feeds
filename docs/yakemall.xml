@@ -30367,7 +30367,7 @@
   </product>
   <product id="21002">
     <shopify_id>8486270206022</shopify_id>
-    <updated_at>2026-11-06T03:53:46Z</updated_at>
+    <updated_at>2026-11-06T09:13:32Z</updated_at>
     <title><![CDATA[Sleeveless Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -30386,17 +30386,17 @@
       <color id="21002-05" code="05" name="Navy">
         <unit_price>29.00</unit_price>
         <pack_price>174.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-mini-elbise_21002_lacivert-lacivert_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-mini-elbise_21002_lacivert-lacivert_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-mini-elbise_21002_lacivert-lacivert_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21002-05-XS" barcode="8682502819360" size="XS" pack_qty="1" stock="8" price="29.00"/>
-          <variant sku="21002-05-S" barcode="8682502819353" size="S" pack_qty="2" stock="16" price="29.00"/>
-          <variant sku="21002-05-M" barcode="8682502819346" size="M" pack_qty="2" stock="16" price="29.00"/>
-          <variant sku="21002-05-L" barcode="8682502819339" size="L" pack_qty="1" stock="8" price="29.00"/>
+          <variant sku="21002-05-XS" barcode="8682502819360" size="XS" pack_qty="1" stock="7" price="29.00"/>
+          <variant sku="21002-05-S" barcode="8682502819353" size="S" pack_qty="2" stock="14" price="29.00"/>
+          <variant sku="21002-05-M" barcode="8682502819346" size="M" pack_qty="2" stock="14" price="29.00"/>
+          <variant sku="21002-05-L" barcode="8682502819339" size="L" pack_qty="1" stock="7" price="29.00"/>
         </variants>
       </color>
     </colors>
@@ -35775,7 +35775,7 @@
   </product>
   <product id="21192">
     <shopify_id>8486277906502</shopify_id>
-    <updated_at>2026-11-06T01:36:35Z</updated_at>
+    <updated_at>2026-11-06T09:13:51Z</updated_at>
     <title><![CDATA[Plaid Flared Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35801,10 +35801,10 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21192_antrasit-antrasit_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21192-40-XS" barcode="8682502852015" size="XS" pack_qty="1" stock="1" price="16.00"/>
-          <variant sku="21192-40-S" barcode="8682502852008" size="S" pack_qty="2" stock="2" price="16.00"/>
-          <variant sku="21192-40-M" barcode="8682502851995" size="M" pack_qty="2" stock="2" price="16.00"/>
-          <variant sku="21192-40-L" barcode="8682502851988" size="L" pack_qty="1" stock="1" price="16.00"/>
+          <variant sku="21192-40-XS" barcode="8682502852015" size="XS" pack_qty="1" stock="0" price="16.00"/>
+          <variant sku="21192-40-S" barcode="8682502852008" size="S" pack_qty="2" stock="0" price="16.00"/>
+          <variant sku="21192-40-M" barcode="8682502851995" size="M" pack_qty="2" stock="0" price="16.00"/>
+          <variant sku="21192-40-L" barcode="8682502851988" size="L" pack_qty="1" stock="0" price="16.00"/>
         </variants>
       </color>
     </colors>
@@ -48691,7 +48691,7 @@
   </product>
   <product id="21580">
     <shopify_id>10238690394182</shopify_id>
-    <updated_at>2026-11-06T02:19:30Z</updated_at>
+    <updated_at>2026-11-06T09:13:56Z</updated_at>
     <title><![CDATA[Stand-Collar Jacket with Button Detail]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -48710,7 +48710,7 @@
       <color id="21580-02" code="02" name="Black">
         <unit_price>32.00</unit_price>
         <pack_price>192.00</pack_price>
-        <packs_in_stock>9</packs_in_stock>
+        <packs_in_stock>13</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_2.jpg</image>
@@ -48719,10 +48719,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897986_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21580-02-XS" barcode="8682502897986" size="XS" pack_qty="1" stock="10" price="32.00"/>
-          <variant sku="21580-02-S" barcode="8682502897979" size="S" pack_qty="2" stock="20" price="32.00"/>
-          <variant sku="21580-02-M" barcode="8682502897962" size="M" pack_qty="2" stock="20" price="32.00"/>
-          <variant sku="21580-02-L" barcode="8682502897955" size="L" pack_qty="1" stock="10" price="32.00"/>
+          <variant sku="21580-02-XS" barcode="8682502897986" size="XS" pack_qty="1" stock="14" price="32.00"/>
+          <variant sku="21580-02-S" barcode="8682502897979" size="S" pack_qty="2" stock="28" price="32.00"/>
+          <variant sku="21580-02-M" barcode="8682502897962" size="M" pack_qty="2" stock="28" price="32.00"/>
+          <variant sku="21580-02-L" barcode="8682502897955" size="L" pack_qty="1" stock="14" price="32.00"/>
         </variants>
       </color>
     </colors>
