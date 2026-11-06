@@ -6635,7 +6635,7 @@
   </product>
   <product id="18493">
     <shopify_id>8486480707654</shopify_id>
-    <updated_at>2026-11-06T03:31:46Z</updated_at>
+    <updated_at>2026-11-06T10:43:17Z</updated_at>
     <title><![CDATA[Crew neck oversize knitted sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -6652,7 +6652,7 @@
       <color id="18493-26" code="26" name="Beige">
         <unit_price>14.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>28</packs_in_stock>
+        <packs_in_stock>25</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_2_buyuk.jpg</image>
@@ -6664,8 +6664,8 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-oversize-triko-kazak_18493_bej-bej_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18493-26-XS-S" barcode="8682502549113" size="XS-S" pack_qty="3" stock="87" price="14.00"/>
-          <variant sku="18493-26-M-L" barcode="8682502549106" size="M-L" pack_qty="3" stock="87" price="14.00"/>
+          <variant sku="18493-26-XS-S" barcode="8682502549113" size="XS-S" pack_qty="3" stock="78" price="14.00"/>
+          <variant sku="18493-26-M-L" barcode="8682502549106" size="M-L" pack_qty="3" stock="78" price="14.00"/>
         </variants>
       </color>
     </colors>
@@ -35276,7 +35276,7 @@
   </product>
   <product id="21169">
     <shopify_id>8486277152838</shopify_id>
-    <updated_at>2026-11-06T02:37:55Z</updated_at>
+    <updated_at>2026-11-06T10:43:11Z</updated_at>
     <title><![CDATA[Bicycle Collar Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35295,7 +35295,7 @@
       <color id="21169-07" code="07" name="Brown">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_kahve-kahverengi_2_buyuk.jpg</image>
@@ -35303,10 +35303,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_kahve-kahverengi_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21169-07-XS" barcode="8682502847493" size="XS" pack_qty="1" stock="3" price="11.50"/>
-          <variant sku="21169-07-S" barcode="8682502847486" size="S" pack_qty="2" stock="6" price="11.50"/>
-          <variant sku="21169-07-M" barcode="8682502847479" size="M" pack_qty="2" stock="6" price="11.50"/>
-          <variant sku="21169-07-L" barcode="8682502847462" size="L" pack_qty="1" stock="3" price="11.50"/>
+          <variant sku="21169-07-XS" barcode="8682502847493" size="XS" pack_qty="1" stock="1" price="11.50"/>
+          <variant sku="21169-07-S" barcode="8682502847486" size="S" pack_qty="2" stock="2" price="11.50"/>
+          <variant sku="21169-07-M" barcode="8682502847479" size="M" pack_qty="2" stock="2" price="11.50"/>
+          <variant sku="21169-07-L" barcode="8682502847462" size="L" pack_qty="1" stock="1" price="11.50"/>
         </variants>
       </color>
       <color id="21169-08" code="08" name="Khaki">
