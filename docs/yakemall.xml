@@ -15341,7 +15341,7 @@
   </product>
   <product id="19537">
     <shopify_id>8486479167558</shopify_id>
-    <updated_at>2026-11-06T04:37:56Z</updated_at>
+    <updated_at>2026-11-06T19:43:12Z</updated_at>
     <title><![CDATA[Shirt Collar Oversized Knit Pullover]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -15371,10 +15371,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yakali-oversize-triko-kazak_19537_haki-haki_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19537-08-XS" barcode="8682502667459" size="XS" pack_qty="2" stock="2" price="12.00"/>
-          <variant sku="19537-08-S" barcode="8682502667442" size="S" pack_qty="2" stock="2" price="12.00"/>
-          <variant sku="19537-08-M" barcode="8682502667435" size="M" pack_qty="2" stock="2" price="12.00"/>
-          <variant sku="19537-08-L" barcode="8682502667428" size="L" pack_qty="1" stock="1" price="12.00"/>
+          <variant sku="19537-08-XS" barcode="8682502667459" size="XS" pack_qty="2" stock="0" price="12.00"/>
+          <variant sku="19537-08-S" barcode="8682502667442" size="S" pack_qty="2" stock="0" price="12.00"/>
+          <variant sku="19537-08-M" barcode="8682502667435" size="M" pack_qty="2" stock="0" price="12.00"/>
+          <variant sku="19537-08-L" barcode="8682502667428" size="L" pack_qty="1" stock="0" price="12.00"/>
         </variants>
       </color>
       <color id="19537-48" code="48" name="Ecru">
@@ -45773,7 +45773,7 @@
   </product>
   <product id="21490">
     <shopify_id>8497958027334</shopify_id>
-    <updated_at>2026-11-06T03:16:06Z</updated_at>
+    <updated_at>2026-11-06T19:43:26Z</updated_at>
     <title><![CDATA[Thick-Strapped Ruffled Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -45810,15 +45810,15 @@
       <color id="21490-13" code="13" name="Yellow">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>16</packs_in_stock>
+        <packs_in_stock>15</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502884931_1.jpg</image>
         </images>
         <variants>
-          <variant sku="21490-13-XS" barcode="8682502884931" size="XS" pack_qty="1" stock="17" price="18.00"/>
-          <variant sku="21490-13-S" barcode="8682502884924" size="S" pack_qty="2" stock="34" price="18.00"/>
-          <variant sku="21490-13-M" barcode="8682502884917" size="M" pack_qty="2" stock="34" price="18.00"/>
-          <variant sku="21490-13-L" barcode="8682502884900" size="L" pack_qty="1" stock="17" price="18.00"/>
+          <variant sku="21490-13-XS" barcode="8682502884931" size="XS" pack_qty="1" stock="16" price="18.00"/>
+          <variant sku="21490-13-S" barcode="8682502884924" size="S" pack_qty="2" stock="32" price="18.00"/>
+          <variant sku="21490-13-M" barcode="8682502884917" size="M" pack_qty="2" stock="32" price="18.00"/>
+          <variant sku="21490-13-L" barcode="8682502884900" size="L" pack_qty="1" stock="16" price="18.00"/>
         </variants>
       </color>
     </colors>
