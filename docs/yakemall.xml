@@ -27472,7 +27472,7 @@
   </product>
   <product id="20825">
     <shopify_id>8486264799302</shopify_id>
-    <updated_at>2026-11-07T01:27:31Z</updated_at>
+    <updated_at>2026-11-07T12:13:21Z</updated_at>
     <title><![CDATA[100% Linen Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -27508,15 +27508,15 @@
       <color id="20825-08" code="08" name="Khaki">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502888922_1.jpg</image>
         </images>
         <variants>
-          <variant sku="20825-08-XS" barcode="8682502888922" size="XS" pack_qty="1" stock="3" price="27.00"/>
-          <variant sku="20825-08-S" barcode="8682502888915" size="S" pack_qty="2" stock="6" price="27.00"/>
-          <variant sku="20825-08-M" barcode="8682502888908" size="M" pack_qty="2" stock="6" price="27.00"/>
-          <variant sku="20825-08-L" barcode="8682502888892" size="L" pack_qty="1" stock="3" price="27.00"/>
+          <variant sku="20825-08-XS" barcode="8682502888922" size="XS" pack_qty="1" stock="2" price="27.00"/>
+          <variant sku="20825-08-S" barcode="8682502888915" size="S" pack_qty="2" stock="4" price="27.00"/>
+          <variant sku="20825-08-M" barcode="8682502888908" size="M" pack_qty="2" stock="4" price="27.00"/>
+          <variant sku="20825-08-L" barcode="8682502888892" size="L" pack_qty="1" stock="2" price="27.00"/>
         </variants>
       </color>
       <color id="20825-26" code="26" name="Beige">
@@ -35738,7 +35738,7 @@
   </product>
   <product id="21190">
     <shopify_id>8486277808198</shopify_id>
-    <updated_at>2026-11-07T01:49:35Z</updated_at>
+    <updated_at>2026-11-07T12:13:25Z</updated_at>
     <title><![CDATA[Striped Zip-Up Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -35757,7 +35757,7 @@
       <color id="21190-40" code="40" name="Anthracite">
         <unit_price>21.00</unit_price>
         <pack_price>126.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-fermuarli-sweatshirt_21190_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-fermuarli-sweatshirt_21190_antrasit-antrasit_2_buyuk.jpg</image>
@@ -35765,10 +35765,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-fermuarli-sweatshirt_21190_antrasit-antrasit_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21190-40-XS" barcode="8682502851933" size="XS" pack_qty="1" stock="9" price="21.00"/>
-          <variant sku="21190-40-S" barcode="8682502851926" size="S" pack_qty="2" stock="18" price="21.00"/>
-          <variant sku="21190-40-M" barcode="8682502851919" size="M" pack_qty="2" stock="18" price="21.00"/>
-          <variant sku="21190-40-L" barcode="8682502851902" size="L" pack_qty="1" stock="9" price="21.00"/>
+          <variant sku="21190-40-XS" barcode="8682502851933" size="XS" pack_qty="1" stock="8" price="21.00"/>
+          <variant sku="21190-40-S" barcode="8682502851926" size="S" pack_qty="2" stock="16" price="21.00"/>
+          <variant sku="21190-40-M" barcode="8682502851919" size="M" pack_qty="2" stock="16" price="21.00"/>
+          <variant sku="21190-40-L" barcode="8682502851902" size="L" pack_qty="1" stock="8" price="21.00"/>
         </variants>
       </color>
     </colors>
@@ -35955,7 +35955,7 @@
   </product>
   <product id="21207">
     <shopify_id>8486278004806</shopify_id>
-    <updated_at>2026-11-07T03:37:15Z</updated_at>
+    <updated_at>2026-11-07T12:13:20Z</updated_at>
     <title><![CDATA[Striped Trimmed Sports Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -35974,7 +35974,7 @@
       <color id="21207-40" code="40" name="Anthracite">
         <unit_price>17.50</unit_price>
         <pack_price>105.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-spor-pantolon_21207_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-spor-pantolon_21207_antrasit-antrasit_2_buyuk.jpg</image>
@@ -35982,10 +35982,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/serit-garnili-spor-pantolon_21207_antrasit-antrasit_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21207-40-XS" barcode="8682502853227" size="XS" pack_qty="1" stock="9" price="17.50"/>
-          <variant sku="21207-40-S" barcode="8682502853210" size="S" pack_qty="2" stock="18" price="17.50"/>
-          <variant sku="21207-40-M" barcode="8682502853203" size="M" pack_qty="2" stock="18" price="17.50"/>
-          <variant sku="21207-40-L" barcode="8682502853197" size="L" pack_qty="1" stock="9" price="17.50"/>
+          <variant sku="21207-40-XS" barcode="8682502853227" size="XS" pack_qty="1" stock="8" price="17.50"/>
+          <variant sku="21207-40-S" barcode="8682502853210" size="S" pack_qty="2" stock="16" price="17.50"/>
+          <variant sku="21207-40-M" barcode="8682502853203" size="M" pack_qty="2" stock="16" price="17.50"/>
+          <variant sku="21207-40-L" barcode="8682502853197" size="L" pack_qty="1" stock="8" price="17.50"/>
         </variants>
       </color>
     </colors>
