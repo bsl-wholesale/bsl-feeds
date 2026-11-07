@@ -27472,7 +27472,7 @@
   </product>
   <product id="20825">
     <shopify_id>8486264799302</shopify_id>
-    <updated_at>2026-11-07T12:13:21Z</updated_at>
+    <updated_at>2026-11-07T15:13:11Z</updated_at>
     <title><![CDATA[100% Linen Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -27508,15 +27508,15 @@
       <color id="20825-08" code="08" name="Khaki">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502888922_1.jpg</image>
         </images>
         <variants>
-          <variant sku="20825-08-XS" barcode="8682502888922" size="XS" pack_qty="1" stock="2" price="27.00"/>
-          <variant sku="20825-08-S" barcode="8682502888915" size="S" pack_qty="2" stock="4" price="27.00"/>
-          <variant sku="20825-08-M" barcode="8682502888908" size="M" pack_qty="2" stock="4" price="27.00"/>
-          <variant sku="20825-08-L" barcode="8682502888892" size="L" pack_qty="1" stock="2" price="27.00"/>
+          <variant sku="20825-08-XS" barcode="8682502888922" size="XS" pack_qty="1" stock="1" price="27.00"/>
+          <variant sku="20825-08-S" barcode="8682502888915" size="S" pack_qty="2" stock="2" price="27.00"/>
+          <variant sku="20825-08-M" barcode="8682502888908" size="M" pack_qty="2" stock="2" price="27.00"/>
+          <variant sku="20825-08-L" barcode="8682502888892" size="L" pack_qty="1" stock="1" price="27.00"/>
         </variants>
       </color>
       <color id="20825-26" code="26" name="Beige">
@@ -34835,7 +34835,7 @@
   </product>
   <product id="21153">
     <shopify_id>8486276694086</shopify_id>
-    <updated_at>2026-11-07T04:23:31Z</updated_at>
+    <updated_at>2026-11-07T15:13:26Z</updated_at>
     <title><![CDATA[Draped Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -34871,17 +34871,17 @@
       <color id="21153-40" code="40" name="Anthracite">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>19</packs_in_stock>
+        <packs_in_stock>18</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_antrasit-antrasit_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_antrasit-antrasit_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21153-40-XS" barcode="8682502846175" size="XS" pack_qty="1" stock="20" price="11.50"/>
-          <variant sku="21153-40-S" barcode="8682502846168" size="S" pack_qty="2" stock="40" price="11.50"/>
-          <variant sku="21153-40-M" barcode="8682502846151" size="M" pack_qty="2" stock="40" price="11.50"/>
-          <variant sku="21153-40-L" barcode="8682502846144" size="L" pack_qty="1" stock="20" price="11.50"/>
+          <variant sku="21153-40-XS" barcode="8682502846175" size="XS" pack_qty="1" stock="19" price="11.50"/>
+          <variant sku="21153-40-S" barcode="8682502846168" size="S" pack_qty="2" stock="38" price="11.50"/>
+          <variant sku="21153-40-M" barcode="8682502846151" size="M" pack_qty="2" stock="38" price="11.50"/>
+          <variant sku="21153-40-L" barcode="8682502846144" size="L" pack_qty="1" stock="19" price="11.50"/>
         </variants>
       </color>
     </colors>
