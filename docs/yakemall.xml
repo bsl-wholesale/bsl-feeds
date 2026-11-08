@@ -34888,7 +34888,7 @@
   </product>
   <product id="21154">
     <shopify_id>8486276726854</shopify_id>
-    <updated_at>2026-11-08T01:28:55Z</updated_at>
+    <updated_at>2026-11-08T07:43:16Z</updated_at>
     <title><![CDATA[Soft Straight Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -34923,17 +34923,17 @@
       <color id="21154-40" code="40" name="Anthracite">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>14</packs_in_stock>
+        <packs_in_stock>13</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21154-40-XS" barcode="8682502846250" size="XS" pack_qty="1" stock="15" price="11.50"/>
-          <variant sku="21154-40-S" barcode="8682502846243" size="S" pack_qty="2" stock="30" price="11.50"/>
-          <variant sku="21154-40-M" barcode="8682502846236" size="M" pack_qty="2" stock="30" price="11.50"/>
-          <variant sku="21154-40-L" barcode="8682502846229" size="L" pack_qty="1" stock="15" price="11.50"/>
+          <variant sku="21154-40-XS" barcode="8682502846250" size="XS" pack_qty="1" stock="14" price="11.50"/>
+          <variant sku="21154-40-S" barcode="8682502846243" size="S" pack_qty="2" stock="28" price="11.50"/>
+          <variant sku="21154-40-M" barcode="8682502846236" size="M" pack_qty="2" stock="28" price="11.50"/>
+          <variant sku="21154-40-L" barcode="8682502846229" size="L" pack_qty="1" stock="14" price="11.50"/>
         </variants>
       </color>
     </colors>
@@ -35678,7 +35678,7 @@
   </product>
   <product id="21189">
     <shopify_id>8486277709894</shopify_id>
-    <updated_at>2026-11-08T02:22:30Z</updated_at>
+    <updated_at>2026-11-08T07:43:20Z</updated_at>
     <title><![CDATA[Knitted Straight Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -35695,15 +35695,15 @@
       <color id="21189-02" code="02" name="Black">
         <unit_price>19.00</unit_price>
         <pack_price>76.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_siyah-siyah_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-duz-paca-pantolon_21189_siyah-siyah_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21189-02-XS-S" barcode="8682502851513" size="XS-S" pack_qty="2" stock="4" price="19.00"/>
-          <variant sku="21189-02-M-L" barcode="8682502851506" size="M-L" pack_qty="2" stock="4" price="19.00"/>
+          <variant sku="21189-02-XS-S" barcode="8682502851513" size="XS-S" pack_qty="2" stock="0" price="19.00"/>
+          <variant sku="21189-02-M-L" barcode="8682502851506" size="M-L" pack_qty="2" stock="0" price="19.00"/>
         </variants>
       </color>
       <color id="21189-06" code="06" name="Grey">
