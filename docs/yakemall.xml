@@ -31509,7 +31509,7 @@
   </product>
   <product id="21042">
     <shopify_id>8486271844422</shopify_id>
-    <updated_at>2026-11-08T04:33:35Z</updated_at>
+    <updated_at>2026-11-08T09:13:16Z</updated_at>
     <title><![CDATA[Ribbed Slim Cardigan]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -31544,16 +31544,16 @@
       <color id="21042-07" code="07" name="Brown">
         <unit_price>16.00</unit_price>
         <pack_price>96.00</pack_price>
-        <packs_in_stock>4</packs_in_stock>
+        <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-fitilli-slim-hirka_21042_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-fitilli-slim-hirka_21042_kahve-kahverengi_2_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21042-07-XS" barcode="8682502825002" size="XS" pack_qty="1" stock="5" price="16.00"/>
-          <variant sku="21042-07-S" barcode="8682502824999" size="S" pack_qty="2" stock="10" price="16.00"/>
-          <variant sku="21042-07-M" barcode="8682502824982" size="M" pack_qty="2" stock="10" price="16.00"/>
-          <variant sku="21042-07-L" barcode="8682502824975" size="L" pack_qty="1" stock="5" price="16.00"/>
+          <variant sku="21042-07-XS" barcode="8682502825002" size="XS" pack_qty="1" stock="4" price="16.00"/>
+          <variant sku="21042-07-S" barcode="8682502824999" size="S" pack_qty="2" stock="8" price="16.00"/>
+          <variant sku="21042-07-M" barcode="8682502824982" size="M" pack_qty="2" stock="8" price="16.00"/>
+          <variant sku="21042-07-L" barcode="8682502824975" size="L" pack_qty="1" stock="4" price="16.00"/>
         </variants>
       </color>
     </colors>
