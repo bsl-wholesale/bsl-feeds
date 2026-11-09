@@ -34835,7 +34835,7 @@
   </product>
   <product id="21153">
     <shopify_id>8486276694086</shopify_id>
-    <updated_at>2026-11-09T04:33:45Z</updated_at>
+    <updated_at>2026-11-09T09:13:30Z</updated_at>
     <title><![CDATA[Draped Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -34862,10 +34862,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_haki-haki_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21153-08-XS" barcode="8682502846137" size="XS" pack_qty="1" stock="1" price="11.50"/>
-          <variant sku="21153-08-S" barcode="8682502846120" size="S" pack_qty="2" stock="2" price="11.50"/>
-          <variant sku="21153-08-M" barcode="8682502846113" size="M" pack_qty="2" stock="2" price="11.50"/>
-          <variant sku="21153-08-L" barcode="8682502846106" size="L" pack_qty="1" stock="1" price="11.50"/>
+          <variant sku="21153-08-XS" barcode="8682502846137" size="XS" pack_qty="1" stock="0" price="11.50"/>
+          <variant sku="21153-08-S" barcode="8682502846120" size="S" pack_qty="2" stock="0" price="11.50"/>
+          <variant sku="21153-08-M" barcode="8682502846113" size="M" pack_qty="2" stock="0" price="11.50"/>
+          <variant sku="21153-08-L" barcode="8682502846106" size="L" pack_qty="1" stock="0" price="11.50"/>
         </variants>
       </color>
       <color id="21153-40" code="40" name="Anthracite">
@@ -49108,7 +49108,7 @@
   </product>
   <product id="21628">
     <shopify_id>10224569614406</shopify_id>
-    <updated_at>2026-11-09T03:26:50Z</updated_at>
+    <updated_at>2026-11-09T09:13:36Z</updated_at>
     <title><![CDATA[Printed Oversized Basic Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -49146,7 +49146,7 @@
       <color id="21628-06" code="06" name="Gray">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896460_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896460_2.jpg</image>
@@ -49155,10 +49155,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896460_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21628-06-XS" barcode="8682502896460" size="XS" pack_qty="1" stock="9" price="11.00"/>
-          <variant sku="21628-06-S" barcode="8682502896453" size="S" pack_qty="2" stock="18" price="11.00"/>
-          <variant sku="21628-06-M" barcode="8682502896446" size="M" pack_qty="2" stock="18" price="11.00"/>
-          <variant sku="21628-06-L" barcode="8682502896439" size="L" pack_qty="1" stock="9" price="11.00"/>
+          <variant sku="21628-06-XS" barcode="8682502896460" size="XS" pack_qty="1" stock="7" price="11.00"/>
+          <variant sku="21628-06-S" barcode="8682502896453" size="S" pack_qty="2" stock="14" price="11.00"/>
+          <variant sku="21628-06-M" barcode="8682502896446" size="M" pack_qty="2" stock="14" price="11.00"/>
+          <variant sku="21628-06-L" barcode="8682502896439" size="L" pack_qty="1" stock="7" price="11.00"/>
         </variants>
       </color>
       <color id="21628-07" code="07" name="Brown">
