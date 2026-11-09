@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog brand="BSL" currency="USD" products="899" colors="1732">
+<catalog brand="BSL" currency="USD" products="899" colors="1733">
   <product id="16290">
     <shopify_id>8486485327942</shopify_id>
     <updated_at>2026-11-09T00:46:15Z</updated_at>
@@ -2631,7 +2631,7 @@
   </product>
   <product id="17919">
     <shopify_id>8530169692230</shopify_id>
-    <updated_at>2026-11-09T10:22:46Z</updated_at>
+    <updated_at>2026-11-09T10:54:46Z</updated_at>
     <title><![CDATA[Denim Jogger Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Jeans]]></category>
@@ -2663,10 +2663,10 @@
           <image position="9">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/jogger-denim-pantolon_17919_mavi-mavi_9_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="17919-04-26" barcode="8682502480287" size="26" pack_qty="1" stock="0" price="7.00"/>
+          <variant sku="17919-04-26" barcode="8682502480287" size="26" pack_qty="1" stock="1" price="7.00"/>
           <variant sku="17919-04-27" barcode="8682502480294" size="27" pack_qty="2" stock="0" price="7.00"/>
           <variant sku="17919-04-28" barcode="8682502480300" size="28" pack_qty="2" stock="2" price="7.00"/>
-          <variant sku="17919-04-29" barcode="8682502480317" size="29" pack_qty="1" stock="0" price="7.00"/>
+          <variant sku="17919-04-29" barcode="8682502480317" size="29" pack_qty="1" stock="1" price="7.00"/>
         </variants>
       </color>
     </colors>
@@ -6227,7 +6227,7 @@
   </product>
   <product id="18453">
     <shopify_id>8486480445510</shopify_id>
-    <updated_at>2026-11-09T04:19:40Z</updated_at>
+    <updated_at>2026-11-09T10:45:27Z</updated_at>
     <title><![CDATA[Double-breasted Balloon Sleeve Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -6246,7 +6246,7 @@
       <color id="18453-156" code="156" name="Black flower">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>41</packs_in_stock>
+        <packs_in_stock>40</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kruvaze-yaka-balon-kollu-mini-elbise_18453_siyah-cicekli-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kruvaze-yaka-balon-kollu-mini-elbise_18453_siyah-cicekli-siyah_2_buyuk.jpg</image>
@@ -6257,10 +6257,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kruvaze-yaka-balon-kollu-mini-elbise_18453_siyah-cicekli-siyah_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18453-156-XS" barcode="8682502543555" size="XS" pack_qty="1" stock="42" price="11.00"/>
-          <variant sku="18453-156-S" barcode="8682502543548" size="S" pack_qty="2" stock="84" price="11.00"/>
-          <variant sku="18453-156-M" barcode="8682502543531" size="M" pack_qty="2" stock="84" price="11.00"/>
-          <variant sku="18453-156-L" barcode="8682502543524" size="L" pack_qty="1" stock="42" price="11.00"/>
+          <variant sku="18453-156-XS" barcode="8682502543555" size="XS" pack_qty="1" stock="41" price="11.00"/>
+          <variant sku="18453-156-S" barcode="8682502543548" size="S" pack_qty="2" stock="82" price="11.00"/>
+          <variant sku="18453-156-M" barcode="8682502543531" size="M" pack_qty="2" stock="82" price="11.00"/>
+          <variant sku="18453-156-L" barcode="8682502543524" size="L" pack_qty="1" stock="41" price="11.00"/>
         </variants>
       </color>
     </colors>
@@ -6635,7 +6635,7 @@
   </product>
   <product id="18493">
     <shopify_id>8486480707654</shopify_id>
-    <updated_at>2026-11-09T03:38:50Z</updated_at>
+    <updated_at>2026-11-09T11:30:12Z</updated_at>
     <title><![CDATA[Crew neck oversize knitted sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -9602,7 +9602,7 @@
   </product>
   <product id="18777">
     <shopify_id>8486481854534</shopify_id>
-    <updated_at>2026-11-09T10:16:02Z</updated_at>
+    <updated_at>2026-11-09T10:45:51Z</updated_at>
     <title><![CDATA[Collar detailed mini dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -9631,9 +9631,9 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yakali-mini-elbise_18777_siyah-siyah_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18777-02-XS" barcode="8682502581328" size="XS" pack_qty="1" stock="13" price="10.00"/>
-          <variant sku="18777-02-S" barcode="8682502581311" size="S" pack_qty="2" stock="26" price="10.00"/>
-          <variant sku="18777-02-M" barcode="8682502581304" size="M" pack_qty="2" stock="26" price="10.00"/>
+          <variant sku="18777-02-XS" barcode="8682502581328" size="XS" pack_qty="1" stock="12" price="10.00"/>
+          <variant sku="18777-02-S" barcode="8682502581311" size="S" pack_qty="2" stock="24" price="10.00"/>
+          <variant sku="18777-02-M" barcode="8682502581304" size="M" pack_qty="2" stock="24" price="10.00"/>
           <variant sku="18777-02-L" barcode="8682502581298" size="L" pack_qty="1" stock="12" price="10.00"/>
         </variants>
       </color>
@@ -10978,7 +10978,7 @@
   </product>
   <product id="18993">
     <shopify_id>8486477496390</shopify_id>
-    <updated_at>2026-11-09T10:35:06Z</updated_at>
+    <updated_at>2026-11-09T10:45:26Z</updated_at>
     <title><![CDATA[Mom Fit Denim Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Jeans]]></category>
@@ -11009,9 +11009,9 @@
         </images>
         <variants>
           <variant sku="18993-40-26" barcode="8682502607714" size="26" pack_qty="1" stock="50" price="8.50"/>
-          <variant sku="18993-40-27" barcode="8682502607721" size="27" pack_qty="2" stock="102" price="8.50"/>
-          <variant sku="18993-40-28" barcode="8682502607738" size="28" pack_qty="2" stock="102" price="8.50"/>
-          <variant sku="18993-40-29" barcode="8682502607745" size="29" pack_qty="1" stock="51" price="8.50"/>
+          <variant sku="18993-40-27" barcode="8682502607721" size="27" pack_qty="2" stock="100" price="8.50"/>
+          <variant sku="18993-40-28" barcode="8682502607738" size="28" pack_qty="2" stock="100" price="8.50"/>
+          <variant sku="18993-40-29" barcode="8682502607745" size="29" pack_qty="1" stock="50" price="8.50"/>
         </variants>
       </color>
     </colors>
@@ -12431,7 +12431,7 @@
   </product>
   <product id="19329">
     <shopify_id>8486477791302</shopify_id>
-    <updated_at>2026-11-09T03:41:10Z</updated_at>
+    <updated_at>2026-11-09T10:45:15Z</updated_at>
     <title><![CDATA[Draped Mini Pencil Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -12470,7 +12470,7 @@
       <color id="19329-45" code="45" name="Mink">
         <unit_price>6.00</unit_price>
         <pack_price>42.00</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>5</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-mini-kalem-elbise_19329_vizon-vizon_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-mini-kalem-elbise_19329_vizon-vizon_2_buyuk.jpg</image>
@@ -12481,10 +12481,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-mini-kalem-elbise_19329_vizon-vizon_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19329-45-XS" barcode="8682502643392" size="XS" pack_qty="2" stock="14" price="6.00"/>
-          <variant sku="19329-45-S" barcode="8682502643385" size="S" pack_qty="2" stock="14" price="6.00"/>
-          <variant sku="19329-45-M" barcode="8682502643378" size="M" pack_qty="2" stock="14" price="6.00"/>
-          <variant sku="19329-45-L" barcode="8682502643361" size="L" pack_qty="1" stock="7" price="6.00"/>
+          <variant sku="19329-45-XS" barcode="8682502643392" size="XS" pack_qty="2" stock="12" price="6.00"/>
+          <variant sku="19329-45-S" barcode="8682502643385" size="S" pack_qty="2" stock="12" price="6.00"/>
+          <variant sku="19329-45-M" barcode="8682502643378" size="M" pack_qty="2" stock="12" price="6.00"/>
+          <variant sku="19329-45-L" barcode="8682502643361" size="L" pack_qty="1" stock="6" price="6.00"/>
         </variants>
       </color>
     </colors>
@@ -19182,7 +19182,7 @@
   </product>
   <product id="20191">
     <shopify_id>8486468616262</shopify_id>
-    <updated_at>2026-11-09T00:59:50Z</updated_at>
+    <updated_at>2026-11-09T11:31:53Z</updated_at>
     <title><![CDATA[Printed Boat Neck Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -19199,6 +19199,21 @@
       <item size="XL" qty="1"/>
     </pack>
     <colors>
+      <color id="20191-04" code="04" name="Blue">
+        <unit_price>11.00</unit_price>
+        <pack_price>77.00</pack_price>
+        <packs_in_stock>10</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/20191_mavi_80338b51-ad93-45dc-a78c-7ca42f525717.jpg</image>
+        </images>
+        <variants>
+          <variant sku="20191-04-XS" barcode="8682502740213" size="XS" pack_qty="1" stock="11" price="11.00"/>
+          <variant sku="20191-04-S" barcode="8682502740190" size="S" pack_qty="2" stock="22" price="11.00"/>
+          <variant sku="20191-04-M" barcode="8682502740183" size="M" pack_qty="2" stock="22" price="11.00"/>
+          <variant sku="20191-04-L" barcode="8682502740176" size="L" pack_qty="1" stock="11" price="11.00"/>
+          <variant sku="20191-04-XL" barcode="8682502740206" size="XL" pack_qty="1" stock="11" price="11.00"/>
+        </variants>
+      </color>
       <color id="20191-26" code="26" name="Beige">
         <unit_price>11.00</unit_price>
         <pack_price>77.00</pack_price>
@@ -20408,7 +20423,7 @@
   </product>
   <product id="20303">
     <shopify_id>8486469992518</shopify_id>
-    <updated_at>2026-11-09T01:31:00Z</updated_at>
+    <updated_at>2026-11-09T10:45:41Z</updated_at>
     <title><![CDATA[V-Neck Maxi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -20444,7 +20459,7 @@
       <color id="20303-06" code="06" name="Grey">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>9</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/v-yaka-maksi-elbise_20303_gri-gri_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/v-yaka-maksi-elbise_20303_gri-gri_2_buyuk.jpg</image>
@@ -20455,10 +20470,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/v-yaka-maksi-elbise_20303_gri-gri_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20303-06-XS" barcode="8682502749902" size="XS" pack_qty="1" stock="10" price="18.00"/>
-          <variant sku="20303-06-S" barcode="8682502749896" size="S" pack_qty="2" stock="20" price="18.00"/>
-          <variant sku="20303-06-M" barcode="8682502749889" size="M" pack_qty="2" stock="20" price="18.00"/>
-          <variant sku="20303-06-L" barcode="8682502749872" size="L" pack_qty="1" stock="10" price="18.00"/>
+          <variant sku="20303-06-XS" barcode="8682502749902" size="XS" pack_qty="1" stock="9" price="18.00"/>
+          <variant sku="20303-06-S" barcode="8682502749896" size="S" pack_qty="2" stock="18" price="18.00"/>
+          <variant sku="20303-06-M" barcode="8682502749889" size="M" pack_qty="2" stock="18" price="18.00"/>
+          <variant sku="20303-06-L" barcode="8682502749872" size="L" pack_qty="1" stock="9" price="18.00"/>
         </variants>
       </color>
       <color id="20303-14" code="14" name="Green">
@@ -21295,7 +21310,7 @@
   </product>
   <product id="20361">
     <shopify_id>8486470844486</shopify_id>
-    <updated_at>2026-11-09T01:07:25Z</updated_at>
+    <updated_at>2026-11-09T11:34:01Z</updated_at>
     <title><![CDATA[Openwork Patterned Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -27472,7 +27487,7 @@
   </product>
   <product id="20825">
     <shopify_id>8486264799302</shopify_id>
-    <updated_at>2026-11-09T01:36:00Z</updated_at>
+    <updated_at>2026-11-09T11:20:32Z</updated_at>
     <title><![CDATA[100% Linen Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -27491,7 +27506,7 @@
       <color id="20825-01" code="01" name="White">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-keten-oversize-gomlek_20825_beyaz-beyaz_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-keten-oversize-gomlek_20825_beyaz-beyaz_2_buyuk.jpg</image>
@@ -27501,7 +27516,7 @@
         <variants>
           <variant sku="20825-01-XS" barcode="8682502805042" size="XS" pack_qty="1" stock="4" price="27.00"/>
           <variant sku="20825-01-S" barcode="8682502805035" size="S" pack_qty="2" stock="8" price="27.00"/>
-          <variant sku="20825-01-M" barcode="8682502805028" size="M" pack_qty="2" stock="8" price="27.00"/>
+          <variant sku="20825-01-M" barcode="8682502805028" size="M" pack_qty="2" stock="4" price="27.00"/>
           <variant sku="20825-01-L" barcode="8682502805011" size="L" pack_qty="1" stock="4" price="27.00"/>
         </variants>
       </color>
@@ -27513,10 +27528,10 @@
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502888922_1.jpg</image>
         </images>
         <variants>
-          <variant sku="20825-08-XS" barcode="8682502888922" size="XS" pack_qty="1" stock="1" price="27.00"/>
-          <variant sku="20825-08-S" barcode="8682502888915" size="S" pack_qty="2" stock="2" price="27.00"/>
-          <variant sku="20825-08-M" barcode="8682502888908" size="M" pack_qty="2" stock="2" price="27.00"/>
-          <variant sku="20825-08-L" barcode="8682502888892" size="L" pack_qty="1" stock="1" price="27.00"/>
+          <variant sku="20825-08-XS" barcode="8682502888922" size="XS" pack_qty="1" stock="0" price="27.00"/>
+          <variant sku="20825-08-S" barcode="8682502888915" size="S" pack_qty="2" stock="0" price="27.00"/>
+          <variant sku="20825-08-M" barcode="8682502888908" size="M" pack_qty="2" stock="0" price="27.00"/>
+          <variant sku="20825-08-L" barcode="8682502888892" size="L" pack_qty="1" stock="0" price="27.00"/>
         </variants>
       </color>
       <color id="20825-26" code="26" name="Beige">
@@ -27539,7 +27554,7 @@
   </product>
   <product id="20826">
     <shopify_id>8486264864838</shopify_id>
-    <updated_at>2026-11-09T10:18:06Z</updated_at>
+    <updated_at>2026-11-09T11:17:47Z</updated_at>
     <title><![CDATA[100% Linen Loose Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -27566,10 +27581,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-keten-bol-pantolon_20826_beyaz-beyaz_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20826-01-XS" barcode="8682502805127" size="XS" pack_qty="1" stock="2" price="25.00"/>
-          <variant sku="20826-01-S" barcode="8682502805110" size="S" pack_qty="2" stock="2" price="25.00"/>
-          <variant sku="20826-01-M" barcode="8682502805103" size="M" pack_qty="2" stock="2" price="25.00"/>
-          <variant sku="20826-01-L" barcode="8682502805097" size="L" pack_qty="1" stock="1" price="25.00"/>
+          <variant sku="20826-01-XS" barcode="8682502805127" size="XS" pack_qty="1" stock="0" price="25.00"/>
+          <variant sku="20826-01-S" barcode="8682502805110" size="S" pack_qty="2" stock="0" price="25.00"/>
+          <variant sku="20826-01-M" barcode="8682502805103" size="M" pack_qty="2" stock="0" price="25.00"/>
+          <variant sku="20826-01-L" barcode="8682502805097" size="L" pack_qty="1" stock="0" price="25.00"/>
         </variants>
       </color>
       <color id="20826-08" code="08" name="Khaki">
@@ -27582,8 +27597,8 @@
         <variants>
           <variant sku="20826-08-XS" barcode="8682502888885" size="XS" pack_qty="1" stock="1" price="25.00"/>
           <variant sku="20826-08-S" barcode="8682502888878" size="S" pack_qty="2" stock="2" price="25.00"/>
-          <variant sku="20826-08-M" barcode="8682502888861" size="M" pack_qty="2" stock="2" price="25.00"/>
-          <variant sku="20826-08-L" barcode="8682502888854" size="L" pack_qty="1" stock="1" price="25.00"/>
+          <variant sku="20826-08-M" barcode="8682502888861" size="M" pack_qty="2" stock="0" price="25.00"/>
+          <variant sku="20826-08-L" barcode="8682502888854" size="L" pack_qty="1" stock="0" price="25.00"/>
         </variants>
       </color>
       <color id="20826-26" code="26" name="Beige">
@@ -29512,7 +29527,7 @@
   </product>
   <product id="20955">
     <shopify_id>8486268567622</shopify_id>
-    <updated_at>2026-11-09T10:30:41Z</updated_at>
+    <updated_at>2026-11-09T10:45:12Z</updated_at>
     <title><![CDATA[Draped Tulle Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -29541,10 +29556,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-tul-midi-elbise_20955_siyah-siyah_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20955-02-XS" barcode="8682502814716" size="XS" pack_qty="1" stock="47" price="26.00"/>
-          <variant sku="20955-02-S" barcode="8682502814709" size="S" pack_qty="2" stock="94" price="26.00"/>
+          <variant sku="20955-02-XS" barcode="8682502814716" size="XS" pack_qty="1" stock="46" price="26.00"/>
+          <variant sku="20955-02-S" barcode="8682502814709" size="S" pack_qty="2" stock="92" price="26.00"/>
           <variant sku="20955-02-M" barcode="8682502814693" size="M" pack_qty="2" stock="92" price="26.00"/>
-          <variant sku="20955-02-L" barcode="8682502814686" size="L" pack_qty="1" stock="47" price="26.00"/>
+          <variant sku="20955-02-L" barcode="8682502814686" size="L" pack_qty="1" stock="46" price="26.00"/>
         </variants>
       </color>
     </colors>
@@ -29928,7 +29943,7 @@
   </product>
   <product id="20977">
     <shopify_id>8486269485126</shopify_id>
-    <updated_at>2026-11-09T00:18:15Z</updated_at>
+    <updated_at>2026-11-09T11:35:04Z</updated_at>
     <title><![CDATA[Plaid Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -30654,7 +30669,7 @@
   </product>
   <product id="21012">
     <shopify_id>8486270795846</shopify_id>
-    <updated_at>2026-11-09T03:21:05Z</updated_at>
+    <updated_at>2026-11-09T11:34:06Z</updated_at>
     <title><![CDATA[Round Neck Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -30673,7 +30688,7 @@
       <color id="21012-08" code="08" name="Khaki">
         <unit_price>20.00</unit_price>
         <pack_price>120.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yuvarlak-yakali-yelek_21012_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yuvarlak-yakali-yelek_21012_haki-haki_2_buyuk.jpg</image>
@@ -30681,8 +30696,8 @@
         </images>
         <variants>
           <variant sku="21012-08-XS" barcode="8682502820083" size="XS" pack_qty="1" stock="2" price="20.00"/>
-          <variant sku="21012-08-S" barcode="8682502820076" size="S" pack_qty="2" stock="4" price="20.00"/>
-          <variant sku="21012-08-M" barcode="8682502820069" size="M" pack_qty="2" stock="4" price="20.00"/>
+          <variant sku="21012-08-S" barcode="8682502820076" size="S" pack_qty="2" stock="2" price="20.00"/>
+          <variant sku="21012-08-M" barcode="8682502820069" size="M" pack_qty="2" stock="2" price="20.00"/>
           <variant sku="21012-08-L" barcode="8682502820052" size="L" pack_qty="1" stock="2" price="20.00"/>
         </variants>
       </color>
@@ -30854,7 +30869,7 @@
   </product>
   <product id="21018">
     <shopify_id>8486271189062</shopify_id>
-    <updated_at>2026-11-09T10:16:45Z</updated_at>
+    <updated_at>2026-11-09T10:44:17Z</updated_at>
     <title><![CDATA[Leopard Satin Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -30881,16 +30896,16 @@
         </images>
         <variants>
           <variant sku="21018-07-XS" barcode="8682502821080" size="XS" pack_qty="1" stock="1" price="29.00"/>
-          <variant sku="21018-07-S" barcode="8682502821073" size="S" pack_qty="2" stock="4" price="29.00"/>
-          <variant sku="21018-07-M" barcode="8682502821066" size="M" pack_qty="2" stock="4" price="29.00"/>
-          <variant sku="21018-07-L" barcode="8682502821059" size="L" pack_qty="1" stock="2" price="29.00"/>
+          <variant sku="21018-07-S" barcode="8682502821073" size="S" pack_qty="2" stock="2" price="29.00"/>
+          <variant sku="21018-07-M" barcode="8682502821066" size="M" pack_qty="2" stock="2" price="29.00"/>
+          <variant sku="21018-07-L" barcode="8682502821059" size="L" pack_qty="1" stock="1" price="29.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21019">
     <shopify_id>8486271221830</shopify_id>
-    <updated_at>2026-11-09T02:15:21Z</updated_at>
+    <updated_at>2026-11-09T10:46:02Z</updated_at>
     <title><![CDATA[Wrap Neck Satin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -30909,17 +30924,17 @@
       <color id="21019-07" code="07" name="Brown">
         <unit_price>17.00</unit_price>
         <pack_price>68.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kruvaze-yaka-saten-bluz_21019_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kruvaze-yaka-saten-bluz_21019_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kruvaze-yaka-saten-bluz_21019_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21019-07-XS" barcode="8682502821127" size="XS" pack_qty="1" stock="2" price="17.00"/>
-          <variant sku="21019-07-S" barcode="8682502821110" size="S" pack_qty="1" stock="2" price="17.00"/>
-          <variant sku="21019-07-M" barcode="8682502821103" size="M" pack_qty="1" stock="2" price="17.00"/>
-          <variant sku="21019-07-L" barcode="8682502821097" size="L" pack_qty="1" stock="2" price="17.00"/>
+          <variant sku="21019-07-XS" barcode="8682502821127" size="XS" pack_qty="1" stock="1" price="17.00"/>
+          <variant sku="21019-07-S" barcode="8682502821110" size="S" pack_qty="1" stock="1" price="17.00"/>
+          <variant sku="21019-07-M" barcode="8682502821103" size="M" pack_qty="1" stock="1" price="17.00"/>
+          <variant sku="21019-07-L" barcode="8682502821097" size="L" pack_qty="1" stock="1" price="17.00"/>
         </variants>
       </color>
       <color id="21019-08" code="08" name="Khaki">
@@ -31275,7 +31290,7 @@
   </product>
   <product id="21029">
     <shopify_id>8486271582278</shopify_id>
-    <updated_at>2026-11-09T10:27:36Z</updated_at>
+    <updated_at>2026-11-09T11:35:37Z</updated_at>
     <title><![CDATA[Midi Dress with Buckle Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -31294,7 +31309,7 @@
       <color id="21029-02" code="02" name="Black">
         <unit_price>23.50</unit_price>
         <pack_price>141.00</pack_price>
-        <packs_in_stock>0</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/toka-detayli-midi-elbise_21029_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/toka-detayli-midi-elbise_21029_siyah-siyah_5_buyuk.jpg</image>
@@ -31302,9 +31317,9 @@
         </images>
         <variants>
           <variant sku="21029-02-XS" barcode="8682502822025" size="XS" pack_qty="1" stock="2" price="23.50"/>
-          <variant sku="21029-02-S" barcode="8682502822018" size="S" pack_qty="2" stock="2" price="23.50"/>
-          <variant sku="21029-02-M" barcode="8682502822001" size="M" pack_qty="2" stock="2" price="23.50"/>
-          <variant sku="21029-02-L" barcode="8682502821998" size="L" pack_qty="1" stock="1" price="23.50"/>
+          <variant sku="21029-02-S" barcode="8682502822018" size="S" pack_qty="2" stock="4" price="23.50"/>
+          <variant sku="21029-02-M" barcode="8682502822001" size="M" pack_qty="2" stock="4" price="23.50"/>
+          <variant sku="21029-02-L" barcode="8682502821998" size="L" pack_qty="1" stock="2" price="23.50"/>
         </variants>
       </color>
       <color id="21029-07" code="07" name="Brown">
@@ -31327,7 +31342,7 @@
   </product>
   <product id="21031">
     <shopify_id>8486271615046</shopify_id>
-    <updated_at>2026-11-09T10:15:11Z</updated_at>
+    <updated_at>2026-11-09T10:44:06Z</updated_at>
     <title><![CDATA[Buckle Detail Deep-Patterned Pencil Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -31372,9 +31387,9 @@
         </images>
         <variants>
           <variant sku="21031-07-XS" barcode="8682502822674" size="XS" pack_qty="1" stock="6" price="23.50"/>
-          <variant sku="21031-07-S" barcode="8682502822667" size="S" pack_qty="2" stock="14" price="23.50"/>
-          <variant sku="21031-07-M" barcode="8682502822650" size="M" pack_qty="2" stock="14" price="23.50"/>
-          <variant sku="21031-07-L" barcode="8682502822643" size="L" pack_qty="1" stock="7" price="23.50"/>
+          <variant sku="21031-07-S" barcode="8682502822667" size="S" pack_qty="2" stock="12" price="23.50"/>
+          <variant sku="21031-07-M" barcode="8682502822650" size="M" pack_qty="2" stock="12" price="23.50"/>
+          <variant sku="21031-07-L" barcode="8682502822643" size="L" pack_qty="1" stock="6" price="23.50"/>
         </variants>
       </color>
     </colors>
@@ -31609,7 +31624,7 @@
   </product>
   <product id="21045">
     <shopify_id>8486271909958</shopify_id>
-    <updated_at>2026-11-09T03:10:25Z</updated_at>
+    <updated_at>2026-11-09T10:45:51Z</updated_at>
     <title><![CDATA[Satin Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -31635,33 +31650,33 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-duz-kesim-pantolon_21045_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21045-07-XS" barcode="8682502826207" size="XS" pack_qty="1" stock="1" price="17.00"/>
-          <variant sku="21045-07-S" barcode="8682502826191" size="S" pack_qty="2" stock="2" price="17.00"/>
-          <variant sku="21045-07-M" barcode="8682502826184" size="M" pack_qty="2" stock="2" price="17.00"/>
-          <variant sku="21045-07-L" barcode="8682502826177" size="L" pack_qty="1" stock="1" price="17.00"/>
+          <variant sku="21045-07-XS" barcode="8682502826207" size="XS" pack_qty="1" stock="0" price="17.00"/>
+          <variant sku="21045-07-S" barcode="8682502826191" size="S" pack_qty="2" stock="0" price="17.00"/>
+          <variant sku="21045-07-M" barcode="8682502826184" size="M" pack_qty="2" stock="0" price="17.00"/>
+          <variant sku="21045-07-L" barcode="8682502826177" size="L" pack_qty="1" stock="0" price="17.00"/>
         </variants>
       </color>
       <color id="21045-08" code="08" name="Khaki">
         <unit_price>17.00</unit_price>
         <pack_price>102.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-duz-kesim-pantolon_21045_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-duz-kesim-pantolon_21045_haki-haki_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/saten-duz-kesim-pantolon_21045_haki-haki_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21045-08-XS" barcode="8682502826245" size="XS" pack_qty="1" stock="3" price="17.00"/>
-          <variant sku="21045-08-S" barcode="8682502826238" size="S" pack_qty="2" stock="6" price="17.00"/>
-          <variant sku="21045-08-M" barcode="8682502826221" size="M" pack_qty="2" stock="6" price="17.00"/>
-          <variant sku="21045-08-L" barcode="8682502826214" size="L" pack_qty="1" stock="3" price="17.00"/>
+          <variant sku="21045-08-XS" barcode="8682502826245" size="XS" pack_qty="1" stock="2" price="17.00"/>
+          <variant sku="21045-08-S" barcode="8682502826238" size="S" pack_qty="2" stock="4" price="17.00"/>
+          <variant sku="21045-08-M" barcode="8682502826221" size="M" pack_qty="2" stock="4" price="17.00"/>
+          <variant sku="21045-08-L" barcode="8682502826214" size="L" pack_qty="1" stock="2" price="17.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21046">
     <shopify_id>8486271975494</shopify_id>
-    <updated_at>2026-11-09T10:38:11Z</updated_at>
+    <updated_at>2026-11-09T10:45:27Z</updated_at>
     <title><![CDATA[Satin Pleated Crop Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -31688,9 +31703,9 @@
         </images>
         <variants>
           <variant sku="21046-07-XS" barcode="8682502826320" size="XS" pack_qty="1" stock="1" price="17.00"/>
-          <variant sku="21046-07-S" barcode="8682502826313" size="S" pack_qty="2" stock="4" price="17.00"/>
-          <variant sku="21046-07-M" barcode="8682502826306" size="M" pack_qty="2" stock="4" price="17.00"/>
-          <variant sku="21046-07-L" barcode="8682502826290" size="L" pack_qty="1" stock="2" price="17.00"/>
+          <variant sku="21046-07-S" barcode="8682502826313" size="S" pack_qty="2" stock="2" price="17.00"/>
+          <variant sku="21046-07-M" barcode="8682502826306" size="M" pack_qty="2" stock="2" price="17.00"/>
+          <variant sku="21046-07-L" barcode="8682502826290" size="L" pack_qty="1" stock="1" price="17.00"/>
         </variants>
       </color>
       <color id="21046-08" code="08" name="Khaki">
@@ -31705,8 +31720,8 @@
         <variants>
           <variant sku="21046-08-XS" barcode="8682502826368" size="XS" pack_qty="1" stock="3" price="17.00"/>
           <variant sku="21046-08-S" barcode="8682502826351" size="S" pack_qty="2" stock="6" price="17.00"/>
-          <variant sku="21046-08-M" barcode="8682502826344" size="M" pack_qty="2" stock="8" price="17.00"/>
-          <variant sku="21046-08-L" barcode="8682502826337" size="L" pack_qty="1" stock="4" price="17.00"/>
+          <variant sku="21046-08-M" barcode="8682502826344" size="M" pack_qty="2" stock="6" price="17.00"/>
+          <variant sku="21046-08-L" barcode="8682502826337" size="L" pack_qty="1" stock="3" price="17.00"/>
         </variants>
       </color>
     </colors>
@@ -32749,7 +32764,7 @@
   </product>
   <product id="21094">
     <shopify_id>8486274170950</shopify_id>
-    <updated_at>2026-11-09T10:35:47Z</updated_at>
+    <updated_at>2026-11-09T10:45:36Z</updated_at>
     <title><![CDATA[High-Neck Knitted Long Pencil Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -32778,8 +32793,8 @@
         </images>
         <variants>
           <variant sku="21094-02-XS" barcode="8682502834486" size="XS" pack_qty="1" stock="7" price="23.50"/>
-          <variant sku="21094-02-S" barcode="8682502834479" size="S" pack_qty="2" stock="16" price="23.50"/>
-          <variant sku="21094-02-M" barcode="8682502834462" size="M" pack_qty="2" stock="16" price="23.50"/>
+          <variant sku="21094-02-S" barcode="8682502834479" size="S" pack_qty="2" stock="14" price="23.50"/>
+          <variant sku="21094-02-M" barcode="8682502834462" size="M" pack_qty="2" stock="14" price="23.50"/>
           <variant sku="21094-02-L" barcode="8682502834455" size="L" pack_qty="1" stock="7" price="23.50"/>
         </variants>
       </color>
@@ -32793,10 +32808,10 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dik-yakali-triko-uzun-kalem-elbise_21094_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21094-07-XS" barcode="8682502834523" size="XS" pack_qty="1" stock="3" price="23.50"/>
-          <variant sku="21094-07-S" barcode="8682502834516" size="S" pack_qty="2" stock="6" price="23.50"/>
+          <variant sku="21094-07-XS" barcode="8682502834523" size="XS" pack_qty="1" stock="2" price="23.50"/>
+          <variant sku="21094-07-S" barcode="8682502834516" size="S" pack_qty="2" stock="4" price="23.50"/>
           <variant sku="21094-07-M" barcode="8682502834509" size="M" pack_qty="2" stock="4" price="23.50"/>
-          <variant sku="21094-07-L" barcode="8682502834493" size="L" pack_qty="1" stock="3" price="23.50"/>
+          <variant sku="21094-07-L" barcode="8682502834493" size="L" pack_qty="1" stock="2" price="23.50"/>
         </variants>
       </color>
     </colors>
@@ -33316,7 +33331,7 @@
   </product>
   <product id="21112">
     <shopify_id>8486275350598</shopify_id>
-    <updated_at>2026-11-09T04:50:45Z</updated_at>
+    <updated_at>2026-11-09T10:45:56Z</updated_at>
     <title><![CDATA[Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -33335,40 +33350,40 @@
       <color id="21112-06" code="06" name="Grey">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>11</packs_in_stock>
+        <packs_in_stock>9</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_21112_gri-gri_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_21112_gri-gri_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_21112_gri-gri_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21112-06-XS" barcode="8682502837463" size="XS" pack_qty="1" stock="12" price="12.00"/>
-          <variant sku="21112-06-S" barcode="8682502837456" size="S" pack_qty="2" stock="24" price="12.00"/>
-          <variant sku="21112-06-M" barcode="8682502837449" size="M" pack_qty="2" stock="24" price="12.00"/>
-          <variant sku="21112-06-L" barcode="8682502837432" size="L" pack_qty="1" stock="12" price="12.00"/>
+          <variant sku="21112-06-XS" barcode="8682502837463" size="XS" pack_qty="1" stock="10" price="12.00"/>
+          <variant sku="21112-06-S" barcode="8682502837456" size="S" pack_qty="2" stock="20" price="12.00"/>
+          <variant sku="21112-06-M" barcode="8682502837449" size="M" pack_qty="2" stock="20" price="12.00"/>
+          <variant sku="21112-06-L" barcode="8682502837432" size="L" pack_qty="1" stock="10" price="12.00"/>
         </variants>
       </color>
       <color id="21112-07" code="07" name="Brown">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_21112_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_21112_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_21112_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21112-07-XS" barcode="8682502837500" size="XS" pack_qty="1" stock="9" price="12.00"/>
-          <variant sku="21112-07-S" barcode="8682502837494" size="S" pack_qty="2" stock="18" price="12.00"/>
-          <variant sku="21112-07-M" barcode="8682502837487" size="M" pack_qty="2" stock="18" price="12.00"/>
-          <variant sku="21112-07-L" barcode="8682502837470" size="L" pack_qty="1" stock="9" price="12.00"/>
+          <variant sku="21112-07-XS" barcode="8682502837500" size="XS" pack_qty="1" stock="7" price="12.00"/>
+          <variant sku="21112-07-S" barcode="8682502837494" size="S" pack_qty="2" stock="14" price="12.00"/>
+          <variant sku="21112-07-M" barcode="8682502837487" size="M" pack_qty="2" stock="14" price="12.00"/>
+          <variant sku="21112-07-L" barcode="8682502837470" size="L" pack_qty="1" stock="7" price="12.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21113">
     <shopify_id>8486275383366</shopify_id>
-    <updated_at>2026-11-09T01:48:00Z</updated_at>
+    <updated_at>2026-11-09T11:23:00Z</updated_at>
     <title><![CDATA[Cardigan with Button Detail]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -33387,7 +33402,7 @@
       <color id="21113-06" code="06" name="Grey">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>11</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dugme-detayli-hirka_21113_gri-gri_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dugme-detayli-hirka_21113_gri-gri_2_buyuk.jpg</image>
@@ -33396,24 +33411,24 @@
         <variants>
           <variant sku="21113-06-XS" barcode="8682502837548" size="XS" pack_qty="1" stock="12" price="12.00"/>
           <variant sku="21113-06-S" barcode="8682502837531" size="S" pack_qty="2" stock="24" price="12.00"/>
-          <variant sku="21113-06-M" barcode="8682502837524" size="M" pack_qty="2" stock="24" price="12.00"/>
+          <variant sku="21113-06-M" barcode="8682502837524" size="M" pack_qty="2" stock="18" price="12.00"/>
           <variant sku="21113-06-L" barcode="8682502837517" size="L" pack_qty="1" stock="12" price="12.00"/>
         </variants>
       </color>
       <color id="21113-07" code="07" name="Brown">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dugme-detayli-hirka_21113_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dugme-detayli-hirka_21113_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dugme-detayli-hirka_21113_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21113-07-XS" barcode="8682502837586" size="XS" pack_qty="1" stock="7" price="12.00"/>
-          <variant sku="21113-07-S" barcode="8682502837579" size="S" pack_qty="2" stock="14" price="12.00"/>
-          <variant sku="21113-07-M" barcode="8682502837562" size="M" pack_qty="2" stock="14" price="12.00"/>
-          <variant sku="21113-07-L" barcode="8682502837555" size="L" pack_qty="1" stock="7" price="12.00"/>
+          <variant sku="21113-07-XS" barcode="8682502837586" size="XS" pack_qty="1" stock="5" price="12.00"/>
+          <variant sku="21113-07-S" barcode="8682502837579" size="S" pack_qty="2" stock="10" price="12.00"/>
+          <variant sku="21113-07-M" barcode="8682502837562" size="M" pack_qty="2" stock="10" price="12.00"/>
+          <variant sku="21113-07-L" barcode="8682502837555" size="L" pack_qty="1" stock="5" price="12.00"/>
         </variants>
       </color>
     </colors>
@@ -33981,7 +33996,7 @@
   </product>
   <product id="21129">
     <shopify_id>8486275809350</shopify_id>
-    <updated_at>2026-11-09T10:35:56Z</updated_at>
+    <updated_at>2026-11-09T10:44:51Z</updated_at>
     <title><![CDATA[Shirt Collar Draped Satin Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -34009,9 +34024,9 @@
         </images>
         <variants>
           <variant sku="21129-07-XS" barcode="8682502843778" size="XS" pack_qty="1" stock="0" price="30.00"/>
-          <variant sku="21129-07-S" barcode="8682502843761" size="S" pack_qty="2" stock="2" price="30.00"/>
-          <variant sku="21129-07-M" barcode="8682502843754" size="M" pack_qty="2" stock="2" price="30.00"/>
-          <variant sku="21129-07-L" barcode="8682502843747" size="L" pack_qty="1" stock="1" price="30.00"/>
+          <variant sku="21129-07-S" barcode="8682502843761" size="S" pack_qty="2" stock="0" price="30.00"/>
+          <variant sku="21129-07-M" barcode="8682502843754" size="M" pack_qty="2" stock="0" price="30.00"/>
+          <variant sku="21129-07-L" barcode="8682502843747" size="L" pack_qty="1" stock="0" price="30.00"/>
         </variants>
       </color>
     </colors>
@@ -34110,7 +34125,7 @@
   </product>
   <product id="21132">
     <shopify_id>8486275973190</shopify_id>
-    <updated_at>2026-11-09T02:07:06Z</updated_at>
+    <updated_at>2026-11-09T11:25:51Z</updated_at>
     <title><![CDATA[Ribbed Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -34129,17 +34144,17 @@
       <color id="21132-08" code="08" name="Khaki">
         <unit_price>12.50</unit_price>
         <pack_price>75.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-duz-kesim-pantolon_21132_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-duz-kesim-pantolon_21132_haki-haki_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-duz-kesim-pantolon_21132_haki-haki_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21132-08-XS" barcode="8682502844010" size="XS" pack_qty="1" stock="2" price="12.50"/>
+          <variant sku="21132-08-XS" barcode="8682502844010" size="XS" pack_qty="1" stock="1" price="12.50"/>
           <variant sku="21132-08-S" barcode="8682502844003" size="S" pack_qty="2" stock="4" price="12.50"/>
-          <variant sku="21132-08-M" barcode="8682502843990" size="M" pack_qty="2" stock="4" price="12.50"/>
-          <variant sku="21132-08-L" barcode="8682502843983" size="L" pack_qty="1" stock="2" price="12.50"/>
+          <variant sku="21132-08-M" barcode="8682502843990" size="M" pack_qty="2" stock="2" price="12.50"/>
+          <variant sku="21132-08-L" barcode="8682502843983" size="L" pack_qty="1" stock="1" price="12.50"/>
         </variants>
       </color>
       <color id="21132-26" code="26" name="Beige">
@@ -34625,7 +34640,7 @@
   </product>
   <product id="21147">
     <shopify_id>8486276464710</shopify_id>
-    <updated_at>2026-11-09T02:02:32Z</updated_at>
+    <updated_at>2026-11-09T10:54:16Z</updated_at>
     <title><![CDATA[Baklava Patterned Midi Pencil Knit Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -34644,16 +34659,16 @@
       <color id="21147-07" code="07" name="Brown">
         <unit_price>12.50</unit_price>
         <pack_price>87.50</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/baklavali-midi-kalem-triko-etek_21147_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/baklavali-midi-kalem-triko-etek_21147_kahve-kahverengi_2_buyuk.jpg</image>
         </images>
         <variants>
           <variant sku="21147-07-XS" barcode="8682502845109" size="XS" pack_qty="2" stock="4" price="12.50"/>
-          <variant sku="21147-07-S" barcode="8682502845048" size="S" pack_qty="2" stock="4" price="12.50"/>
+          <variant sku="21147-07-S" barcode="8682502845048" size="S" pack_qty="2" stock="2" price="12.50"/>
           <variant sku="21147-07-M" barcode="8682502845031" size="M" pack_qty="2" stock="4" price="12.50"/>
-          <variant sku="21147-07-L" barcode="8682502845024" size="L" pack_qty="1" stock="2" price="12.50"/>
+          <variant sku="21147-07-L" barcode="8682502845024" size="L" pack_qty="1" stock="1" price="12.50"/>
           <variant sku="21147-07-XL" barcode="8682502845055" size="XL" pack_qty="0" stock="0" price="12.50"/>
         </variants>
       </color>
@@ -34835,7 +34850,7 @@
   </product>
   <product id="21153">
     <shopify_id>8486276694086</shopify_id>
-    <updated_at>2026-11-09T09:13:30Z</updated_at>
+    <updated_at>2026-11-09T10:46:06Z</updated_at>
     <title><![CDATA[Draped Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -34871,17 +34886,17 @@
       <color id="21153-40" code="40" name="Anthracite">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>18</packs_in_stock>
+        <packs_in_stock>17</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_antrasit-antrasit_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-top_21153_antrasit-antrasit_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21153-40-XS" barcode="8682502846175" size="XS" pack_qty="1" stock="19" price="11.50"/>
-          <variant sku="21153-40-S" barcode="8682502846168" size="S" pack_qty="2" stock="38" price="11.50"/>
-          <variant sku="21153-40-M" barcode="8682502846151" size="M" pack_qty="2" stock="38" price="11.50"/>
-          <variant sku="21153-40-L" barcode="8682502846144" size="L" pack_qty="1" stock="19" price="11.50"/>
+          <variant sku="21153-40-XS" barcode="8682502846175" size="XS" pack_qty="1" stock="18" price="11.50"/>
+          <variant sku="21153-40-S" barcode="8682502846168" size="S" pack_qty="2" stock="36" price="11.50"/>
+          <variant sku="21153-40-M" barcode="8682502846151" size="M" pack_qty="2" stock="36" price="11.50"/>
+          <variant sku="21153-40-L" barcode="8682502846144" size="L" pack_qty="1" stock="18" price="11.50"/>
         </variants>
       </color>
     </colors>
@@ -36876,7 +36891,7 @@
   </product>
   <product id="21240">
     <shopify_id>8486145851462</shopify_id>
-    <updated_at>2026-11-09T01:00:35Z</updated_at>
+    <updated_at>2026-11-09T10:45:11Z</updated_at>
     <title><![CDATA[Classic Poplin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -36895,7 +36910,7 @@
       <color id="21240-01" code="01" name="White">
         <unit_price>16.00</unit_price>
         <pack_price>96.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/klasik-poplin-gomlek_21240_beyaz-beyaz_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/klasik-poplin-gomlek_21240_beyaz-beyaz_2_buyuk.jpg</image>
@@ -36904,10 +36919,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/klasik-poplin-gomlek_21240_beyaz-beyaz_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21240-01-XS" barcode="8682502857041" size="XS" pack_qty="1" stock="8" price="16.00"/>
-          <variant sku="21240-01-S" barcode="8682502857034" size="S" pack_qty="2" stock="16" price="16.00"/>
-          <variant sku="21240-01-M" barcode="8682502857027" size="M" pack_qty="2" stock="16" price="16.00"/>
-          <variant sku="21240-01-L" barcode="8682502857010" size="L" pack_qty="1" stock="8" price="16.00"/>
+          <variant sku="21240-01-XS" barcode="8682502857041" size="XS" pack_qty="1" stock="7" price="16.00"/>
+          <variant sku="21240-01-S" barcode="8682502857034" size="S" pack_qty="2" stock="14" price="16.00"/>
+          <variant sku="21240-01-M" barcode="8682502857027" size="M" pack_qty="2" stock="14" price="16.00"/>
+          <variant sku="21240-01-L" barcode="8682502857010" size="L" pack_qty="1" stock="7" price="16.00"/>
         </variants>
       </color>
     </colors>
@@ -44655,7 +44670,7 @@
   </product>
   <product id="21468">
     <shopify_id>8486154731590</shopify_id>
-    <updated_at>2026-11-09T10:28:51Z</updated_at>
+    <updated_at>2026-11-09T10:45:46Z</updated_at>
     <title><![CDATA[Strapless Underwired Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[]]></category>
@@ -44683,10 +44698,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/straplez-balenli-top_21468_siyah-siyah_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21468-02-XS" barcode="8682502882357" size="XS" pack_qty="1" stock="21" price="10.50"/>
-          <variant sku="21468-02-S" barcode="8682502882340" size="S" pack_qty="2" stock="42" price="10.50"/>
+          <variant sku="21468-02-XS" barcode="8682502882357" size="XS" pack_qty="1" stock="20" price="10.50"/>
+          <variant sku="21468-02-S" barcode="8682502882340" size="S" pack_qty="2" stock="40" price="10.50"/>
           <variant sku="21468-02-M" barcode="8682502882333" size="M" pack_qty="2" stock="40" price="10.50"/>
-          <variant sku="21468-02-L" barcode="8682502882326" size="L" pack_qty="1" stock="21" price="10.50"/>
+          <variant sku="21468-02-L" barcode="8682502882326" size="L" pack_qty="1" stock="20" price="10.50"/>
         </variants>
       </color>
     </colors>
@@ -48003,7 +48018,7 @@
   </product>
   <product id="21552">
     <shopify_id>10224569483334</shopify_id>
-    <updated_at>2026-11-09T00:47:45Z</updated_at>
+    <updated_at>2026-11-09T11:35:26Z</updated_at>
     <title><![CDATA[Button-Detail Maxi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -48022,7 +48037,7 @@
       <color id="21552-02" code="02" name="Black">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>11</packs_in_stock>
+        <packs_in_stock>10</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_2.jpg</image>
@@ -48033,7 +48048,7 @@
         <variants>
           <variant sku="21552-02-XS" barcode="8682502893070" size="XS" pack_qty="2" stock="24" price="15.00"/>
           <variant sku="21552-02-S" barcode="8682502893063" size="S" pack_qty="2" stock="24" price="15.00"/>
-          <variant sku="21552-02-M" barcode="8682502893056" size="M" pack_qty="1" stock="12" price="15.00"/>
+          <variant sku="21552-02-M" barcode="8682502893056" size="M" pack_qty="1" stock="11" price="15.00"/>
           <variant sku="21552-02-XXS" barcode="8682502896859" size="XXS" pack_qty="1" stock="12" price="15.00"/>
         </variants>
       </color>
@@ -48041,7 +48056,7 @@
   </product>
   <product id="21553">
     <shopify_id>10238690328646</shopify_id>
-    <updated_at>2026-11-09T03:48:55Z</updated_at>
+    <updated_at>2026-11-09T10:48:05Z</updated_at>
     <title><![CDATA[Button-Detail Cropped Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -48060,7 +48075,7 @@
       <color id="21553-02" code="02" name="Black">
         <unit_price>23.00</unit_price>
         <pack_price>138.00</pack_price>
-        <packs_in_stock>11</packs_in_stock>
+        <packs_in_stock>10</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_2.jpg</image>
@@ -48069,9 +48084,9 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21553-02-XS" barcode="8682502893117" size="XS" pack_qty="2" stock="24" price="23.00"/>
-          <variant sku="21553-02-S" barcode="8682502893100" size="S" pack_qty="2" stock="24" price="23.00"/>
-          <variant sku="21553-02-M" barcode="8682502893094" size="M" pack_qty="1" stock="12" price="23.00"/>
+          <variant sku="21553-02-XS" barcode="8682502893117" size="XS" pack_qty="2" stock="22" price="23.00"/>
+          <variant sku="21553-02-S" barcode="8682502893100" size="S" pack_qty="2" stock="22" price="23.00"/>
+          <variant sku="21553-02-M" barcode="8682502893094" size="M" pack_qty="1" stock="11" price="23.00"/>
           <variant sku="21553-02-XXS" barcode="8682502896842" size="XXS" pack_qty="1" stock="12" price="23.00"/>
         </variants>
       </color>
@@ -48326,7 +48341,7 @@
   </product>
   <product id="21559">
     <shopify_id>10222350270534</shopify_id>
-    <updated_at>2026-11-09T10:28:06Z</updated_at>
+    <updated_at>2026-11-09T10:45:55Z</updated_at>
     <title><![CDATA[Oversized Shirt-Sleeve T-Shirt]]></title>
     <product_type><![CDATA[T-Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > T-Shirts]]></category>
@@ -48345,7 +48360,7 @@
       <color id="21559-01" code="01" name="White">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893803_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893803_2.jpg</image>
@@ -48354,10 +48369,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893803_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21559-01-XS" barcode="8682502893803" size="XS" pack_qty="1" stock="4" price="11.00"/>
-          <variant sku="21559-01-S" barcode="8682502893797" size="S" pack_qty="2" stock="8" price="11.00"/>
-          <variant sku="21559-01-M" barcode="8682502893780" size="M" pack_qty="2" stock="8" price="11.00"/>
-          <variant sku="21559-01-L" barcode="8682502893773" size="L" pack_qty="1" stock="4" price="11.00"/>
+          <variant sku="21559-01-XS" barcode="8682502893803" size="XS" pack_qty="1" stock="3" price="11.00"/>
+          <variant sku="21559-01-S" barcode="8682502893797" size="S" pack_qty="2" stock="6" price="11.00"/>
+          <variant sku="21559-01-M" barcode="8682502893780" size="M" pack_qty="2" stock="6" price="11.00"/>
+          <variant sku="21559-01-L" barcode="8682502893773" size="L" pack_qty="1" stock="3" price="11.00"/>
         </variants>
       </color>
       <color id="21559-02" code="02" name="Black">
@@ -48373,9 +48388,9 @@
         </images>
         <variants>
           <variant sku="21559-02-XS" barcode="8682502893841" size="XS" pack_qty="1" stock="4" price="11.00"/>
-          <variant sku="21559-02-S" barcode="8682502893834" size="S" pack_qty="2" stock="10" price="11.00"/>
-          <variant sku="21559-02-M" barcode="8682502893827" size="M" pack_qty="2" stock="10" price="11.00"/>
-          <variant sku="21559-02-L" barcode="8682502893810" size="L" pack_qty="1" stock="5" price="11.00"/>
+          <variant sku="21559-02-S" barcode="8682502893834" size="S" pack_qty="2" stock="8" price="11.00"/>
+          <variant sku="21559-02-M" barcode="8682502893827" size="M" pack_qty="2" stock="8" price="11.00"/>
+          <variant sku="21559-02-L" barcode="8682502893810" size="L" pack_qty="1" stock="4" price="11.00"/>
         </variants>
       </color>
       <color id="21559-05" code="05" name="Navy Blue">
@@ -49256,7 +49271,7 @@
   </product>
   <product id="21630">
     <shopify_id>10257999396934</shopify_id>
-    <updated_at>2026-11-09T10:28:16Z</updated_at>
+    <updated_at>2026-11-09T10:45:43Z</updated_at>
     <title><![CDATA[Satin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -49284,10 +49299,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21630-106-XS" barcode="8682502897382" size="XS" pack_qty="1" stock="3" price="14.00"/>
-          <variant sku="21630-106-S" barcode="8682502897375" size="S" pack_qty="2" stock="6" price="14.00"/>
+          <variant sku="21630-106-XS" barcode="8682502897382" size="XS" pack_qty="1" stock="2" price="14.00"/>
+          <variant sku="21630-106-S" barcode="8682502897375" size="S" pack_qty="2" stock="4" price="14.00"/>
           <variant sku="21630-106-M" barcode="8682502897368" size="M" pack_qty="2" stock="4" price="14.00"/>
-          <variant sku="21630-106-L" barcode="8682502897351" size="L" pack_qty="1" stock="3" price="14.00"/>
+          <variant sku="21630-106-L" barcode="8682502897351" size="L" pack_qty="1" stock="2" price="14.00"/>
         </variants>
       </color>
     </colors>
