@@ -27554,7 +27554,7 @@
   </product>
   <product id="20826">
     <shopify_id>8486264864838</shopify_id>
-    <updated_at>2026-11-09T11:45:07Z</updated_at>
+    <updated_at>2026-11-09T19:43:27Z</updated_at>
     <title><![CDATA[100% Linen Loose Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -27583,7 +27583,7 @@
         <variants>
           <variant sku="20826-01-XS" barcode="8682502805127" size="XS" pack_qty="1" stock="0" price="25.00"/>
           <variant sku="20826-01-S" barcode="8682502805110" size="S" pack_qty="2" stock="0" price="25.00"/>
-          <variant sku="20826-01-M" barcode="8682502805103" size="M" pack_qty="2" stock="4" price="25.00"/>
+          <variant sku="20826-01-M" barcode="8682502805103" size="M" pack_qty="2" stock="0" price="25.00"/>
           <variant sku="20826-01-L" barcode="8682502805097" size="L" pack_qty="1" stock="0" price="25.00"/>
         </variants>
       </color>
@@ -27595,8 +27595,8 @@
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502888885_1.jpg</image>
         </images>
         <variants>
-          <variant sku="20826-08-XS" barcode="8682502888885" size="XS" pack_qty="1" stock="1" price="25.00"/>
-          <variant sku="20826-08-S" barcode="8682502888878" size="S" pack_qty="2" stock="2" price="25.00"/>
+          <variant sku="20826-08-XS" barcode="8682502888885" size="XS" pack_qty="1" stock="0" price="25.00"/>
+          <variant sku="20826-08-S" barcode="8682502888878" size="S" pack_qty="2" stock="0" price="25.00"/>
           <variant sku="20826-08-M" barcode="8682502888861" size="M" pack_qty="2" stock="0" price="25.00"/>
           <variant sku="20826-08-L" barcode="8682502888854" size="L" pack_qty="1" stock="0" price="25.00"/>
         </variants>
@@ -27611,10 +27611,10 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-keten-bol-pantolon_20826_bej-bej_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20826-26-XS" barcode="8682502805165" size="XS" pack_qty="1" stock="1" price="25.00"/>
-          <variant sku="20826-26-S" barcode="8682502805158" size="S" pack_qty="2" stock="2" price="25.00"/>
-          <variant sku="20826-26-M" barcode="8682502805141" size="M" pack_qty="2" stock="2" price="25.00"/>
-          <variant sku="20826-26-L" barcode="8682502805134" size="L" pack_qty="1" stock="1" price="25.00"/>
+          <variant sku="20826-26-XS" barcode="8682502805165" size="XS" pack_qty="1" stock="0" price="25.00"/>
+          <variant sku="20826-26-S" barcode="8682502805158" size="S" pack_qty="2" stock="0" price="25.00"/>
+          <variant sku="20826-26-M" barcode="8682502805141" size="M" pack_qty="2" stock="0" price="25.00"/>
+          <variant sku="20826-26-L" barcode="8682502805134" size="L" pack_qty="1" stock="0" price="25.00"/>
         </variants>
       </color>
     </colors>
@@ -35291,7 +35291,7 @@
   </product>
   <product id="21169">
     <shopify_id>8486277152838</shopify_id>
-    <updated_at>2026-11-09T02:44:35Z</updated_at>
+    <updated_at>2026-11-09T19:43:27Z</updated_at>
     <title><![CDATA[Bicycle Collar Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35327,7 +35327,7 @@
       <color id="21169-08" code="08" name="Khaki">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_2_buyuk.jpg</image>
@@ -35335,10 +35335,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21169-08-XS" barcode="8682502847530" size="XS" pack_qty="1" stock="9" price="11.50"/>
-          <variant sku="21169-08-S" barcode="8682502847523" size="S" pack_qty="2" stock="18" price="11.50"/>
-          <variant sku="21169-08-M" barcode="8682502847516" size="M" pack_qty="2" stock="18" price="11.50"/>
-          <variant sku="21169-08-L" barcode="8682502847509" size="L" pack_qty="1" stock="9" price="11.50"/>
+          <variant sku="21169-08-XS" barcode="8682502847530" size="XS" pack_qty="1" stock="7" price="11.50"/>
+          <variant sku="21169-08-S" barcode="8682502847523" size="S" pack_qty="2" stock="14" price="11.50"/>
+          <variant sku="21169-08-M" barcode="8682502847516" size="M" pack_qty="2" stock="14" price="11.50"/>
+          <variant sku="21169-08-L" barcode="8682502847509" size="L" pack_qty="1" stock="7" price="11.50"/>
         </variants>
       </color>
     </colors>
@@ -48132,7 +48132,7 @@
   </product>
   <product id="21556">
     <shopify_id>10221187825734</shopify_id>
-    <updated_at>2026-11-09T02:36:30Z</updated_at>
+    <updated_at>2026-11-09T19:43:28Z</updated_at>
     <title><![CDATA[%100 Cotton Long-Sleeve V-Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -48151,7 +48151,7 @@
       <color id="21556-01" code="01" name="White">
         <unit_price>6.00</unit_price>
         <pack_price>36.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893445_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893445_2.jpg</image>
@@ -48159,10 +48159,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893445_4.jpg</image>
         </images>
         <variants>
-          <variant sku="21556-01-XS" barcode="8682502893445" size="XS" pack_qty="1" stock="8" price="6.00"/>
-          <variant sku="21556-01-S" barcode="8682502893438" size="S" pack_qty="2" stock="16" price="6.00"/>
-          <variant sku="21556-01-M" barcode="8682502893421" size="M" pack_qty="2" stock="16" price="6.00"/>
-          <variant sku="21556-01-L" barcode="8682502893414" size="L" pack_qty="1" stock="8" price="6.00"/>
+          <variant sku="21556-01-XS" barcode="8682502893445" size="XS" pack_qty="1" stock="7" price="6.00"/>
+          <variant sku="21556-01-S" barcode="8682502893438" size="S" pack_qty="2" stock="14" price="6.00"/>
+          <variant sku="21556-01-M" barcode="8682502893421" size="M" pack_qty="2" stock="14" price="6.00"/>
+          <variant sku="21556-01-L" barcode="8682502893414" size="L" pack_qty="1" stock="7" price="6.00"/>
         </variants>
       </color>
       <color id="21556-02" code="02" name="Black">
@@ -49191,7 +49191,7 @@
   </product>
   <product id="21628">
     <shopify_id>10224569614406</shopify_id>
-    <updated_at>2026-11-09T09:13:36Z</updated_at>
+    <updated_at>2026-11-09T19:43:25Z</updated_at>
     <title><![CDATA[Printed Oversized Basic Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -49210,7 +49210,7 @@
       <color id="21628-03" code="03" name="Red">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>34</packs_in_stock>
+        <packs_in_stock>32</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896422_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896422_2.jpg</image>
@@ -49220,10 +49220,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896422_6.jpg</image>
         </images>
         <variants>
-          <variant sku="21628-03-XS" barcode="8682502896422" size="XS" pack_qty="1" stock="35" price="11.00"/>
-          <variant sku="21628-03-S" barcode="8682502896415" size="S" pack_qty="2" stock="70" price="11.00"/>
-          <variant sku="21628-03-M" barcode="8682502896408" size="M" pack_qty="2" stock="70" price="11.00"/>
-          <variant sku="21628-03-L" barcode="8682502896392" size="L" pack_qty="1" stock="35" price="11.00"/>
+          <variant sku="21628-03-XS" barcode="8682502896422" size="XS" pack_qty="1" stock="33" price="11.00"/>
+          <variant sku="21628-03-S" barcode="8682502896415" size="S" pack_qty="2" stock="66" price="11.00"/>
+          <variant sku="21628-03-M" barcode="8682502896408" size="M" pack_qty="2" stock="66" price="11.00"/>
+          <variant sku="21628-03-L" barcode="8682502896392" size="L" pack_qty="1" stock="33" price="11.00"/>
         </variants>
       </color>
       <color id="21628-06" code="06" name="Gray">
