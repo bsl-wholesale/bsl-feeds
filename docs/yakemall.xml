@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog brand="BSL" currency="USD" products="903" colors="1739">
+<catalog brand="BSL" currency="USD" products="911" colors="1751">
   <product id="16290">
     <shopify_id>8486485327942</shopify_id>
     <updated_at>2026-11-09T00:46:15Z</updated_at>
@@ -49040,6 +49040,40 @@
       </color>
     </colors>
   </product>
+  <product id="21622">
+    <shopify_id>10293131640902</shopify_id>
+    <updated_at>2026-11-09T14:08:56Z</updated_at>
+    <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
+    <product_type><![CDATA[Pants]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %5, Viscose %32, Pes %63]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Waist: 34.5 cm - Hips: 56 cm - Height: 110 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21622-40" code="40" name="Anthracite">
+        <unit_price>14.00</unit_price>
+        <pack_price>84.00</pack_price>
+        <packs_in_stock>7</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21622.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21622-40-XS" barcode="8682502896064" size="XS" pack_qty="1" stock="8" price="14.00"/>
+          <variant sku="21622-40-S" barcode="8682502896057" size="S" pack_qty="2" stock="16" price="14.00"/>
+          <variant sku="21622-40-M" barcode="8682502896040" size="M" pack_qty="2" stock="16" price="14.00"/>
+          <variant sku="21622-40-L" barcode="8682502896033" size="L" pack_qty="1" stock="8" price="14.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="21624">
     <shopify_id>10222350499910</shopify_id>
     <updated_at>2026-11-09T00:39:25Z</updated_at>
@@ -49689,6 +49723,74 @@
       </color>
     </colors>
   </product>
+  <product id="21643">
+    <shopify_id>10301562421318</shopify_id>
+    <updated_at>2026-11-09T14:04:21Z</updated_at>
+    <title><![CDATA[Denim Mini Skirt with Button Detail]]></title>
+    <product_type><![CDATA[Skirts]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Cotton %92, Elastane %8]]></material>
+    <fit><![CDATA[Slim Fit]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Waist 34cm Hips 45cm Height 38cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21643-02" code="02" name="Black">
+        <unit_price>12.50</unit_price>
+        <pack_price>75.00</pack_price>
+        <packs_in_stock>5</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21643.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21643-02-XS" barcode="8682502899621" size="XS" pack_qty="1" stock="6" price="12.50"/>
+          <variant sku="21643-02-S" barcode="8682502899614" size="S" pack_qty="2" stock="12" price="12.50"/>
+          <variant sku="21643-02-M" barcode="8682502899607" size="M" pack_qty="2" stock="12" price="12.50"/>
+          <variant sku="21643-02-L" barcode="8682502899591" size="L" pack_qty="1" stock="6" price="12.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21644">
+    <shopify_id>10301562519622</shopify_id>
+    <updated_at>2026-11-09T14:03:51Z</updated_at>
+    <title><![CDATA[Denim Jacket with Collar and Button Detail]]></title>
+    <product_type><![CDATA[Jackets & Coats]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Cotton %92, Elastane %8]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[Denim]]></fabric_type>
+    <measurements><![CDATA[Chest 45cm Waist 41.5cm Arm length 59.5cm Height 62cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21644-02" code="02" name="Black">
+        <unit_price>20.50</unit_price>
+        <pack_price>123.00</pack_price>
+        <packs_in_stock>5</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21644.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21644-02-XS" barcode="8682502899669" size="XS" pack_qty="1" stock="6" price="20.50"/>
+          <variant sku="21644-02-S" barcode="8682502899652" size="S" pack_qty="2" stock="12" price="20.50"/>
+          <variant sku="21644-02-M" barcode="8682502899645" size="M" pack_qty="2" stock="12" price="20.50"/>
+          <variant sku="21644-02-L" barcode="8682502899638" size="L" pack_qty="1" stock="6" price="20.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="21645">
     <shopify_id>10278083002438</shopify_id>
     <updated_at>2026-11-09T11:54:56Z</updated_at>
@@ -49929,6 +50031,232 @@
           <variant sku="21656-07-S" barcode="8682502902567" size="S" pack_qty="2" stock="24" price="11.00"/>
           <variant sku="21656-07-M" barcode="8682502902550" size="M" pack_qty="2" stock="24" price="11.00"/>
           <variant sku="21656-07-L" barcode="8682502902543" size="L" pack_qty="1" stock="12" price="11.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21662">
+    <shopify_id>10293131870278</shopify_id>
+    <updated_at>2026-11-09T14:08:30Z</updated_at>
+    <title><![CDATA[Drapery Blouse]]></title>
+    <product_type><![CDATA[Blouses]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %5, Viscose %32, Pes %63]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Chest: 44.5cm Waist: 34.5cm Sleeve Length: 15.5cm Height: 54.5cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21662-40" code="40" name="Anthracite">
+        <unit_price>12.00</unit_price>
+        <pack_price>72.00</pack_price>
+        <packs_in_stock>9</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21662.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21662-40-XS" barcode="8682502902895" size="XS" pack_qty="1" stock="10" price="12.00"/>
+          <variant sku="21662-40-S" barcode="8682502902888" size="S" pack_qty="2" stock="20" price="12.00"/>
+          <variant sku="21662-40-M" barcode="8682502902871" size="M" pack_qty="2" stock="20" price="12.00"/>
+          <variant sku="21662-40-L" barcode="8682502902864" size="L" pack_qty="1" stock="10" price="12.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21663">
+    <shopify_id>10303274287174</shopify_id>
+    <updated_at>2026-11-09T14:11:26Z</updated_at>
+    <title><![CDATA[Tweed Fabric Mini Dress]]></title>
+    <product_type><![CDATA[Dresses]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Inner Material: Elastane %3, Pes %97 - Outer Material: Cotton %40, Acrylic %23, Pes %37]]></material>
+    <fit><![CDATA[Slim Fit]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Chest 41.5cm Waist 36cm Hips 48.5cm Height 81cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21663-02" code="02" name="Black">
+        <unit_price>27.00</unit_price>
+        <pack_price>162.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_siyah.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21663-02-XS" barcode="8682502902932" size="XS" pack_qty="1" stock="7" price="27.00"/>
+          <variant sku="21663-02-S" barcode="8682502902925" size="S" pack_qty="2" stock="14" price="27.00"/>
+          <variant sku="21663-02-M" barcode="8682502902918" size="M" pack_qty="2" stock="14" price="27.00"/>
+          <variant sku="21663-02-L" barcode="8682502902901" size="L" pack_qty="1" stock="7" price="27.00"/>
+        </variants>
+      </color>
+      <color id="21663-07" code="07" name="Brown">
+        <unit_price>27.00</unit_price>
+        <pack_price>162.00</pack_price>
+        <packs_in_stock>4</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_kahve.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21663-07-XS" barcode="8682502902970" size="XS" pack_qty="1" stock="5" price="27.00"/>
+          <variant sku="21663-07-S" barcode="8682502902963" size="S" pack_qty="2" stock="10" price="27.00"/>
+          <variant sku="21663-07-M" barcode="8682502902956" size="M" pack_qty="2" stock="10" price="27.00"/>
+          <variant sku="21663-07-L" barcode="8682502902949" size="L" pack_qty="1" stock="5" price="27.00"/>
+        </variants>
+      </color>
+      <color id="21663-48" code="48" name="Ecru">
+        <unit_price>27.00</unit_price>
+        <pack_price>162.00</pack_price>
+        <packs_in_stock>4</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_ekru.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21663-48-XS" barcode="8682502903014" size="XS" pack_qty="1" stock="5" price="27.00"/>
+          <variant sku="21663-48-S" barcode="8682502903007" size="S" pack_qty="2" stock="10" price="27.00"/>
+          <variant sku="21663-48-M" barcode="8682502902994" size="M" pack_qty="2" stock="10" price="27.00"/>
+          <variant sku="21663-48-L" barcode="8682502902987" size="L" pack_qty="1" stock="5" price="27.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21665">
+    <shopify_id>10303274614854</shopify_id>
+    <updated_at>2026-11-09T14:12:21Z</updated_at>
+    <title><![CDATA[Striped Basic Sweater]]></title>
+    <product_type><![CDATA[Knitwear]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Acrylic %66, Wool %8, Polyamid %26]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Knitting]]></fabric_type>
+    <measurements><![CDATA[Chest: 54cm - Waist: 48.5cm - Sleeve length: 42cm - Height: 52cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21665-06" code="06" name="Gray">
+        <unit_price>10.00</unit_price>
+        <pack_price>60.00</pack_price>
+        <packs_in_stock>3</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21665_e38696bf-e33f-4e4a-a960-f83ebb3bba92.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21665-06-XS" barcode="8682502903861" size="XS" pack_qty="1" stock="4" price="10.00"/>
+          <variant sku="21665-06-S" barcode="8682502903854" size="S" pack_qty="2" stock="8" price="10.00"/>
+          <variant sku="21665-06-M" barcode="8682502903847" size="M" pack_qty="2" stock="8" price="10.00"/>
+          <variant sku="21665-06-L" barcode="8682502903830" size="L" pack_qty="1" stock="4" price="10.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21681">
+    <shopify_id>10303276154950</shopify_id>
+    <updated_at>2026-11-09T14:20:15Z</updated_at>
+    <title><![CDATA[Velvet Cowl Neck Halter Top]]></title>
+    <product_type><![CDATA[Blouses]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %5, Pes %95]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Chest: 40cm, Length: 55.5cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21681-02" code="02" name="Black">
+        <unit_price>15.00</unit_price>
+        <pack_price>90.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21681_-_21682_siyah.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21681-02-XS" barcode="8682502906039" size="XS" pack_qty="1" stock="7" price="15.00"/>
+          <variant sku="21681-02-S" barcode="8682502906022" size="S" pack_qty="2" stock="14" price="15.00"/>
+          <variant sku="21681-02-M" barcode="8682502906015" size="M" pack_qty="2" stock="14" price="15.00"/>
+          <variant sku="21681-02-L" barcode="8682502906008" size="L" pack_qty="1" stock="7" price="15.00"/>
+        </variants>
+      </color>
+      <color id="21681-07" code="07" name="Brown">
+        <unit_price>15.00</unit_price>
+        <pack_price>90.00</pack_price>
+        <packs_in_stock>7</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21681_-_21682_siyah.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21681-07-XS" barcode="8682502906077" size="XS" pack_qty="1" stock="8" price="15.00"/>
+          <variant sku="21681-07-S" barcode="8682502906060" size="S" pack_qty="2" stock="16" price="15.00"/>
+          <variant sku="21681-07-M" barcode="8682502906053" size="M" pack_qty="2" stock="16" price="15.00"/>
+          <variant sku="21681-07-L" barcode="8682502906046" size="L" pack_qty="1" stock="8" price="15.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="21682">
+    <shopify_id>10303276351558</shopify_id>
+    <updated_at>2026-11-09T14:19:35Z</updated_at>
+    <title><![CDATA[Velvet Wide-Leg Trousers]]></title>
+    <product_type><![CDATA[Pants]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %5, Pes %95]]></material>
+    <fit><![CDATA[Regular Fit]]></fit>
+    <fabric_type><![CDATA[Weaving]]></fabric_type>
+    <measurements><![CDATA[Bel 30cm Basen 45cm Boy 110cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="21682-02" code="02" name="Black">
+        <unit_price>15.00</unit_price>
+        <pack_price>90.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21681_-_21682_siyah_b80b923a-bc4e-4138-b0f1-c1cebbce4a06.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21682-02-XS" barcode="8682502906114" size="XS" pack_qty="1" stock="7" price="15.00"/>
+          <variant sku="21682-02-S" barcode="8682502906107" size="S" pack_qty="2" stock="14" price="15.00"/>
+          <variant sku="21682-02-M" barcode="8682502906091" size="M" pack_qty="2" stock="14" price="15.00"/>
+          <variant sku="21682-02-L" barcode="8682502906084" size="L" pack_qty="1" stock="7" price="15.00"/>
+        </variants>
+      </color>
+      <color id="21682-07" code="07" name="Brown">
+        <unit_price>15.00</unit_price>
+        <pack_price>90.00</pack_price>
+        <packs_in_stock>6</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21681-_21682_kahve.jpg</image>
+        </images>
+        <variants>
+          <variant sku="21682-07-XS" barcode="8682502906152" size="XS" pack_qty="1" stock="7" price="15.00"/>
+          <variant sku="21682-07-S" barcode="8682502906145" size="S" pack_qty="2" stock="14" price="15.00"/>
+          <variant sku="21682-07-M" barcode="8682502906138" size="M" pack_qty="2" stock="14" price="15.00"/>
+          <variant sku="21682-07-L" barcode="8682502906121" size="L" pack_qty="1" stock="7" price="15.00"/>
         </variants>
       </color>
     </colors>
