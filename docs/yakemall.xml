@@ -33048,7 +33048,7 @@
   </product>
   <product id="21102">
     <shopify_id>8486274498630</shopify_id>
-    <updated_at>2026-11-10T00:44:50Z</updated_at>
+    <updated_at>2026-11-10T09:13:27Z</updated_at>
     <title><![CDATA[Classic Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -33067,17 +33067,17 @@
       <color id="21102-40" code="40" name="Anthracite">
         <unit_price>17.50</unit_price>
         <pack_price>105.00</pack_price>
-        <packs_in_stock>10</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pileli-klasik-pantolon_21102_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pileli-klasik-pantolon_21102_antrasit-antrasit_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pileli-klasik-pantolon_21102_antrasit-antrasit_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21102-40-XS" barcode="8682502835568" size="XS" pack_qty="1" stock="11" price="17.50"/>
-          <variant sku="21102-40-S" barcode="8682502835551" size="S" pack_qty="2" stock="22" price="17.50"/>
-          <variant sku="21102-40-M" barcode="8682502835544" size="M" pack_qty="2" stock="22" price="17.50"/>
-          <variant sku="21102-40-L" barcode="8682502835537" size="L" pack_qty="1" stock="11" price="17.50"/>
+          <variant sku="21102-40-XS" barcode="8682502835568" size="XS" pack_qty="1" stock="9" price="17.50"/>
+          <variant sku="21102-40-S" barcode="8682502835551" size="S" pack_qty="2" stock="18" price="17.50"/>
+          <variant sku="21102-40-M" barcode="8682502835544" size="M" pack_qty="2" stock="18" price="17.50"/>
+          <variant sku="21102-40-L" barcode="8682502835537" size="L" pack_qty="1" stock="9" price="17.50"/>
         </variants>
       </color>
     </colors>
@@ -35597,7 +35597,7 @@
   </product>
   <product id="21187">
     <shopify_id>8486277644358</shopify_id>
-    <updated_at>2026-11-10T01:09:36Z</updated_at>
+    <updated_at>2026-11-10T09:13:37Z</updated_at>
     <title><![CDATA[Plaid Maxi Flared Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35616,17 +35616,17 @@
       <color id="21187-02" code="02" name="Black">
         <unit_price>22.00</unit_price>
         <pack_price>132.00</pack_price>
-        <packs_in_stock>32</packs_in_stock>
+        <packs_in_stock>29</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-maksi-klos-etek_21187_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-maksi-klos-etek_21187_siyah-siyah_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-maksi-klos-etek_21187_siyah-siyah_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21187-02-XS" barcode="8682502850844" size="XS" pack_qty="1" stock="33" price="22.00"/>
-          <variant sku="21187-02-S" barcode="8682502850837" size="S" pack_qty="2" stock="66" price="22.00"/>
-          <variant sku="21187-02-M" barcode="8682502850820" size="M" pack_qty="2" stock="66" price="22.00"/>
-          <variant sku="21187-02-L" barcode="8682502850813" size="L" pack_qty="1" stock="33" price="22.00"/>
+          <variant sku="21187-02-XS" barcode="8682502850844" size="XS" pack_qty="1" stock="30" price="22.00"/>
+          <variant sku="21187-02-S" barcode="8682502850837" size="S" pack_qty="2" stock="60" price="22.00"/>
+          <variant sku="21187-02-M" barcode="8682502850820" size="M" pack_qty="2" stock="60" price="22.00"/>
+          <variant sku="21187-02-L" barcode="8682502850813" size="L" pack_qty="1" stock="30" price="22.00"/>
         </variants>
       </color>
     </colors>
@@ -36007,7 +36007,7 @@
   </product>
   <product id="21208">
     <shopify_id>8486278037574</shopify_id>
-    <updated_at>2026-11-10T01:19:06Z</updated_at>
+    <updated_at>2026-11-10T09:13:31Z</updated_at>
     <title><![CDATA[Plaid Flared Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -36026,17 +36026,17 @@
       <color id="21208-45" code="45" name="Mink">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>26</packs_in_stock>
+        <packs_in_stock>24</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21208_vizon-vizon_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21208_vizon-vizon_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-klos-midi-etek_21208_vizon-vizon_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21208-45-XS" barcode="8682502853449" size="XS" pack_qty="1" stock="27" price="15.00"/>
-          <variant sku="21208-45-S" barcode="8682502853432" size="S" pack_qty="2" stock="54" price="15.00"/>
-          <variant sku="21208-45-M" barcode="8682502853425" size="M" pack_qty="2" stock="54" price="15.00"/>
-          <variant sku="21208-45-L" barcode="8682502853418" size="L" pack_qty="1" stock="27" price="15.00"/>
+          <variant sku="21208-45-XS" barcode="8682502853449" size="XS" pack_qty="1" stock="25" price="15.00"/>
+          <variant sku="21208-45-S" barcode="8682502853432" size="S" pack_qty="2" stock="50" price="15.00"/>
+          <variant sku="21208-45-M" barcode="8682502853425" size="M" pack_qty="2" stock="50" price="15.00"/>
+          <variant sku="21208-45-L" barcode="8682502853418" size="L" pack_qty="1" stock="25" price="15.00"/>
         </variants>
       </color>
     </colors>
@@ -49076,7 +49076,7 @@
   </product>
   <product id="21624">
     <shopify_id>10222350499910</shopify_id>
-    <updated_at>2026-11-10T00:39:15Z</updated_at>
+    <updated_at>2026-11-10T09:13:26Z</updated_at>
     <title><![CDATA[Gathered Midi Skirt with Bodice Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -49095,7 +49095,7 @@
       <color id="21624-08" code="08" name="Khaki">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>10</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896149_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896149_2.jpg</image>
@@ -49105,10 +49105,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896149_6.jpg</image>
         </images>
         <variants>
-          <variant sku="21624-08-XS" barcode="8682502896149" size="XS" pack_qty="1" stock="11" price="15.00"/>
-          <variant sku="21624-08-S" barcode="8682502896132" size="S" pack_qty="2" stock="22" price="15.00"/>
-          <variant sku="21624-08-M" barcode="8682502896125" size="M" pack_qty="2" stock="22" price="15.00"/>
-          <variant sku="21624-08-L" barcode="8682502896118" size="L" pack_qty="1" stock="11" price="15.00"/>
+          <variant sku="21624-08-XS" barcode="8682502896149" size="XS" pack_qty="1" stock="9" price="15.00"/>
+          <variant sku="21624-08-S" barcode="8682502896132" size="S" pack_qty="2" stock="18" price="15.00"/>
+          <variant sku="21624-08-M" barcode="8682502896125" size="M" pack_qty="2" stock="18" price="15.00"/>
+          <variant sku="21624-08-L" barcode="8682502896118" size="L" pack_qty="1" stock="9" price="15.00"/>
         </variants>
       </color>
     </colors>
@@ -49191,7 +49191,7 @@
   </product>
   <product id="21628">
     <shopify_id>10224569614406</shopify_id>
-    <updated_at>2026-11-10T03:21:15Z</updated_at>
+    <updated_at>2026-11-10T09:13:22Z</updated_at>
     <title><![CDATA[Printed Oversized Basic Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -49210,7 +49210,7 @@
       <color id="21628-03" code="03" name="Red">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>32</packs_in_stock>
+        <packs_in_stock>30</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896422_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896422_2.jpg</image>
@@ -49220,10 +49220,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896422_6.jpg</image>
         </images>
         <variants>
-          <variant sku="21628-03-XS" barcode="8682502896422" size="XS" pack_qty="1" stock="33" price="11.00"/>
-          <variant sku="21628-03-S" barcode="8682502896415" size="S" pack_qty="2" stock="66" price="11.00"/>
-          <variant sku="21628-03-M" barcode="8682502896408" size="M" pack_qty="2" stock="66" price="11.00"/>
-          <variant sku="21628-03-L" barcode="8682502896392" size="L" pack_qty="1" stock="33" price="11.00"/>
+          <variant sku="21628-03-XS" barcode="8682502896422" size="XS" pack_qty="1" stock="31" price="11.00"/>
+          <variant sku="21628-03-S" barcode="8682502896415" size="S" pack_qty="2" stock="62" price="11.00"/>
+          <variant sku="21628-03-M" barcode="8682502896408" size="M" pack_qty="2" stock="62" price="11.00"/>
+          <variant sku="21628-03-L" barcode="8682502896392" size="L" pack_qty="1" stock="31" price="11.00"/>
         </variants>
       </color>
       <color id="21628-06" code="06" name="Gray">
