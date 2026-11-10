@@ -29697,7 +29697,7 @@
   </product>
   <product id="20970">
     <shopify_id>8493408845894</shopify_id>
-    <updated_at>2026-11-10T03:41:41Z</updated_at>
+    <updated_at>2026-11-10T10:43:16Z</updated_at>
     <title><![CDATA[Flock Printed Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -29716,17 +29716,17 @@
       <color id="20970-14" code="14" name="Green">
         <unit_price>22.50</unit_price>
         <pack_price>135.00</pack_price>
-        <packs_in_stock>47</packs_in_stock>
+        <packs_in_stock>46</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502843860_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502843860_2.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502843860_3.jpg</image>
         </images>
         <variants>
-          <variant sku="20970-14-26" barcode="8682502843860" size="26" pack_qty="1" stock="48" price="22.50"/>
-          <variant sku="20970-14-27" barcode="8682502843877" size="27" pack_qty="2" stock="96" price="22.50"/>
-          <variant sku="20970-14-28" barcode="8682502843884" size="28" pack_qty="2" stock="96" price="22.50"/>
-          <variant sku="20970-14-29" barcode="8682502843891" size="29" pack_qty="1" stock="48" price="22.50"/>
+          <variant sku="20970-14-26" barcode="8682502843860" size="26" pack_qty="1" stock="47" price="22.50"/>
+          <variant sku="20970-14-27" barcode="8682502843877" size="27" pack_qty="2" stock="94" price="22.50"/>
+          <variant sku="20970-14-28" barcode="8682502843884" size="28" pack_qty="2" stock="94" price="22.50"/>
+          <variant sku="20970-14-29" barcode="8682502843891" size="29" pack_qty="1" stock="47" price="22.50"/>
         </variants>
       </color>
     </colors>
