@@ -49725,7 +49725,7 @@
   </product>
   <product id="21643">
     <shopify_id>10301562421318</shopify_id>
-    <updated_at>2026-11-10T02:04:17Z</updated_at>
+    <updated_at>2026-11-10T06:13:36Z</updated_at>
     <title><![CDATA[Denim Mini Skirt with Button Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -49744,22 +49744,22 @@
       <color id="21643-02" code="02" name="Black">
         <unit_price>12.50</unit_price>
         <pack_price>75.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21643.jpg</image>
         </images>
         <variants>
-          <variant sku="21643-02-XS" barcode="8682502899621" size="XS" pack_qty="1" stock="6" price="12.50"/>
-          <variant sku="21643-02-S" barcode="8682502899614" size="S" pack_qty="2" stock="12" price="12.50"/>
-          <variant sku="21643-02-M" barcode="8682502899607" size="M" pack_qty="2" stock="12" price="12.50"/>
-          <variant sku="21643-02-L" barcode="8682502899591" size="L" pack_qty="1" stock="6" price="12.50"/>
+          <variant sku="21643-02-XS" barcode="8682502899621" size="XS" pack_qty="1" stock="5" price="12.50"/>
+          <variant sku="21643-02-S" barcode="8682502899614" size="S" pack_qty="2" stock="10" price="12.50"/>
+          <variant sku="21643-02-M" barcode="8682502899607" size="M" pack_qty="2" stock="10" price="12.50"/>
+          <variant sku="21643-02-L" barcode="8682502899591" size="L" pack_qty="1" stock="5" price="12.50"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21644">
     <shopify_id>10301562519622</shopify_id>
-    <updated_at>2026-11-10T03:33:42Z</updated_at>
+    <updated_at>2026-11-10T06:13:22Z</updated_at>
     <title><![CDATA[Denim Jacket with Collar and Button Detail]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Uncategorized]]></category>
@@ -49778,15 +49778,15 @@
       <color id="21644-02" code="02" name="Black">
         <unit_price>20.50</unit_price>
         <pack_price>123.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21644.jpg</image>
         </images>
         <variants>
-          <variant sku="21644-02-XS" barcode="8682502899669" size="XS" pack_qty="1" stock="6" price="20.50"/>
-          <variant sku="21644-02-S" barcode="8682502899652" size="S" pack_qty="2" stock="12" price="20.50"/>
-          <variant sku="21644-02-M" barcode="8682502899645" size="M" pack_qty="2" stock="12" price="20.50"/>
-          <variant sku="21644-02-L" barcode="8682502899638" size="L" pack_qty="1" stock="6" price="20.50"/>
+          <variant sku="21644-02-XS" barcode="8682502899669" size="XS" pack_qty="1" stock="5" price="20.50"/>
+          <variant sku="21644-02-S" barcode="8682502899652" size="S" pack_qty="2" stock="10" price="20.50"/>
+          <variant sku="21644-02-M" barcode="8682502899645" size="M" pack_qty="2" stock="10" price="20.50"/>
+          <variant sku="21644-02-L" barcode="8682502899638" size="L" pack_qty="1" stock="5" price="20.50"/>
         </variants>
       </color>
     </colors>
@@ -50071,7 +50071,7 @@
   </product>
   <product id="21663">
     <shopify_id>10303274287174</shopify_id>
-    <updated_at>2026-11-10T02:25:01Z</updated_at>
+    <updated_at>2026-11-10T06:13:27Z</updated_at>
     <title><![CDATA[Tweed Fabric Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -50090,15 +50090,15 @@
       <color id="21663-02" code="02" name="Black">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>5</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_siyah.jpg</image>
         </images>
         <variants>
-          <variant sku="21663-02-XS" barcode="8682502902932" size="XS" pack_qty="1" stock="7" price="27.00"/>
-          <variant sku="21663-02-S" barcode="8682502902925" size="S" pack_qty="2" stock="14" price="27.00"/>
-          <variant sku="21663-02-M" barcode="8682502902918" size="M" pack_qty="2" stock="14" price="27.00"/>
-          <variant sku="21663-02-L" barcode="8682502902901" size="L" pack_qty="1" stock="7" price="27.00"/>
+          <variant sku="21663-02-XS" barcode="8682502902932" size="XS" pack_qty="1" stock="6" price="27.00"/>
+          <variant sku="21663-02-S" barcode="8682502902925" size="S" pack_qty="2" stock="12" price="27.00"/>
+          <variant sku="21663-02-M" barcode="8682502902918" size="M" pack_qty="2" stock="12" price="27.00"/>
+          <variant sku="21663-02-L" barcode="8682502902901" size="L" pack_qty="1" stock="6" price="27.00"/>
         </variants>
       </color>
       <color id="21663-07" code="07" name="Brown">
