@@ -30382,7 +30382,7 @@
   </product>
   <product id="21002">
     <shopify_id>8486270206022</shopify_id>
-    <updated_at>2026-11-10T03:55:05Z</updated_at>
+    <updated_at>2026-11-10T12:13:28Z</updated_at>
     <title><![CDATA[Sleeveless Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -30401,17 +30401,17 @@
       <color id="21002-05" code="05" name="Navy">
         <unit_price>29.00</unit_price>
         <pack_price>174.00</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-mini-elbise_21002_lacivert-lacivert_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-mini-elbise_21002_lacivert-lacivert_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-mini-elbise_21002_lacivert-lacivert_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21002-05-XS" barcode="8682502819360" size="XS" pack_qty="1" stock="7" price="29.00"/>
-          <variant sku="21002-05-S" barcode="8682502819353" size="S" pack_qty="2" stock="14" price="29.00"/>
-          <variant sku="21002-05-M" barcode="8682502819346" size="M" pack_qty="2" stock="14" price="29.00"/>
-          <variant sku="21002-05-L" barcode="8682502819339" size="L" pack_qty="1" stock="7" price="29.00"/>
+          <variant sku="21002-05-XS" barcode="8682502819360" size="XS" pack_qty="1" stock="5" price="29.00"/>
+          <variant sku="21002-05-S" barcode="8682502819353" size="S" pack_qty="2" stock="10" price="29.00"/>
+          <variant sku="21002-05-M" barcode="8682502819346" size="M" pack_qty="2" stock="10" price="29.00"/>
+          <variant sku="21002-05-L" barcode="8682502819339" size="L" pack_qty="1" stock="5" price="29.00"/>
         </variants>
       </color>
     </colors>
@@ -34782,7 +34782,7 @@
   </product>
   <product id="21151">
     <shopify_id>8486276661318</shopify_id>
-    <updated_at>2026-11-10T03:07:55Z</updated_at>
+    <updated_at>2026-11-10T12:13:35Z</updated_at>
     <title><![CDATA[Draped Tulle Maxi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -34833,17 +34833,17 @@
       <color id="21151-08" code="08" name="Khaki">
         <unit_price>12.50</unit_price>
         <pack_price>75.00</pack_price>
-        <packs_in_stock>4</packs_in_stock>
+        <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-tul-maksi-etek_21151_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-tul-maksi-etek_21151_haki-haki_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-tul-maksi-etek_21151_haki-haki_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21151-08-XS" barcode="8682502846052" size="XS" pack_qty="1" stock="5" price="12.50"/>
-          <variant sku="21151-08-S" barcode="8682502846045" size="S" pack_qty="2" stock="10" price="12.50"/>
-          <variant sku="21151-08-M" barcode="8682502846038" size="M" pack_qty="2" stock="10" price="12.50"/>
-          <variant sku="21151-08-L" barcode="8682502846021" size="L" pack_qty="1" stock="5" price="12.50"/>
+          <variant sku="21151-08-XS" barcode="8682502846052" size="XS" pack_qty="1" stock="4" price="12.50"/>
+          <variant sku="21151-08-S" barcode="8682502846045" size="S" pack_qty="2" stock="8" price="12.50"/>
+          <variant sku="21151-08-M" barcode="8682502846038" size="M" pack_qty="2" stock="8" price="12.50"/>
+          <variant sku="21151-08-L" barcode="8682502846021" size="L" pack_qty="1" stock="4" price="12.50"/>
         </variants>
       </color>
     </colors>
@@ -35291,7 +35291,7 @@
   </product>
   <product id="21169">
     <shopify_id>8486277152838</shopify_id>
-    <updated_at>2026-11-10T02:39:50Z</updated_at>
+    <updated_at>2026-11-10T12:13:37Z</updated_at>
     <title><![CDATA[Bicycle Collar Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35327,7 +35327,7 @@
       <color id="21169-08" code="08" name="Khaki">
         <unit_price>11.50</unit_price>
         <pack_price>69.00</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>5</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_2_buyuk.jpg</image>
@@ -35335,10 +35335,10 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yakali-bodysuit_21169_haki-haki_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21169-08-XS" barcode="8682502847530" size="XS" pack_qty="1" stock="7" price="11.50"/>
-          <variant sku="21169-08-S" barcode="8682502847523" size="S" pack_qty="2" stock="14" price="11.50"/>
-          <variant sku="21169-08-M" barcode="8682502847516" size="M" pack_qty="2" stock="14" price="11.50"/>
-          <variant sku="21169-08-L" barcode="8682502847509" size="L" pack_qty="1" stock="7" price="11.50"/>
+          <variant sku="21169-08-XS" barcode="8682502847530" size="XS" pack_qty="1" stock="6" price="11.50"/>
+          <variant sku="21169-08-S" barcode="8682502847523" size="S" pack_qty="2" stock="12" price="11.50"/>
+          <variant sku="21169-08-M" barcode="8682502847516" size="M" pack_qty="2" stock="12" price="11.50"/>
+          <variant sku="21169-08-L" barcode="8682502847509" size="L" pack_qty="1" stock="6" price="11.50"/>
         </variants>
       </color>
     </colors>
@@ -41080,7 +41080,7 @@
   </product>
   <product id="21380">
     <shopify_id>8486151061574</shopify_id>
-    <updated_at>2026-11-10T01:21:40Z</updated_at>
+    <updated_at>2026-11-10T12:13:30Z</updated_at>
     <title><![CDATA[Sleeveless Blouse with Vest-like Style]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -41099,7 +41099,7 @@
       <color id="21380-02" code="02" name="Black">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>10</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yelek-gorunumlu-kolsuz-bluz_21380_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yelek-gorunumlu-kolsuz-bluz_21380_siyah-siyah_2_buyuk.jpg</image>
@@ -41108,10 +41108,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yelek-gorunumlu-kolsuz-bluz_21380_siyah-siyah_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21380-02-XS" barcode="8682502871191" size="XS" pack_qty="1" stock="11" price="15.00"/>
-          <variant sku="21380-02-S" barcode="8682502871184" size="S" pack_qty="2" stock="22" price="15.00"/>
-          <variant sku="21380-02-M" barcode="8682502871177" size="M" pack_qty="2" stock="22" price="15.00"/>
-          <variant sku="21380-02-L" barcode="8682502871160" size="L" pack_qty="1" stock="11" price="15.00"/>
+          <variant sku="21380-02-XS" barcode="8682502871191" size="XS" pack_qty="1" stock="9" price="15.00"/>
+          <variant sku="21380-02-S" barcode="8682502871184" size="S" pack_qty="2" stock="18" price="15.00"/>
+          <variant sku="21380-02-M" barcode="8682502871177" size="M" pack_qty="2" stock="18" price="15.00"/>
+          <variant sku="21380-02-L" barcode="8682502871160" size="L" pack_qty="1" stock="9" price="15.00"/>
         </variants>
       </color>
     </colors>
@@ -48892,7 +48892,7 @@
   </product>
   <product id="21619">
     <shopify_id>10222350401606</shopify_id>
-    <updated_at>2026-11-10T01:42:46Z</updated_at>
+    <updated_at>2026-11-10T12:13:37Z</updated_at>
     <title><![CDATA[Flared Midi Skirt with Asymmetric Hem]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
