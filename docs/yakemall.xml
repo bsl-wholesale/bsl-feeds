@@ -8419,7 +8419,7 @@
   </product>
   <product id="18667">
     <shopify_id>8486481559622</shopify_id>
-    <updated_at>2026-11-10T04:15:55Z</updated_at>
+    <updated_at>2026-11-10T13:43:26Z</updated_at>
     <title><![CDATA[Drapped faux leather mini skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -8478,16 +8478,16 @@
       <color id="18667-62" code="62" name="Stone">
         <unit_price>6.00</unit_price>
         <pack_price>36.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-suni-deri-mini-etek_18667_tas-tas_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/drapeli-suni-deri-mini-etek_18667_tas-tas_2_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18667-62-XS" barcode="8682502568435" size="XS" pack_qty="1" stock="6" price="6.00"/>
-          <variant sku="18667-62-S" barcode="8682502568428" size="S" pack_qty="2" stock="12" price="6.00"/>
-          <variant sku="18667-62-M" barcode="8682502568411" size="M" pack_qty="2" stock="12" price="6.00"/>
-          <variant sku="18667-62-L" barcode="8682502568404" size="L" pack_qty="1" stock="6" price="6.00"/>
+          <variant sku="18667-62-XS" barcode="8682502568435" size="XS" pack_qty="1" stock="5" price="6.00"/>
+          <variant sku="18667-62-S" barcode="8682502568428" size="S" pack_qty="2" stock="10" price="6.00"/>
+          <variant sku="18667-62-M" barcode="8682502568411" size="M" pack_qty="2" stock="10" price="6.00"/>
+          <variant sku="18667-62-L" barcode="8682502568404" size="L" pack_qty="1" stock="5" price="6.00"/>
         </variants>
       </color>
       <color id="18667-87" code="87" name="Tabacco brown">
@@ -34071,7 +34071,7 @@
   </product>
   <product id="21131">
     <shopify_id>8486275940422</shopify_id>
-    <updated_at>2026-11-10T00:29:45Z</updated_at>
+    <updated_at>2026-11-10T13:43:17Z</updated_at>
     <title><![CDATA[Corduroy Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -34090,17 +34090,17 @@
       <color id="21131-08" code="08" name="Khaki">
         <unit_price>12.50</unit_price>
         <pack_price>75.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-oversize-gomlek_21131_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-oversize-gomlek_21131_haki-haki_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-oversize-gomlek_21131_haki-haki_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21131-08-XS" barcode="8682502843938" size="XS" pack_qty="1" stock="3" price="12.50"/>
-          <variant sku="21131-08-S" barcode="8682502843921" size="S" pack_qty="2" stock="6" price="12.50"/>
-          <variant sku="21131-08-M" barcode="8682502843914" size="M" pack_qty="2" stock="6" price="12.50"/>
-          <variant sku="21131-08-L" barcode="8682502843907" size="L" pack_qty="1" stock="3" price="12.50"/>
+          <variant sku="21131-08-XS" barcode="8682502843938" size="XS" pack_qty="1" stock="2" price="12.50"/>
+          <variant sku="21131-08-S" barcode="8682502843921" size="S" pack_qty="2" stock="4" price="12.50"/>
+          <variant sku="21131-08-M" barcode="8682502843914" size="M" pack_qty="2" stock="4" price="12.50"/>
+          <variant sku="21131-08-L" barcode="8682502843907" size="L" pack_qty="1" stock="2" price="12.50"/>
         </variants>
       </color>
       <color id="21131-26" code="26" name="Beige">
