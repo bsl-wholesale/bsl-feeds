@@ -6712,7 +6712,7 @@
   </product>
   <product id="18501">
     <shopify_id>8530176213062</shopify_id>
-    <updated_at>2026-11-10T00:17:15Z</updated_at>
+    <updated_at>2026-11-10T16:43:26Z</updated_at>
     <title><![CDATA[Jacket collar patterned coat]]></title>
     <product_type><![CDATA[Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Overcoats]]></category>
@@ -6731,7 +6731,7 @@
       <color id="18501-48" code="48" name="Ecru">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ceket-yakali-desenli-kaban_18501_ekru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ceket-yakali-desenli-kaban_18501_ekru-ekru_2_buyuk.jpg</image>
@@ -6742,10 +6742,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ceket-yakali-desenli-kaban_18501_ekru-ekru_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18501-48-XS" barcode="8682502549991" size="XS" pack_qty="1" stock="4" price="15.00"/>
-          <variant sku="18501-48-S" barcode="8682502549984" size="S" pack_qty="2" stock="8" price="15.00"/>
-          <variant sku="18501-48-M" barcode="8682502549977" size="M" pack_qty="2" stock="8" price="15.00"/>
-          <variant sku="18501-48-L" barcode="8682502549960" size="L" pack_qty="1" stock="4" price="15.00"/>
+          <variant sku="18501-48-XS" barcode="8682502549991" size="XS" pack_qty="1" stock="3" price="15.00"/>
+          <variant sku="18501-48-S" barcode="8682502549984" size="S" pack_qty="2" stock="6" price="15.00"/>
+          <variant sku="18501-48-M" barcode="8682502549977" size="M" pack_qty="2" stock="6" price="15.00"/>
+          <variant sku="18501-48-L" barcode="8682502549960" size="L" pack_qty="1" stock="3" price="15.00"/>
         </variants>
       </color>
     </colors>
@@ -15441,7 +15441,7 @@
   </product>
   <product id="19548">
     <shopify_id>8486479265862</shopify_id>
-    <updated_at>2026-11-10T02:44:01Z</updated_at>
+    <updated_at>2026-11-10T16:43:26Z</updated_at>
     <title><![CDATA[Vintage Look Straight Cut Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -15460,7 +15460,7 @@
       <color id="19548-07" code="07" name="Brown">
         <unit_price>10.50</unit_price>
         <pack_price>63.00</pack_price>
-        <packs_in_stock>4</packs_in_stock>
+        <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/vintage-gorunumlu-duz-kesim-pantolon_19548_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/vintage-gorunumlu-duz-kesim-pantolon_19548_kahve-kahverengi_2_buyuk.jpg</image>
@@ -15470,10 +15470,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/vintage-gorunumlu-duz-kesim-pantolon_19548_kahve-kahverengi_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19548-07-XS" barcode="8682502668913" size="XS" pack_qty="1" stock="5" price="10.50"/>
-          <variant sku="19548-07-S" barcode="8682502668906" size="S" pack_qty="2" stock="10" price="10.50"/>
-          <variant sku="19548-07-M" barcode="8682502668890" size="M" pack_qty="2" stock="10" price="10.50"/>
-          <variant sku="19548-07-L" barcode="8682502668883" size="L" pack_qty="1" stock="5" price="10.50"/>
+          <variant sku="19548-07-XS" barcode="8682502668913" size="XS" pack_qty="1" stock="4" price="10.50"/>
+          <variant sku="19548-07-S" barcode="8682502668906" size="S" pack_qty="2" stock="8" price="10.50"/>
+          <variant sku="19548-07-M" barcode="8682502668890" size="M" pack_qty="2" stock="8" price="10.50"/>
+          <variant sku="19548-07-L" barcode="8682502668883" size="L" pack_qty="1" stock="4" price="10.50"/>
         </variants>
       </color>
     </colors>
@@ -48267,7 +48267,7 @@
   </product>
   <product id="21558">
     <shopify_id>10221188874310</shopify_id>
-    <updated_at>2026-11-10T04:25:30Z</updated_at>
+    <updated_at>2026-11-10T16:43:27Z</updated_at>
     <title><![CDATA[Sweatshirt with Zipper and Decorative Buttons]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Activewear > Activewear Sweatshirts & Hoodies > Sweatshirts]]></category>
@@ -48295,10 +48295,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893681_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21558-06-XS" barcode="8682502893681" size="XS" pack_qty="1" stock="1" price="15.00"/>
-          <variant sku="21558-06-S" barcode="8682502893674" size="S" pack_qty="2" stock="2" price="15.00"/>
-          <variant sku="21558-06-M" barcode="8682502893667" size="M" pack_qty="2" stock="2" price="15.00"/>
-          <variant sku="21558-06-L" barcode="8682502893650" size="L" pack_qty="1" stock="1" price="15.00"/>
+          <variant sku="21558-06-XS" barcode="8682502893681" size="XS" pack_qty="1" stock="0" price="15.00"/>
+          <variant sku="21558-06-S" barcode="8682502893674" size="S" pack_qty="2" stock="0" price="15.00"/>
+          <variant sku="21558-06-M" barcode="8682502893667" size="M" pack_qty="2" stock="0" price="15.00"/>
+          <variant sku="21558-06-L" barcode="8682502893650" size="L" pack_qty="1" stock="0" price="15.00"/>
         </variants>
       </color>
       <color id="21558-17" code="17" name="Lila">
@@ -49153,7 +49153,7 @@
   </product>
   <product id="21627">
     <shopify_id>10248052015174</shopify_id>
-    <updated_at>2026-11-10T00:20:40Z</updated_at>
+    <updated_at>2026-11-10T16:43:25Z</updated_at>
     <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -49172,7 +49172,7 @@
       <color id="21627-05" code="05" name="Navy blue">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_2.jpg</image>
@@ -49181,10 +49181,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="4" price="18.00"/>
-          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="8" price="18.00"/>
-          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="8" price="18.00"/>
-          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="4" price="18.00"/>
+          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="3" price="18.00"/>
+          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="6" price="18.00"/>
+          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="6" price="18.00"/>
+          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="3" price="18.00"/>
         </variants>
       </color>
     </colors>
