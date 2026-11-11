@@ -48816,7 +48816,7 @@
   </product>
   <product id="21597">
     <shopify_id>10254105903174</shopify_id>
-    <updated_at>2026-11-09T11:46:48Z</updated_at>
+    <updated_at>2026-11-11T11:35:09Z</updated_at>
     <title><![CDATA[Stand-Collar Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -48842,6 +48842,8 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_3.jpg</image>
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_4.jpg</image>
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_5.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_6.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900198_7.jpg</image>
         </images>
         <variants>
           <variant sku="21597-08-XS" barcode="8682502900198" size="XS" pack_qty="1" stock="7" price="30.00"/>
@@ -49339,7 +49341,7 @@
   </product>
   <product id="21630">
     <shopify_id>10257999396934</shopify_id>
-    <updated_at>2026-11-10T01:25:50Z</updated_at>
+    <updated_at>2026-11-11T11:32:51Z</updated_at>
     <title><![CDATA[Satin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -49365,6 +49367,7 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_3.jpg</image>
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_4.jpg</image>
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_5.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502897382_9.jpg</image>
         </images>
         <variants>
           <variant sku="21630-106-XS" barcode="8682502897382" size="XS" pack_qty="1" stock="2" price="14.00"/>
@@ -49927,7 +49930,7 @@
   </product>
   <product id="21648">
     <shopify_id>10265111068742</shopify_id>
-    <updated_at>2026-11-10T02:30:36Z</updated_at>
+    <updated_at>2026-11-11T11:34:32Z</updated_at>
     <title><![CDATA[Blazer Jacket with Button Detail Without Collar]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -49953,6 +49956,7 @@
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_3.jpg</image>
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_4.jpg</image>
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_5.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_6.jpg</image>
         </images>
         <variants>
           <variant sku="21648-48-XS" barcode="8682502900112" size="XS" pack_qty="1" stock="3" price="26.00"/>
