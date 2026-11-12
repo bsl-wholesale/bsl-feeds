@@ -13451,7 +13451,7 @@
   </product>
   <product id="19414">
     <shopify_id>8530183684166</shopify_id>
-    <updated_at>2026-11-12T09:17:53Z</updated_at>
+    <updated_at>2026-11-12T13:43:17Z</updated_at>
     <title><![CDATA[Slit Detailed Oversized Pullover]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -14179,7 +14179,7 @@
   </product>
   <product id="19458">
     <shopify_id>8530186600518</shopify_id>
-    <updated_at>2026-11-12T10:44:05Z</updated_at>
+    <updated_at>2026-11-12T13:43:16Z</updated_at>
     <title><![CDATA[Button Detailed Knit Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Uncategorized]]></category>
@@ -14218,7 +14218,7 @@
       <color id="19458-05" code="05" name="Navy blue">
         <unit_price>9.00</unit_price>
         <pack_price>63.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dugme-detayli-triko-top_19458_lacivert-lacivert_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dugme-detayli-triko-top_19458_lacivert-lacivert_2_buyuk.jpg</image>
@@ -14229,10 +14229,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/dugme-detayli-triko-top_19458_lacivert-lacivert_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19458-05-XS" barcode="8682502658792" size="XS" pack_qty="2" stock="4" price="9.00"/>
-          <variant sku="19458-05-S" barcode="8682502658785" size="S" pack_qty="2" stock="4" price="9.00"/>
-          <variant sku="19458-05-M" barcode="8682502658778" size="M" pack_qty="2" stock="4" price="9.00"/>
-          <variant sku="19458-05-L" barcode="8682502658761" size="L" pack_qty="1" stock="2" price="9.00"/>
+          <variant sku="19458-05-XS" barcode="8682502658792" size="XS" pack_qty="2" stock="0" price="9.00"/>
+          <variant sku="19458-05-S" barcode="8682502658785" size="S" pack_qty="2" stock="0" price="9.00"/>
+          <variant sku="19458-05-M" barcode="8682502658778" size="M" pack_qty="2" stock="0" price="9.00"/>
+          <variant sku="19458-05-L" barcode="8682502658761" size="L" pack_qty="1" stock="0" price="9.00"/>
         </variants>
       </color>
       <color id="19458-07" code="07" name="Brown">
@@ -15401,7 +15401,7 @@
   </product>
   <product id="19542">
     <shopify_id>8486479233094</shopify_id>
-    <updated_at>2026-11-12T12:14:26Z</updated_at>
+    <updated_at>2026-11-12T13:43:21Z</updated_at>
     <title><![CDATA[Hooded Print Detailed Fleece Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Activewear > Activewear Sweatshirts & Hoodies > Hoodies]]></category>
@@ -15420,7 +15420,7 @@
       <color id="19542-07" code="07" name="Brown">
         <unit_price>9.00</unit_price>
         <pack_price>54.00</pack_price>
-        <packs_in_stock>19</packs_in_stock>
+        <packs_in_stock>17</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapuson-baski-detayli-sardonlu-sweatshirt_19542_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapuson-baski-detayli-sardonlu-sweatshirt_19542_kahve-kahverengi_2_buyuk.jpg</image>
@@ -15431,10 +15431,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapuson-baski-detayli-sardonlu-sweatshirt_19542_kahve-kahverengi_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19542-07-XS" barcode="8682502668395" size="XS" pack_qty="1" stock="20" price="9.00"/>
-          <variant sku="19542-07-S" barcode="8682502668388" size="S" pack_qty="2" stock="40" price="9.00"/>
-          <variant sku="19542-07-M" barcode="8682502668371" size="M" pack_qty="2" stock="40" price="9.00"/>
-          <variant sku="19542-07-L" barcode="8682502668364" size="L" pack_qty="1" stock="20" price="9.00"/>
+          <variant sku="19542-07-XS" barcode="8682502668395" size="XS" pack_qty="1" stock="18" price="9.00"/>
+          <variant sku="19542-07-S" barcode="8682502668388" size="S" pack_qty="2" stock="36" price="9.00"/>
+          <variant sku="19542-07-M" barcode="8682502668371" size="M" pack_qty="2" stock="36" price="9.00"/>
+          <variant sku="19542-07-L" barcode="8682502668364" size="L" pack_qty="1" stock="18" price="9.00"/>
         </variants>
       </color>
     </colors>
@@ -18444,7 +18444,7 @@
   </product>
   <product id="20146">
     <shopify_id>8486468091974</shopify_id>
-    <updated_at>2026-11-12T09:15:41Z</updated_at>
+    <updated_at>2026-11-12T13:43:21Z</updated_at>
     <title><![CDATA[Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[]]></category>
@@ -18486,7 +18486,7 @@
       <color id="20146-55" code="55" name="Mıxed">
         <unit_price>12.50</unit_price>
         <pack_price>87.50</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_20146_hardal-hardal_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_20146_hardal-hardal_2_buyuk.jpg</image>
@@ -18497,11 +18497,11 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/duz-kesim-pantolon_20146_hardal-hardal_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20146-55-XS" barcode="8682502732997" size="XS" pack_qty="1" stock="2" price="12.50"/>
-          <variant sku="20146-55-S" barcode="8682502732973" size="S" pack_qty="2" stock="4" price="12.50"/>
-          <variant sku="20146-55-M" barcode="8682502732966" size="M" pack_qty="2" stock="4" price="12.50"/>
-          <variant sku="20146-55-L" barcode="8682502732959" size="L" pack_qty="1" stock="2" price="12.50"/>
-          <variant sku="20146-55-XL" barcode="8682502732980" size="XL" pack_qty="1" stock="2" price="12.50"/>
+          <variant sku="20146-55-XS" barcode="8682502732997" size="XS" pack_qty="1" stock="1" price="12.50"/>
+          <variant sku="20146-55-S" barcode="8682502732973" size="S" pack_qty="2" stock="2" price="12.50"/>
+          <variant sku="20146-55-M" barcode="8682502732966" size="M" pack_qty="2" stock="2" price="12.50"/>
+          <variant sku="20146-55-L" barcode="8682502732959" size="L" pack_qty="1" stock="1" price="12.50"/>
+          <variant sku="20146-55-XL" barcode="8682502732980" size="XL" pack_qty="1" stock="1" price="12.50"/>
         </variants>
       </color>
     </colors>
@@ -19603,7 +19603,7 @@
   </product>
   <product id="20263">
     <shopify_id>8486469075014</shopify_id>
-    <updated_at>2026-11-12T10:44:15Z</updated_at>
+    <updated_at>2026-11-12T13:43:21Z</updated_at>
     <title><![CDATA[Washed Rib Stitching Detailed Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -19622,7 +19622,7 @@
       <color id="20263-40" code="40" name="Anthracite">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yikamali-nervur-dikis-detayli-pantolon_20263_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yikamali-nervur-dikis-detayli-pantolon_20263_antrasit-antrasit_2_buyuk.jpg</image>
@@ -19634,10 +19634,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yikamali-nervur-dikis-detayli-pantolon_20263_antrasit-antrasit_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20263-40-XS" barcode="8682502744655" size="XS" pack_qty="1" stock="8" price="12.00"/>
-          <variant sku="20263-40-S" barcode="8682502744648" size="S" pack_qty="2" stock="16" price="12.00"/>
-          <variant sku="20263-40-M" barcode="8682502744631" size="M" pack_qty="2" stock="16" price="12.00"/>
-          <variant sku="20263-40-L" barcode="8682502744624" size="L" pack_qty="1" stock="8" price="12.00"/>
+          <variant sku="20263-40-XS" barcode="8682502744655" size="XS" pack_qty="1" stock="7" price="12.00"/>
+          <variant sku="20263-40-S" barcode="8682502744648" size="S" pack_qty="2" stock="14" price="12.00"/>
+          <variant sku="20263-40-M" barcode="8682502744631" size="M" pack_qty="2" stock="14" price="12.00"/>
+          <variant sku="20263-40-L" barcode="8682502744624" size="L" pack_qty="1" stock="7" price="12.00"/>
         </variants>
       </color>
     </colors>
@@ -21310,7 +21310,7 @@
   </product>
   <product id="20361">
     <shopify_id>8486470844486</shopify_id>
-    <updated_at>2026-11-12T12:14:31Z</updated_at>
+    <updated_at>2026-11-12T13:43:21Z</updated_at>
     <title><![CDATA[Openwork Patterned Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -21415,7 +21415,7 @@
       <color id="20361-48" code="48" name="Ecru">
         <unit_price>12.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ajur-desenli-kazak_20361_ekru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ajur-desenli-kazak_20361_ekru-ekru_2_buyuk.jpg</image>
@@ -21427,10 +21427,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ajur-desenli-kazak_20361_ekru-ekru_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20361-48-XS" barcode="8682502757945" size="XS" pack_qty="2" stock="12" price="12.00"/>
-          <variant sku="20361-48-S" barcode="8682502757938" size="S" pack_qty="2" stock="12" price="12.00"/>
-          <variant sku="20361-48-M" barcode="8682502757921" size="M" pack_qty="2" stock="12" price="12.00"/>
-          <variant sku="20361-48-L" barcode="8682502757914" size="L" pack_qty="1" stock="6" price="12.00"/>
+          <variant sku="20361-48-XS" barcode="8682502757945" size="XS" pack_qty="2" stock="8" price="12.00"/>
+          <variant sku="20361-48-S" barcode="8682502757938" size="S" pack_qty="2" stock="8" price="12.00"/>
+          <variant sku="20361-48-M" barcode="8682502757921" size="M" pack_qty="2" stock="8" price="12.00"/>
+          <variant sku="20361-48-L" barcode="8682502757914" size="L" pack_qty="1" stock="4" price="12.00"/>
         </variants>
       </color>
     </colors>
