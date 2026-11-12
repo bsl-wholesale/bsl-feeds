@@ -34903,7 +34903,7 @@
   </product>
   <product id="21154">
     <shopify_id>8486276726854</shopify_id>
-    <updated_at>2026-11-12T09:14:16Z</updated_at>
+    <updated_at>2026-11-12T16:43:16Z</updated_at>
     <title><![CDATA[Soft Straight Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -34938,17 +34938,17 @@
       <color id="21154-40" code="40" name="Anthracite">
         <unit_price>9.00</unit_price>
         <pack_price>54.00</pack_price>
-        <packs_in_stock>10</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21154-40-XS" barcode="8682502846250" size="XS" pack_qty="1" stock="11" price="9.00"/>
-          <variant sku="21154-40-S" barcode="8682502846243" size="S" pack_qty="2" stock="22" price="9.00"/>
-          <variant sku="21154-40-M" barcode="8682502846236" size="M" pack_qty="2" stock="22" price="9.00"/>
-          <variant sku="21154-40-L" barcode="8682502846229" size="L" pack_qty="1" stock="11" price="9.00"/>
+          <variant sku="21154-40-XS" barcode="8682502846250" size="XS" pack_qty="1" stock="8" price="9.00"/>
+          <variant sku="21154-40-S" barcode="8682502846243" size="S" pack_qty="2" stock="16" price="9.00"/>
+          <variant sku="21154-40-M" barcode="8682502846236" size="M" pack_qty="2" stock="16" price="9.00"/>
+          <variant sku="21154-40-L" barcode="8682502846229" size="L" pack_qty="1" stock="8" price="9.00"/>
         </variants>
       </color>
     </colors>
