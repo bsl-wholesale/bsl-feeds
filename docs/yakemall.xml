@@ -48341,7 +48341,7 @@
   </product>
   <product id="21559">
     <shopify_id>10222350270534</shopify_id>
-    <updated_at>2026-11-13T01:28:05Z</updated_at>
+    <updated_at>2026-11-13T19:43:21Z</updated_at>
     <title><![CDATA[Oversized Shirt-Sleeve T-Shirt]]></title>
     <product_type><![CDATA[T-Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > T-Shirts]]></category>
@@ -48360,7 +48360,7 @@
       <color id="21559-01" code="01" name="White">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893803_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893803_2.jpg</image>
@@ -48369,16 +48369,16 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893803_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21559-01-XS" barcode="8682502893803" size="XS" pack_qty="1" stock="3" price="11.00"/>
-          <variant sku="21559-01-S" barcode="8682502893797" size="S" pack_qty="2" stock="6" price="11.00"/>
-          <variant sku="21559-01-M" barcode="8682502893780" size="M" pack_qty="2" stock="6" price="11.00"/>
-          <variant sku="21559-01-L" barcode="8682502893773" size="L" pack_qty="1" stock="3" price="11.00"/>
+          <variant sku="21559-01-XS" barcode="8682502893803" size="XS" pack_qty="1" stock="4" price="11.00"/>
+          <variant sku="21559-01-S" barcode="8682502893797" size="S" pack_qty="2" stock="8" price="11.00"/>
+          <variant sku="21559-01-M" barcode="8682502893780" size="M" pack_qty="2" stock="8" price="11.00"/>
+          <variant sku="21559-01-L" barcode="8682502893773" size="L" pack_qty="1" stock="4" price="11.00"/>
         </variants>
       </color>
       <color id="21559-02" code="02" name="Black">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893841_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893841_2.jpg</image>
@@ -48387,10 +48387,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893841_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21559-02-XS" barcode="8682502893841" size="XS" pack_qty="1" stock="4" price="11.00"/>
-          <variant sku="21559-02-S" barcode="8682502893834" size="S" pack_qty="2" stock="8" price="11.00"/>
-          <variant sku="21559-02-M" barcode="8682502893827" size="M" pack_qty="2" stock="8" price="11.00"/>
-          <variant sku="21559-02-L" barcode="8682502893810" size="L" pack_qty="1" stock="4" price="11.00"/>
+          <variant sku="21559-02-XS" barcode="8682502893841" size="XS" pack_qty="1" stock="3" price="11.00"/>
+          <variant sku="21559-02-S" barcode="8682502893834" size="S" pack_qty="2" stock="6" price="11.00"/>
+          <variant sku="21559-02-M" barcode="8682502893827" size="M" pack_qty="2" stock="6" price="11.00"/>
+          <variant sku="21559-02-L" barcode="8682502893810" size="L" pack_qty="1" stock="3" price="11.00"/>
         </variants>
       </color>
       <color id="21559-05" code="05" name="Navy Blue">
