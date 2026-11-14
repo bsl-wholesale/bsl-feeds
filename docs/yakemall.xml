@@ -14319,7 +14319,7 @@
   </product>
   <product id="19459">
     <shopify_id>8486478577734</shopify_id>
-    <updated_at>2026-11-14T03:32:30Z</updated_at>
+    <updated_at>2026-11-14T09:13:06Z</updated_at>
     <title><![CDATA[Basic Knit Pullover]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -14459,7 +14459,7 @@
       <color id="19459-99" code="99" name="Dried rose">
         <unit_price>8.00</unit_price>
         <pack_price>56.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-triko-kazak_19459_gul-kurusu-pudra_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-triko-kazak_19459_gul-kurusu-pudra_2_buyuk.jpg</image>
@@ -14470,10 +14470,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/basic-triko-kazak_19459_gul-kurusu-pudra_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19459-99-XS" barcode="8682502659232" size="XS" pack_qty="2" stock="4" price="8.00"/>
-          <variant sku="19459-99-S" barcode="8682502659225" size="S" pack_qty="2" stock="4" price="8.00"/>
-          <variant sku="19459-99-M" barcode="8682502659218" size="M" pack_qty="2" stock="4" price="8.00"/>
-          <variant sku="19459-99-L" barcode="8682502659201" size="L" pack_qty="1" stock="2" price="8.00"/>
+          <variant sku="19459-99-XS" barcode="8682502659232" size="XS" pack_qty="2" stock="0" price="8.00"/>
+          <variant sku="19459-99-S" barcode="8682502659225" size="S" pack_qty="2" stock="0" price="8.00"/>
+          <variant sku="19459-99-M" barcode="8682502659218" size="M" pack_qty="2" stock="0" price="8.00"/>
+          <variant sku="19459-99-L" barcode="8682502659201" size="L" pack_qty="1" stock="0" price="8.00"/>
         </variants>
       </color>
     </colors>
