@@ -4657,7 +4657,7 @@
   </product>
   <product id="18309">
     <shopify_id>8486480412742</shopify_id>
-    <updated_at>2026-11-15T03:44:16Z</updated_at>
+    <updated_at>2026-11-15T12:13:25Z</updated_at>
     <title><![CDATA[Knitted sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -4676,7 +4676,7 @@
       <color id="18309-10" code="10" name="Cream">
         <unit_price>10.00</unit_price>
         <pack_price>60.00</pack_price>
-        <packs_in_stock>54</packs_in_stock>
+        <packs_in_stock>53</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sac-orgulu-triko-kazak_18309_krem-krem_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sac-orgulu-triko-kazak_18309_krem-krem_2_buyuk.jpg</image>
@@ -4687,10 +4687,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sac-orgulu-triko-kazak_18309_krem-krem_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18309-10-XS" barcode="8682502523229" size="XS" pack_qty="1" stock="55" price="10.00"/>
-          <variant sku="18309-10-S" barcode="8682502523212" size="S" pack_qty="2" stock="110" price="10.00"/>
-          <variant sku="18309-10-M" barcode="8682502523205" size="M" pack_qty="2" stock="110" price="10.00"/>
-          <variant sku="18309-10-L" barcode="8682502523199" size="L" pack_qty="1" stock="55" price="10.00"/>
+          <variant sku="18309-10-XS" barcode="8682502523229" size="XS" pack_qty="1" stock="54" price="10.00"/>
+          <variant sku="18309-10-S" barcode="8682502523212" size="S" pack_qty="2" stock="108" price="10.00"/>
+          <variant sku="18309-10-M" barcode="8682502523205" size="M" pack_qty="2" stock="108" price="10.00"/>
+          <variant sku="18309-10-L" barcode="8682502523199" size="L" pack_qty="1" stock="54" price="10.00"/>
         </variants>
       </color>
       <color id="18309-14" code="14" name="Green">
@@ -13332,7 +13332,7 @@
   </product>
   <product id="19406">
     <shopify_id>8530183094342</shopify_id>
-    <updated_at>2026-11-15T04:13:35Z</updated_at>
+    <updated_at>2026-11-15T12:13:17Z</updated_at>
     <title><![CDATA[Striped Collared Knit Pullover]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -13351,7 +13351,7 @@
       <color id="19406-323" code="323" name="Ecru">
         <unit_price>10.00</unit_price>
         <pack_price>70.00</pack_price>
-        <packs_in_stock>44</packs_in_stock>
+        <packs_in_stock>43</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/cizgili-yakali-triko-kazak_19406_ecru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/cizgili-yakali-triko-kazak_19406_ecru-ekru_2_buyuk.jpg</image>
@@ -13362,10 +13362,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/cizgili-yakali-triko-kazak_19406_ecru-ekru_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19406-323-XS" barcode="8682502652257" size="XS" pack_qty="2" stock="90" price="10.00"/>
-          <variant sku="19406-323-S" barcode="8682502652240" size="S" pack_qty="2" stock="90" price="10.00"/>
-          <variant sku="19406-323-M" barcode="8682502652233" size="M" pack_qty="2" stock="90" price="10.00"/>
-          <variant sku="19406-323-L" barcode="8682502652226" size="L" pack_qty="1" stock="45" price="10.00"/>
+          <variant sku="19406-323-XS" barcode="8682502652257" size="XS" pack_qty="2" stock="88" price="10.00"/>
+          <variant sku="19406-323-S" barcode="8682502652240" size="S" pack_qty="2" stock="88" price="10.00"/>
+          <variant sku="19406-323-M" barcode="8682502652233" size="M" pack_qty="2" stock="88" price="10.00"/>
+          <variant sku="19406-323-L" barcode="8682502652226" size="L" pack_qty="1" stock="44" price="10.00"/>
         </variants>
       </color>
     </colors>
@@ -19521,7 +19521,7 @@
   </product>
   <product id="20259">
     <shopify_id>8530241650758</shopify_id>
-    <updated_at>2026-11-15T01:02:01Z</updated_at>
+    <updated_at>2026-11-15T12:13:25Z</updated_at>
     <title><![CDATA[Gilded Openwork Oversize Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -19540,7 +19540,7 @@
       <color id="20259-02" code="02" name="Black">
         <unit_price>12.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-kazak_20259_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-kazak_20259_siyah-siyah_2_buyuk.jpg</image>
@@ -19552,10 +19552,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-kazak_20259_siyah-siyah_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20259-02-XS" barcode="8682502744297" size="XS" pack_qty="2" stock="12" price="12.00"/>
-          <variant sku="20259-02-S" barcode="8682502744280" size="S" pack_qty="2" stock="12" price="12.00"/>
-          <variant sku="20259-02-M" barcode="8682502744273" size="M" pack_qty="2" stock="12" price="12.00"/>
-          <variant sku="20259-02-L" barcode="8682502744266" size="L" pack_qty="1" stock="6" price="12.00"/>
+          <variant sku="20259-02-XS" barcode="8682502744297" size="XS" pack_qty="2" stock="10" price="12.00"/>
+          <variant sku="20259-02-S" barcode="8682502744280" size="S" pack_qty="2" stock="10" price="12.00"/>
+          <variant sku="20259-02-M" barcode="8682502744273" size="M" pack_qty="2" stock="10" price="12.00"/>
+          <variant sku="20259-02-L" barcode="8682502744266" size="L" pack_qty="1" stock="5" price="12.00"/>
         </variants>
       </color>
     </colors>
