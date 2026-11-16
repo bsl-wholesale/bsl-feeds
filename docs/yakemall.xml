@@ -11359,7 +11359,7 @@
   </product>
   <product id="19150">
     <shopify_id>8530181161030</shopify_id>
-    <updated_at>2026-11-15T04:53:05Z</updated_at>
+    <updated_at>2026-11-16T04:55:35Z</updated_at>
     <title><![CDATA[Printed Short-Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -22914,7 +22914,7 @@
   </product>
   <product id="20525">
     <shopify_id>8486249955398</shopify_id>
-    <updated_at>2026-11-15T04:52:00Z</updated_at>
+    <updated_at>2026-11-16T04:54:30Z</updated_at>
     <title><![CDATA[Striped Cotton Mini Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[]]></category>
@@ -27971,7 +27971,7 @@
   </product>
   <product id="20840">
     <shopify_id>8486265290822</shopify_id>
-    <updated_at>2026-11-16T03:47:28Z</updated_at>
+    <updated_at>2026-11-16T06:13:16Z</updated_at>
     <title><![CDATA[Strapless Maxi Tulle Detail Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[]]></category>
@@ -27990,7 +27990,7 @@
       <color id="20840-02" code="02" name="Black">
         <unit_price>16.00</unit_price>
         <pack_price>96.00</pack_price>
-        <packs_in_stock>10</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-maksi-tul-detayli-elbise_20840_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-maksi-tul-detayli-elbise_20840_siyah-siyah_2_buyuk.jpg</image>
@@ -27999,10 +27999,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-maksi-tul-detayli-elbise_20840_siyah-siyah_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20840-02-XS" barcode="8682502807343" size="XS" pack_qty="1" stock="11" price="16.00"/>
-          <variant sku="20840-02-S" barcode="8682502807336" size="S" pack_qty="2" stock="22" price="16.00"/>
-          <variant sku="20840-02-M" barcode="8682502807329" size="M" pack_qty="2" stock="22" price="16.00"/>
-          <variant sku="20840-02-L" barcode="8682502807312" size="L" pack_qty="1" stock="11" price="16.00"/>
+          <variant sku="20840-02-XS" barcode="8682502807343" size="XS" pack_qty="1" stock="9" price="16.00"/>
+          <variant sku="20840-02-S" barcode="8682502807336" size="S" pack_qty="2" stock="18" price="16.00"/>
+          <variant sku="20840-02-M" barcode="8682502807329" size="M" pack_qty="2" stock="18" price="16.00"/>
+          <variant sku="20840-02-L" barcode="8682502807312" size="L" pack_qty="1" stock="9" price="16.00"/>
         </variants>
       </color>
     </colors>
@@ -33331,7 +33331,7 @@
   </product>
   <product id="21112">
     <shopify_id>8486275350598</shopify_id>
-    <updated_at>2026-11-15T04:52:45Z</updated_at>
+    <updated_at>2026-11-16T04:55:15Z</updated_at>
     <title><![CDATA[Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -41269,7 +41269,7 @@
   </product>
   <product id="21386">
     <shopify_id>8486151290950</shopify_id>
-    <updated_at>2026-11-15T04:53:45Z</updated_at>
+    <updated_at>2026-11-16T04:56:15Z</updated_at>
     <title><![CDATA[Linen Gathered Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -41666,7 +41666,7 @@
   </product>
   <product id="21396">
     <shopify_id>8486142967878</shopify_id>
-    <updated_at>2026-11-15T04:52:15Z</updated_at>
+    <updated_at>2026-11-16T04:54:45Z</updated_at>
     <title><![CDATA[Zip-up Shirt Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -48411,7 +48411,7 @@
   </product>
   <product id="21563">
     <shopify_id>10232328552518</shopify_id>
-    <updated_at>2026-11-16T01:33:10Z</updated_at>
+    <updated_at>2026-11-16T06:13:17Z</updated_at>
     <title><![CDATA[Patterned Baggy Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -48447,17 +48447,17 @@
       <color id="21563-22" code="22" name="Oil">
         <unit_price>10.00</unit_price>
         <pack_price>60.00</pack_price>
-        <packs_in_stock>27</packs_in_stock>
+        <packs_in_stock>25</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_2.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_3.jpg</image>
         </images>
         <variants>
-          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="28" price="10.00"/>
-          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="56" price="10.00"/>
-          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="56" price="10.00"/>
-          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="28" price="10.00"/>
+          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="26" price="10.00"/>
+          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="52" price="10.00"/>
+          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="52" price="10.00"/>
+          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="26" price="10.00"/>
         </variants>
       </color>
     </colors>
@@ -48932,7 +48932,7 @@
   </product>
   <product id="21620">
     <shopify_id>10243631743046</shopify_id>
-    <updated_at>2026-11-15T04:53:10Z</updated_at>
+    <updated_at>2026-11-16T04:55:45Z</updated_at>
     <title><![CDATA[Shawl-Collar Double-Breasted Blazer]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
