@@ -21310,7 +21310,7 @@
   </product>
   <product id="20361">
     <shopify_id>8486470844486</shopify_id>
-    <updated_at>2026-11-16T01:08:25Z</updated_at>
+    <updated_at>2026-11-16T15:13:46Z</updated_at>
     <title><![CDATA[Openwork Patterned Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -21415,7 +21415,7 @@
       <color id="20361-48" code="48" name="Ecru">
         <unit_price>12.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ajur-desenli-kazak_20361_ekru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ajur-desenli-kazak_20361_ekru-ekru_2_buyuk.jpg</image>
@@ -21427,10 +21427,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ajur-desenli-kazak_20361_ekru-ekru_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20361-48-XS" barcode="8682502757945" size="XS" pack_qty="2" stock="8" price="12.00"/>
-          <variant sku="20361-48-S" barcode="8682502757938" size="S" pack_qty="2" stock="8" price="12.00"/>
-          <variant sku="20361-48-M" barcode="8682502757921" size="M" pack_qty="2" stock="8" price="12.00"/>
-          <variant sku="20361-48-L" barcode="8682502757914" size="L" pack_qty="1" stock="4" price="12.00"/>
+          <variant sku="20361-48-XS" barcode="8682502757945" size="XS" pack_qty="2" stock="6" price="12.00"/>
+          <variant sku="20361-48-S" barcode="8682502757938" size="S" pack_qty="2" stock="6" price="12.00"/>
+          <variant sku="20361-48-M" barcode="8682502757921" size="M" pack_qty="2" stock="6" price="12.00"/>
+          <variant sku="20361-48-L" barcode="8682502757914" size="L" pack_qty="1" stock="3" price="12.00"/>
         </variants>
       </color>
     </colors>
@@ -29875,7 +29875,7 @@
   </product>
   <product id="20976">
     <shopify_id>8486269452358</shopify_id>
-    <updated_at>2026-11-16T09:13:32Z</updated_at>
+    <updated_at>2026-11-16T13:43:26Z</updated_at>
     <title><![CDATA[Bicycle Collar Cardigan with Button Details]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -29910,17 +29910,17 @@
       <color id="20976-07" code="07" name="Brown">
         <unit_price>13.00</unit_price>
         <pack_price>78.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mav-amiye-hirka_20976_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mav-amiye-hirka_20976_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mav-amiye-hirka_20976_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20976-07-XS" barcode="8682502817199" size="XS" pack_qty="1" stock="2" price="13.00"/>
-          <variant sku="20976-07-S" barcode="8682502817182" size="S" pack_qty="2" stock="4" price="13.00"/>
-          <variant sku="20976-07-M" barcode="8682502817175" size="M" pack_qty="2" stock="4" price="13.00"/>
-          <variant sku="20976-07-L" barcode="8682502817168" size="L" pack_qty="1" stock="2" price="13.00"/>
+          <variant sku="20976-07-XS" barcode="8682502817199" size="XS" pack_qty="1" stock="1" price="13.00"/>
+          <variant sku="20976-07-S" barcode="8682502817182" size="S" pack_qty="2" stock="2" price="13.00"/>
+          <variant sku="20976-07-M" barcode="8682502817175" size="M" pack_qty="2" stock="2" price="13.00"/>
+          <variant sku="20976-07-L" barcode="8682502817168" size="L" pack_qty="1" stock="1" price="13.00"/>
         </variants>
       </color>
       <color id="20976-38" code="38" name="Bone">
@@ -33119,7 +33119,7 @@
   </product>
   <product id="21108">
     <shopify_id>8486274957382</shopify_id>
-    <updated_at>2026-11-16T00:26:15Z</updated_at>
+    <updated_at>2026-11-16T13:43:32Z</updated_at>
     <title><![CDATA[Plaid Collarless Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33171,17 +33171,17 @@
       <color id="21108-14" code="14" name="Green">
         <unit_price>22.00</unit_price>
         <pack_price>132.00</pack_price>
-        <packs_in_stock>3</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-yakasiz-midi-elbise_21108_yesil-yesil_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-yakasiz-midi-elbise_21108_yesil-yesil_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/ekoseli-yakasiz-midi-elbise_21108_yesil-yesil_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21108-14-XS" barcode="8682502836305" size="XS" pack_qty="1" stock="4" price="22.00"/>
-          <variant sku="21108-14-S" barcode="8682502836299" size="S" pack_qty="2" stock="8" price="22.00"/>
-          <variant sku="21108-14-M" barcode="8682502836282" size="M" pack_qty="2" stock="8" price="22.00"/>
-          <variant sku="21108-14-L" barcode="8682502836275" size="L" pack_qty="1" stock="4" price="22.00"/>
+          <variant sku="21108-14-XS" barcode="8682502836305" size="XS" pack_qty="1" stock="3" price="22.00"/>
+          <variant sku="21108-14-S" barcode="8682502836299" size="S" pack_qty="2" stock="6" price="22.00"/>
+          <variant sku="21108-14-M" barcode="8682502836282" size="M" pack_qty="2" stock="6" price="22.00"/>
+          <variant sku="21108-14-L" barcode="8682502836275" size="L" pack_qty="1" stock="3" price="22.00"/>
         </variants>
       </color>
     </colors>
@@ -34354,7 +34354,7 @@
   </product>
   <product id="21137">
     <shopify_id>8486276235334</shopify_id>
-    <updated_at>2026-11-16T03:58:10Z</updated_at>
+    <updated_at>2026-11-16T13:43:31Z</updated_at>
     <title><![CDATA[Asymmetrical Collar Buckle Knitted Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -34373,33 +34373,33 @@
       <color id="21137-02" code="02" name="Black">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_siyah-siyah_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_siyah-siyah_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21137-02-XS" barcode="8682502844577" size="XS" pack_qty="1" stock="2" price="11.00"/>
-          <variant sku="21137-02-S" barcode="8682502844560" size="S" pack_qty="2" stock="4" price="11.00"/>
-          <variant sku="21137-02-M" barcode="8682502844553" size="M" pack_qty="2" stock="4" price="11.00"/>
-          <variant sku="21137-02-L" barcode="8682502844546" size="L" pack_qty="1" stock="2" price="11.00"/>
+          <variant sku="21137-02-XS" barcode="8682502844577" size="XS" pack_qty="1" stock="1" price="11.00"/>
+          <variant sku="21137-02-S" barcode="8682502844560" size="S" pack_qty="2" stock="2" price="11.00"/>
+          <variant sku="21137-02-M" barcode="8682502844553" size="M" pack_qty="2" stock="2" price="11.00"/>
+          <variant sku="21137-02-L" barcode="8682502844546" size="L" pack_qty="1" stock="1" price="11.00"/>
         </variants>
       </color>
       <color id="21137-07" code="07" name="Brown">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/asimetrik-yaka-tokali-triko-top_21137_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21137-07-XS" barcode="8682502844614" size="XS" pack_qty="1" stock="3" price="11.00"/>
-          <variant sku="21137-07-S" barcode="8682502844607" size="S" pack_qty="2" stock="6" price="11.00"/>
-          <variant sku="21137-07-M" barcode="8682502844591" size="M" pack_qty="2" stock="6" price="11.00"/>
-          <variant sku="21137-07-L" barcode="8682502844584" size="L" pack_qty="1" stock="3" price="11.00"/>
+          <variant sku="21137-07-XS" barcode="8682502844614" size="XS" pack_qty="1" stock="2" price="11.00"/>
+          <variant sku="21137-07-S" barcode="8682502844607" size="S" pack_qty="2" stock="4" price="11.00"/>
+          <variant sku="21137-07-M" barcode="8682502844591" size="M" pack_qty="2" stock="4" price="11.00"/>
+          <variant sku="21137-07-L" barcode="8682502844584" size="L" pack_qty="1" stock="2" price="11.00"/>
         </variants>
       </color>
       <color id="21137-48" code="48" name="Ecru">
@@ -34903,7 +34903,7 @@
   </product>
   <product id="21154">
     <shopify_id>8486276726854</shopify_id>
-    <updated_at>2026-11-16T01:30:50Z</updated_at>
+    <updated_at>2026-11-16T13:43:31Z</updated_at>
     <title><![CDATA[Soft Straight Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -34938,17 +34938,17 @@
       <color id="21154-40" code="40" name="Anthracite">
         <unit_price>9.00</unit_price>
         <pack_price>54.00</pack_price>
-        <packs_in_stock>5</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yumusak-duz-paca-pantolon_21154_antrasit-antrasit_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21154-40-XS" barcode="8682502846250" size="XS" pack_qty="1" stock="6" price="9.00"/>
-          <variant sku="21154-40-S" barcode="8682502846243" size="S" pack_qty="2" stock="12" price="9.00"/>
-          <variant sku="21154-40-M" barcode="8682502846236" size="M" pack_qty="2" stock="12" price="9.00"/>
-          <variant sku="21154-40-L" barcode="8682502846229" size="L" pack_qty="1" stock="6" price="9.00"/>
+          <variant sku="21154-40-XS" barcode="8682502846250" size="XS" pack_qty="1" stock="5" price="9.00"/>
+          <variant sku="21154-40-S" barcode="8682502846243" size="S" pack_qty="2" stock="10" price="9.00"/>
+          <variant sku="21154-40-M" barcode="8682502846236" size="M" pack_qty="2" stock="10" price="9.00"/>
+          <variant sku="21154-40-L" barcode="8682502846229" size="L" pack_qty="1" stock="5" price="9.00"/>
         </variants>
       </color>
     </colors>
@@ -35918,7 +35918,7 @@
   </product>
   <product id="21199">
     <shopify_id>8486277972038</shopify_id>
-    <updated_at>2026-11-16T00:14:30Z</updated_at>
+    <updated_at>2026-11-16T15:13:47Z</updated_at>
     <title><![CDATA[Ribbed Long Sleeve Henley Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -35937,17 +35937,17 @@
       <color id="21199-02" code="02" name="Black">
         <unit_price>7.50</unit_price>
         <pack_price>45.00</pack_price>
-        <packs_in_stock>17</packs_in_stock>
+        <packs_in_stock>16</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarim-patli-uzun-kol-top_21199_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarim-patli-uzun-kol-top_21199_siyah-siyah_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/yarim-patli-uzun-kol-top_21199_siyah-siyah_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21199-02-XS" barcode="8682502852480" size="XS" pack_qty="1" stock="18" price="7.50"/>
-          <variant sku="21199-02-S" barcode="8682502852473" size="S" pack_qty="2" stock="36" price="7.50"/>
-          <variant sku="21199-02-M" barcode="8682502852466" size="M" pack_qty="2" stock="36" price="7.50"/>
-          <variant sku="21199-02-L" barcode="8682502852459" size="L" pack_qty="1" stock="18" price="7.50"/>
+          <variant sku="21199-02-XS" barcode="8682502852480" size="XS" pack_qty="1" stock="17" price="7.50"/>
+          <variant sku="21199-02-S" barcode="8682502852473" size="S" pack_qty="2" stock="34" price="7.50"/>
+          <variant sku="21199-02-M" barcode="8682502852466" size="M" pack_qty="2" stock="34" price="7.50"/>
+          <variant sku="21199-02-L" barcode="8682502852459" size="L" pack_qty="1" stock="17" price="7.50"/>
         </variants>
       </color>
       <color id="21199-40" code="40" name="Anthracite">
@@ -47559,7 +47559,7 @@
   </product>
   <product id="21541">
     <shopify_id>8491534221382</shopify_id>
-    <updated_at>2026-11-16T03:00:50Z</updated_at>
+    <updated_at>2026-11-16T13:43:26Z</updated_at>
     <title><![CDATA[Textured Wide-Leg Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -47578,7 +47578,7 @@
       <color id="21541-07" code="07" name="Brown">
         <unit_price>10.50</unit_price>
         <pack_price>63.00</pack_price>
-        <packs_in_stock>4</packs_in_stock>
+        <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502892035_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502892035_2.jpg</image>
@@ -47588,10 +47588,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502892035_6.jpg</image>
         </images>
         <variants>
-          <variant sku="21541-07-XS" barcode="8682502892035" size="XS" pack_qty="1" stock="5" price="10.50"/>
-          <variant sku="21541-07-S" barcode="8682502892028" size="S" pack_qty="2" stock="10" price="10.50"/>
-          <variant sku="21541-07-M" barcode="8682502892011" size="M" pack_qty="2" stock="10" price="10.50"/>
-          <variant sku="21541-07-L" barcode="8682502892004" size="L" pack_qty="1" stock="5" price="10.50"/>
+          <variant sku="21541-07-XS" barcode="8682502892035" size="XS" pack_qty="1" stock="4" price="10.50"/>
+          <variant sku="21541-07-S" barcode="8682502892028" size="S" pack_qty="2" stock="8" price="10.50"/>
+          <variant sku="21541-07-M" barcode="8682502892011" size="M" pack_qty="2" stock="8" price="10.50"/>
+          <variant sku="21541-07-L" barcode="8682502892004" size="L" pack_qty="1" stock="4" price="10.50"/>
         </variants>
       </color>
       <color id="21541-22" code="22" name="Oil">
@@ -48018,7 +48018,7 @@
   </product>
   <product id="21552">
     <shopify_id>10224569483334</shopify_id>
-    <updated_at>2026-11-16T12:13:17Z</updated_at>
+    <updated_at>2026-11-16T15:13:50Z</updated_at>
     <title><![CDATA[Button-Detail Maxi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -48037,7 +48037,7 @@
       <color id="21552-02" code="02" name="Black">
         <unit_price>15.00</unit_price>
         <pack_price>90.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_2.jpg</image>
@@ -48046,17 +48046,17 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21552-02-XS" barcode="8682502893070" size="XS" pack_qty="2" stock="18" price="15.00"/>
-          <variant sku="21552-02-S" barcode="8682502893063" size="S" pack_qty="2" stock="18" price="15.00"/>
-          <variant sku="21552-02-M" barcode="8682502893056" size="M" pack_qty="1" stock="9" price="15.00"/>
-          <variant sku="21552-02-XXS" barcode="8682502896859" size="XXS" pack_qty="1" stock="9" price="15.00"/>
+          <variant sku="21552-02-XS" barcode="8682502893070" size="XS" pack_qty="2" stock="16" price="15.00"/>
+          <variant sku="21552-02-S" barcode="8682502893063" size="S" pack_qty="2" stock="16" price="15.00"/>
+          <variant sku="21552-02-M" barcode="8682502893056" size="M" pack_qty="1" stock="8" price="15.00"/>
+          <variant sku="21552-02-XXS" barcode="8682502896859" size="XXS" pack_qty="1" stock="8" price="15.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21553">
     <shopify_id>10238690328646</shopify_id>
-    <updated_at>2026-11-16T12:13:26Z</updated_at>
+    <updated_at>2026-11-16T15:13:36Z</updated_at>
     <title><![CDATA[Button-Detail Cropped Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -48075,7 +48075,7 @@
       <color id="21553-02" code="02" name="Black">
         <unit_price>23.00</unit_price>
         <pack_price>138.00</pack_price>
-        <packs_in_stock>9</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_2.jpg</image>
@@ -48084,10 +48084,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21553-02-XS" barcode="8682502893117" size="XS" pack_qty="2" stock="20" price="23.00"/>
-          <variant sku="21553-02-S" barcode="8682502893100" size="S" pack_qty="2" stock="20" price="23.00"/>
-          <variant sku="21553-02-M" barcode="8682502893094" size="M" pack_qty="1" stock="10" price="23.00"/>
-          <variant sku="21553-02-XXS" barcode="8682502896842" size="XXS" pack_qty="1" stock="10" price="23.00"/>
+          <variant sku="21553-02-XS" barcode="8682502893117" size="XS" pack_qty="2" stock="18" price="23.00"/>
+          <variant sku="21553-02-S" barcode="8682502893100" size="S" pack_qty="2" stock="18" price="23.00"/>
+          <variant sku="21553-02-M" barcode="8682502893094" size="M" pack_qty="1" stock="9" price="23.00"/>
+          <variant sku="21553-02-XXS" barcode="8682502896842" size="XXS" pack_qty="1" stock="9" price="23.00"/>
         </variants>
       </color>
     </colors>
@@ -48411,7 +48411,7 @@
   </product>
   <product id="21563">
     <shopify_id>10232328552518</shopify_id>
-    <updated_at>2026-11-16T06:13:17Z</updated_at>
+    <updated_at>2026-11-16T15:13:37Z</updated_at>
     <title><![CDATA[Patterned Baggy Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -48447,17 +48447,17 @@
       <color id="21563-22" code="22" name="Oil">
         <unit_price>10.00</unit_price>
         <pack_price>60.00</pack_price>
-        <packs_in_stock>25</packs_in_stock>
+        <packs_in_stock>23</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_2.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_3.jpg</image>
         </images>
         <variants>
-          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="26" price="10.00"/>
-          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="52" price="10.00"/>
-          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="52" price="10.00"/>
-          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="26" price="10.00"/>
+          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="24" price="10.00"/>
+          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="48" price="10.00"/>
+          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="48" price="10.00"/>
+          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="24" price="10.00"/>
         </variants>
       </color>
     </colors>
@@ -49044,7 +49044,7 @@
   </product>
   <product id="21622">
     <shopify_id>10293131640902</shopify_id>
-    <updated_at>2026-11-16T02:58:20Z</updated_at>
+    <updated_at>2026-11-16T15:13:46Z</updated_at>
     <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Uncategorized]]></category>
@@ -49063,15 +49063,15 @@
       <color id="21622-40" code="40" name="Anthracite">
         <unit_price>14.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21622.jpg</image>
         </images>
         <variants>
-          <variant sku="21622-40-XS" barcode="8682502896064" size="XS" pack_qty="1" stock="8" price="14.00"/>
-          <variant sku="21622-40-S" barcode="8682502896057" size="S" pack_qty="2" stock="16" price="14.00"/>
-          <variant sku="21622-40-M" barcode="8682502896040" size="M" pack_qty="2" stock="16" price="14.00"/>
-          <variant sku="21622-40-L" barcode="8682502896033" size="L" pack_qty="1" stock="8" price="14.00"/>
+          <variant sku="21622-40-XS" barcode="8682502896064" size="XS" pack_qty="1" stock="7" price="14.00"/>
+          <variant sku="21622-40-S" barcode="8682502896057" size="S" pack_qty="2" stock="14" price="14.00"/>
+          <variant sku="21622-40-M" barcode="8682502896040" size="M" pack_qty="2" stock="14" price="14.00"/>
+          <variant sku="21622-40-L" barcode="8682502896033" size="L" pack_qty="1" stock="7" price="14.00"/>
         </variants>
       </color>
     </colors>
@@ -49155,7 +49155,7 @@
   </product>
   <product id="21627">
     <shopify_id>10248052015174</shopify_id>
-    <updated_at>2026-11-16T09:13:40Z</updated_at>
+    <updated_at>2026-11-16T13:43:26Z</updated_at>
     <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -49174,7 +49174,7 @@
       <color id="21627-05" code="05" name="Navy blue">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_2.jpg</image>
@@ -49183,10 +49183,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="2" price="18.00"/>
-          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="4" price="18.00"/>
-          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="4" price="18.00"/>
-          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="2" price="18.00"/>
+          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="0" price="18.00"/>
+          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="0" price="18.00"/>
+          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="0" price="18.00"/>
+          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="0" price="18.00"/>
         </variants>
       </color>
     </colors>
@@ -49588,7 +49588,7 @@
   </product>
   <product id="21637">
     <shopify_id>10251588370502</shopify_id>
-    <updated_at>2026-11-16T01:00:55Z</updated_at>
+    <updated_at>2026-11-16T15:13:36Z</updated_at>
     <title><![CDATA[Sheer Lace Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -49607,7 +49607,7 @@
       <color id="21637-02" code="02" name="Black">
         <unit_price>8.00</unit_price>
         <pack_price>48.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502898129_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502898129_2.jpg</image>
@@ -49616,10 +49616,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502898129_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21637-02-XS" barcode="8682502898129" size="XS" pack_qty="1" stock="3" price="8.00"/>
-          <variant sku="21637-02-S" barcode="8682502898112" size="S" pack_qty="2" stock="6" price="8.00"/>
-          <variant sku="21637-02-M" barcode="8682502898105" size="M" pack_qty="2" stock="6" price="8.00"/>
-          <variant sku="21637-02-L" barcode="8682502898099" size="L" pack_qty="1" stock="3" price="8.00"/>
+          <variant sku="21637-02-XS" barcode="8682502898129" size="XS" pack_qty="1" stock="2" price="8.00"/>
+          <variant sku="21637-02-S" barcode="8682502898112" size="S" pack_qty="2" stock="4" price="8.00"/>
+          <variant sku="21637-02-M" barcode="8682502898105" size="M" pack_qty="2" stock="4" price="8.00"/>
+          <variant sku="21637-02-L" barcode="8682502898099" size="L" pack_qty="1" stock="2" price="8.00"/>
         </variants>
       </color>
     </colors>
@@ -50041,7 +50041,7 @@
   </product>
   <product id="21662">
     <shopify_id>10293131870278</shopify_id>
-    <updated_at>2026-11-16T01:58:06Z</updated_at>
+    <updated_at>2026-11-16T15:13:46Z</updated_at>
     <title><![CDATA[Drapery Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Uncategorized]]></category>
@@ -50060,15 +50060,15 @@
       <color id="21662-40" code="40" name="Anthracite">
         <unit_price>12.00</unit_price>
         <pack_price>72.00</pack_price>
-        <packs_in_stock>9</packs_in_stock>
+        <packs_in_stock>8</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21662.jpg</image>
         </images>
         <variants>
-          <variant sku="21662-40-XS" barcode="8682502902895" size="XS" pack_qty="1" stock="10" price="12.00"/>
-          <variant sku="21662-40-S" barcode="8682502902888" size="S" pack_qty="2" stock="20" price="12.00"/>
-          <variant sku="21662-40-M" barcode="8682502902871" size="M" pack_qty="2" stock="20" price="12.00"/>
-          <variant sku="21662-40-L" barcode="8682502902864" size="L" pack_qty="1" stock="10" price="12.00"/>
+          <variant sku="21662-40-XS" barcode="8682502902895" size="XS" pack_qty="1" stock="9" price="12.00"/>
+          <variant sku="21662-40-S" barcode="8682502902888" size="S" pack_qty="2" stock="18" price="12.00"/>
+          <variant sku="21662-40-M" barcode="8682502902871" size="M" pack_qty="2" stock="18" price="12.00"/>
+          <variant sku="21662-40-L" barcode="8682502902864" size="L" pack_qty="1" stock="9" price="12.00"/>
         </variants>
       </color>
     </colors>
