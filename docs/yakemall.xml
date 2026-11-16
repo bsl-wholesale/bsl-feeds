@@ -16532,7 +16532,7 @@
   </product>
   <product id="20014">
     <shopify_id>8486466846790</shopify_id>
-    <updated_at>2026-11-16T01:57:30Z</updated_at>
+    <updated_at>2026-11-16T09:13:36Z</updated_at>
     <title><![CDATA[Sequined Deep Slit and Low Waist Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -16573,7 +16573,7 @@
       <color id="20014-47" code="47" name="Silver">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>34</packs_in_stock>
+        <packs_in_stock>33</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pulpayet-derin-yirtmacli-bel-dekolteli-midi-elbise_20014_gumus-gumus_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pulpayet-derin-yirtmacli-bel-dekolteli-midi-elbise_20014_gumus-gumus_2_buyuk.jpg</image>
@@ -16585,10 +16585,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pulpayet-derin-yirtmacli-bel-dekolteli-midi-elbise_20014_gumus-gumus_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20014-47-XS" barcode="8682502717918" size="XS" pack_qty="1" stock="35" price="18.00"/>
-          <variant sku="20014-47-S" barcode="8682502717901" size="S" pack_qty="2" stock="70" price="18.00"/>
-          <variant sku="20014-47-M" barcode="8682502717895" size="M" pack_qty="2" stock="70" price="18.00"/>
-          <variant sku="20014-47-L" barcode="8682502717888" size="L" pack_qty="1" stock="35" price="18.00"/>
+          <variant sku="20014-47-XS" barcode="8682502717918" size="XS" pack_qty="1" stock="34" price="18.00"/>
+          <variant sku="20014-47-S" barcode="8682502717901" size="S" pack_qty="2" stock="68" price="18.00"/>
+          <variant sku="20014-47-M" barcode="8682502717895" size="M" pack_qty="2" stock="68" price="18.00"/>
+          <variant sku="20014-47-L" barcode="8682502717888" size="L" pack_qty="1" stock="34" price="18.00"/>
         </variants>
       </color>
     </colors>
@@ -21477,7 +21477,7 @@
   </product>
   <product id="20375">
     <shopify_id>8486471073862</shopify_id>
-    <updated_at>2026-11-16T03:36:10Z</updated_at>
+    <updated_at>2026-11-16T09:13:45Z</updated_at>
     <title><![CDATA[Draped Mini Tulle Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -29875,7 +29875,7 @@
   </product>
   <product id="20976">
     <shopify_id>8486269452358</shopify_id>
-    <updated_at>2026-11-16T04:08:20Z</updated_at>
+    <updated_at>2026-11-16T09:13:32Z</updated_at>
     <title><![CDATA[Bicycle Collar Cardigan with Button Details]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -29910,17 +29910,17 @@
       <color id="20976-07" code="07" name="Brown">
         <unit_price>13.00</unit_price>
         <pack_price>78.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mav-amiye-hirka_20976_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mav-amiye-hirka_20976_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/mav-amiye-hirka_20976_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20976-07-XS" barcode="8682502817199" size="XS" pack_qty="1" stock="3" price="13.00"/>
-          <variant sku="20976-07-S" barcode="8682502817182" size="S" pack_qty="2" stock="6" price="13.00"/>
-          <variant sku="20976-07-M" barcode="8682502817175" size="M" pack_qty="2" stock="6" price="13.00"/>
-          <variant sku="20976-07-L" barcode="8682502817168" size="L" pack_qty="1" stock="3" price="13.00"/>
+          <variant sku="20976-07-XS" barcode="8682502817199" size="XS" pack_qty="1" stock="2" price="13.00"/>
+          <variant sku="20976-07-S" barcode="8682502817182" size="S" pack_qty="2" stock="4" price="13.00"/>
+          <variant sku="20976-07-M" barcode="8682502817175" size="M" pack_qty="2" stock="4" price="13.00"/>
+          <variant sku="20976-07-L" barcode="8682502817168" size="L" pack_qty="1" stock="2" price="13.00"/>
         </variants>
       </color>
       <color id="20976-38" code="38" name="Bone">
@@ -48635,7 +48635,7 @@
   </product>
   <product id="21568">
     <shopify_id>10238690361414</shopify_id>
-    <updated_at>2026-11-16T03:47:40Z</updated_at>
+    <updated_at>2026-11-16T09:13:35Z</updated_at>
     <title><![CDATA[Mini Dress with Pocket Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -48686,7 +48686,7 @@
       <color id="21568-26" code="26" name="Beige">
         <unit_price>25.00</unit_price>
         <pack_price>150.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895074_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895074_2.jpg</image>
@@ -48696,10 +48696,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502895074_6.jpg</image>
         </images>
         <variants>
-          <variant sku="21568-26-XS" barcode="8682502895074" size="XS" pack_qty="1" stock="3" price="25.00"/>
-          <variant sku="21568-26-S" barcode="8682502895067" size="S" pack_qty="2" stock="6" price="25.00"/>
-          <variant sku="21568-26-M" barcode="8682502895050" size="M" pack_qty="2" stock="6" price="25.00"/>
-          <variant sku="21568-26-L" barcode="8682502895043" size="L" pack_qty="1" stock="3" price="25.00"/>
+          <variant sku="21568-26-XS" barcode="8682502895074" size="XS" pack_qty="1" stock="2" price="25.00"/>
+          <variant sku="21568-26-S" barcode="8682502895067" size="S" pack_qty="2" stock="4" price="25.00"/>
+          <variant sku="21568-26-M" barcode="8682502895050" size="M" pack_qty="2" stock="4" price="25.00"/>
+          <variant sku="21568-26-L" barcode="8682502895043" size="L" pack_qty="1" stock="2" price="25.00"/>
         </variants>
       </color>
     </colors>
@@ -48782,7 +48782,7 @@
   </product>
   <product id="21589">
     <shopify_id>10293131575366</shopify_id>
-    <updated_at>2026-11-11T17:48:00Z</updated_at>
+    <updated_at>2026-11-16T09:13:46Z</updated_at>
     <title><![CDATA[Sleeveless Tweed Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -48801,15 +48801,15 @@
       <color id="21589-12" code="12" name="Burgundy">
         <unit_price>19.00</unit_price>
         <pack_price>114.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21589.jpg</image>
         </images>
         <variants>
-          <variant sku="21589-12-XS" barcode="8682502899010" size="XS" pack_qty="1" stock="8" price="19.00"/>
-          <variant sku="21589-12-S" barcode="8682502899003" size="S" pack_qty="2" stock="16" price="19.00"/>
-          <variant sku="21589-12-M" barcode="8682502898990" size="M" pack_qty="2" stock="16" price="19.00"/>
-          <variant sku="21589-12-L" barcode="8682502898983" size="L" pack_qty="1" stock="8" price="19.00"/>
+          <variant sku="21589-12-XS" barcode="8682502899010" size="XS" pack_qty="1" stock="7" price="19.00"/>
+          <variant sku="21589-12-S" barcode="8682502899003" size="S" pack_qty="2" stock="14" price="19.00"/>
+          <variant sku="21589-12-M" barcode="8682502898990" size="M" pack_qty="2" stock="14" price="19.00"/>
+          <variant sku="21589-12-L" barcode="8682502898983" size="L" pack_qty="1" stock="7" price="19.00"/>
         </variants>
       </color>
     </colors>
@@ -49155,7 +49155,7 @@
   </product>
   <product id="21627">
     <shopify_id>10248052015174</shopify_id>
-    <updated_at>2026-11-16T00:20:50Z</updated_at>
+    <updated_at>2026-11-16T09:13:40Z</updated_at>
     <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -49174,7 +49174,7 @@
       <color id="21627-05" code="05" name="Navy blue">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_2.jpg</image>
@@ -49183,10 +49183,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502896385_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="3" price="18.00"/>
-          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="6" price="18.00"/>
-          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="6" price="18.00"/>
-          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="3" price="18.00"/>
+          <variant sku="21627-05-XS" barcode="8682502896385" size="XS" pack_qty="1" stock="2" price="18.00"/>
+          <variant sku="21627-05-S" barcode="8682502896378" size="S" pack_qty="2" stock="4" price="18.00"/>
+          <variant sku="21627-05-M" barcode="8682502896361" size="M" pack_qty="2" stock="4" price="18.00"/>
+          <variant sku="21627-05-L" barcode="8682502896354" size="L" pack_qty="1" stock="2" price="18.00"/>
         </variants>
       </color>
     </colors>
