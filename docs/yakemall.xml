@@ -46352,7 +46352,7 @@
   </product>
   <product id="21502">
     <shopify_id>8486158630982</shopify_id>
-    <updated_at>2026-11-17T04:36:05Z</updated_at>
+    <updated_at>2026-11-17T10:43:17Z</updated_at>
     <title><![CDATA[Strapless Lace Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -46371,7 +46371,7 @@
       <color id="21502-02" code="02" name="Black">
         <unit_price>8.50</unit_price>
         <pack_price>51.00</pack_price>
-        <packs_in_stock>29</packs_in_stock>
+        <packs_in_stock>26</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502885990_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502885990_2.jpg</image>
@@ -46380,10 +46380,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502885990_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21502-02-XS" barcode="8682502885990" size="XS" pack_qty="1" stock="30" price="8.50"/>
-          <variant sku="21502-02-S" barcode="8682502885983" size="S" pack_qty="2" stock="60" price="8.50"/>
-          <variant sku="21502-02-M" barcode="8682502885976" size="M" pack_qty="2" stock="60" price="8.50"/>
-          <variant sku="21502-02-L" barcode="8682502885969" size="L" pack_qty="1" stock="30" price="8.50"/>
+          <variant sku="21502-02-XS" barcode="8682502885990" size="XS" pack_qty="1" stock="27" price="8.50"/>
+          <variant sku="21502-02-S" barcode="8682502885983" size="S" pack_qty="2" stock="54" price="8.50"/>
+          <variant sku="21502-02-M" barcode="8682502885976" size="M" pack_qty="2" stock="54" price="8.50"/>
+          <variant sku="21502-02-L" barcode="8682502885969" size="L" pack_qty="1" stock="27" price="8.50"/>
         </variants>
       </color>
     </colors>
