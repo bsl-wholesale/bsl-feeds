@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog brand="BSL" currency="USD" products="911" colors="1751">
+<catalog brand="BSL" currency="USD" products="925" colors="1773">
   <product id="16290">
     <shopify_id>8486485327942</shopify_id>
     <updated_at>2026-11-17T00:46:36Z</updated_at>
@@ -224,6 +224,122 @@
       </color>
     </colors>
   </product>
+  <product id="16614">
+    <shopify_id>8530163302470</shopify_id>
+    <updated_at>2026-11-17T14:43:38Z</updated_at>
+    <title><![CDATA[Sleeveless Tie Dye T-Shirt]]></title>
+    <product_type><![CDATA[T-Shirts]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Cotton %100]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest 46 cm -  Length 40 cm]]></measurements>
+    <pack size="7" content="XS/2-S/2-M/2-L/1">
+      <item size="XS" qty="2"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16614-27" code="27" name="Lıght blue">
+        <unit_price>2.50</unit_price>
+        <pack_price>17.50</pack_price>
+        <packs_in_stock>3</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-yikamali-tisort_16614_acik-mavi-mavi_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-yikamali-tisort_16614_acik-mavi-mavi_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-yikamali-tisort_16614_acik-mavi-mavi_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-yikamali-tisort_16614_acik-mavi-mavi_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-yikamali-tisort_16614_acik-mavi-mavi_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-yikamali-tisort_16614_acik-mavi-mavi_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16614-27-XS" barcode="8682502304392" size="XS" pack_qty="2" stock="8" price="2.50"/>
+          <variant sku="16614-27-S" barcode="8682502304385" size="S" pack_qty="2" stock="8" price="2.50"/>
+          <variant sku="16614-27-M" barcode="8682502304378" size="M" pack_qty="2" stock="8" price="2.50"/>
+          <variant sku="16614-27-L" barcode="8682502304361" size="L" pack_qty="1" stock="4" price="2.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16713">
+    <shopify_id>8530163925062</shopify_id>
+    <updated_at>2026-11-17T14:41:27Z</updated_at>
+    <title><![CDATA[One Shoulder Asymmetric Crop Top]]></title>
+    <product_type><![CDATA[Tops & Bodysuits]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Cotton %95, Elastane %5]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest 28 cm -  Waist 27 cm - Length 36 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16713-03" code="03" name="Red">
+        <unit_price>2.50</unit_price>
+        <pack_price>15.00</pack_price>
+        <packs_in_stock>8</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tek-omuz-asimetrik-kesim-crop-body_16713_kirmizi-kirmizi_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tek-omuz-asimetrik-kesim-crop-body_16713_kirmizi-kirmizi_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tek-omuz-asimetrik-kesim-crop-body_16713_kirmizi-kirmizi_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tek-omuz-asimetrik-kesim-crop-body_16713_kirmizi-kirmizi_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tek-omuz-asimetrik-kesim-crop-body_16713_kirmizi-kirmizi_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tek-omuz-asimetrik-kesim-crop-body_16713_kirmizi-kirmizi_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16713-03-XS" barcode="8682502317927" size="XS" pack_qty="1" stock="9" price="2.50"/>
+          <variant sku="16713-03-S" barcode="8682502317910" size="S" pack_qty="2" stock="18" price="2.50"/>
+          <variant sku="16713-03-M" barcode="8682502317903" size="M" pack_qty="2" stock="18" price="2.50"/>
+          <variant sku="16713-03-L" barcode="8682502317897" size="L" pack_qty="1" stock="9" price="2.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16715">
+    <shopify_id>8530164121670</shopify_id>
+    <updated_at>2026-11-17T14:39:35Z</updated_at>
+    <title><![CDATA[Strappy Crop Top]]></title>
+    <product_type><![CDATA[Tops & Bodysuits]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %5, Viscose %95]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest 32 cm  - Length 23,5 cm]]></measurements>
+    <pack size="7" content="XS/2-S/2-M/2-L/1">
+      <item size="XS" qty="2"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16715-50" code="50" name="Powder">
+        <unit_price>2.00</unit_price>
+        <pack_price>14.00</pack_price>
+        <packs_in_stock>3</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-crop-body_16715_pudra-pudra_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-crop-body_16715_pudra-pudra_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-crop-body_16715_pudra-pudra_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-crop-body_16715_pudra-pudra_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-crop-body_16715_pudra-pudra_5_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16715-50-XS" barcode="8682502318726" size="XS" pack_qty="2" stock="8" price="2.00"/>
+          <variant sku="16715-50-S" barcode="8682502318719" size="S" pack_qty="2" stock="8" price="2.00"/>
+          <variant sku="16715-50-M" barcode="8682502318702" size="M" pack_qty="2" stock="8" price="2.00"/>
+          <variant sku="16715-50-L" barcode="8682502318696" size="L" pack_qty="1" stock="4" price="2.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="16765">
     <shopify_id>8486485491782</shopify_id>
     <updated_at>2026-11-17T04:43:00Z</updated_at>
@@ -302,6 +418,86 @@
       </color>
     </colors>
   </product>
+  <product id="16786">
+    <shopify_id>8530164449350</shopify_id>
+    <updated_at>2026-11-17T14:36:46Z</updated_at>
+    <title><![CDATA[Sleeveless Crop Blouse]]></title>
+    <product_type><![CDATA[Blouses]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %5, Pes %95]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest 44 cm -  Waist 43 cm -  Length 36 cm]]></measurements>
+    <pack size="7" content="XS/2-S/2-M/2-L/1">
+      <item size="XS" qty="2"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16786-01" code="01" name="White">
+        <unit_price>3.00</unit_price>
+        <pack_price>21.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_beyaz-beyaz_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_beyaz-beyaz_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_beyaz-beyaz_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_beyaz-beyaz_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_beyaz-beyaz_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_beyaz-beyaz_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_beyaz-beyaz_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16786-01-XS" barcode="8682502333415" size="XS" pack_qty="2" stock="2" price="3.00"/>
+          <variant sku="16786-01-S" barcode="8682502333408" size="S" pack_qty="2" stock="2" price="3.00"/>
+          <variant sku="16786-01-M" barcode="8682502333392" size="M" pack_qty="2" stock="2" price="3.00"/>
+          <variant sku="16786-01-L" barcode="8682502333385" size="L" pack_qty="1" stock="1" price="3.00"/>
+        </variants>
+      </color>
+      <color id="16786-398" code="398" name="Cinnamon">
+        <unit_price>3.00</unit_price>
+        <pack_price>21.00</pack_price>
+        <packs_in_stock>7</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_tarcin-tarcin_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_tarcin-tarcin_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_tarcin-tarcin_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_tarcin-tarcin_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_tarcin-tarcin_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_tarcin-tarcin_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_tarcin-tarcin_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16786-398-XS" barcode="8682502333538" size="XS" pack_qty="2" stock="16" price="3.00"/>
+          <variant sku="16786-398-S" barcode="8682502333521" size="S" pack_qty="2" stock="16" price="3.00"/>
+          <variant sku="16786-398-M" barcode="8682502333514" size="M" pack_qty="2" stock="16" price="3.00"/>
+          <variant sku="16786-398-L" barcode="8682502333507" size="L" pack_qty="1" stock="8" price="3.00"/>
+        </variants>
+      </color>
+      <color id="16786-63" code="63" name="Salmon">
+        <unit_price>3.00</unit_price>
+        <pack_price>21.00</pack_price>
+        <packs_in_stock>2</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_somon-somon_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_somon-somon_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_somon-somon_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_somon-somon_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_somon-somon_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_somon-somon_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-crop-bluz_16786_somon-somon_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16786-63-XS" barcode="8682502333576" size="XS" pack_qty="2" stock="6" price="3.00"/>
+          <variant sku="16786-63-S" barcode="8682502333569" size="S" pack_qty="2" stock="6" price="3.00"/>
+          <variant sku="16786-63-M" barcode="8682502333552" size="M" pack_qty="2" stock="6" price="3.00"/>
+          <variant sku="16786-63-L" barcode="8682502333545" size="L" pack_qty="1" stock="3" price="3.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="16788">
     <shopify_id>8486485524550</shopify_id>
     <updated_at>2026-11-17T04:29:10Z</updated_at>
@@ -375,6 +571,66 @@
           <variant sku="16788-48-S" barcode="8682502334047" size="S" pack_qty="2" stock="0" price="2.50"/>
           <variant sku="16788-48-M" barcode="8682502334030" size="M" pack_qty="2" stock="0" price="2.50"/>
           <variant sku="16788-48-L" barcode="8682502334023" size="L" pack_qty="1" stock="0" price="2.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16810">
+    <shopify_id>8530164908102</shopify_id>
+    <updated_at>2026-11-17T14:34:42Z</updated_at>
+    <title><![CDATA[Strappy Mini Romper]]></title>
+    <product_type><![CDATA[Jumpsuits]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Viscose %100]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest:38cm  Waist:33cm  Hip:47 cm   Length Hanger Included:80cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16810-08" code="08" name="Khaki">
+        <unit_price>5.50</unit_price>
+        <pack_price>33.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_haki-haki_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_haki-haki_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_haki-haki_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_haki-haki_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_haki-haki_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_haki-haki_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_haki-haki_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16810-08-XS" barcode="8682502337178" size="XS" pack_qty="1" stock="0" price="5.50"/>
+          <variant sku="16810-08-S" barcode="8682502337161" size="S" pack_qty="2" stock="0" price="5.50"/>
+          <variant sku="16810-08-M" barcode="8682502337154" size="M" pack_qty="2" stock="0" price="5.50"/>
+          <variant sku="16810-08-L" barcode="8682502337147" size="L" pack_qty="1" stock="0" price="5.50"/>
+        </variants>
+      </color>
+      <color id="16810-26" code="26" name="Beige">
+        <unit_price>5.50</unit_price>
+        <pack_price>33.00</pack_price>
+        <packs_in_stock>4</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_bej-bej_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_bej-bej_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_bej-bej_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_bej-bej_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_bej-bej_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_bej-bej_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/askili-mini-tulum_16810_bej-bej_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16810-26-XS" barcode="8682502337215" size="XS" pack_qty="1" stock="5" price="5.50"/>
+          <variant sku="16810-26-S" barcode="8682502337208" size="S" pack_qty="2" stock="10" price="5.50"/>
+          <variant sku="16810-26-M" barcode="8682502337192" size="M" pack_qty="2" stock="10" price="5.50"/>
+          <variant sku="16810-26-L" barcode="8682502337185" size="L" pack_qty="1" stock="5" price="5.50"/>
         </variants>
       </color>
     </colors>
@@ -554,6 +810,242 @@
       </color>
     </colors>
   </product>
+  <product id="16855">
+    <shopify_id>8530164973638</shopify_id>
+    <updated_at>2026-11-17T14:33:31Z</updated_at>
+    <title><![CDATA[Tie Front Blouse]]></title>
+    <product_type><![CDATA[Blouses]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Viscose %100]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest 48 cm -  Sleeve Length 50,5 cm -  Length 40 cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16855-02" code="02" name="Black">
+        <unit_price>3.00</unit_price>
+        <pack_price>18.00</pack_price>
+        <packs_in_stock>59</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-siyah_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-siyah_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-siyah_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-siyah_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-siyah_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-siyah_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16855-02-XS" barcode="8682502343643" size="XS" pack_qty="1" stock="60" price="3.00"/>
+          <variant sku="16855-02-S" barcode="8682502343636" size="S" pack_qty="2" stock="120" price="3.00"/>
+          <variant sku="16855-02-M" barcode="8682502343629" size="M" pack_qty="2" stock="120" price="3.00"/>
+          <variant sku="16855-02-L" barcode="8682502343612" size="L" pack_qty="1" stock="60" price="3.00"/>
+        </variants>
+      </color>
+      <color id="16855-156" code="156" name="Black flower">
+        <unit_price>3.00</unit_price>
+        <pack_price>18.00</pack_price>
+        <packs_in_stock>58</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-cicekli-siyah_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-cicekli-siyah_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-cicekli-siyah_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-cicekli-siyah_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-cicekli-siyah_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/on-baglama-detayli-bluz_16855_siyah-cicekli-siyah_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16855-156-XS" barcode="8682502343681" size="XS" pack_qty="1" stock="59" price="3.00"/>
+          <variant sku="16855-156-S" barcode="8682502343674" size="S" pack_qty="2" stock="118" price="3.00"/>
+          <variant sku="16855-156-M" barcode="8682502343667" size="M" pack_qty="2" stock="118" price="3.00"/>
+          <variant sku="16855-156-L" barcode="8682502343650" size="L" pack_qty="1" stock="59" price="3.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16856">
+    <shopify_id>8530165071942</shopify_id>
+    <updated_at>2026-11-17T14:31:14Z</updated_at>
+    <title><![CDATA[Mini Short Skirt]]></title>
+    <product_type><![CDATA[Shorts]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Viscose %100]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Waist:32cm  Hip:44cm  Length:37cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16856-02" code="02" name="Black">
+        <unit_price>5.00</unit_price>
+        <pack_price>30.00</pack_price>
+        <packs_in_stock>24</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-siyah_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-siyah_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-siyah_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-siyah_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-siyah_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-siyah_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16856-02-XS" barcode="8682502343735" size="XS" pack_qty="1" stock="25" price="5.00"/>
+          <variant sku="16856-02-S" barcode="8682502343728" size="S" pack_qty="2" stock="50" price="5.00"/>
+          <variant sku="16856-02-M" barcode="8682502343711" size="M" pack_qty="2" stock="50" price="5.00"/>
+          <variant sku="16856-02-L" barcode="8682502343704" size="L" pack_qty="1" stock="25" price="5.00"/>
+        </variants>
+      </color>
+      <color id="16856-156" code="156" name="Black flower">
+        <unit_price>5.00</unit_price>
+        <pack_price>30.00</pack_price>
+        <packs_in_stock>45</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-cicekli-siyah_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-cicekli-siyah_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-cicekli-siyah_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-cicekli-siyah_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-cicekli-siyah_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/etek-gorunumlu-mini-sort_16856_siyah-cicekli-siyah_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16856-156-XS" barcode="8682502343773" size="XS" pack_qty="1" stock="46" price="5.00"/>
+          <variant sku="16856-156-S" barcode="8682502343766" size="S" pack_qty="2" stock="92" price="5.00"/>
+          <variant sku="16856-156-M" barcode="8682502343759" size="M" pack_qty="2" stock="92" price="5.00"/>
+          <variant sku="16856-156-L" barcode="8682502343742" size="L" pack_qty="1" stock="46" price="5.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16857">
+    <shopify_id>8530165137478</shopify_id>
+    <updated_at>2026-11-17T14:30:22Z</updated_at>
+    <title><![CDATA[Sleeveless Romper]]></title>
+    <product_type><![CDATA[Jumpsuits]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > One-Pieces]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %5, Viscose %95]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest:32cm  Waist:29,5cm  Hip:32cm Length:75cm]]></measurements>
+    <pack size="7" content="XS/2-S/2-M/2-L/1">
+      <item size="XS" qty="2"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16857-14" code="14" name="Green">
+        <unit_price>5.00</unit_price>
+        <pack_price>35.00</pack_price>
+        <packs_in_stock>35</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-spor-kisa-tulum_16857_yesil-yesil_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-spor-kisa-tulum_16857_yesil-yesil_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-spor-kisa-tulum_16857_yesil-yesil_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-spor-kisa-tulum_16857_yesil-yesil_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-spor-kisa-tulum_16857_yesil-yesil_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-spor-kisa-tulum_16857_yesil-yesil_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kolsuz-spor-kisa-tulum_16857_yesil-yesil_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16857-14-XS" barcode="8682502343810" size="XS" pack_qty="2" stock="72" price="5.00"/>
+          <variant sku="16857-14-S" barcode="8682502343803" size="S" pack_qty="2" stock="72" price="5.00"/>
+          <variant sku="16857-14-M" barcode="8682502343797" size="M" pack_qty="2" stock="72" price="5.00"/>
+          <variant sku="16857-14-L" barcode="8682502343780" size="L" pack_qty="1" stock="36" price="5.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16866">
+    <shopify_id>8530165203014</shopify_id>
+    <updated_at>2026-11-17T14:29:28Z</updated_at>
+    <title><![CDATA[Tie Waist Pants]]></title>
+    <product_type><![CDATA[Pants]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %10, Nylon %90]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Waist:30cm   Hip:40cm   Length:110cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16866-14" code="14" name="Green">
+        <unit_price>4.00</unit_price>
+        <pack_price>24.00</pack_price>
+        <packs_in_stock>33</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-baglama-detayli-pantolon_16866_yesil-yesil_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-baglama-detayli-pantolon_16866_yesil-yesil_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-baglama-detayli-pantolon_16866_yesil-yesil_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-baglama-detayli-pantolon_16866_yesil-yesil_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-baglama-detayli-pantolon_16866_yesil-yesil_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-baglama-detayli-pantolon_16866_yesil-yesil_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-baglama-detayli-pantolon_16866_yesil-yesil_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16866-14-XS" barcode="8682502344374" size="XS" pack_qty="1" stock="34" price="4.00"/>
+          <variant sku="16866-14-S" barcode="8682502344367" size="S" pack_qty="2" stock="68" price="4.00"/>
+          <variant sku="16866-14-M" barcode="8682502344350" size="M" pack_qty="2" stock="68" price="4.00"/>
+          <variant sku="16866-14-L" barcode="8682502344343" size="L" pack_qty="1" stock="34" price="4.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16867">
+    <shopify_id>8530165268550</shopify_id>
+    <updated_at>2026-11-17T14:27:18Z</updated_at>
+    <title><![CDATA[Open Back Crop Top]]></title>
+    <product_type><![CDATA[Tops & Bodysuits]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Polyester %95, Elastane %5]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest:32,5cm   Waist:29cm  Front  Length: 21,5cm]]></measurements>
+    <pack size="7" content="XS/2-S/2-M/2-L/1">
+      <item size="XS" qty="2"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16867-50" code="50" name="Powder">
+        <unit_price>2.50</unit_price>
+        <pack_price>17.50</pack_price>
+        <packs_in_stock>23</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sirt-dekolteli-body_16867_pudra-pudra_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sirt-dekolteli-body_16867_pudra-pudra_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sirt-dekolteli-body_16867_pudra-pudra_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sirt-dekolteli-body_16867_pudra-pudra_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sirt-dekolteli-body_16867_pudra-pudra_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sirt-dekolteli-body_16867_pudra-pudra_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/sirt-dekolteli-body_16867_pudra-pudra_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16867-50-XS" barcode="8682502344572" size="XS" pack_qty="2" stock="48" price="2.50"/>
+          <variant sku="16867-50-S" barcode="8682502344565" size="S" pack_qty="2" stock="48" price="2.50"/>
+          <variant sku="16867-50-M" barcode="8682502344558" size="M" pack_qty="2" stock="48" price="2.50"/>
+          <variant sku="16867-50-L" barcode="8682502344541" size="L" pack_qty="1" stock="24" price="2.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="16878">
     <shopify_id>8486485688390</shopify_id>
     <updated_at>2026-11-17T04:41:20Z</updated_at>
@@ -626,6 +1118,66 @@
           <variant sku="16878-09-S" barcode="8682502347146" size="S" pack_qty="2" stock="6" price="2.50"/>
           <variant sku="16878-09-M" barcode="8682502347139" size="M" pack_qty="2" stock="6" price="2.50"/>
           <variant sku="16878-09-L" barcode="8682502347122" size="L" pack_qty="1" stock="3" price="2.50"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="16882">
+    <shopify_id>8530165563462</shopify_id>
+    <updated_at>2026-11-17T14:24:03Z</updated_at>
+    <title><![CDATA[Elastic Waist Band Short]]></title>
+    <product_type><![CDATA[Skirts]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Viscose %100]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Waist 31,5cm  Hip 68cm-Length 39cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="16882-14" code="14" name="Green">
+        <unit_price>4.50</unit_price>
+        <pack_price>27.00</pack_price>
+        <packs_in_stock>45</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_yesil-yesil_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_yesil-yesil_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_yesil-yesil_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_yesil-yesil_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_yesil-yesil_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_yesil-yesil_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_yesil-yesil_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16882-14-XS" barcode="8682502347474" size="XS" pack_qty="1" stock="46" price="4.50"/>
+          <variant sku="16882-14-S" barcode="8682502347467" size="S" pack_qty="2" stock="92" price="4.50"/>
+          <variant sku="16882-14-M" barcode="8682502347450" size="M" pack_qty="2" stock="92" price="4.50"/>
+          <variant sku="16882-14-L" barcode="8682502347443" size="L" pack_qty="1" stock="46" price="4.50"/>
+        </variants>
+      </color>
+      <color id="16882-17" code="17" name="Lila">
+        <unit_price>4.50</unit_price>
+        <pack_price>27.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_lila-lila_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_lila-lila_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_lila-lila_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_lila-lila_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_lila-lila_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_lila-lila_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bel-lastik-detayli-sort_16882_lila-lila_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="16882-17-XS" barcode="8682502347511" size="XS" pack_qty="1" stock="0" price="4.50"/>
+          <variant sku="16882-17-S" barcode="8682502347504" size="S" pack_qty="2" stock="0" price="4.50"/>
+          <variant sku="16882-17-M" barcode="8682502347498" size="M" pack_qty="2" stock="0" price="4.50"/>
+          <variant sku="16882-17-L" barcode="8682502347481" size="L" pack_qty="1" stock="0" price="4.50"/>
         </variants>
       </color>
     </colors>
@@ -1234,6 +1786,82 @@
       </color>
     </colors>
   </product>
+  <product id="17579">
+    <shopify_id>8530167627846</shopify_id>
+    <updated_at>2026-11-17T14:19:56Z</updated_at>
+    <title><![CDATA[Square Neck Ruffle Sleeve Crop Blouse]]></title>
+    <product_type><![CDATA[Blouses]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Viscose %100]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest 32cm, Waist 29cm, Length 31cm, Sleeve Length 21cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="17579-56" code="56" name="Mint">
+        <unit_price>6.00</unit_price>
+        <pack_price>36.00</pack_price>
+        <packs_in_stock>26</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kare-yaka-kol-volanli-crop-bluz_17579_mint-yesil_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kare-yaka-kol-volanli-crop-bluz_17579_mint-yesil_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kare-yaka-kol-volanli-crop-bluz_17579_mint-yesil_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kare-yaka-kol-volanli-crop-bluz_17579_mint-yesil_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kare-yaka-kol-volanli-crop-bluz_17579_mint-yesil_5_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="17579-56-XS" barcode="8682502435331" size="XS" pack_qty="1" stock="27" price="6.00"/>
+          <variant sku="17579-56-S" barcode="8682502435324" size="S" pack_qty="2" stock="54" price="6.00"/>
+          <variant sku="17579-56-M" barcode="8682502435317" size="M" pack_qty="2" stock="54" price="6.00"/>
+          <variant sku="17579-56-L" barcode="8682502435300" size="L" pack_qty="1" stock="27" price="6.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="17580">
+    <shopify_id>8530167693382</shopify_id>
+    <updated_at>2026-11-17T14:20:21Z</updated_at>
+    <title><![CDATA[Flywheel Mini Short]]></title>
+    <product_type><![CDATA[Shorts]]></product_type>
+    <category><![CDATA[Uncategorized]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Viscose %100]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Waist 32cm, Hip 47cm, Length 34,5cm]]></measurements>
+    <pack size="6" content="XS/1-S/2-M/2-L/1">
+      <item size="XS" qty="1"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="17580-56" code="56" name="Mint">
+        <unit_price>5.00</unit_price>
+        <pack_price>30.00</pack_price>
+        <packs_in_stock>36</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/volanli-mini-sort_17580_mint-yesil_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/volanli-mini-sort_17580_mint-yesil_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/volanli-mini-sort_17580_mint-yesil_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/volanli-mini-sort_17580_mint-yesil_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/volanli-mini-sort_17580_mint-yesil_5_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="17580-56-XS" barcode="8682502435379" size="XS" pack_qty="1" stock="37" price="5.00"/>
+          <variant sku="17580-56-S" barcode="8682502435362" size="S" pack_qty="2" stock="74" price="5.00"/>
+          <variant sku="17580-56-M" barcode="8682502435355" size="M" pack_qty="2" stock="74" price="5.00"/>
+          <variant sku="17580-56-L" barcode="8682502435348" size="L" pack_qty="1" stock="37" price="5.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
   <product id="17652">
     <shopify_id>8486483492934</shopify_id>
     <updated_at>2026-11-17T04:18:30Z</updated_at>
@@ -1575,6 +2203,84 @@
           <variant sku="17691-46-S" barcode="8682502450372" size="S" pack_qty="2" stock="66" price="9.00"/>
           <variant sku="17691-46-M" barcode="8682502450365" size="M" pack_qty="2" stock="66" price="9.00"/>
           <variant sku="17691-46-L" barcode="8682502450358" size="L" pack_qty="1" stock="33" price="9.00"/>
+        </variants>
+      </color>
+    </colors>
+  </product>
+  <product id="17716">
+    <shopify_id>8530168152134</shopify_id>
+    <updated_at>2026-11-17T14:13:42Z</updated_at>
+    <title><![CDATA[Crew Neck Short Sleeve Tulle Body]]></title>
+    <product_type><![CDATA[Tops & Bodysuits]]></product_type>
+    <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
+    <gender>Woman</gender>
+    <material><![CDATA[Elastane %8, Pes %92]]></material>
+    <fit><![CDATA[]]></fit>
+    <fabric_type><![CDATA[]]></fabric_type>
+    <measurements><![CDATA[Chest 33cm, Waist 30,5cm, Sleeve Length 13,5cm, Length 42cm]]></measurements>
+    <pack size="7" content="XS/2-S/2-M/2-L/1">
+      <item size="XS" qty="2"/>
+      <item size="S" qty="2"/>
+      <item size="M" qty="2"/>
+      <item size="L" qty="1"/>
+    </pack>
+    <colors>
+      <color id="17716-07" code="07" name="Brown">
+        <unit_price>3.00</unit_price>
+        <pack_price>21.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_kahve-kahverengi_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_kahve-kahverengi_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_kahve-kahverengi_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_kahve-kahverengi_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_kahve-kahverengi_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_kahve-kahverengi_6_buyuk.jpg</image>
+          <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_kahve-kahverengi_7_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="17716-07-XS" barcode="8682502453359" size="XS" pack_qty="2" stock="0" price="3.00"/>
+          <variant sku="17716-07-S" barcode="8682502453342" size="S" pack_qty="2" stock="0" price="3.00"/>
+          <variant sku="17716-07-M" barcode="8682502453335" size="M" pack_qty="2" stock="0" price="3.00"/>
+          <variant sku="17716-07-L" barcode="8682502453328" size="L" pack_qty="1" stock="0" price="3.00"/>
+        </variants>
+      </color>
+      <color id="17716-09" code="09" name="Orange">
+        <unit_price>3.00</unit_price>
+        <pack_price>21.00</pack_price>
+        <packs_in_stock>14</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_oranj-oranj_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_oranj-oranj_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_oranj-oranj_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_oranj-oranj_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_oranj-oranj_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_oranj-oranj_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="17716-09-XS" barcode="8682502453397" size="XS" pack_qty="2" stock="30" price="3.00"/>
+          <variant sku="17716-09-S" barcode="8682502453380" size="S" pack_qty="2" stock="30" price="3.00"/>
+          <variant sku="17716-09-M" barcode="8682502453373" size="M" pack_qty="2" stock="30" price="3.00"/>
+          <variant sku="17716-09-L" barcode="8682502453366" size="L" pack_qty="1" stock="15" price="3.00"/>
+        </variants>
+      </color>
+      <color id="17716-14" code="14" name="Green">
+        <unit_price>3.00</unit_price>
+        <pack_price>21.00</pack_price>
+        <packs_in_stock>0</packs_in_stock>
+        <images>
+          <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_yesil-yesil_1_buyuk.jpg</image>
+          <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_yesil-yesil_2_buyuk.jpg</image>
+          <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_yesil-yesil_3_buyuk.jpg</image>
+          <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_yesil-yesil_4_buyuk.jpg</image>
+          <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_yesil-yesil_5_buyuk.jpg</image>
+          <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/bisiklet-yaka-kisa-kol-tul-body_17716_yesil-yesil_6_buyuk.jpg</image>
+        </images>
+        <variants>
+          <variant sku="17716-14-XS" barcode="8682502453434" size="XS" pack_qty="2" stock="0" price="3.00"/>
+          <variant sku="17716-14-S" barcode="8682502453427" size="S" pack_qty="2" stock="0" price="3.00"/>
+          <variant sku="17716-14-M" barcode="8682502453410" size="M" pack_qty="2" stock="0" price="3.00"/>
+          <variant sku="17716-14-L" barcode="8682502453403" size="L" pack_qty="1" stock="0" price="3.00"/>
         </variants>
       </color>
     </colors>
