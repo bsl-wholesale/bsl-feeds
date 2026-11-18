@@ -18412,7 +18412,7 @@
   </product>
   <product id="20082">
     <shopify_id>8486467371078</shopify_id>
-    <updated_at>2026-11-18T12:13:56Z</updated_at>
+    <updated_at>2026-11-18T15:13:45Z</updated_at>
     <title><![CDATA[100% Cotton Openwork Patterned Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -18431,7 +18431,7 @@
       <color id="20082-48" code="48" name="Ecru">
         <unit_price>12.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>0</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-pamuk-ajur-desenli-kazak_20082_ekru-ekru_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-pamuk-ajur-desenli-kazak_20082_ekru-ekru_2_buyuk.jpg</image>
@@ -18443,10 +18443,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/100-pamuk-ajur-desenli-kazak_20082_ekru-ekru_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20082-48-XS" barcode="8682502726866" size="XS" pack_qty="2" stock="0" price="12.00"/>
-          <variant sku="20082-48-S" barcode="8682502726859" size="S" pack_qty="2" stock="0" price="12.00"/>
-          <variant sku="20082-48-M" barcode="8682502726842" size="M" pack_qty="2" stock="0" price="12.00"/>
-          <variant sku="20082-48-L" barcode="8682502726835" size="L" pack_qty="1" stock="0" price="12.00"/>
+          <variant sku="20082-48-XS" barcode="8682502726866" size="XS" pack_qty="2" stock="4" price="12.00"/>
+          <variant sku="20082-48-S" barcode="8682502726859" size="S" pack_qty="2" stock="4" price="12.00"/>
+          <variant sku="20082-48-M" barcode="8682502726842" size="M" pack_qty="2" stock="4" price="12.00"/>
+          <variant sku="20082-48-L" barcode="8682502726835" size="L" pack_qty="1" stock="2" price="12.00"/>
         </variants>
       </color>
     </colors>
@@ -33161,7 +33161,7 @@
   </product>
   <product id="21074">
     <shopify_id>8486273155142</shopify_id>
-    <updated_at>2026-11-18T12:13:51Z</updated_at>
+    <updated_at>2026-11-18T15:13:55Z</updated_at>
     <title><![CDATA[Lycra Leather Leggings]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Leggings]]></category>
@@ -33180,17 +33180,17 @@
       <color id="21074-02" code="02" name="Black">
         <unit_price>13.00</unit_price>
         <pack_price>78.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>7</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/licrali-deri-tayt_21074_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/licrali-deri-tayt_21074_siyah-siyah_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/licrali-deri-tayt_21074_siyah-siyah_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21074-02-XS" barcode="8682502828942" size="XS" pack_qty="1" stock="3" price="13.00"/>
-          <variant sku="21074-02-S" barcode="8682502828935" size="S" pack_qty="2" stock="6" price="13.00"/>
-          <variant sku="21074-02-M" barcode="8682502828928" size="M" pack_qty="2" stock="6" price="13.00"/>
-          <variant sku="21074-02-L" barcode="8682502828911" size="L" pack_qty="1" stock="3" price="13.00"/>
+          <variant sku="21074-02-XS" barcode="8682502828942" size="XS" pack_qty="1" stock="8" price="13.00"/>
+          <variant sku="21074-02-S" barcode="8682502828935" size="S" pack_qty="2" stock="16" price="13.00"/>
+          <variant sku="21074-02-M" barcode="8682502828928" size="M" pack_qty="2" stock="16" price="13.00"/>
+          <variant sku="21074-02-L" barcode="8682502828911" size="L" pack_qty="1" stock="8" price="13.00"/>
         </variants>
       </color>
     </colors>
@@ -49117,7 +49117,7 @@
   </product>
   <product id="21563">
     <shopify_id>10232328552518</shopify_id>
-    <updated_at>2026-11-18T07:45:05Z</updated_at>
+    <updated_at>2026-11-18T15:13:37Z</updated_at>
     <title><![CDATA[Patterned Baggy Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -49153,17 +49153,17 @@
       <color id="21563-22" code="22" name="Oil">
         <unit_price>10.00</unit_price>
         <pack_price>60.00</pack_price>
-        <packs_in_stock>20</packs_in_stock>
+        <packs_in_stock>19</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_2.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502894312_3.jpg</image>
         </images>
         <variants>
-          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="21" price="10.00"/>
-          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="42" price="10.00"/>
-          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="42" price="10.00"/>
-          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="21" price="10.00"/>
+          <variant sku="21563-22-XS" barcode="8682502894312" size="XS" pack_qty="1" stock="20" price="10.00"/>
+          <variant sku="21563-22-S" barcode="8682502894305" size="S" pack_qty="2" stock="40" price="10.00"/>
+          <variant sku="21563-22-M" barcode="8682502894299" size="M" pack_qty="2" stock="40" price="10.00"/>
+          <variant sku="21563-22-L" barcode="8682502894282" size="L" pack_qty="1" stock="20" price="10.00"/>
         </variants>
       </color>
     </colors>
