@@ -18331,7 +18331,7 @@
   </product>
   <product id="20077">
     <shopify_id>8486467305542</shopify_id>
-    <updated_at>2026-11-18T02:24:45Z</updated_at>
+    <updated_at>2026-11-18T13:43:26Z</updated_at>
     <title><![CDATA[Pleated Fabric Trousers with Back Waist Elastic]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -18351,7 +18351,7 @@
       <color id="20077-02" code="02" name="Black">
         <unit_price>12.00</unit_price>
         <pack_price>84.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/arka-bel-lastikli-pileli-kumas-pantolon_20077_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/arka-bel-lastikli-pileli-kumas-pantolon_20077_siyah-siyah_2_buyuk.jpg</image>
@@ -18360,11 +18360,11 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/arka-bel-lastikli-pileli-kumas-pantolon_20077_siyah-siyah_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20077-02-XS" barcode="8682502726460" size="XS" pack_qty="1" stock="3" price="12.00"/>
-          <variant sku="20077-02-S" barcode="8682502726453" size="S" pack_qty="2" stock="6" price="12.00"/>
-          <variant sku="20077-02-M" barcode="8682502726446" size="M" pack_qty="2" stock="6" price="12.00"/>
-          <variant sku="20077-02-L" barcode="8682502726439" size="L" pack_qty="1" stock="3" price="12.00"/>
-          <variant sku="20077-02-XL" barcode="8682502731082" size="XL" pack_qty="1" stock="3" price="12.00"/>
+          <variant sku="20077-02-XS" barcode="8682502726460" size="XS" pack_qty="1" stock="1" price="12.00"/>
+          <variant sku="20077-02-S" barcode="8682502726453" size="S" pack_qty="2" stock="2" price="12.00"/>
+          <variant sku="20077-02-M" barcode="8682502726446" size="M" pack_qty="2" stock="2" price="12.00"/>
+          <variant sku="20077-02-L" barcode="8682502726439" size="L" pack_qty="1" stock="1" price="12.00"/>
+          <variant sku="20077-02-XL" barcode="8682502731082" size="XL" pack_qty="1" stock="1" price="12.00"/>
         </variants>
       </color>
     </colors>
@@ -30403,7 +30403,7 @@
   </product>
   <product id="20970">
     <shopify_id>8493408845894</shopify_id>
-    <updated_at>2026-11-18T09:16:31Z</updated_at>
+    <updated_at>2026-11-18T13:43:26Z</updated_at>
     <title><![CDATA[Flock Printed Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -30422,17 +30422,17 @@
       <color id="20970-14" code="14" name="Green">
         <unit_price>17.00</unit_price>
         <pack_price>102.00</pack_price>
-        <packs_in_stock>41</packs_in_stock>
+        <packs_in_stock>40</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502843860_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502843860_2.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502843860_3.jpg</image>
         </images>
         <variants>
-          <variant sku="20970-14-26" barcode="8682502843860" size="26" pack_qty="1" stock="42" price="17.00"/>
-          <variant sku="20970-14-27" barcode="8682502843877" size="27" pack_qty="2" stock="84" price="17.00"/>
-          <variant sku="20970-14-28" barcode="8682502843884" size="28" pack_qty="2" stock="84" price="17.00"/>
-          <variant sku="20970-14-29" barcode="8682502843891" size="29" pack_qty="1" stock="42" price="17.00"/>
+          <variant sku="20970-14-26" barcode="8682502843860" size="26" pack_qty="1" stock="41" price="17.00"/>
+          <variant sku="20970-14-27" barcode="8682502843877" size="27" pack_qty="2" stock="82" price="17.00"/>
+          <variant sku="20970-14-28" barcode="8682502843884" size="28" pack_qty="2" stock="82" price="17.00"/>
+          <variant sku="20970-14-29" barcode="8682502843891" size="29" pack_qty="1" stock="41" price="17.00"/>
         </variants>
       </color>
     </colors>
@@ -36140,7 +36140,7 @@
   </product>
   <product id="21176">
     <shopify_id>8486277316678</shopify_id>
-    <updated_at>2026-11-18T09:15:35Z</updated_at>
+    <updated_at>2026-11-18T13:43:25Z</updated_at>
     <title><![CDATA[Flock Print Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -36159,17 +36159,17 @@
       <color id="21176-07" code="07" name="Brown">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>13</packs_in_stock>
+        <packs_in_stock>12</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/flok-baskili-midi-etek_21176_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/flok-baskili-midi-etek_21176_kahve-kahverengi_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/flok-baskili-midi-etek_21176_kahve-kahverengi_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21176-07-XS" barcode="8682502848018" size="XS" pack_qty="1" stock="14" price="18.00"/>
-          <variant sku="21176-07-S" barcode="8682502848001" size="S" pack_qty="2" stock="28" price="18.00"/>
-          <variant sku="21176-07-M" barcode="8682502847998" size="M" pack_qty="2" stock="28" price="18.00"/>
-          <variant sku="21176-07-L" barcode="8682502847981" size="L" pack_qty="1" stock="14" price="18.00"/>
+          <variant sku="21176-07-XS" barcode="8682502848018" size="XS" pack_qty="1" stock="13" price="18.00"/>
+          <variant sku="21176-07-S" barcode="8682502848001" size="S" pack_qty="2" stock="26" price="18.00"/>
+          <variant sku="21176-07-M" barcode="8682502847998" size="M" pack_qty="2" stock="26" price="18.00"/>
+          <variant sku="21176-07-L" barcode="8682502847981" size="L" pack_qty="1" stock="13" price="18.00"/>
         </variants>
       </color>
     </colors>
