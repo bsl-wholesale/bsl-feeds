@@ -16267,7 +16267,7 @@
   </product>
   <product id="19572">
     <shopify_id>8486466748486</shopify_id>
-    <updated_at>2026-11-18T09:15:35Z</updated_at>
+    <updated_at>2026-11-18T10:43:16Z</updated_at>
     <title><![CDATA[Sheer Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -16286,7 +16286,7 @@
       <color id="19572-02" code="02" name="Black">
         <unit_price>9.50</unit_price>
         <pack_price>66.50</pack_price>
-        <packs_in_stock>6</packs_in_stock>
+        <packs_in_stock>5</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-mini-elbise_19572_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-mini-elbise_19572_siyah-siyah_2_buyuk.jpg</image>
@@ -16295,10 +16295,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/transparan-mini-elbise_19572_siyah-siyah_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19572-02-XS" barcode="8682502673320" size="XS" pack_qty="2" stock="14" price="9.50"/>
-          <variant sku="19572-02-S" barcode="8682502673313" size="S" pack_qty="2" stock="14" price="9.50"/>
-          <variant sku="19572-02-M" barcode="8682502673306" size="M" pack_qty="2" stock="14" price="9.50"/>
-          <variant sku="19572-02-L" barcode="8682502673290" size="L" pack_qty="1" stock="7" price="9.50"/>
+          <variant sku="19572-02-XS" barcode="8682502673320" size="XS" pack_qty="2" stock="12" price="9.50"/>
+          <variant sku="19572-02-S" barcode="8682502673313" size="S" pack_qty="2" stock="12" price="9.50"/>
+          <variant sku="19572-02-M" barcode="8682502673306" size="M" pack_qty="2" stock="12" price="9.50"/>
+          <variant sku="19572-02-L" barcode="8682502673290" size="L" pack_qty="1" stock="6" price="9.50"/>
         </variants>
       </color>
     </colors>
@@ -17238,7 +17238,7 @@
   </product>
   <product id="20014">
     <shopify_id>8486466846790</shopify_id>
-    <updated_at>2026-11-18T09:15:05Z</updated_at>
+    <updated_at>2026-11-18T10:43:15Z</updated_at>
     <title><![CDATA[Sequined Deep Slit and Low Waist Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -17279,7 +17279,7 @@
       <color id="20014-47" code="47" name="Silver">
         <unit_price>18.00</unit_price>
         <pack_price>108.00</pack_price>
-        <packs_in_stock>25</packs_in_stock>
+        <packs_in_stock>24</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pulpayet-derin-yirtmacli-bel-dekolteli-midi-elbise_20014_gumus-gumus_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pulpayet-derin-yirtmacli-bel-dekolteli-midi-elbise_20014_gumus-gumus_2_buyuk.jpg</image>
@@ -17291,10 +17291,10 @@
           <image position="8">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/pulpayet-derin-yirtmacli-bel-dekolteli-midi-elbise_20014_gumus-gumus_8_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20014-47-XS" barcode="8682502717918" size="XS" pack_qty="1" stock="26" price="18.00"/>
-          <variant sku="20014-47-S" barcode="8682502717901" size="S" pack_qty="2" stock="52" price="18.00"/>
-          <variant sku="20014-47-M" barcode="8682502717895" size="M" pack_qty="2" stock="52" price="18.00"/>
-          <variant sku="20014-47-L" barcode="8682502717888" size="L" pack_qty="1" stock="26" price="18.00"/>
+          <variant sku="20014-47-XS" barcode="8682502717918" size="XS" pack_qty="1" stock="25" price="18.00"/>
+          <variant sku="20014-47-S" barcode="8682502717901" size="S" pack_qty="2" stock="50" price="18.00"/>
+          <variant sku="20014-47-M" barcode="8682502717895" size="M" pack_qty="2" stock="50" price="18.00"/>
+          <variant sku="20014-47-L" barcode="8682502717888" size="L" pack_qty="1" stock="25" price="18.00"/>
         </variants>
       </color>
     </colors>
@@ -49341,12 +49341,12 @@
   </product>
   <product id="21568">
     <shopify_id>10238690361414</shopify_id>
-    <updated_at>2026-11-18T09:16:25Z</updated_at>
+    <updated_at>2026-11-18T09:51:10Z</updated_at>
     <title><![CDATA[Mini Dress with Pocket Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
     <gender>Woman</gender>
-    <material><![CDATA[Inner Material: Elastane %3, Inner Material: Pes %97, Outer Material: Elastane %2, Outer Material: Pes %24, Outer Material: Recycle %40, Outer Material: Ecovera %34]]></material>
+    <material><![CDATA[Inner Material: Elastane %3, Pes %97, Outer Material: Elastane %2, Pes %24, Recycle %40, Ecovera %34]]></material>
     <fit><![CDATA[Regular Fit]]></fit>
     <fabric_type><![CDATA[Weaving]]></fabric_type>
     <measurements><![CDATA[Bust: 44 cm - Waist: 38 cm - Sleeve Length: 61 cm - Hips: 48 cm - Length: 84 cm]]></measurements>
