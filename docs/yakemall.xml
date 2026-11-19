@@ -35166,7 +35166,7 @@
   </product>
   <product id="21142">
     <shopify_id>8486276300870</shopify_id>
-    <updated_at>2026-11-19T01:56:26Z</updated_at>
+    <updated_at>2026-11-19T07:43:41Z</updated_at>
     <title><![CDATA[Ribbed High-Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -35185,17 +35185,17 @@
       <color id="21142-06" code="06" name="Grey">
         <unit_price>6.00</unit_price>
         <pack_price>36.00</pack_price>
-        <packs_in_stock>12</packs_in_stock>
+        <packs_in_stock>11</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-dik-yakali-top_21142_gri-gri_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-dik-yakali-top_21142_gri-gri_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/fitilli-dik-yakali-top_21142_gri-gri_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21142-06-XS" barcode="8682502844850" size="XS" pack_qty="1" stock="13" price="6.00"/>
-          <variant sku="21142-06-S" barcode="8682502844843" size="S" pack_qty="2" stock="26" price="6.00"/>
-          <variant sku="21142-06-M" barcode="8682502844836" size="M" pack_qty="2" stock="26" price="6.00"/>
-          <variant sku="21142-06-L" barcode="8682502844829" size="L" pack_qty="1" stock="13" price="6.00"/>
+          <variant sku="21142-06-XS" barcode="8682502844850" size="XS" pack_qty="1" stock="12" price="6.00"/>
+          <variant sku="21142-06-S" barcode="8682502844843" size="S" pack_qty="2" stock="24" price="6.00"/>
+          <variant sku="21142-06-M" barcode="8682502844836" size="M" pack_qty="2" stock="24" price="6.00"/>
+          <variant sku="21142-06-L" barcode="8682502844829" size="L" pack_qty="1" stock="12" price="6.00"/>
         </variants>
       </color>
     </colors>
@@ -48762,7 +48762,7 @@
   </product>
   <product id="21553">
     <shopify_id>10238690328646</shopify_id>
-    <updated_at>2026-11-19T03:47:46Z</updated_at>
+    <updated_at>2026-11-19T07:43:41Z</updated_at>
     <title><![CDATA[Button-Detail Cropped Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -48781,7 +48781,7 @@
       <color id="21553-02" code="02" name="Black">
         <unit_price>23.00</unit_price>
         <pack_price>138.00</pack_price>
-        <packs_in_stock>7</packs_in_stock>
+        <packs_in_stock>6</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_2.jpg</image>
@@ -48790,10 +48790,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21553-02-XS" barcode="8682502893117" size="XS" pack_qty="2" stock="16" price="23.00"/>
-          <variant sku="21553-02-S" barcode="8682502893100" size="S" pack_qty="2" stock="16" price="23.00"/>
-          <variant sku="21553-02-M" barcode="8682502893094" size="M" pack_qty="1" stock="8" price="23.00"/>
-          <variant sku="21553-02-XXS" barcode="8682502896842" size="XXS" pack_qty="1" stock="8" price="23.00"/>
+          <variant sku="21553-02-XS" barcode="8682502893117" size="XS" pack_qty="2" stock="14" price="23.00"/>
+          <variant sku="21553-02-S" barcode="8682502893100" size="S" pack_qty="2" stock="14" price="23.00"/>
+          <variant sku="21553-02-M" barcode="8682502893094" size="M" pack_qty="1" stock="7" price="23.00"/>
+          <variant sku="21553-02-XXS" barcode="8682502896842" size="XXS" pack_qty="1" stock="7" price="23.00"/>
         </variants>
       </color>
     </colors>
@@ -50781,7 +50781,7 @@
   </product>
   <product id="21663">
     <shopify_id>10303274287174</shopify_id>
-    <updated_at>2026-11-19T02:27:35Z</updated_at>
+    <updated_at>2026-11-19T07:43:36Z</updated_at>
     <title><![CDATA[Tweed Fabric Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -50800,29 +50800,29 @@
       <color id="21663-02" code="02" name="Black">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>4</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_siyah.jpg</image>
         </images>
         <variants>
-          <variant sku="21663-02-XS" barcode="8682502902932" size="XS" pack_qty="1" stock="5" price="27.00"/>
-          <variant sku="21663-02-S" barcode="8682502902925" size="S" pack_qty="2" stock="10" price="27.00"/>
-          <variant sku="21663-02-M" barcode="8682502902918" size="M" pack_qty="2" stock="10" price="27.00"/>
-          <variant sku="21663-02-L" barcode="8682502902901" size="L" pack_qty="1" stock="5" price="27.00"/>
+          <variant sku="21663-02-XS" barcode="8682502902932" size="XS" pack_qty="1" stock="3" price="27.00"/>
+          <variant sku="21663-02-S" barcode="8682502902925" size="S" pack_qty="2" stock="6" price="27.00"/>
+          <variant sku="21663-02-M" barcode="8682502902918" size="M" pack_qty="2" stock="6" price="27.00"/>
+          <variant sku="21663-02-L" barcode="8682502902901" size="L" pack_qty="1" stock="3" price="27.00"/>
         </variants>
       </color>
       <color id="21663-07" code="07" name="Brown">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_kahve.jpg</image>
         </images>
         <variants>
-          <variant sku="21663-07-XS" barcode="8682502902970" size="XS" pack_qty="1" stock="3" price="27.00"/>
-          <variant sku="21663-07-S" barcode="8682502902963" size="S" pack_qty="2" stock="6" price="27.00"/>
-          <variant sku="21663-07-M" barcode="8682502902956" size="M" pack_qty="2" stock="6" price="27.00"/>
-          <variant sku="21663-07-L" barcode="8682502902949" size="L" pack_qty="1" stock="3" price="27.00"/>
+          <variant sku="21663-07-XS" barcode="8682502902970" size="XS" pack_qty="1" stock="1" price="27.00"/>
+          <variant sku="21663-07-S" barcode="8682502902963" size="S" pack_qty="2" stock="2" price="27.00"/>
+          <variant sku="21663-07-M" barcode="8682502902956" size="M" pack_qty="2" stock="2" price="27.00"/>
+          <variant sku="21663-07-L" barcode="8682502902949" size="L" pack_qty="1" stock="1" price="27.00"/>
         </variants>
       </color>
       <color id="21663-48" code="48" name="Ecru">
