@@ -7836,7 +7836,7 @@
   </product>
   <product id="18555">
     <shopify_id>8530176737350</shopify_id>
-    <updated_at>2026-11-19T00:48:57Z</updated_at>
+    <updated_at>2026-11-19T12:13:26Z</updated_at>
     <title><![CDATA[Deep V-neck blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -7855,7 +7855,7 @@
       <color id="18555-13" code="13" name="Yellow">
         <unit_price>7.00</unit_price>
         <pack_price>42.00</pack_price>
-        <packs_in_stock>33</packs_in_stock>
+        <packs_in_stock>30</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/derin-v-yaka-detayli-bluz_18555_sari-sari_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/derin-v-yaka-detayli-bluz_18555_sari-sari_2_buyuk.jpg</image>
@@ -7866,10 +7866,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/derin-v-yaka-detayli-bluz_18555_sari-sari_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18555-13-XS" barcode="8682502555824" size="XS" pack_qty="1" stock="34" price="7.00"/>
-          <variant sku="18555-13-S" barcode="8682502555817" size="S" pack_qty="2" stock="68" price="7.00"/>
-          <variant sku="18555-13-M" barcode="8682502555800" size="M" pack_qty="2" stock="68" price="7.00"/>
-          <variant sku="18555-13-L" barcode="8682502555794" size="L" pack_qty="1" stock="34" price="7.00"/>
+          <variant sku="18555-13-XS" barcode="8682502555824" size="XS" pack_qty="1" stock="31" price="7.00"/>
+          <variant sku="18555-13-S" barcode="8682502555817" size="S" pack_qty="2" stock="62" price="7.00"/>
+          <variant sku="18555-13-M" barcode="8682502555800" size="M" pack_qty="2" stock="62" price="7.00"/>
+          <variant sku="18555-13-L" barcode="8682502555794" size="L" pack_qty="1" stock="31" price="7.00"/>
         </variants>
       </color>
     </colors>
@@ -8746,7 +8746,7 @@
   </product>
   <product id="18623">
     <shopify_id>8530177392710</shopify_id>
-    <updated_at>2026-11-19T00:50:13Z</updated_at>
+    <updated_at>2026-11-19T12:13:25Z</updated_at>
     <title><![CDATA[Balloon sleeve tulle blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -8765,7 +8765,7 @@
       <color id="18623-13" code="13" name="Yellow">
         <unit_price>7.00</unit_price>
         <pack_price>42.00</pack_price>
-        <packs_in_stock>4</packs_in_stock>
+        <packs_in_stock>2</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/balon-kollu-sifon-bluz_18623_sari-sari_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/balon-kollu-sifon-bluz_18623_sari-sari_2_buyuk.jpg</image>
@@ -8776,10 +8776,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/balon-kollu-sifon-bluz_18623_sari-sari_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18623-13-XS" barcode="8682502564086" size="XS" pack_qty="1" stock="5" price="7.00"/>
-          <variant sku="18623-13-S" barcode="8682502564079" size="S" pack_qty="2" stock="10" price="7.00"/>
-          <variant sku="18623-13-M" barcode="8682502564062" size="M" pack_qty="2" stock="10" price="7.00"/>
-          <variant sku="18623-13-L" barcode="8682502564055" size="L" pack_qty="1" stock="5" price="7.00"/>
+          <variant sku="18623-13-XS" barcode="8682502564086" size="XS" pack_qty="1" stock="3" price="7.00"/>
+          <variant sku="18623-13-S" barcode="8682502564079" size="S" pack_qty="2" stock="6" price="7.00"/>
+          <variant sku="18623-13-M" barcode="8682502564062" size="M" pack_qty="2" stock="6" price="7.00"/>
+          <variant sku="18623-13-L" barcode="8682502564055" size="L" pack_qty="1" stock="3" price="7.00"/>
         </variants>
       </color>
     </colors>
@@ -9280,7 +9280,7 @@
   </product>
   <product id="18677">
     <shopify_id>8530177622086</shopify_id>
-    <updated_at>2026-11-19T00:48:30Z</updated_at>
+    <updated_at>2026-11-19T12:13:26Z</updated_at>
     <title><![CDATA[Tulle top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -9299,7 +9299,7 @@
       <color id="18677-23" code="23" name="Purple">
         <unit_price>4.50</unit_price>
         <pack_price>27.00</pack_price>
-        <packs_in_stock>27</packs_in_stock>
+        <packs_in_stock>25</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tul-bodysuit_18677_mor-mor_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tul-bodysuit_18677_mor-mor_2_buyuk.jpg</image>
@@ -9310,10 +9310,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/tul-bodysuit_18677_mor-mor_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="18677-23-XS" barcode="8682502569593" size="XS" pack_qty="1" stock="28" price="4.50"/>
-          <variant sku="18677-23-S" barcode="8682502569586" size="S" pack_qty="2" stock="56" price="4.50"/>
-          <variant sku="18677-23-M" barcode="8682502569579" size="M" pack_qty="2" stock="56" price="4.50"/>
-          <variant sku="18677-23-L" barcode="8682502569562" size="L" pack_qty="1" stock="28" price="4.50"/>
+          <variant sku="18677-23-XS" barcode="8682502569593" size="XS" pack_qty="1" stock="26" price="4.50"/>
+          <variant sku="18677-23-S" barcode="8682502569586" size="S" pack_qty="2" stock="52" price="4.50"/>
+          <variant sku="18677-23-M" barcode="8682502569579" size="M" pack_qty="2" stock="52" price="4.50"/>
+          <variant sku="18677-23-L" barcode="8682502569562" size="L" pack_qty="1" stock="26" price="4.50"/>
         </variants>
       </color>
     </colors>
@@ -13850,7 +13850,7 @@
   </product>
   <product id="19397">
     <shopify_id>8486478348358</shopify_id>
-    <updated_at>2026-11-19T04:50:25Z</updated_at>
+    <updated_at>2026-11-19T12:13:26Z</updated_at>
     <title><![CDATA[Embroidered Cloth Bag]]></title>
     <product_type><![CDATA[Accessories]]></product_type>
     <category><![CDATA[Luggage & Bags > Tote Bags]]></category>
@@ -13905,14 +13905,14 @@
       <color id="19397-08" code="08" name="Khaki">
         <unit_price>9.00</unit_price>
         <pack_price>36.00</pack_price>
-        <packs_in_stock>11</packs_in_stock>
+        <packs_in_stock>9</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/nakisli-bez-canta_19397_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/nakisli-bez-canta_19397_haki-haki_2_buyuk.jpg</image>
           <image position="3">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/nakisli-bez-canta_19397_haki-haki_3_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19397-08-STD" barcode="8682502651762" size="STD" pack_qty="4" stock="48" price="9.00"/>
+          <variant sku="19397-08-STD" barcode="8682502651762" size="STD" pack_qty="4" stock="40" price="9.00"/>
         </variants>
       </color>
     </colors>
@@ -22444,7 +22444,7 @@
   </product>
   <product id="20386">
     <shopify_id>8530245025862</shopify_id>
-    <updated_at>2026-11-19T04:47:16Z</updated_at>
+    <updated_at>2026-11-19T12:02:01Z</updated_at>
     <title><![CDATA[Oversize Boat Neck Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -22594,7 +22594,7 @@
   </product>
   <product id="20401">
     <shopify_id>8530245222470</shopify_id>
-    <updated_at>2026-11-19T02:08:02Z</updated_at>
+    <updated_at>2026-11-19T12:02:01Z</updated_at>
     <title><![CDATA[Baggy Denim Bermuda Shorts]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Bermudas]]></category>
@@ -27692,7 +27692,7 @@
   </product>
   <product id="20797">
     <shopify_id>8486263586886</shopify_id>
-    <updated_at>2026-11-19T04:47:57Z</updated_at>
+    <updated_at>2026-11-19T12:23:08Z</updated_at>
     <title><![CDATA[Oversize Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -28193,7 +28193,7 @@
   </product>
   <product id="20825">
     <shopify_id>8486264799302</shopify_id>
-    <updated_at>2026-11-19T01:37:01Z</updated_at>
+    <updated_at>2026-11-19T12:23:08Z</updated_at>
     <title><![CDATA[100% Linen Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -28260,7 +28260,7 @@
   </product>
   <product id="20826">
     <shopify_id>8486264864838</shopify_id>
-    <updated_at>2026-11-19T00:29:20Z</updated_at>
+    <updated_at>2026-11-19T12:23:07Z</updated_at>
     <title><![CDATA[100% Linen Loose Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -28384,7 +28384,7 @@
   </product>
   <product id="20830">
     <shopify_id>8486264995910</shopify_id>
-    <updated_at>2026-11-19T01:54:40Z</updated_at>
+    <updated_at>2026-11-19T12:23:07Z</updated_at>
     <title><![CDATA[100% Linen Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -28583,7 +28583,7 @@
   </product>
   <product id="20837">
     <shopify_id>8486267977798</shopify_id>
-    <updated_at>2026-11-19T04:27:31Z</updated_at>
+    <updated_at>2026-11-19T12:23:07Z</updated_at>
     <title><![CDATA[Distressed Knit Pencil Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -28824,7 +28824,7 @@
   </product>
   <product id="20856">
     <shopify_id>8499196100678</shopify_id>
-    <updated_at>2026-11-19T01:05:24Z</updated_at>
+    <updated_at>2026-11-19T12:22:40Z</updated_at>
     <title><![CDATA[Sleeveless Relaxed Fit Muslin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -29423,7 +29423,7 @@
   </product>
   <product id="20896">
     <shopify_id>8530246074438</shopify_id>
-    <updated_at>2026-11-19T00:56:56Z</updated_at>
+    <updated_at>2026-11-19T12:02:02Z</updated_at>
     <title><![CDATA[Pleated Pocket Detail Knitted Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -29633,7 +29633,7 @@
   </product>
   <product id="20925">
     <shopify_id>8486143623238</shopify_id>
-    <updated_at>2026-11-19T01:06:06Z</updated_at>
+    <updated_at>2026-11-19T12:23:31Z</updated_at>
     <title><![CDATA[Cotton Standard Size Kimono]]></title>
     <product_type><![CDATA[Kimonos]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Traditional & Ceremonial Clothing > Kimonos > Kimono Jackets & Cardigans]]></category>
@@ -29665,7 +29665,7 @@
   </product>
   <product id="20926">
     <shopify_id>8486143656006</shopify_id>
-    <updated_at>2026-11-19T03:16:05Z</updated_at>
+    <updated_at>2026-11-19T12:23:30Z</updated_at>
     <title><![CDATA[Cotton Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -29792,7 +29792,7 @@
   </product>
   <product id="20930">
     <shopify_id>8486268141638</shopify_id>
-    <updated_at>2026-11-19T02:46:40Z</updated_at>
+    <updated_at>2026-11-19T12:23:07Z</updated_at>
     <title><![CDATA[Shawl Collar Blazer Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -29880,7 +29880,7 @@
   </product>
   <product id="20932">
     <shopify_id>8486266339398</shopify_id>
-    <updated_at>2026-11-19T02:32:55Z</updated_at>
+    <updated_at>2026-11-19T12:23:07Z</updated_at>
     <title><![CDATA[Corseted Ruffled Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -29987,7 +29987,7 @@
   </product>
   <product id="20939">
     <shopify_id>8486268272710</shopify_id>
-    <updated_at>2026-11-19T04:36:38Z</updated_at>
+    <updated_at>2026-11-19T12:23:06Z</updated_at>
     <title><![CDATA[Straight Cut Loose Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -30023,7 +30023,7 @@
   </product>
   <product id="20948">
     <shopify_id>8486268371014</shopify_id>
-    <updated_at>2026-11-19T00:19:44Z</updated_at>
+    <updated_at>2026-11-19T12:23:06Z</updated_at>
     <title><![CDATA[Hooded Oversize Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -30059,7 +30059,7 @@
   </product>
   <product id="20952">
     <shopify_id>8486268403782</shopify_id>
-    <updated_at>2026-11-19T01:45:56Z</updated_at>
+    <updated_at>2026-11-19T12:23:06Z</updated_at>
     <title><![CDATA[Satin Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -30128,7 +30128,7 @@
   </product>
   <product id="20953">
     <shopify_id>8486268436550</shopify_id>
-    <updated_at>2026-11-19T03:27:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:06Z</updated_at>
     <title><![CDATA[Satin Maxi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -30196,7 +30196,7 @@
   </product>
   <product id="20954">
     <shopify_id>8486268534854</shopify_id>
-    <updated_at>2026-11-19T02:30:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:06Z</updated_at>
     <title><![CDATA[Bi Color Wide Leg Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Jeans]]></category>
@@ -30233,7 +30233,7 @@
   </product>
   <product id="20955">
     <shopify_id>8486268567622</shopify_id>
-    <updated_at>2026-11-19T04:17:17Z</updated_at>
+    <updated_at>2026-11-19T12:23:05Z</updated_at>
     <title><![CDATA[Draped Tulle Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -30272,7 +30272,7 @@
   </product>
   <product id="20956">
     <shopify_id>8486268600390</shopify_id>
-    <updated_at>2026-11-19T02:01:46Z</updated_at>
+    <updated_at>2026-11-19T12:23:05Z</updated_at>
     <title><![CDATA[Shawl Collar Detail Patterned Long Jumpsuit]]></title>
     <product_type><![CDATA[Jumpsuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > One-Pieces]]></category>
@@ -30403,7 +30403,7 @@
   </product>
   <product id="20970">
     <shopify_id>8493408845894</shopify_id>
-    <updated_at>2026-11-19T03:45:53Z</updated_at>
+    <updated_at>2026-11-19T12:22:40Z</updated_at>
     <title><![CDATA[Flock Printed Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -30439,7 +30439,7 @@
   </product>
   <product id="20972">
     <shopify_id>8486269157446</shopify_id>
-    <updated_at>2026-11-19T03:48:13Z</updated_at>
+    <updated_at>2026-11-19T12:23:05Z</updated_at>
     <title><![CDATA[Madonna Collar Ribbed Knitwear Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -30475,7 +30475,7 @@
   </product>
   <product id="20973">
     <shopify_id>8486269222982</shopify_id>
-    <updated_at>2026-11-19T09:14:56Z</updated_at>
+    <updated_at>2026-11-19T12:23:05Z</updated_at>
     <title><![CDATA[Ribbed Knit Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -30527,7 +30527,7 @@
   </product>
   <product id="20974">
     <shopify_id>8486269354054</shopify_id>
-    <updated_at>2026-11-19T09:14:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:05Z</updated_at>
     <title><![CDATA[Ribbed Knit Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -30581,7 +30581,7 @@
   </product>
   <product id="20976">
     <shopify_id>8486269452358</shopify_id>
-    <updated_at>2026-11-19T04:06:00Z</updated_at>
+    <updated_at>2026-11-19T12:23:04Z</updated_at>
     <title><![CDATA[Bicycle Collar Cardigan with Button Details]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -30649,7 +30649,7 @@
   </product>
   <product id="20977">
     <shopify_id>8486269485126</shopify_id>
-    <updated_at>2026-11-19T00:18:15Z</updated_at>
+    <updated_at>2026-11-19T12:23:04Z</updated_at>
     <title><![CDATA[Plaid Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -30686,7 +30686,7 @@
   </product>
   <product id="20979">
     <shopify_id>8486269550662</shopify_id>
-    <updated_at>2026-11-19T03:05:19Z</updated_at>
+    <updated_at>2026-11-19T12:23:04Z</updated_at>
     <title><![CDATA[Boat Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -30789,7 +30789,7 @@
   </product>
   <product id="20989">
     <shopify_id>8486269812806</shopify_id>
-    <updated_at>2026-11-19T04:49:16Z</updated_at>
+    <updated_at>2026-11-19T12:23:04Z</updated_at>
     <title><![CDATA[Square Neck Buttoned Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -30894,7 +30894,7 @@
   </product>
   <product id="20994">
     <shopify_id>8486269878342</shopify_id>
-    <updated_at>2026-11-19T01:37:21Z</updated_at>
+    <updated_at>2026-11-19T12:23:04Z</updated_at>
     <title><![CDATA[Corduroy Slim Fit Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -30930,7 +30930,7 @@
   </product>
   <product id="20995">
     <shopify_id>8486269911110</shopify_id>
-    <updated_at>2026-11-19T00:29:46Z</updated_at>
+    <updated_at>2026-11-19T12:23:03Z</updated_at>
     <title><![CDATA[Ribbed Slim Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -30968,7 +30968,7 @@
   </product>
   <product id="20996">
     <shopify_id>8486269976646</shopify_id>
-    <updated_at>2026-11-19T02:54:05Z</updated_at>
+    <updated_at>2026-11-19T12:23:03Z</updated_at>
     <title><![CDATA[Plaid Poplin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -31004,7 +31004,7 @@
   </product>
   <product id="20997">
     <shopify_id>8486270074950</shopify_id>
-    <updated_at>2026-11-19T04:39:24Z</updated_at>
+    <updated_at>2026-11-19T12:23:03Z</updated_at>
     <title><![CDATA[Slit Knit Maxi Slim Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -31088,7 +31088,7 @@
   </product>
   <product id="21002">
     <shopify_id>8486270206022</shopify_id>
-    <updated_at>2026-11-19T03:59:51Z</updated_at>
+    <updated_at>2026-11-19T12:23:03Z</updated_at>
     <title><![CDATA[Sleeveless Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -31124,7 +31124,7 @@
   </product>
   <product id="21004">
     <shopify_id>8486270238790</shopify_id>
-    <updated_at>2026-11-19T00:36:31Z</updated_at>
+    <updated_at>2026-11-19T12:23:03Z</updated_at>
     <title><![CDATA[Buttoned Fit Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -31160,7 +31160,7 @@
   </product>
   <product id="21005">
     <shopify_id>8486270304326</shopify_id>
-    <updated_at>2026-11-19T02:13:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:02Z</updated_at>
     <title><![CDATA[Plaid Asymmetrical Ruffled Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -31218,7 +31218,7 @@
   </product>
   <product id="21006">
     <shopify_id>8486270435398</shopify_id>
-    <updated_at>2026-11-19T04:46:51Z</updated_at>
+    <updated_at>2026-11-19T12:23:02Z</updated_at>
     <title><![CDATA[Cigarette Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -31339,7 +31339,7 @@
   </product>
   <product id="21011">
     <shopify_id>8486270730310</shopify_id>
-    <updated_at>2026-11-19T02:38:05Z</updated_at>
+    <updated_at>2026-11-19T12:23:02Z</updated_at>
     <title><![CDATA[Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -31375,7 +31375,7 @@
   </product>
   <product id="21012">
     <shopify_id>8486270795846</shopify_id>
-    <updated_at>2026-11-19T03:19:07Z</updated_at>
+    <updated_at>2026-11-19T12:23:02Z</updated_at>
     <title><![CDATA[Round Neck Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -31411,7 +31411,7 @@
   </product>
   <product id="21014">
     <shopify_id>8486270828614</shopify_id>
-    <updated_at>2026-11-19T00:23:51Z</updated_at>
+    <updated_at>2026-11-19T12:23:02Z</updated_at>
     <title><![CDATA[Plaid Maxi Fishtail Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -31463,7 +31463,7 @@
   </product>
   <product id="21015">
     <shopify_id>8486271025222</shopify_id>
-    <updated_at>2026-11-19T03:03:10Z</updated_at>
+    <updated_at>2026-11-19T12:23:02Z</updated_at>
     <title><![CDATA[Midi Dress with Buckle Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -31537,7 +31537,7 @@
   </product>
   <product id="21017">
     <shopify_id>8486271156294</shopify_id>
-    <updated_at>2026-11-19T02:32:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:01Z</updated_at>
     <title><![CDATA[Printed Basic Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -31575,7 +31575,7 @@
   </product>
   <product id="21018">
     <shopify_id>8486271189062</shopify_id>
-    <updated_at>2026-11-19T00:40:07Z</updated_at>
+    <updated_at>2026-11-19T12:23:01Z</updated_at>
     <title><![CDATA[Leopard Satin Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -31611,7 +31611,7 @@
   </product>
   <product id="21019">
     <shopify_id>8486271221830</shopify_id>
-    <updated_at>2026-11-19T02:16:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:01Z</updated_at>
     <title><![CDATA[Wrap Neck Satin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -31663,7 +31663,7 @@
   </product>
   <product id="21021">
     <shopify_id>8486271287366</shopify_id>
-    <updated_at>2026-11-19T00:35:40Z</updated_at>
+    <updated_at>2026-11-19T12:23:01Z</updated_at>
     <title><![CDATA[Suede-Look Mini Button-Down Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -31717,7 +31717,7 @@
   </product>
   <product id="21022">
     <shopify_id>8486271320134</shopify_id>
-    <updated_at>2026-11-19T02:44:00Z</updated_at>
+    <updated_at>2026-11-19T12:23:01Z</updated_at>
     <title><![CDATA[Poplin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -31769,7 +31769,7 @@
   </product>
   <product id="21023">
     <shopify_id>8486271385670</shopify_id>
-    <updated_at>2026-11-19T01:07:36Z</updated_at>
+    <updated_at>2026-11-19T12:23:00Z</updated_at>
     <title><![CDATA[Crash Satin Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -31822,7 +31822,7 @@
   </product>
   <product id="21025">
     <shopify_id>8486271516742</shopify_id>
-    <updated_at>2026-11-19T01:37:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:00Z</updated_at>
     <title><![CDATA[Satin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -31874,7 +31874,7 @@
   </product>
   <product id="21026">
     <shopify_id>8486271549510</shopify_id>
-    <updated_at>2026-11-19T02:08:45Z</updated_at>
+    <updated_at>2026-11-19T12:23:00Z</updated_at>
     <title><![CDATA[Satin Wrap Closure Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -31996,7 +31996,7 @@
   </product>
   <product id="21029">
     <shopify_id>8486271582278</shopify_id>
-    <updated_at>2026-11-19T00:51:27Z</updated_at>
+    <updated_at>2026-11-19T12:23:00Z</updated_at>
     <title><![CDATA[Midi Dress with Buckle Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -32048,7 +32048,7 @@
   </product>
   <product id="21031">
     <shopify_id>8486271615046</shopify_id>
-    <updated_at>2026-11-19T00:11:46Z</updated_at>
+    <updated_at>2026-11-19T12:23:00Z</updated_at>
     <title><![CDATA[Buckle Detail Deep-Patterned Pencil Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -32102,7 +32102,7 @@
   </product>
   <product id="21039">
     <shopify_id>8486271713350</shopify_id>
-    <updated_at>2026-11-19T00:28:02Z</updated_at>
+    <updated_at>2026-11-19T12:22:59Z</updated_at>
     <title><![CDATA[Polo Collar Cardigan with Gold Buttons]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -32140,7 +32140,7 @@
   </product>
   <product id="21040">
     <shopify_id>8486271778886</shopify_id>
-    <updated_at>2026-11-19T03:48:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:59Z</updated_at>
     <title><![CDATA[Belted Tweed Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -32193,7 +32193,7 @@
   </product>
   <product id="21041">
     <shopify_id>8486271811654</shopify_id>
-    <updated_at>2026-11-19T01:35:46Z</updated_at>
+    <updated_at>2026-11-19T12:22:59Z</updated_at>
     <title><![CDATA[Geometric Pattern Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -32230,7 +32230,7 @@
   </product>
   <product id="21042">
     <shopify_id>8486271844422</shopify_id>
-    <updated_at>2026-11-19T04:37:58Z</updated_at>
+    <updated_at>2026-11-19T12:22:59Z</updated_at>
     <title><![CDATA[Ribbed Slim Cardigan]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -32281,7 +32281,7 @@
   </product>
   <product id="21043">
     <shopify_id>8486271877190</shopify_id>
-    <updated_at>2026-11-19T02:51:40Z</updated_at>
+    <updated_at>2026-11-19T12:22:59Z</updated_at>
     <title><![CDATA[Knitted Midi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -32330,7 +32330,7 @@
   </product>
   <product id="21045">
     <shopify_id>8486271909958</shopify_id>
-    <updated_at>2026-11-19T03:08:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:58Z</updated_at>
     <title><![CDATA[Satin Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -32382,7 +32382,7 @@
   </product>
   <product id="21046">
     <shopify_id>8486271975494</shopify_id>
-    <updated_at>2026-11-19T00:44:26Z</updated_at>
+    <updated_at>2026-11-19T12:22:58Z</updated_at>
     <title><![CDATA[Satin Pleated Crop Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -32434,7 +32434,7 @@
   </product>
   <product id="21047">
     <shopify_id>8486272008262</shopify_id>
-    <updated_at>2026-11-19T01:50:41Z</updated_at>
+    <updated_at>2026-11-19T12:22:58Z</updated_at>
     <title><![CDATA[Plaid Ruffled Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -32470,7 +32470,7 @@
   </product>
   <product id="21048">
     <shopify_id>8486272041030</shopify_id>
-    <updated_at>2026-11-19T03:10:50Z</updated_at>
+    <updated_at>2026-11-19T12:22:58Z</updated_at>
     <title><![CDATA[Midi Skirt with Buckle and Drape Details]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -32524,7 +32524,7 @@
   </product>
   <product id="21049">
     <shopify_id>8486144278598</shopify_id>
-    <updated_at>2026-11-19T03:07:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:30Z</updated_at>
     <title><![CDATA[Spaghetti Strap Crop Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -32640,7 +32640,7 @@
   </product>
   <product id="21052">
     <shopify_id>8486272073798</shopify_id>
-    <updated_at>2026-11-19T03:38:25Z</updated_at>
+    <updated_at>2026-11-19T12:22:58Z</updated_at>
     <title><![CDATA[Suede Jacket with Pockets]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -32677,7 +32677,7 @@
   </product>
   <product id="21053">
     <shopify_id>8486272106566</shopify_id>
-    <updated_at>2026-11-19T00:41:04Z</updated_at>
+    <updated_at>2026-11-19T12:22:57Z</updated_at>
     <title><![CDATA[Regular Waist Suede Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -32714,7 +32714,7 @@
   </product>
   <product id="21054">
     <shopify_id>8486272139334</shopify_id>
-    <updated_at>2026-11-19T03:04:20Z</updated_at>
+    <updated_at>2026-11-19T12:22:57Z</updated_at>
     <title><![CDATA[Ankle-Length Fabric Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -32782,7 +32782,7 @@
   </product>
   <product id="21056">
     <shopify_id>8486272335942</shopify_id>
-    <updated_at>2026-11-19T02:33:50Z</updated_at>
+    <updated_at>2026-11-19T12:22:57Z</updated_at>
     <title><![CDATA[Suede-Look Mini Vest Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -32839,7 +32839,7 @@
   </product>
   <product id="21058">
     <shopify_id>8486272467014</shopify_id>
-    <updated_at>2026-11-19T03:57:55Z</updated_at>
+    <updated_at>2026-11-19T12:22:57Z</updated_at>
     <title><![CDATA[Pleated Mini Leather Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -32943,7 +32943,7 @@
   </product>
   <product id="21061">
     <shopify_id>8486272696390</shopify_id>
-    <updated_at>2026-11-19T04:27:02Z</updated_at>
+    <updated_at>2026-11-19T12:22:57Z</updated_at>
     <title><![CDATA[Pleated Palazzo Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Palazzo Pants]]></category>
@@ -32979,7 +32979,7 @@
   </product>
   <product id="21062">
     <shopify_id>8486272761926</shopify_id>
-    <updated_at>2026-11-19T01:54:50Z</updated_at>
+    <updated_at>2026-11-19T12:22:56Z</updated_at>
     <title><![CDATA[Round Neck Belted Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -33015,7 +33015,7 @@
   </product>
   <product id="21067">
     <shopify_id>8486272860230</shopify_id>
-    <updated_at>2026-11-19T03:53:11Z</updated_at>
+    <updated_at>2026-11-19T12:22:56Z</updated_at>
     <title><![CDATA[Midi Narrow Skirt with Special Stone Accessories]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -33051,7 +33051,7 @@
   </product>
   <product id="21068">
     <shopify_id>8486272892998</shopify_id>
-    <updated_at>2026-11-19T02:55:35Z</updated_at>
+    <updated_at>2026-11-19T12:22:56Z</updated_at>
     <title><![CDATA[Ball with Special Stone Accessories]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -33089,7 +33089,7 @@
   </product>
   <product id="21069">
     <shopify_id>8486272925766</shopify_id>
-    <updated_at>2026-11-19T04:11:23Z</updated_at>
+    <updated_at>2026-11-19T12:22:56Z</updated_at>
     <title><![CDATA[Wide-Fit Colorful Denim Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Jeans]]></category>
@@ -33125,7 +33125,7 @@
   </product>
   <product id="21070">
     <shopify_id>8486272991302</shopify_id>
-    <updated_at>2026-11-19T01:04:21Z</updated_at>
+    <updated_at>2026-11-19T12:22:56Z</updated_at>
     <title><![CDATA[Painted Denim Trousers with Fold-Out Belt Detail]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Jeans]]></category>
@@ -33161,7 +33161,7 @@
   </product>
   <product id="21074">
     <shopify_id>8486273155142</shopify_id>
-    <updated_at>2026-11-19T01:15:51Z</updated_at>
+    <updated_at>2026-11-19T12:22:55Z</updated_at>
     <title><![CDATA[Lycra Leather Leggings]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Leggings]]></category>
@@ -33197,7 +33197,7 @@
   </product>
   <product id="21075">
     <shopify_id>8486273187910</shopify_id>
-    <updated_at>2026-11-19T01:16:01Z</updated_at>
+    <updated_at>2026-11-19T12:22:55Z</updated_at>
     <title><![CDATA[Lined Tulle Slim Fit Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33234,7 +33234,7 @@
   </product>
   <product id="21076">
     <shopify_id>8486273286214</shopify_id>
-    <updated_at>2026-11-19T04:38:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:55Z</updated_at>
     <title><![CDATA[Tie-up Satin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -33271,7 +33271,7 @@
   </product>
   <product id="21081">
     <shopify_id>8486273318982</shopify_id>
-    <updated_at>2026-11-19T00:57:49Z</updated_at>
+    <updated_at>2026-11-19T12:22:55Z</updated_at>
     <title><![CDATA[Belted Long Bermuda Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -33307,7 +33307,7 @@
   </product>
   <product id="21082">
     <shopify_id>8486273351750</shopify_id>
-    <updated_at>2026-11-19T00:33:18Z</updated_at>
+    <updated_at>2026-11-19T12:22:55Z</updated_at>
     <title><![CDATA[Hooded Velvet Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -33344,7 +33344,7 @@
   </product>
   <product id="21083">
     <shopify_id>8486273744966</shopify_id>
-    <updated_at>2026-11-19T03:06:35Z</updated_at>
+    <updated_at>2026-11-19T12:22:54Z</updated_at>
     <title><![CDATA[Wide-leg velvet trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -33381,7 +33381,7 @@
   </product>
   <product id="21086">
     <shopify_id>8486274072646</shopify_id>
-    <updated_at>2026-11-19T04:30:20Z</updated_at>
+    <updated_at>2026-11-19T12:22:54Z</updated_at>
     <title><![CDATA[Fitted Vest with Button Detail]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -33470,7 +33470,7 @@
   </product>
   <product id="21094">
     <shopify_id>8486274170950</shopify_id>
-    <updated_at>2026-11-19T09:14:15Z</updated_at>
+    <updated_at>2026-11-19T12:22:54Z</updated_at>
     <title><![CDATA[High-Neck Knitted Long Pencil Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33524,7 +33524,7 @@
   </product>
   <product id="21095">
     <shopify_id>8486274203718</shopify_id>
-    <updated_at>2026-11-19T09:14:46Z</updated_at>
+    <updated_at>2026-11-19T12:22:54Z</updated_at>
     <title><![CDATA[Body-hugging Fit Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -33560,7 +33560,7 @@
   </product>
   <product id="21096">
     <shopify_id>8486274269254</shopify_id>
-    <updated_at>2026-11-19T09:14:55Z</updated_at>
+    <updated_at>2026-11-19T12:22:54Z</updated_at>
     <title><![CDATA[Regular Waist Capri Leggings]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Leggings]]></category>
@@ -33628,7 +33628,7 @@
   </product>
   <product id="21098">
     <shopify_id>8486274334790</shopify_id>
-    <updated_at>2026-11-19T09:14:36Z</updated_at>
+    <updated_at>2026-11-19T12:22:53Z</updated_at>
     <title><![CDATA[High-Neck Sequin Blouse]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -33666,7 +33666,7 @@
   </product>
   <product id="21099">
     <shopify_id>8486274367558</shopify_id>
-    <updated_at>2026-11-19T09:14:46Z</updated_at>
+    <updated_at>2026-11-19T12:22:53Z</updated_at>
     <title><![CDATA[Sequined Lycra Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -33702,7 +33702,7 @@
   </product>
   <product id="21101">
     <shopify_id>8486274433094</shopify_id>
-    <updated_at>2026-11-19T02:52:35Z</updated_at>
+    <updated_at>2026-11-19T12:22:53Z</updated_at>
     <title><![CDATA[Deep V-Neck Lace Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33754,7 +33754,7 @@
   </product>
   <product id="21102">
     <shopify_id>8486274498630</shopify_id>
-    <updated_at>2026-11-19T00:45:15Z</updated_at>
+    <updated_at>2026-11-19T12:22:53Z</updated_at>
     <title><![CDATA[Classic Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -33790,7 +33790,7 @@
   </product>
   <product id="21103">
     <shopify_id>8486274531398</shopify_id>
-    <updated_at>2026-11-19T02:20:25Z</updated_at>
+    <updated_at>2026-11-19T12:22:53Z</updated_at>
     <title><![CDATA[Lined Tulle Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -33825,7 +33825,7 @@
   </product>
   <product id="21108">
     <shopify_id>8486274957382</shopify_id>
-    <updated_at>2026-11-19T00:26:21Z</updated_at>
+    <updated_at>2026-11-19T12:22:52Z</updated_at>
     <title><![CDATA[Plaid Collarless Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -33894,7 +33894,7 @@
   </product>
   <product id="21109">
     <shopify_id>8486275055686</shopify_id>
-    <updated_at>2026-11-19T03:59:40Z</updated_at>
+    <updated_at>2026-11-19T12:22:52Z</updated_at>
     <title><![CDATA[Plaid Midi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -33930,7 +33930,7 @@
   </product>
   <product id="21110">
     <shopify_id>8486275153990</shopify_id>
-    <updated_at>2026-11-19T03:49:40Z</updated_at>
+    <updated_at>2026-11-19T12:22:52Z</updated_at>
     <title><![CDATA[Plaid Midi Flared Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -33985,7 +33985,7 @@
   </product>
   <product id="21111">
     <shopify_id>8486275252294</shopify_id>
-    <updated_at>2026-11-19T02:19:00Z</updated_at>
+    <updated_at>2026-11-19T12:22:52Z</updated_at>
     <title><![CDATA[Knitted Carmel Collar Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -34037,7 +34037,7 @@
   </product>
   <product id="21112">
     <shopify_id>8486275350598</shopify_id>
-    <updated_at>2026-11-19T04:52:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:52Z</updated_at>
     <title><![CDATA[Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -34089,7 +34089,7 @@
   </product>
   <product id="21113">
     <shopify_id>8486275383366</shopify_id>
-    <updated_at>2026-11-19T01:49:31Z</updated_at>
+    <updated_at>2026-11-19T12:22:51Z</updated_at>
     <title><![CDATA[Cardigan with Button Detail]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -34141,7 +34141,7 @@
   </product>
   <product id="21115">
     <shopify_id>8530246598726</shopify_id>
-    <updated_at>2026-11-19T00:35:11Z</updated_at>
+    <updated_at>2026-11-19T12:02:02Z</updated_at>
     <title><![CDATA[Pleated Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -34193,7 +34193,7 @@
   </product>
   <product id="21117">
     <shopify_id>8486275481670</shopify_id>
-    <updated_at>2026-11-19T01:51:46Z</updated_at>
+    <updated_at>2026-11-19T12:22:51Z</updated_at>
     <title><![CDATA[High-Waisted Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -34265,7 +34265,7 @@
   </product>
   <product id="21119">
     <shopify_id>8486275579974</shopify_id>
-    <updated_at>2026-11-19T01:21:06Z</updated_at>
+    <updated_at>2026-11-19T12:22:51Z</updated_at>
     <title><![CDATA[Braided Knit Midi Narrow Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -34362,7 +34362,7 @@
   </product>
   <product id="21120">
     <shopify_id>8486275645510</shopify_id>
-    <updated_at>2026-11-19T04:14:50Z</updated_at>
+    <updated_at>2026-11-19T12:22:51Z</updated_at>
     <title><![CDATA[Braided Oversize Sweater]]></title>
     <product_type><![CDATA[Knitwear]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -34479,7 +34479,7 @@
   </product>
   <product id="21121">
     <shopify_id>8486275678278</shopify_id>
-    <updated_at>2026-11-19T00:54:22Z</updated_at>
+    <updated_at>2026-11-19T12:22:51Z</updated_at>
     <title><![CDATA[Flock Print Midi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -34551,7 +34551,7 @@
   </product>
   <product id="21123">
     <shopify_id>8486275743814</shopify_id>
-    <updated_at>2026-11-19T01:26:16Z</updated_at>
+    <updated_at>2026-11-19T12:22:50Z</updated_at>
     <title><![CDATA[Balloon Sleeve Sequined Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -34591,7 +34591,7 @@
   </product>
   <product id="21126">
     <shopify_id>8486275776582</shopify_id>
-    <updated_at>2026-11-19T01:19:14Z</updated_at>
+    <updated_at>2026-11-19T12:22:50Z</updated_at>
     <title><![CDATA[Mini Jacket Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -34628,7 +34628,7 @@
   </product>
   <product id="21127">
     <shopify_id>8486144376902</shopify_id>
-    <updated_at>2026-11-19T04:20:40Z</updated_at>
+    <updated_at>2026-11-19T12:23:30Z</updated_at>
     <title><![CDATA[Blouse with Side Tie Detail]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -34665,7 +34665,7 @@
   </product>
   <product id="21128">
     <shopify_id>8486144442438</shopify_id>
-    <updated_at>2026-11-19T01:33:21Z</updated_at>
+    <updated_at>2026-11-19T12:23:30Z</updated_at>
     <title><![CDATA[Pleated Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -34702,7 +34702,7 @@
   </product>
   <product id="21129">
     <shopify_id>8486275809350</shopify_id>
-    <updated_at>2026-11-19T04:36:23Z</updated_at>
+    <updated_at>2026-11-19T12:22:50Z</updated_at>
     <title><![CDATA[Shirt Collar Draped Satin Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -34739,7 +34739,7 @@
   </product>
   <product id="21130">
     <shopify_id>8486275907654</shopify_id>
-    <updated_at>2026-11-19T00:13:59Z</updated_at>
+    <updated_at>2026-11-19T12:22:50Z</updated_at>
     <title><![CDATA[Mini Dress with Belt Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -34777,7 +34777,7 @@
   </product>
   <product id="21131">
     <shopify_id>8486275940422</shopify_id>
-    <updated_at>2026-11-19T00:30:15Z</updated_at>
+    <updated_at>2026-11-19T12:22:50Z</updated_at>
     <title><![CDATA[Corduroy Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -34831,7 +34831,7 @@
   </product>
   <product id="21132">
     <shopify_id>8486275973190</shopify_id>
-    <updated_at>2026-11-19T02:08:31Z</updated_at>
+    <updated_at>2026-11-19T12:22:49Z</updated_at>
     <title><![CDATA[Ribbed Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -34883,7 +34883,7 @@
   </product>
   <product id="21133">
     <shopify_id>8486276005958</shopify_id>
-    <updated_at>2026-11-19T03:51:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:49Z</updated_at>
     <title><![CDATA[Plaid Midi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -34920,7 +34920,7 @@
   </product>
   <product id="21134">
     <shopify_id>8486276038726</shopify_id>
-    <updated_at>2026-11-19T01:39:56Z</updated_at>
+    <updated_at>2026-11-19T12:22:49Z</updated_at>
     <title><![CDATA[Pleated Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -34956,7 +34956,7 @@
   </product>
   <product id="21135">
     <shopify_id>8486276104262</shopify_id>
-    <updated_at>2026-11-19T03:20:25Z</updated_at>
+    <updated_at>2026-11-19T12:22:49Z</updated_at>
     <title><![CDATA[High-Neck Crop Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -35008,7 +35008,7 @@
   </product>
   <product id="21136">
     <shopify_id>8486276202566</shopify_id>
-    <updated_at>2026-11-19T00:22:06Z</updated_at>
+    <updated_at>2026-11-19T12:22:49Z</updated_at>
     <title><![CDATA[Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -35060,7 +35060,7 @@
   </product>
   <product id="21137">
     <shopify_id>8486276235334</shopify_id>
-    <updated_at>2026-11-19T09:14:46Z</updated_at>
+    <updated_at>2026-11-19T12:22:48Z</updated_at>
     <title><![CDATA[Asymmetrical Collar Buckle Knitted Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -35129,7 +35129,7 @@
   </product>
   <product id="21138">
     <shopify_id>8486276268102</shopify_id>
-    <updated_at>2026-11-19T00:38:29Z</updated_at>
+    <updated_at>2026-11-19T12:22:48Z</updated_at>
     <title><![CDATA[High-Neck Plaid Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -35166,7 +35166,7 @@
   </product>
   <product id="21142">
     <shopify_id>8486276300870</shopify_id>
-    <updated_at>2026-11-19T07:43:41Z</updated_at>
+    <updated_at>2026-11-19T12:22:48Z</updated_at>
     <title><![CDATA[Ribbed High-Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -35202,7 +35202,7 @@
   </product>
   <product id="21143">
     <shopify_id>8486276333638</shopify_id>
-    <updated_at>2026-11-19T00:17:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:48Z</updated_at>
     <title><![CDATA[Ribbed Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -35238,7 +35238,7 @@
   </product>
   <product id="21144">
     <shopify_id>8486276366406</shopify_id>
-    <updated_at>2026-11-19T04:19:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:48Z</updated_at>
     <title><![CDATA[Ribbed High-Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -35274,7 +35274,7 @@
   </product>
   <product id="21145">
     <shopify_id>8486276399174</shopify_id>
-    <updated_at>2026-11-19T00:47:17Z</updated_at>
+    <updated_at>2026-11-19T12:22:48Z</updated_at>
     <title><![CDATA[Draped Collar Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -35310,7 +35310,7 @@
   </product>
   <product id="21146">
     <shopify_id>8486276431942</shopify_id>
-    <updated_at>2026-11-19T01:21:50Z</updated_at>
+    <updated_at>2026-11-19T12:22:47Z</updated_at>
     <title><![CDATA[Midi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35346,7 +35346,7 @@
   </product>
   <product id="21147">
     <shopify_id>8486276464710</shopify_id>
-    <updated_at>2026-11-19T02:04:10Z</updated_at>
+    <updated_at>2026-11-19T12:22:47Z</updated_at>
     <title><![CDATA[Baklava Patterned Midi Pencil Knit Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35382,7 +35382,7 @@
   </product>
   <product id="21149">
     <shopify_id>8486276497478</shopify_id>
-    <updated_at>2026-11-19T01:48:11Z</updated_at>
+    <updated_at>2026-11-19T12:22:47Z</updated_at>
     <title><![CDATA[Houndstooth Pattern Short Blazer Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -35435,7 +35435,7 @@
   </product>
   <product id="21150">
     <shopify_id>8486276595782</shopify_id>
-    <updated_at>2026-11-19T02:48:35Z</updated_at>
+    <updated_at>2026-11-19T12:22:47Z</updated_at>
     <title><![CDATA[Houndstooth Pattern Mini Short Skirt]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35488,7 +35488,7 @@
   </product>
   <product id="21151">
     <shopify_id>8486276661318</shopify_id>
-    <updated_at>2026-11-19T03:11:10Z</updated_at>
+    <updated_at>2026-11-19T12:22:46Z</updated_at>
     <title><![CDATA[Draped Tulle Maxi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35556,7 +35556,7 @@
   </product>
   <product id="21153">
     <shopify_id>8486276694086</shopify_id>
-    <updated_at>2026-11-19T04:35:06Z</updated_at>
+    <updated_at>2026-11-19T12:22:46Z</updated_at>
     <title><![CDATA[Draped Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -35609,7 +35609,7 @@
   </product>
   <product id="21154">
     <shopify_id>8486276726854</shopify_id>
-    <updated_at>2026-11-19T01:30:27Z</updated_at>
+    <updated_at>2026-11-19T12:22:46Z</updated_at>
     <title><![CDATA[Soft Straight Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -35661,7 +35661,7 @@
   </product>
   <product id="21155">
     <shopify_id>8486276759622</shopify_id>
-    <updated_at>2026-11-19T00:21:16Z</updated_at>
+    <updated_at>2026-11-19T12:22:46Z</updated_at>
     <title><![CDATA[Wide-leg velvet pleated trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -35714,7 +35714,7 @@
   </product>
   <product id="21156">
     <shopify_id>8486276825158</shopify_id>
-    <updated_at>2026-11-19T02:45:06Z</updated_at>
+    <updated_at>2026-11-19T12:22:46Z</updated_at>
     <title><![CDATA[Oversize Velvet Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -35766,7 +35766,7 @@
   </product>
   <product id="21160">
     <shopify_id>8486276890694</shopify_id>
-    <updated_at>2026-11-19T01:23:41Z</updated_at>
+    <updated_at>2026-11-19T12:22:45Z</updated_at>
     <title><![CDATA[Long-Sleeved Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35802,7 +35802,7 @@
   </product>
   <product id="21165">
     <shopify_id>8486276956230</shopify_id>
-    <updated_at>2026-11-19T03:32:01Z</updated_at>
+    <updated_at>2026-11-19T12:22:45Z</updated_at>
     <title><![CDATA[Velvet Pencil Mini Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35906,7 +35906,7 @@
   </product>
   <product id="21167">
     <shopify_id>8486277087302</shopify_id>
-    <updated_at>2026-11-19T04:08:56Z</updated_at>
+    <updated_at>2026-11-19T12:22:45Z</updated_at>
     <title><![CDATA[Ruffled Maxi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -35943,7 +35943,7 @@
   </product>
   <product id="21168">
     <shopify_id>8486277120070</shopify_id>
-    <updated_at>2026-11-19T01:36:41Z</updated_at>
+    <updated_at>2026-11-19T12:22:45Z</updated_at>
     <title><![CDATA[Wide Neck Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -35997,7 +35997,7 @@
   </product>
   <product id="21169">
     <shopify_id>8486277152838</shopify_id>
-    <updated_at>2026-11-19T02:42:45Z</updated_at>
+    <updated_at>2026-11-19T12:22:45Z</updated_at>
     <title><![CDATA[Bicycle Collar Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -36051,7 +36051,7 @@
   </product>
   <product id="21171">
     <shopify_id>8486277218374</shopify_id>
-    <updated_at>2026-11-19T01:20:46Z</updated_at>
+    <updated_at>2026-11-19T12:22:44Z</updated_at>
     <title><![CDATA[Soft Wrap Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -36104,7 +36104,7 @@
   </product>
   <product id="21173">
     <shopify_id>8486277251142</shopify_id>
-    <updated_at>2026-11-19T01:51:36Z</updated_at>
+    <updated_at>2026-11-19T12:22:44Z</updated_at>
     <title><![CDATA[Plaid Asymmetric Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -36140,7 +36140,7 @@
   </product>
   <product id="21176">
     <shopify_id>8486277316678</shopify_id>
-    <updated_at>2026-11-19T02:00:20Z</updated_at>
+    <updated_at>2026-11-19T12:22:44Z</updated_at>
     <title><![CDATA[Flock Print Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -36176,7 +36176,7 @@
   </product>
   <product id="21177">
     <shopify_id>8486277349446</shopify_id>
-    <updated_at>2026-11-19T01:49:01Z</updated_at>
+    <updated_at>2026-11-19T12:22:44Z</updated_at>
     <title><![CDATA[Patchwork Dyed Hooded Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -36228,7 +36228,7 @@
   </product>
   <product id="21180">
     <shopify_id>8486277414982</shopify_id>
-    <updated_at>2026-11-19T04:15:15Z</updated_at>
+    <updated_at>2026-11-19T12:22:44Z</updated_at>
     <title><![CDATA[Long-Sleeved Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -36265,7 +36265,7 @@
   </product>
   <product id="21186">
     <shopify_id>8486144671814</shopify_id>
-    <updated_at>2026-11-19T04:43:10Z</updated_at>
+    <updated_at>2026-11-19T12:23:30Z</updated_at>
     <title><![CDATA[Patterned Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -36303,7 +36303,7 @@
   </product>
   <product id="21187">
     <shopify_id>8486277644358</shopify_id>
-    <updated_at>2026-11-19T09:13:55Z</updated_at>
+    <updated_at>2026-11-19T12:22:44Z</updated_at>
     <title><![CDATA[Plaid Maxi Flared Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -36339,7 +36339,7 @@
   </product>
   <product id="21188">
     <shopify_id>8486277677126</shopify_id>
-    <updated_at>2026-11-19T04:12:03Z</updated_at>
+    <updated_at>2026-11-19T12:22:43Z</updated_at>
     <title><![CDATA[Hooded Zip-Up Knit Sweater]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -36399,7 +36399,7 @@
   </product>
   <product id="21189">
     <shopify_id>8486277709894</shopify_id>
-    <updated_at>2026-11-19T02:24:40Z</updated_at>
+    <updated_at>2026-11-19T12:22:43Z</updated_at>
     <title><![CDATA[Knitted Straight Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -36459,7 +36459,7 @@
   </product>
   <product id="21190">
     <shopify_id>8486277808198</shopify_id>
-    <updated_at>2026-11-19T01:59:41Z</updated_at>
+    <updated_at>2026-11-19T12:22:43Z</updated_at>
     <title><![CDATA[Striped Zip-Up Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweaters]]></category>
@@ -36496,7 +36496,7 @@
   </product>
   <product id="21192">
     <shopify_id>8486277906502</shopify_id>
-    <updated_at>2026-11-19T01:38:45Z</updated_at>
+    <updated_at>2026-11-19T12:22:43Z</updated_at>
     <title><![CDATA[Plaid Flared Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -36624,7 +36624,7 @@
   </product>
   <product id="21199">
     <shopify_id>8486277972038</shopify_id>
-    <updated_at>2026-11-19T09:14:05Z</updated_at>
+    <updated_at>2026-11-19T12:22:43Z</updated_at>
     <title><![CDATA[Ribbed Long Sleeve Henley Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -36676,7 +36676,7 @@
   </product>
   <product id="21207">
     <shopify_id>8486278004806</shopify_id>
-    <updated_at>2026-11-19T03:48:00Z</updated_at>
+    <updated_at>2026-11-19T12:22:42Z</updated_at>
     <title><![CDATA[Striped Trimmed Sports Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -36713,7 +36713,7 @@
   </product>
   <product id="21208">
     <shopify_id>8486278037574</shopify_id>
-    <updated_at>2026-11-19T09:14:56Z</updated_at>
+    <updated_at>2026-11-19T12:22:42Z</updated_at>
     <title><![CDATA[Plaid Flared Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -36749,7 +36749,7 @@
   </product>
   <product id="21209">
     <shopify_id>8486278070342</shopify_id>
-    <updated_at>2026-11-19T04:21:51Z</updated_at>
+    <updated_at>2026-11-19T12:22:42Z</updated_at>
     <title><![CDATA[Plaid Asymmetrical Ruffled Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -36822,7 +36822,7 @@
   </product>
   <product id="21210">
     <shopify_id>8486144966726</shopify_id>
-    <updated_at>2026-11-19T04:15:40Z</updated_at>
+    <updated_at>2026-11-19T12:23:29Z</updated_at>
     <title><![CDATA[Layered Mini Denim Shorts Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -37055,7 +37055,7 @@
   </product>
   <product id="21218">
     <shopify_id>8486145359942</shopify_id>
-    <updated_at>2026-11-19T03:23:55Z</updated_at>
+    <updated_at>2026-11-19T12:23:29Z</updated_at>
     <title><![CDATA[Handkerchief Skirt Detail Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -37182,7 +37182,7 @@
   </product>
   <product id="21222">
     <shopify_id>8486145458246</shopify_id>
-    <updated_at>2026-11-19T02:00:31Z</updated_at>
+    <updated_at>2026-11-19T12:23:29Z</updated_at>
     <title><![CDATA[Cupra Oversize Basic T-shirt]]></title>
     <product_type><![CDATA[T-Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > T-Shirts]]></category>
@@ -37349,7 +37349,7 @@
   </product>
   <product id="21227">
     <shopify_id>8486145622086</shopify_id>
-    <updated_at>2026-11-19T01:52:11Z</updated_at>
+    <updated_at>2026-11-19T12:23:29Z</updated_at>
     <title><![CDATA[Tencel Metal Zipper Lined Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Sport Jackets]]></category>
@@ -37388,7 +37388,7 @@
   </product>
   <product id="21229">
     <shopify_id>8496568959046</shopify_id>
-    <updated_at>2026-11-19T03:50:45Z</updated_at>
+    <updated_at>2026-11-19T12:22:40Z</updated_at>
     <title><![CDATA[Belted V-neck Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -37597,7 +37597,7 @@
   </product>
   <product id="21240">
     <shopify_id>8486145851462</shopify_id>
-    <updated_at>2026-11-19T01:00:47Z</updated_at>
+    <updated_at>2026-11-19T12:23:29Z</updated_at>
     <title><![CDATA[Classic Poplin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -37858,7 +37858,7 @@
   </product>
   <product id="21248">
     <shopify_id>8486146080838</shopify_id>
-    <updated_at>2026-11-19T00:43:19Z</updated_at>
+    <updated_at>2026-11-19T12:23:28Z</updated_at>
     <title><![CDATA[Jacket Collar Belted Poplin Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -37898,7 +37898,7 @@
   </product>
   <product id="21249">
     <shopify_id>8486146113606</shopify_id>
-    <updated_at>2026-11-19T04:16:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:28Z</updated_at>
     <title><![CDATA[Polka Dot Ruffled Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -38173,7 +38173,7 @@
   </product>
   <product id="21257">
     <shopify_id>8486146375750</shopify_id>
-    <updated_at>2026-11-19T04:09:40Z</updated_at>
+    <updated_at>2026-11-19T12:23:28Z</updated_at>
     <title><![CDATA[100% Cotton Pleated Shirt Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -38306,7 +38306,7 @@
   </product>
   <product id="21260">
     <shopify_id>8486146572358</shopify_id>
-    <updated_at>2026-11-19T04:45:10Z</updated_at>
+    <updated_at>2026-11-19T12:23:28Z</updated_at>
     <title><![CDATA[Slim V-Neck Slim Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -38469,7 +38469,7 @@
   </product>
   <product id="21263">
     <shopify_id>8486146998342</shopify_id>
-    <updated_at>2026-11-19T04:35:46Z</updated_at>
+    <updated_at>2026-11-19T12:23:27Z</updated_at>
     <title><![CDATA[Square Neck Tank Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -38593,7 +38593,7 @@
   </product>
   <product id="21266">
     <shopify_id>8486147129414</shopify_id>
-    <updated_at>2026-11-19T01:04:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:27Z</updated_at>
     <title><![CDATA[Deep V-Neck Sleeveless Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -38992,7 +38992,7 @@
   </product>
   <product id="21273">
     <shopify_id>8486147620934</shopify_id>
-    <updated_at>2026-11-19T02:06:57Z</updated_at>
+    <updated_at>2026-11-19T12:23:27Z</updated_at>
     <title><![CDATA[Elastic Waist Modal Wide Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -39143,7 +39143,7 @@
   </product>
   <product id="21274">
     <shopify_id>8486147752006</shopify_id>
-    <updated_at>2026-11-19T04:19:45Z</updated_at>
+    <updated_at>2026-11-19T12:23:27Z</updated_at>
     <title><![CDATA[V-neck tie-up Modal Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -39295,7 +39295,7 @@
   </product>
   <product id="21275">
     <shopify_id>8486147817542</shopify_id>
-    <updated_at>2026-11-19T02:34:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:27Z</updated_at>
     <title><![CDATA[Denim Coat Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Trucker Jackets]]></category>
@@ -39334,7 +39334,7 @@
   </product>
   <product id="21277">
     <shopify_id>8486147850310</shopify_id>
-    <updated_at>2026-11-19T02:04:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:26Z</updated_at>
     <title><![CDATA[Buttoned Denim Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -39372,7 +39372,7 @@
   </product>
   <product id="21278">
     <shopify_id>8486147883078</shopify_id>
-    <updated_at>2026-11-19T00:42:38Z</updated_at>
+    <updated_at>2026-11-19T12:23:26Z</updated_at>
     <title><![CDATA[100% Cotton Pleated Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -39485,7 +39485,7 @@
   </product>
   <product id="21281">
     <shopify_id>8486147948614</shopify_id>
-    <updated_at>2026-11-19T04:13:21Z</updated_at>
+    <updated_at>2026-11-19T12:23:26Z</updated_at>
     <title><![CDATA[100% Cotton Oversize Shirt Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -39563,7 +39563,7 @@
   </product>
   <product id="21285">
     <shopify_id>8486148112454</shopify_id>
-    <updated_at>2026-11-19T04:08:48Z</updated_at>
+    <updated_at>2026-11-19T12:23:26Z</updated_at>
     <title><![CDATA[Backless Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -39601,7 +39601,7 @@
   </product>
   <product id="21287">
     <shopify_id>8486148145222</shopify_id>
-    <updated_at>2026-11-19T04:39:19Z</updated_at>
+    <updated_at>2026-11-19T12:23:26Z</updated_at>
     <title><![CDATA[Half-Plaque 100% Linen Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -39639,7 +39639,7 @@
   </product>
   <product id="21298">
     <shopify_id>8486148407366</shopify_id>
-    <updated_at>2026-11-19T02:15:00Z</updated_at>
+    <updated_at>2026-11-19T12:23:25Z</updated_at>
     <title><![CDATA[Wide Leg Denim Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -39677,7 +39677,7 @@
   </product>
   <product id="21299">
     <shopify_id>8486148440134</shopify_id>
-    <updated_at>2026-11-19T00:37:29Z</updated_at>
+    <updated_at>2026-11-19T12:23:25Z</updated_at>
     <title><![CDATA[Oversize Denim Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -39829,7 +39829,7 @@
   </product>
   <product id="21305">
     <shopify_id>8486148702278</shopify_id>
-    <updated_at>2026-11-19T04:47:26Z</updated_at>
+    <updated_at>2026-11-19T12:23:25Z</updated_at>
     <title><![CDATA[Pleated Linen Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -39895,7 +39895,7 @@
   </product>
   <product id="21306">
     <shopify_id>8486148833350</shopify_id>
-    <updated_at>2026-11-19T03:35:00Z</updated_at>
+    <updated_at>2026-11-19T12:23:25Z</updated_at>
     <title><![CDATA[Halter Neck Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -40113,7 +40113,7 @@
   </product>
   <product id="21313">
     <shopify_id>8486149226566</shopify_id>
-    <updated_at>2026-11-19T02:51:20Z</updated_at>
+    <updated_at>2026-11-19T12:23:25Z</updated_at>
     <title><![CDATA[Linen Harem Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -40265,7 +40265,7 @@
   </product>
   <product id="21324">
     <shopify_id>8486149554246</shopify_id>
-    <updated_at>2026-11-19T03:32:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:24Z</updated_at>
     <title><![CDATA[Oversize Basic T-shirt]]></title>
     <product_type><![CDATA[T-Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > T-Shirts]]></category>
@@ -40439,7 +40439,7 @@
   </product>
   <product id="21328">
     <shopify_id>8486149652550</shopify_id>
-    <updated_at>2026-11-19T04:24:10Z</updated_at>
+    <updated_at>2026-11-19T12:23:24Z</updated_at>
     <title><![CDATA[Wide-Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -40565,7 +40565,7 @@
   </product>
   <product id="21340">
     <shopify_id>8486149980230</shopify_id>
-    <updated_at>2026-11-19T00:28:38Z</updated_at>
+    <updated_at>2026-11-19T12:23:24Z</updated_at>
     <title><![CDATA[Sleeveless Jumpsuit with V-Neck]]></title>
     <product_type><![CDATA[Jumpsuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > One-Pieces]]></category>
@@ -40602,7 +40602,7 @@
   </product>
   <product id="21345">
     <shopify_id>8486150012998</shopify_id>
-    <updated_at>2026-11-19T02:35:15Z</updated_at>
+    <updated_at>2026-11-19T12:23:24Z</updated_at>
     <title><![CDATA[Draped Strappy 100% Cotton Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -40678,7 +40678,7 @@
   </product>
   <product id="21347">
     <shopify_id>8486150078534</shopify_id>
-    <updated_at>2026-11-19T03:06:16Z</updated_at>
+    <updated_at>2026-11-19T12:23:23Z</updated_at>
     <title><![CDATA[V-Neck Bodice Detail Ruched Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -40774,7 +40774,7 @@
   </product>
   <product id="21349">
     <shopify_id>8486150144070</shopify_id>
-    <updated_at>2026-11-19T03:40:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:23Z</updated_at>
     <title><![CDATA[Distressed Mini Denim Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Denim Shorts]]></category>
@@ -40880,7 +40880,7 @@
   </product>
   <product id="21354">
     <shopify_id>8486150242374</shopify_id>
-    <updated_at>2026-11-19T03:20:00Z</updated_at>
+    <updated_at>2026-11-19T12:23:23Z</updated_at>
     <title><![CDATA[Pleated Cotton Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -41138,7 +41138,7 @@
   </product>
   <product id="21359">
     <shopify_id>8486150438982</shopify_id>
-    <updated_at>2026-11-19T01:26:01Z</updated_at>
+    <updated_at>2026-11-19T12:23:23Z</updated_at>
     <title><![CDATA[Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -41692,7 +41692,7 @@
   </product>
   <product id="21374">
     <shopify_id>8486150930502</shopify_id>
-    <updated_at>2026-11-19T02:21:31Z</updated_at>
+    <updated_at>2026-11-19T12:23:23Z</updated_at>
     <title><![CDATA[Ruffled Tie-Up Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -41748,7 +41748,7 @@
   </product>
   <product id="21379">
     <shopify_id>8486150996038</shopify_id>
-    <updated_at>2026-11-19T03:16:55Z</updated_at>
+    <updated_at>2026-11-19T12:23:22Z</updated_at>
     <title><![CDATA[High-Waisted Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -41786,7 +41786,7 @@
   </product>
   <product id="21380">
     <shopify_id>8486151061574</shopify_id>
-    <updated_at>2026-11-19T01:22:56Z</updated_at>
+    <updated_at>2026-11-19T12:23:22Z</updated_at>
     <title><![CDATA[Sleeveless Blouse with Vest-like Style]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -41975,7 +41975,7 @@
   </product>
   <product id="21386">
     <shopify_id>8486151290950</shopify_id>
-    <updated_at>2026-11-19T04:53:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:22Z</updated_at>
     <title><![CDATA[Linen Gathered Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -42014,7 +42014,7 @@
   </product>
   <product id="21387">
     <shopify_id>8486151323718</shopify_id>
-    <updated_at>2026-11-19T04:08:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:22Z</updated_at>
     <title><![CDATA[Balloon Linen Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -42314,7 +42314,7 @@
   </product>
   <product id="21395">
     <shopify_id>8486151782470</shopify_id>
-    <updated_at>2026-11-19T01:18:31Z</updated_at>
+    <updated_at>2026-11-19T12:23:22Z</updated_at>
     <title><![CDATA[Polka Dot Harem Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -42372,7 +42372,7 @@
   </product>
   <product id="21396">
     <shopify_id>8486142967878</shopify_id>
-    <updated_at>2026-11-19T04:52:01Z</updated_at>
+    <updated_at>2026-11-19T12:23:31Z</updated_at>
     <title><![CDATA[Zip-up Shirt Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -42541,7 +42541,7 @@
   </product>
   <product id="21403">
     <shopify_id>8486151946310</shopify_id>
-    <updated_at>2026-11-19T02:55:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:21Z</updated_at>
     <title><![CDATA[Deep Neck Tank Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -42639,7 +42639,7 @@
   </product>
   <product id="21404">
     <shopify_id>8486152011846</shopify_id>
-    <updated_at>2026-11-19T03:21:45Z</updated_at>
+    <updated_at>2026-11-19T12:23:21Z</updated_at>
     <title><![CDATA[Wide-leg trousers with elastic waistband]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -42736,7 +42736,7 @@
   </product>
   <product id="21406">
     <shopify_id>8486152077382</shopify_id>
-    <updated_at>2026-11-19T04:43:45Z</updated_at>
+    <updated_at>2026-11-19T12:23:21Z</updated_at>
     <title><![CDATA[Straight Cut Denim Wide Leg Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -42774,7 +42774,7 @@
   </product>
   <product id="21407">
     <shopify_id>8486152110150</shopify_id>
-    <updated_at>2026-11-19T00:15:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:21Z</updated_at>
     <title><![CDATA[Denim Pocket Puffer Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -42909,7 +42909,7 @@
   </product>
   <product id="21415">
     <shopify_id>8486152503366</shopify_id>
-    <updated_at>2026-11-19T03:39:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:21Z</updated_at>
     <title><![CDATA[Jogger Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Joggers]]></category>
@@ -42965,7 +42965,7 @@
   </product>
   <product id="21416">
     <shopify_id>8486152536134</shopify_id>
-    <updated_at>2026-11-19T00:31:56Z</updated_at>
+    <updated_at>2026-11-19T12:23:20Z</updated_at>
     <title><![CDATA[Linen Shirt with Pockets]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -43003,7 +43003,7 @@
   </product>
   <product id="21417">
     <shopify_id>8486152667206</shopify_id>
-    <updated_at>2026-11-19T00:19:09Z</updated_at>
+    <updated_at>2026-11-19T12:23:20Z</updated_at>
     <title><![CDATA[100% Linen Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -43097,7 +43097,7 @@
   </product>
   <product id="21420">
     <shopify_id>8486152765510</shopify_id>
-    <updated_at>2026-11-19T02:02:41Z</updated_at>
+    <updated_at>2026-11-19T12:23:20Z</updated_at>
     <title><![CDATA[Contrasting Ruffled Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -43135,7 +43135,7 @@
   </product>
   <product id="21422">
     <shopify_id>8486152798278</shopify_id>
-    <updated_at>2026-11-19T01:16:56Z</updated_at>
+    <updated_at>2026-11-19T12:23:20Z</updated_at>
     <title><![CDATA[Satin Palazzo Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Palazzo Pants]]></category>
@@ -43173,7 +43173,7 @@
   </product>
   <product id="21424">
     <shopify_id>8486152962118</shopify_id>
-    <updated_at>2026-11-19T02:58:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:20Z</updated_at>
     <title><![CDATA[Tencel Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -43211,7 +43211,7 @@
   </product>
   <product id="21425">
     <shopify_id>8486152994886</shopify_id>
-    <updated_at>2026-11-19T04:15:55Z</updated_at>
+    <updated_at>2026-11-19T12:23:19Z</updated_at>
     <title><![CDATA[Gathered Harem Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Harem Pants]]></category>
@@ -43249,7 +43249,7 @@
   </product>
   <product id="21426">
     <shopify_id>8486153027654</shopify_id>
-    <updated_at>2026-11-19T03:00:15Z</updated_at>
+    <updated_at>2026-11-19T12:23:19Z</updated_at>
     <title><![CDATA[Distressed Mini Denim Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Denim Shorts]]></category>
@@ -43287,7 +43287,7 @@
   </product>
   <product id="21427">
     <shopify_id>8486153060422</shopify_id>
-    <updated_at>2026-11-19T04:47:02Z</updated_at>
+    <updated_at>2026-11-19T12:23:19Z</updated_at>
     <title><![CDATA[Distressed Mini Denim Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Denim Shorts]]></category>
@@ -43399,7 +43399,7 @@
   </product>
   <product id="21429">
     <shopify_id>8486153125958</shopify_id>
-    <updated_at>2026-11-19T01:50:03Z</updated_at>
+    <updated_at>2026-11-19T12:23:19Z</updated_at>
     <title><![CDATA[Tencel Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -43438,7 +43438,7 @@
   </product>
   <product id="21430">
     <shopify_id>8486153158726</shopify_id>
-    <updated_at>2026-11-19T04:20:56Z</updated_at>
+    <updated_at>2026-11-19T12:23:19Z</updated_at>
     <title><![CDATA[Tencel Oversize Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -43532,7 +43532,7 @@
   </product>
   <product id="21433">
     <shopify_id>8486153224262</shopify_id>
-    <updated_at>2026-11-19T00:50:41Z</updated_at>
+    <updated_at>2026-11-19T12:23:19Z</updated_at>
     <title><![CDATA[High-Neck Satin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -43598,7 +43598,7 @@
   </product>
   <product id="21434">
     <shopify_id>8486153257030</shopify_id>
-    <updated_at>2026-11-19T03:27:14Z</updated_at>
+    <updated_at>2026-11-19T12:23:18Z</updated_at>
     <title><![CDATA[Satin Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -43664,7 +43664,7 @@
   </product>
   <product id="21435">
     <shopify_id>8486153322566</shopify_id>
-    <updated_at>2026-11-19T01:45:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:18Z</updated_at>
     <title><![CDATA[Openwork Maxi Knit Beach Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Uncategorized]]></category>
@@ -43757,7 +43757,7 @@
   </product>
   <product id="21436">
     <shopify_id>8486153355334</shopify_id>
-    <updated_at>2026-11-19T04:03:05Z</updated_at>
+    <updated_at>2026-11-19T12:23:18Z</updated_at>
     <title><![CDATA[Openwork Knit Polo Collar Crop Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -43831,7 +43831,7 @@
   </product>
   <product id="21437">
     <shopify_id>8486153388102</shopify_id>
-    <updated_at>2026-11-19T02:16:15Z</updated_at>
+    <updated_at>2026-11-19T12:23:18Z</updated_at>
     <title><![CDATA[Openwork Knit Spanish Flare Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -43905,7 +43905,7 @@
   </product>
   <product id="21438">
     <shopify_id>8486153453638</shopify_id>
-    <updated_at>2026-11-19T04:34:01Z</updated_at>
+    <updated_at>2026-11-19T12:23:17Z</updated_at>
     <title><![CDATA[Knitted V-Neck Openwork Crop Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Activewear > Activewear Tops > Crop Tops]]></category>
@@ -43979,7 +43979,7 @@
   </product>
   <product id="21439">
     <shopify_id>8486153551942</shopify_id>
-    <updated_at>2026-11-19T01:01:31Z</updated_at>
+    <updated_at>2026-11-19T12:23:17Z</updated_at>
     <title><![CDATA[Regular Waist Straight Cut Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Uncategorized]]></category>
@@ -44201,7 +44201,7 @@
   </product>
   <product id="21442">
     <shopify_id>8486153748550</shopify_id>
-    <updated_at>2026-11-19T04:32:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:17Z</updated_at>
     <title><![CDATA[Ribbed Embroidered Detail Tank Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -44257,7 +44257,7 @@
   </product>
   <product id="21443">
     <shopify_id>8486153814086</shopify_id>
-    <updated_at>2026-11-19T00:17:37Z</updated_at>
+    <updated_at>2026-11-19T12:23:17Z</updated_at>
     <title><![CDATA[Loose-fitting trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -44295,7 +44295,7 @@
   </product>
   <product id="21444">
     <shopify_id>8486153879622</shopify_id>
-    <updated_at>2026-11-19T03:53:00Z</updated_at>
+    <updated_at>2026-11-19T12:23:17Z</updated_at>
     <title><![CDATA[Draped Short-Sleeve Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -44371,7 +44371,7 @@
   </product>
   <product id="21446">
     <shopify_id>8486153977926</shopify_id>
-    <updated_at>2026-11-19T01:17:06Z</updated_at>
+    <updated_at>2026-11-19T12:23:16Z</updated_at>
     <title><![CDATA[Harem Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Harem Pants]]></category>
@@ -44427,7 +44427,7 @@
   </product>
   <product id="21447">
     <shopify_id>8486154043462</shopify_id>
-    <updated_at>2026-11-19T04:50:07Z</updated_at>
+    <updated_at>2026-11-19T12:23:16Z</updated_at>
     <title><![CDATA[Satin Halter Neck Maxi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -44483,7 +44483,7 @@
   </product>
   <product id="21448">
     <shopify_id>8486154141766</shopify_id>
-    <updated_at>2026-11-19T02:32:10Z</updated_at>
+    <updated_at>2026-11-19T12:23:16Z</updated_at>
     <title><![CDATA[Strapless Midi Dress with Belt Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -44669,7 +44669,7 @@
   </product>
   <product id="21453">
     <shopify_id>8486154240070</shopify_id>
-    <updated_at>2026-11-19T02:16:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:16Z</updated_at>
     <title><![CDATA[Distressed Mini Denim Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Denim Shorts]]></category>
@@ -44763,7 +44763,7 @@
   </product>
   <product id="21455">
     <shopify_id>8486154305606</shopify_id>
-    <updated_at>2026-11-19T01:03:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:16Z</updated_at>
     <title><![CDATA[Striped Athletic Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -44801,7 +44801,7 @@
   </product>
   <product id="21456">
     <shopify_id>8486154371142</shopify_id>
-    <updated_at>2026-11-19T02:10:10Z</updated_at>
+    <updated_at>2026-11-19T12:23:15Z</updated_at>
     <title><![CDATA[Chiffon Halter Neck Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -44875,7 +44875,7 @@
   </product>
   <product id="21457">
     <shopify_id>8486154403910</shopify_id>
-    <updated_at>2026-11-19T00:32:23Z</updated_at>
+    <updated_at>2026-11-19T12:23:15Z</updated_at>
     <title><![CDATA[Halter Neck Draped Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -44931,7 +44931,7 @@
   </product>
   <product id="21458">
     <shopify_id>8486154436678</shopify_id>
-    <updated_at>2026-11-19T03:29:45Z</updated_at>
+    <updated_at>2026-11-19T12:23:15Z</updated_at>
     <title><![CDATA[Strappy Tulle Bodysuit]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Bodysuits]]></category>
@@ -44969,7 +44969,7 @@
   </product>
   <product id="21459">
     <shopify_id>8486154469446</shopify_id>
-    <updated_at>2026-11-19T04:42:10Z</updated_at>
+    <updated_at>2026-11-19T12:23:15Z</updated_at>
     <title><![CDATA[100% Linen Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -45040,7 +45040,7 @@
   </product>
   <product id="21460">
     <shopify_id>8486154534982</shopify_id>
-    <updated_at>2026-11-19T00:12:16Z</updated_at>
+    <updated_at>2026-11-19T12:23:15Z</updated_at>
     <title><![CDATA[Buttoned Linen Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -45110,7 +45110,7 @@
   </product>
   <product id="21461">
     <shopify_id>8530247024710</shopify_id>
-    <updated_at>2026-11-19T00:46:11Z</updated_at>
+    <updated_at>2026-11-19T12:02:02Z</updated_at>
     <title><![CDATA[100% Linen Sleeveless Linen Blouse with Collar]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -45148,7 +45148,7 @@
   </product>
   <product id="21462">
     <shopify_id>8530247090246</shopify_id>
-    <updated_at>2026-11-19T02:32:45Z</updated_at>
+    <updated_at>2026-11-19T12:02:02Z</updated_at>
     <title><![CDATA[100% Linen Belted Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -45186,7 +45186,7 @@
   </product>
   <product id="21463">
     <shopify_id>8486154567750</shopify_id>
-    <updated_at>2026-11-19T02:04:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:14Z</updated_at>
     <title><![CDATA[Linen Blend Striped Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -45224,7 +45224,7 @@
   </product>
   <product id="21464">
     <shopify_id>8486154600518</shopify_id>
-    <updated_at>2026-11-19T04:37:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:14Z</updated_at>
     <title><![CDATA[Linen Blend Striped Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -45338,7 +45338,7 @@
   </product>
   <product id="21467">
     <shopify_id>8486154698822</shopify_id>
-    <updated_at>2026-11-19T02:06:24Z</updated_at>
+    <updated_at>2026-11-19T12:23:14Z</updated_at>
     <title><![CDATA[Strappy Layered Flared Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -45414,7 +45414,7 @@
   </product>
   <product id="21469">
     <shopify_id>8486154764358</shopify_id>
-    <updated_at>2026-11-19T01:10:16Z</updated_at>
+    <updated_at>2026-11-19T12:23:14Z</updated_at>
     <title><![CDATA[100% Linen Bermuda Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Bermudas]]></category>
@@ -45489,7 +45489,7 @@
   </product>
   <product id="21470">
     <shopify_id>8486154829894</shopify_id>
-    <updated_at>2026-11-19T02:22:41Z</updated_at>
+    <updated_at>2026-11-19T12:23:14Z</updated_at>
     <title><![CDATA[100% Linen Double-Breasted Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -45600,7 +45600,7 @@
   </product>
   <product id="21472">
     <shopify_id>8486154928198</shopify_id>
-    <updated_at>2026-11-19T01:20:31Z</updated_at>
+    <updated_at>2026-11-19T12:23:13Z</updated_at>
     <title><![CDATA[Wide-Leg Linen Blend Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -45638,7 +45638,7 @@
   </product>
   <product id="21473">
     <shopify_id>8486154960966</shopify_id>
-    <updated_at>2026-11-19T04:22:15Z</updated_at>
+    <updated_at>2026-11-19T12:23:13Z</updated_at>
     <title><![CDATA[Linen Blend Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -45676,7 +45676,7 @@
   </product>
   <product id="21474">
     <shopify_id>8486155255878</shopify_id>
-    <updated_at>2026-11-19T00:51:24Z</updated_at>
+    <updated_at>2026-11-19T12:23:13Z</updated_at>
     <title><![CDATA[Belt Detail Ruffled Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -45714,7 +45714,7 @@
   </product>
   <product id="21475">
     <shopify_id>8486155583558</shopify_id>
-    <updated_at>2026-11-19T02:04:25Z</updated_at>
+    <updated_at>2026-11-19T12:23:13Z</updated_at>
     <title><![CDATA[Oversize Floral Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -45746,7 +45746,7 @@
   </product>
   <product id="21476">
     <shopify_id>8486155616326</shopify_id>
-    <updated_at>2026-11-19T04:16:20Z</updated_at>
+    <updated_at>2026-11-19T12:23:13Z</updated_at>
     <title><![CDATA[Oversize Floral Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -45784,7 +45784,7 @@
   </product>
   <product id="21477">
     <shopify_id>8530247155782</shopify_id>
-    <updated_at>2026-11-19T02:30:04Z</updated_at>
+    <updated_at>2026-11-19T12:22:39Z</updated_at>
     <title><![CDATA[Polka Dot Strappy Maxi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -45864,7 +45864,7 @@
   </product>
   <product id="21479">
     <shopify_id>8486155747398</shopify_id>
-    <updated_at>2026-11-19T02:43:50Z</updated_at>
+    <updated_at>2026-11-19T12:23:13Z</updated_at>
     <title><![CDATA[Linen Blend Striped Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -45902,7 +45902,7 @@
   </product>
   <product id="21480">
     <shopify_id>8486155780166</shopify_id>
-    <updated_at>2026-11-19T04:21:36Z</updated_at>
+    <updated_at>2026-11-19T12:23:12Z</updated_at>
     <title><![CDATA[Halter Neck Balloon Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -45940,7 +45940,7 @@
   </product>
   <product id="21481">
     <shopify_id>8486155812934</shopify_id>
-    <updated_at>2026-11-19T04:39:41Z</updated_at>
+    <updated_at>2026-11-19T12:23:12Z</updated_at>
     <title><![CDATA[Belted Linen Bermuda Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Bermudas]]></category>
@@ -46152,7 +46152,7 @@
   </product>
   <product id="21484">
     <shopify_id>8486155976774</shopify_id>
-    <updated_at>2026-11-19T00:52:17Z</updated_at>
+    <updated_at>2026-11-19T12:23:12Z</updated_at>
     <title><![CDATA[Halter Neck Linen Blend Balloon Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -46190,7 +46190,7 @@
   </product>
   <product id="21485">
     <shopify_id>8486156042310</shopify_id>
-    <updated_at>2026-11-19T04:26:20Z</updated_at>
+    <updated_at>2026-11-19T12:23:12Z</updated_at>
     <title><![CDATA[V-neck Maxi Dress with Backless Design]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -46418,7 +46418,7 @@
   </product>
   <product id="21488">
     <shopify_id>8491533598790</shopify_id>
-    <updated_at>2026-11-19T03:28:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:42Z</updated_at>
     <title><![CDATA[Flared Midi Dress with Bow]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -46494,7 +46494,7 @@
   </product>
   <product id="21490">
     <shopify_id>8497958027334</shopify_id>
-    <updated_at>2026-11-19T03:21:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:40Z</updated_at>
     <title><![CDATA[Thick-Strapped Ruffled Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -46546,7 +46546,7 @@
   </product>
   <product id="21491">
     <shopify_id>8486156861510</shopify_id>
-    <updated_at>2026-11-19T00:21:45Z</updated_at>
+    <updated_at>2026-11-19T12:23:12Z</updated_at>
     <title><![CDATA[Modal Ruffled Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -46584,7 +46584,7 @@
   </product>
   <product id="21492">
     <shopify_id>8486156992582</shopify_id>
-    <updated_at>2026-11-19T03:19:45Z</updated_at>
+    <updated_at>2026-11-19T12:23:11Z</updated_at>
     <title><![CDATA[Modal Thick Strapped Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -46622,7 +46622,7 @@
   </product>
   <product id="21493">
     <shopify_id>8486157123654</shopify_id>
-    <updated_at>2026-11-19T01:39:11Z</updated_at>
+    <updated_at>2026-11-19T12:23:11Z</updated_at>
     <title><![CDATA[Zipper Closure Cotton Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -46712,7 +46712,7 @@
   </product>
   <product id="21495">
     <shopify_id>8486157418566</shopify_id>
-    <updated_at>2026-11-19T04:50:55Z</updated_at>
+    <updated_at>2026-11-19T12:23:11Z</updated_at>
     <title><![CDATA[High-neck halter blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -46778,7 +46778,7 @@
   </product>
   <product id="21496">
     <shopify_id>8486157680710</shopify_id>
-    <updated_at>2026-11-19T03:03:40Z</updated_at>
+    <updated_at>2026-11-19T12:23:11Z</updated_at>
     <title><![CDATA[Midi Skirt with Slit Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -46840,7 +46840,7 @@
   </product>
   <product id="21497">
     <shopify_id>8486157877318</shopify_id>
-    <updated_at>2026-11-19T04:19:01Z</updated_at>
+    <updated_at>2026-11-19T12:23:11Z</updated_at>
     <title><![CDATA[Ruffled Satin Maxi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -46878,7 +46878,7 @@
   </product>
   <product id="21498">
     <shopify_id>8486158041158</shopify_id>
-    <updated_at>2026-11-19T04:32:58Z</updated_at>
+    <updated_at>2026-11-19T12:23:10Z</updated_at>
     <title><![CDATA[Draped Off-Shoulder Satin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -46916,7 +46916,7 @@
   </product>
   <product id="21499">
     <shopify_id>8486158139462</shopify_id>
-    <updated_at>2026-11-19T04:04:45Z</updated_at>
+    <updated_at>2026-11-19T12:23:10Z</updated_at>
     <title><![CDATA[Bermuda Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Bermudas]]></category>
@@ -46968,7 +46968,7 @@
   </product>
   <product id="21500">
     <shopify_id>8486158303302</shopify_id>
-    <updated_at>2026-11-19T03:10:35Z</updated_at>
+    <updated_at>2026-11-19T12:23:10Z</updated_at>
     <title><![CDATA[Blouse with Backless Design]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -47020,7 +47020,7 @@
   </product>
   <product id="21501">
     <shopify_id>8486158532678</shopify_id>
-    <updated_at>2026-11-19T03:05:00Z</updated_at>
+    <updated_at>2026-11-19T12:23:10Z</updated_at>
     <title><![CDATA[Blouse with Backless Design]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -47058,7 +47058,7 @@
   </product>
   <product id="21502">
     <shopify_id>8486158630982</shopify_id>
-    <updated_at>2026-11-19T04:35:31Z</updated_at>
+    <updated_at>2026-11-19T12:23:10Z</updated_at>
     <title><![CDATA[Strapless Lace Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
@@ -47096,7 +47096,7 @@
   </product>
   <product id="21503">
     <shopify_id>8486158762054</shopify_id>
-    <updated_at>2026-11-19T04:29:51Z</updated_at>
+    <updated_at>2026-11-19T12:23:09Z</updated_at>
     <title><![CDATA[Lace Midi Narrow Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -47172,7 +47172,7 @@
   </product>
   <product id="21505">
     <shopify_id>8486158958662</shopify_id>
-    <updated_at>2026-11-19T03:08:00Z</updated_at>
+    <updated_at>2026-11-19T12:23:09Z</updated_at>
     <title><![CDATA[Halter Neck Polka Dot Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -47210,7 +47210,7 @@
   </product>
   <product id="21506">
     <shopify_id>8486159122502</shopify_id>
-    <updated_at>2026-11-19T00:59:01Z</updated_at>
+    <updated_at>2026-11-19T12:23:09Z</updated_at>
     <title><![CDATA[Halter Neck Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -47248,7 +47248,7 @@
   </product>
   <product id="21507">
     <shopify_id>8486159220806</shopify_id>
-    <updated_at>2026-11-19T02:36:10Z</updated_at>
+    <updated_at>2026-11-19T12:23:09Z</updated_at>
     <title><![CDATA[Patterned Oversize Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -47304,7 +47304,7 @@
   </product>
   <product id="21508">
     <shopify_id>8486159351878</shopify_id>
-    <updated_at>2026-11-19T00:27:54Z</updated_at>
+    <updated_at>2026-11-19T12:23:09Z</updated_at>
     <title><![CDATA[Patterned Elastic Waist Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -47360,7 +47360,7 @@
   </product>
   <product id="21509">
     <shopify_id>8486159482950</shopify_id>
-    <updated_at>2026-11-19T04:00:26Z</updated_at>
+    <updated_at>2026-11-19T12:23:08Z</updated_at>
     <title><![CDATA[Sleeveless Satin Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -47416,7 +47416,7 @@
   </product>
   <product id="21510">
     <shopify_id>8486159646790</shopify_id>
-    <updated_at>2026-11-19T02:56:30Z</updated_at>
+    <updated_at>2026-11-19T12:23:08Z</updated_at>
     <title><![CDATA[Ruffled Maxi Satin Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -47476,7 +47476,7 @@
   </product>
   <product id="21511">
     <shopify_id>8491533631558</shopify_id>
-    <updated_at>2026-11-19T00:31:30Z</updated_at>
+    <updated_at>2026-11-19T12:22:42Z</updated_at>
     <title><![CDATA[100% Linen Pleated Wide Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -47532,7 +47532,7 @@
   </product>
   <product id="21512">
     <shopify_id>8491533664326</shopify_id>
-    <updated_at>2026-11-19T04:08:03Z</updated_at>
+    <updated_at>2026-11-19T12:22:41Z</updated_at>
     <title><![CDATA[Cross Halter Neck Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -47610,7 +47610,7 @@
   </product>
   <product id="21513">
     <shopify_id>8491533762630</shopify_id>
-    <updated_at>2026-11-19T04:41:11Z</updated_at>
+    <updated_at>2026-11-19T12:22:41Z</updated_at>
     <title><![CDATA[100% Linen Pleated Bermuda Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Bermudas]]></category>
@@ -47687,7 +47687,7 @@
   </product>
   <product id="21515">
     <shopify_id>8486159777862</shopify_id>
-    <updated_at>2026-11-19T00:29:05Z</updated_at>
+    <updated_at>2026-11-19T12:23:08Z</updated_at>
     <title><![CDATA[Patterned Strappy Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -47740,7 +47740,7 @@
   </product>
   <product id="21516">
     <shopify_id>8530247254086</shopify_id>
-    <updated_at>2026-11-19T02:52:51Z</updated_at>
+    <updated_at>2026-11-19T12:02:03Z</updated_at>
     <title><![CDATA[Sleeveless Striped Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -47796,7 +47796,7 @@
   </product>
   <product id="21517">
     <shopify_id>8530247352390</shopify_id>
-    <updated_at>2026-11-19T01:22:46Z</updated_at>
+    <updated_at>2026-11-19T12:02:03Z</updated_at>
     <title><![CDATA[Beaded Halter Neck Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -47835,7 +47835,7 @@
   </product>
   <product id="21518">
     <shopify_id>8530247417926</shopify_id>
-    <updated_at>2026-11-19T02:38:30Z</updated_at>
+    <updated_at>2026-11-19T12:02:03Z</updated_at>
     <title><![CDATA[Elasticated Drawstring Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts > Jogger Shorts]]></category>
@@ -47874,7 +47874,7 @@
   </product>
   <product id="21519">
     <shopify_id>8530247483462</shopify_id>
-    <updated_at>2026-11-19T04:25:17Z</updated_at>
+    <updated_at>2026-11-19T12:02:03Z</updated_at>
     <title><![CDATA[Wide-leg trousers with elastic waistband]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -47946,7 +47946,7 @@
   </product>
   <product id="21521">
     <shopify_id>8491534090310</shopify_id>
-    <updated_at>2026-11-19T03:42:50Z</updated_at>
+    <updated_at>2026-11-19T12:22:41Z</updated_at>
     <title><![CDATA[Asymmetrical Tulle Handkerchief Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -47984,7 +47984,7 @@
   </product>
   <product id="21524">
     <shopify_id>8530247614534</shopify_id>
-    <updated_at>2026-11-19T01:08:21Z</updated_at>
+    <updated_at>2026-11-19T12:02:03Z</updated_at>
     <title><![CDATA[Deep V-Neck Midi Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -48058,7 +48058,7 @@
   </product>
   <product id="21526">
     <shopify_id>8499196231750</shopify_id>
-    <updated_at>2026-11-19T02:01:26Z</updated_at>
+    <updated_at>2026-11-19T12:22:39Z</updated_at>
     <title><![CDATA[Deep V-neck Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -48133,7 +48133,7 @@
   </product>
   <product id="21527">
     <shopify_id>8499196264518</shopify_id>
-    <updated_at>2026-11-19T00:59:20Z</updated_at>
+    <updated_at>2026-11-19T12:22:39Z</updated_at>
     <title><![CDATA[Asymmetrical Midi Skirt with Hem Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -48209,7 +48209,7 @@
   </product>
   <product id="21538">
     <shopify_id>8530247745606</shopify_id>
-    <updated_at>2026-11-19T03:49:25Z</updated_at>
+    <updated_at>2026-11-19T12:02:04Z</updated_at>
     <title><![CDATA[Comfortable Striped Mini Shorts]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Shorts]]></category>
@@ -48265,7 +48265,7 @@
   </product>
   <product id="21541">
     <shopify_id>8491534221382</shopify_id>
-    <updated_at>2026-11-19T02:59:15Z</updated_at>
+    <updated_at>2026-11-19T12:22:41Z</updated_at>
     <title><![CDATA[Textured Wide-Leg Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -48322,7 +48322,7 @@
   </product>
   <product id="21542">
     <shopify_id>8491534483526</shopify_id>
-    <updated_at>2026-11-19T01:14:10Z</updated_at>
+    <updated_at>2026-11-19T12:22:41Z</updated_at>
     <title><![CDATA[Textured Sleeveless Blouse with Ruffle Detail]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -48380,7 +48380,7 @@
   </product>
   <product id="21543">
     <shopify_id>8530247811142</shopify_id>
-    <updated_at>2026-11-19T04:13:00Z</updated_at>
+    <updated_at>2026-11-19T12:11:22Z</updated_at>
     <title><![CDATA[Plaid Midi Dress with Cowl Neck]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -48419,7 +48419,7 @@
   </product>
   <product id="21544">
     <shopify_id>8530247942214</shopify_id>
-    <updated_at>2026-11-19T04:39:09Z</updated_at>
+    <updated_at>2026-11-19T12:22:39Z</updated_at>
     <title><![CDATA[Wide-legged Oversize Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -48472,7 +48472,7 @@
   </product>
   <product id="21545">
     <shopify_id>8530248007750</shopify_id>
-    <updated_at>2026-11-19T02:53:10Z</updated_at>
+    <updated_at>2026-11-19T12:22:38Z</updated_at>
     <title><![CDATA[Halter Neck Loose Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -48530,7 +48530,7 @@
   </product>
   <product id="21546">
     <shopify_id>8530248106054</shopify_id>
-    <updated_at>2026-11-19T00:15:50Z</updated_at>
+    <updated_at>2026-11-19T12:02:04Z</updated_at>
     <title><![CDATA[Satin Blouse with Cowl Neck]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -48570,7 +48570,7 @@
   </product>
   <product id="21547">
     <shopify_id>8530248171590</shopify_id>
-    <updated_at>2026-10-14T14:52:44Z</updated_at>
+    <updated_at>2026-11-19T12:02:04Z</updated_at>
     <title><![CDATA[Satin Wide-Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -48609,7 +48609,7 @@
   </product>
   <product id="21548">
     <shopify_id>8530248237126</shopify_id>
-    <updated_at>2026-11-19T00:45:57Z</updated_at>
+    <updated_at>2026-11-19T12:02:04Z</updated_at>
     <title><![CDATA[Halter Neck 100% Linen Vest]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -48647,7 +48647,7 @@
   </product>
   <product id="21549">
     <shopify_id>8530248302662</shopify_id>
-    <updated_at>2026-11-19T03:43:05Z</updated_at>
+    <updated_at>2026-11-19T12:02:05Z</updated_at>
     <title><![CDATA[Draped Linen Pareo Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -48685,7 +48685,7 @@
   </product>
   <product id="21551">
     <shopify_id>10221187727430</shopify_id>
-    <updated_at>2026-11-19T01:27:41Z</updated_at>
+    <updated_at>2026-11-19T12:11:22Z</updated_at>
     <title><![CDATA[Mini Dress with Bow-Tie Neckline]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -48724,7 +48724,7 @@
   </product>
   <product id="21552">
     <shopify_id>10224569483334</shopify_id>
-    <updated_at>2026-11-19T00:48:10Z</updated_at>
+    <updated_at>2026-11-19T12:00:46Z</updated_at>
     <title><![CDATA[Button-Detail Maxi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -48762,7 +48762,7 @@
   </product>
   <product id="21553">
     <shopify_id>10238690328646</shopify_id>
-    <updated_at>2026-11-19T07:43:41Z</updated_at>
+    <updated_at>2026-11-19T12:11:24Z</updated_at>
     <title><![CDATA[Button-Detail Cropped Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -48800,7 +48800,7 @@
   </product>
   <product id="21554">
     <shopify_id>10222350237766</shopify_id>
-    <updated_at>2026-11-19T02:12:16Z</updated_at>
+    <updated_at>2026-11-19T12:00:44Z</updated_at>
     <title><![CDATA[Button-Top Poplin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -48838,7 +48838,7 @@
   </product>
   <product id="21556">
     <shopify_id>10221187825734</shopify_id>
-    <updated_at>2026-11-19T02:34:20Z</updated_at>
+    <updated_at>2026-11-19T12:11:22Z</updated_at>
     <title><![CDATA[%100 Cotton Long-Sleeve V-Neck Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops]]></category>
@@ -48917,7 +48917,7 @@
   </product>
   <product id="21557">
     <shopify_id>10221188841542</shopify_id>
-    <updated_at>2026-11-19T02:58:25Z</updated_at>
+    <updated_at>2026-11-19T12:11:22Z</updated_at>
     <title><![CDATA[Batwing-Sleeve Blouse]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -48973,7 +48973,7 @@
   </product>
   <product id="21558">
     <shopify_id>10221188874310</shopify_id>
-    <updated_at>2026-11-19T04:31:00Z</updated_at>
+    <updated_at>2026-11-19T12:11:23Z</updated_at>
     <title><![CDATA[Sweatshirt with Zipper and Decorative Buttons]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Activewear > Activewear Sweatshirts & Hoodies > Sweatshirts]]></category>
@@ -49047,7 +49047,7 @@
   </product>
   <product id="21559">
     <shopify_id>10222350270534</shopify_id>
-    <updated_at>2026-11-19T01:28:36Z</updated_at>
+    <updated_at>2026-11-19T12:00:45Z</updated_at>
     <title><![CDATA[Oversized Shirt-Sleeve T-Shirt]]></title>
     <product_type><![CDATA[T-Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > T-Shirts]]></category>
@@ -49117,7 +49117,7 @@
   </product>
   <product id="21563">
     <shopify_id>10232328552518</shopify_id>
-    <updated_at>2026-11-19T09:14:35Z</updated_at>
+    <updated_at>2026-11-19T12:11:23Z</updated_at>
     <title><![CDATA[Patterned Baggy Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -49170,7 +49170,7 @@
   </product>
   <product id="21564">
     <shopify_id>10232328847430</shopify_id>
-    <updated_at>2026-11-19T02:41:05Z</updated_at>
+    <updated_at>2026-11-19T12:11:23Z</updated_at>
     <title><![CDATA[Patterned Vest with Darts]]></title>
     <product_type><![CDATA[Vests]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Vests]]></category>
@@ -49226,7 +49226,7 @@
   </product>
   <product id="21565">
     <shopify_id>10222350303302</shopify_id>
-    <updated_at>2026-11-19T01:03:45Z</updated_at>
+    <updated_at>2026-11-19T12:00:45Z</updated_at>
     <title><![CDATA[Stand-Collar Bomber Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Bomber Jackets]]></category>
@@ -49265,7 +49265,7 @@
   </product>
   <product id="21566">
     <shopify_id>10224569516102</shopify_id>
-    <updated_at>2026-11-19T03:14:10Z</updated_at>
+    <updated_at>2026-11-19T12:00:46Z</updated_at>
     <title><![CDATA[Collarless Double-Breasted Blazer]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -49303,7 +49303,7 @@
   </product>
   <product id="21567">
     <shopify_id>10222350336070</shopify_id>
-    <updated_at>2026-11-19T09:14:40Z</updated_at>
+    <updated_at>2026-11-19T12:00:45Z</updated_at>
     <title><![CDATA[High-Waisted Cigarette Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -49341,7 +49341,7 @@
   </product>
   <product id="21568">
     <shopify_id>10238690361414</shopify_id>
-    <updated_at>2026-11-19T03:45:51Z</updated_at>
+    <updated_at>2026-11-19T12:11:24Z</updated_at>
     <title><![CDATA[Mini Dress with Pocket Detail]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -49412,7 +49412,7 @@
   </product>
   <product id="21580">
     <shopify_id>10238690394182</shopify_id>
-    <updated_at>2026-11-19T09:14:36Z</updated_at>
+    <updated_at>2026-11-19T12:11:24Z</updated_at>
     <title><![CDATA[Stand-Collar Jacket with Button Detail]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -49450,7 +49450,7 @@
   </product>
   <product id="21584">
     <shopify_id>10255293382726</shopify_id>
-    <updated_at>2026-11-19T03:02:41Z</updated_at>
+    <updated_at>2026-11-19T12:11:27Z</updated_at>
     <title><![CDATA[Button-Detail Cropped Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -49522,7 +49522,7 @@
   </product>
   <product id="21597">
     <shopify_id>10254105903174</shopify_id>
-    <updated_at>2026-11-17T09:16:37Z</updated_at>
+    <updated_at>2026-11-19T12:11:27Z</updated_at>
     <title><![CDATA[Stand-Collar Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets]]></category>
@@ -49562,7 +49562,7 @@
   </product>
   <product id="21598">
     <shopify_id>10238690459718</shopify_id>
-    <updated_at>2026-11-19T04:14:08Z</updated_at>
+    <updated_at>2026-11-19T12:11:25Z</updated_at>
     <title><![CDATA[Collared Mini Dress with Decorative Buttons]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -49600,7 +49600,7 @@
   </product>
   <product id="21619">
     <shopify_id>10222350401606</shopify_id>
-    <updated_at>2026-11-19T01:44:36Z</updated_at>
+    <updated_at>2026-11-19T12:00:45Z</updated_at>
     <title><![CDATA[Flared Midi Skirt with Asymmetric Hem]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -49638,7 +49638,7 @@
   </product>
   <product id="21620">
     <shopify_id>10243631743046</shopify_id>
-    <updated_at>2026-11-19T04:52:55Z</updated_at>
+    <updated_at>2026-11-19T12:11:25Z</updated_at>
     <title><![CDATA[Shawl-Collar Double-Breasted Blazer]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -49694,7 +49694,7 @@
   </product>
   <product id="21621">
     <shopify_id>10224569548870</shopify_id>
-    <updated_at>2026-11-19T02:46:20Z</updated_at>
+    <updated_at>2026-11-19T12:00:47Z</updated_at>
     <title><![CDATA[Button-Detail Cardigan]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -49784,7 +49784,7 @@
   </product>
   <product id="21624">
     <shopify_id>10222350499910</shopify_id>
-    <updated_at>2026-11-19T09:14:36Z</updated_at>
+    <updated_at>2026-11-19T12:00:46Z</updated_at>
     <title><![CDATA[Gathered Midi Skirt with Bodice Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -49823,7 +49823,7 @@
   </product>
   <product id="21626">
     <shopify_id>10252638847046</shopify_id>
-    <updated_at>2026-11-19T04:49:50Z</updated_at>
+    <updated_at>2026-11-19T12:11:27Z</updated_at>
     <title><![CDATA[Double-Breasted Cropped Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -49861,7 +49861,7 @@
   </product>
   <product id="21627">
     <shopify_id>10248052015174</shopify_id>
-    <updated_at>2026-11-19T00:21:00Z</updated_at>
+    <updated_at>2026-11-19T12:11:25Z</updated_at>
     <title><![CDATA[Wide-Leg Pleated Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -49899,7 +49899,7 @@
   </product>
   <product id="21628">
     <shopify_id>10224569614406</shopify_id>
-    <updated_at>2026-11-19T03:26:53Z</updated_at>
+    <updated_at>2026-11-19T12:00:47Z</updated_at>
     <title><![CDATA[Printed Oversized Basic Sweatshirt]]></title>
     <product_type><![CDATA[Sweatshirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Sweatshirts]]></category>
@@ -49993,7 +49993,7 @@
   </product>
   <product id="21629">
     <shopify_id>10263763812422</shopify_id>
-    <updated_at>2026-11-19T03:55:30Z</updated_at>
+    <updated_at>2026-11-19T11:54:41Z</updated_at>
     <title><![CDATA[Pleated Slim-Leg Trousers]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Trousers]]></category>
@@ -50086,7 +50086,7 @@
   </product>
   <product id="21631">
     <shopify_id>10251588272198</shopify_id>
-    <updated_at>2026-11-19T02:43:01Z</updated_at>
+    <updated_at>2026-11-19T12:11:26Z</updated_at>
     <title><![CDATA[Button-Down Fitted Poplin Shirt]]></title>
     <product_type><![CDATA[Shirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Shirts]]></category>
@@ -50124,7 +50124,7 @@
   </product>
   <product id="21632">
     <shopify_id>10235330035782</shopify_id>
-    <updated_at>2026-11-19T00:20:19Z</updated_at>
+    <updated_at>2026-11-19T12:11:24Z</updated_at>
     <title><![CDATA[Flare Midi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -50218,7 +50218,7 @@
   </product>
   <product id="21634">
     <shopify_id>10248052179014</shopify_id>
-    <updated_at>2026-11-19T01:34:21Z</updated_at>
+    <updated_at>2026-11-19T12:11:26Z</updated_at>
     <title><![CDATA[Plaid Maxi Skirt with Asymmetric Hem Detail]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -50256,7 +50256,7 @@
   </product>
   <product id="21635">
     <shopify_id>10243633250374</shopify_id>
-    <updated_at>2026-11-19T02:40:35Z</updated_at>
+    <updated_at>2026-11-19T12:11:25Z</updated_at>
     <title><![CDATA[Boat Neck Draped Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -50294,7 +50294,7 @@
   </product>
   <product id="21637">
     <shopify_id>10251588370502</shopify_id>
-    <updated_at>2026-11-19T01:00:36Z</updated_at>
+    <updated_at>2026-11-19T12:11:26Z</updated_at>
     <title><![CDATA[Sheer Lace Top]]></title>
     <product_type><![CDATA[Tops & Bodysuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Blouses]]></category>
@@ -50332,7 +50332,7 @@
   </product>
   <product id="21640">
     <shopify_id>10248918728774</shopify_id>
-    <updated_at>2026-11-19T00:43:54Z</updated_at>
+    <updated_at>2026-11-19T12:11:26Z</updated_at>
     <title><![CDATA[High-Waisted Tie-Front Skort]]></title>
     <product_type><![CDATA[Shorts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skorts]]></category>
@@ -50598,7 +50598,7 @@
   </product>
   <product id="21647">
     <shopify_id>10265110806598</shopify_id>
-    <updated_at>2026-11-19T01:12:12Z</updated_at>
+    <updated_at>2026-11-19T11:59:46Z</updated_at>
     <title><![CDATA[Button Detail Midi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -50636,7 +50636,7 @@
   </product>
   <product id="21648">
     <shopify_id>10265111068742</shopify_id>
-    <updated_at>2026-11-19T02:33:15Z</updated_at>
+    <updated_at>2026-11-19T12:11:27Z</updated_at>
     <title><![CDATA[Blazer Jacket with Button Detail Without Collar]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -50709,7 +50709,7 @@
   </product>
   <product id="21656">
     <shopify_id>10270036951110</shopify_id>
-    <updated_at>2026-11-19T02:42:25Z</updated_at>
+    <updated_at>2026-11-19T12:11:28Z</updated_at>
     <title><![CDATA[Drape Tulle Maxi Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -50747,7 +50747,7 @@
   </product>
   <product id="21659">
     <shopify_id>10281497428038</shopify_id>
-    <updated_at>2026-11-19T08:40:47Z</updated_at>
+    <updated_at>2026-11-19T12:11:28Z</updated_at>
     <title><![CDATA[Ribbed Balloon Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -50915,7 +50915,7 @@
   </product>
   <product id="21680">
     <shopify_id>10319411609670</shopify_id>
-    <updated_at>2026-11-19T08:43:00Z</updated_at>
+    <updated_at>2026-11-19T12:11:28Z</updated_at>
     <title><![CDATA[Dirty Straight Cut Denim Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants > Jeans]]></category>
@@ -50954,7 +50954,7 @@
   </product>
   <product id="21681">
     <shopify_id>10303276154950</shopify_id>
-    <updated_at>2026-11-19T09:14:46Z</updated_at>
+    <updated_at>2026-11-19T12:11:28Z</updated_at>
     <title><![CDATA[Velvet Cowl Neck Halter Top]]></title>
     <product_type><![CDATA[Blouses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Tank Tops]]></category>
