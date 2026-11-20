@@ -2134,7 +2134,7 @@
   </product>
   <product id="17691">
     <shopify_id>8530168053830</shopify_id>
-    <updated_at>2026-11-20T01:23:51Z</updated_at>
+    <updated_at>2026-11-20T07:43:36Z</updated_at>
     <title><![CDATA[Hooded Knit Mini Romper]]></title>
     <product_type><![CDATA[Jumpsuits]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > One-Pieces]]></category>
@@ -2193,16 +2193,16 @@
       <color id="17691-46" code="46" name="Camel">
         <unit_price>9.00</unit_price>
         <pack_price>63.00</pack_price>
-        <packs_in_stock>32</packs_in_stock>
+        <packs_in_stock>31</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapuson-detayli-triko-mini-tulum_17691_camel-camel_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/kapuson-detayli-triko-mini-tulum_17691_camel-camel_2_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="17691-46-XS" barcode="8682502450389" size="XS" pack_qty="2" stock="66" price="9.00"/>
-          <variant sku="17691-46-S" barcode="8682502450372" size="S" pack_qty="2" stock="66" price="9.00"/>
-          <variant sku="17691-46-M" barcode="8682502450365" size="M" pack_qty="2" stock="66" price="9.00"/>
-          <variant sku="17691-46-L" barcode="8682502450358" size="L" pack_qty="1" stock="33" price="9.00"/>
+          <variant sku="17691-46-XS" barcode="8682502450389" size="XS" pack_qty="2" stock="64" price="9.00"/>
+          <variant sku="17691-46-S" barcode="8682502450372" size="S" pack_qty="2" stock="64" price="9.00"/>
+          <variant sku="17691-46-M" barcode="8682502450365" size="M" pack_qty="2" stock="64" price="9.00"/>
+          <variant sku="17691-46-L" barcode="8682502450358" size="L" pack_qty="1" stock="32" price="9.00"/>
         </variants>
       </color>
     </colors>
@@ -13693,7 +13693,7 @@
   </product>
   <product id="19383">
     <shopify_id>8486466682950</shopify_id>
-    <updated_at>2026-11-20T04:23:04Z</updated_at>
+    <updated_at>2026-11-20T07:43:45Z</updated_at>
     <title><![CDATA[Carrot Pants]]></title>
     <product_type><![CDATA[Pants]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Pants]]></category>
@@ -13712,7 +13712,7 @@
       <color id="19383-02" code="02" name="Black">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>5</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/havuc-pantolon_19383_siyah-siyah_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/havuc-pantolon_19383_siyah-siyah_2_buyuk.jpg</image>
@@ -13722,10 +13722,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/havuc-pantolon_19383_siyah-siyah_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19383-02-26" barcode="8682502650383" size="26" pack_qty="1" stock="9" price="11.00"/>
-          <variant sku="19383-02-27" barcode="8682502650390" size="27" pack_qty="2" stock="18" price="11.00"/>
-          <variant sku="19383-02-28" barcode="8682502650406" size="28" pack_qty="2" stock="18" price="11.00"/>
-          <variant sku="19383-02-29" barcode="8682502650413" size="29" pack_qty="1" stock="9" price="11.00"/>
+          <variant sku="19383-02-26" barcode="8682502650383" size="26" pack_qty="1" stock="6" price="11.00"/>
+          <variant sku="19383-02-27" barcode="8682502650390" size="27" pack_qty="2" stock="12" price="11.00"/>
+          <variant sku="19383-02-28" barcode="8682502650406" size="28" pack_qty="2" stock="12" price="11.00"/>
+          <variant sku="19383-02-29" barcode="8682502650413" size="29" pack_qty="1" stock="6" price="11.00"/>
         </variants>
       </color>
       <color id="19383-08" code="08" name="Khaki">
@@ -13750,7 +13750,7 @@
       <color id="19383-10" code="10" name="Cream">
         <unit_price>11.00</unit_price>
         <pack_price>66.00</pack_price>
-        <packs_in_stock>8</packs_in_stock>
+        <packs_in_stock>4</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/havuc-pantolon_19383_krem-krem_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/havuc-pantolon_19383_krem-krem_2_buyuk.jpg</image>
@@ -13760,10 +13760,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/havuc-pantolon_19383_krem-krem_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19383-10-26" barcode="8682502650468" size="26" pack_qty="1" stock="9" price="11.00"/>
-          <variant sku="19383-10-27" barcode="8682502650475" size="27" pack_qty="2" stock="18" price="11.00"/>
-          <variant sku="19383-10-28" barcode="8682502650482" size="28" pack_qty="2" stock="18" price="11.00"/>
-          <variant sku="19383-10-29" barcode="8682502650499" size="29" pack_qty="1" stock="9" price="11.00"/>
+          <variant sku="19383-10-26" barcode="8682502650468" size="26" pack_qty="1" stock="5" price="11.00"/>
+          <variant sku="19383-10-27" barcode="8682502650475" size="27" pack_qty="2" stock="10" price="11.00"/>
+          <variant sku="19383-10-28" barcode="8682502650482" size="28" pack_qty="2" stock="10" price="11.00"/>
+          <variant sku="19383-10-29" barcode="8682502650499" size="29" pack_qty="1" stock="5" price="11.00"/>
         </variants>
       </color>
     </colors>
@@ -14217,7 +14217,7 @@
   </product>
   <product id="19415">
     <shopify_id>8530183782470</shopify_id>
-    <updated_at>2026-11-20T02:58:01Z</updated_at>
+    <updated_at>2026-11-20T07:43:46Z</updated_at>
     <title><![CDATA[Carmen Neck Strap Detailled Midi Knit Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -14236,7 +14236,7 @@
       <color id="19415-03" code="03" name="Red">
         <unit_price>10.00</unit_price>
         <pack_price>70.00</pack_price>
-        <packs_in_stock>23</packs_in_stock>
+        <packs_in_stock>20</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kirmizi-kirmizi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kirmizi-kirmizi_2_buyuk.jpg</image>
@@ -14247,16 +14247,16 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kirmizi-kirmizi_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19415-03-XS" barcode="8682502653377" size="XS" pack_qty="2" stock="48" price="10.00"/>
-          <variant sku="19415-03-S" barcode="8682502653360" size="S" pack_qty="2" stock="48" price="10.00"/>
-          <variant sku="19415-03-M" barcode="8682502653353" size="M" pack_qty="2" stock="48" price="10.00"/>
-          <variant sku="19415-03-L" barcode="8682502653346" size="L" pack_qty="1" stock="24" price="10.00"/>
+          <variant sku="19415-03-XS" barcode="8682502653377" size="XS" pack_qty="2" stock="42" price="10.00"/>
+          <variant sku="19415-03-S" barcode="8682502653360" size="S" pack_qty="2" stock="42" price="10.00"/>
+          <variant sku="19415-03-M" barcode="8682502653353" size="M" pack_qty="2" stock="42" price="10.00"/>
+          <variant sku="19415-03-L" barcode="8682502653346" size="L" pack_qty="1" stock="21" price="10.00"/>
         </variants>
       </color>
       <color id="19415-07" code="07" name="Brown">
         <unit_price>10.00</unit_price>
         <pack_price>70.00</pack_price>
-        <packs_in_stock>27</packs_in_stock>
+        <packs_in_stock>20</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kahve-kahverengi_2_buyuk.jpg</image>
@@ -14267,10 +14267,10 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/carmen-yaka-aski-detayli-midi-triko-elbise_19415_kahve-kahverengi_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19415-07-XS" barcode="8682502653414" size="XS" pack_qty="2" stock="56" price="10.00"/>
-          <variant sku="19415-07-S" barcode="8682502653407" size="S" pack_qty="2" stock="56" price="10.00"/>
-          <variant sku="19415-07-M" barcode="8682502653391" size="M" pack_qty="2" stock="56" price="10.00"/>
-          <variant sku="19415-07-L" barcode="8682502653384" size="L" pack_qty="1" stock="28" price="10.00"/>
+          <variant sku="19415-07-XS" barcode="8682502653414" size="XS" pack_qty="2" stock="42" price="10.00"/>
+          <variant sku="19415-07-S" barcode="8682502653407" size="S" pack_qty="2" stock="42" price="10.00"/>
+          <variant sku="19415-07-M" barcode="8682502653391" size="M" pack_qty="2" stock="42" price="10.00"/>
+          <variant sku="19415-07-L" barcode="8682502653384" size="L" pack_qty="1" stock="21" price="10.00"/>
         </variants>
       </color>
       <color id="19415-45" code="45" name="Mink">
@@ -14398,7 +14398,7 @@
   </product>
   <product id="19417">
     <shopify_id>8530184044614</shopify_id>
-    <updated_at>2026-11-20T03:30:56Z</updated_at>
+    <updated_at>2026-11-20T07:43:41Z</updated_at>
     <title><![CDATA[Maxi Knit Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -14437,7 +14437,7 @@
       <color id="19417-07" code="07" name="Brown">
         <unit_price>7.50</unit_price>
         <pack_price>52.50</pack_price>
-        <packs_in_stock>22</packs_in_stock>
+        <packs_in_stock>20</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_kahve-kahverengi_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_kahve-kahverengi_2_buyuk.jpg</image>
@@ -14447,16 +14447,16 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_kahve-kahverengi_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19417-07-XS" barcode="8682502653698" size="XS" pack_qty="2" stock="46" price="7.50"/>
-          <variant sku="19417-07-S" barcode="8682502653681" size="S" pack_qty="2" stock="46" price="7.50"/>
-          <variant sku="19417-07-M" barcode="8682502653674" size="M" pack_qty="2" stock="46" price="7.50"/>
-          <variant sku="19417-07-L" barcode="8682502653667" size="L" pack_qty="1" stock="23" price="7.50"/>
+          <variant sku="19417-07-XS" barcode="8682502653698" size="XS" pack_qty="2" stock="42" price="7.50"/>
+          <variant sku="19417-07-S" barcode="8682502653681" size="S" pack_qty="2" stock="42" price="7.50"/>
+          <variant sku="19417-07-M" barcode="8682502653674" size="M" pack_qty="2" stock="42" price="7.50"/>
+          <variant sku="19417-07-L" barcode="8682502653667" size="L" pack_qty="1" stock="21" price="7.50"/>
         </variants>
       </color>
       <color id="19417-08" code="08" name="Khaki">
         <unit_price>7.50</unit_price>
         <pack_price>52.50</pack_price>
-        <packs_in_stock>25</packs_in_stock>
+        <packs_in_stock>18</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_haki-haki_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_haki-haki_2_buyuk.jpg</image>
@@ -14467,16 +14467,16 @@
           <image position="7">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_haki-haki_7_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19417-08-XS" barcode="8682502653735" size="XS" pack_qty="2" stock="52" price="7.50"/>
-          <variant sku="19417-08-S" barcode="8682502653728" size="S" pack_qty="2" stock="52" price="7.50"/>
-          <variant sku="19417-08-M" barcode="8682502653711" size="M" pack_qty="2" stock="52" price="7.50"/>
-          <variant sku="19417-08-L" barcode="8682502653704" size="L" pack_qty="1" stock="26" price="7.50"/>
+          <variant sku="19417-08-XS" barcode="8682502653735" size="XS" pack_qty="2" stock="38" price="7.50"/>
+          <variant sku="19417-08-S" barcode="8682502653728" size="S" pack_qty="2" stock="38" price="7.50"/>
+          <variant sku="19417-08-M" barcode="8682502653711" size="M" pack_qty="2" stock="38" price="7.50"/>
+          <variant sku="19417-08-L" barcode="8682502653704" size="L" pack_qty="1" stock="19" price="7.50"/>
         </variants>
       </color>
       <color id="19417-26" code="26" name="Beige">
         <unit_price>7.50</unit_price>
         <pack_price>52.50</pack_price>
-        <packs_in_stock>20</packs_in_stock>
+        <packs_in_stock>15</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_bej-bej_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_bej-bej_2_buyuk.jpg</image>
@@ -14486,10 +14486,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/triko-maksi-kalem-etek_19417_bej-bej_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="19417-26-XS" barcode="8682502653773" size="XS" pack_qty="2" stock="42" price="7.50"/>
-          <variant sku="19417-26-S" barcode="8682502653766" size="S" pack_qty="2" stock="42" price="7.50"/>
-          <variant sku="19417-26-M" barcode="8682502653759" size="M" pack_qty="2" stock="42" price="7.50"/>
-          <variant sku="19417-26-L" barcode="8682502653742" size="L" pack_qty="1" stock="21" price="7.50"/>
+          <variant sku="19417-26-XS" barcode="8682502653773" size="XS" pack_qty="2" stock="32" price="7.50"/>
+          <variant sku="19417-26-S" barcode="8682502653766" size="S" pack_qty="2" stock="32" price="7.50"/>
+          <variant sku="19417-26-M" barcode="8682502653759" size="M" pack_qty="2" stock="32" price="7.50"/>
+          <variant sku="19417-26-L" barcode="8682502653742" size="L" pack_qty="1" stock="16" price="7.50"/>
         </variants>
       </color>
     </colors>
@@ -50819,7 +50819,7 @@
   </product>
   <product id="21663">
     <shopify_id>10303274287174</shopify_id>
-    <updated_at>2026-11-20T02:28:21Z</updated_at>
+    <updated_at>2026-11-20T07:43:45Z</updated_at>
     <title><![CDATA[Tweed Fabric Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -50857,10 +50857,10 @@
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_kahve.jpg</image>
         </images>
         <variants>
-          <variant sku="21663-07-XS" barcode="8682502902970" size="XS" pack_qty="1" stock="1" price="27.00"/>
-          <variant sku="21663-07-S" barcode="8682502902963" size="S" pack_qty="2" stock="2" price="27.00"/>
-          <variant sku="21663-07-M" barcode="8682502902956" size="M" pack_qty="2" stock="2" price="27.00"/>
-          <variant sku="21663-07-L" barcode="8682502902949" size="L" pack_qty="1" stock="1" price="27.00"/>
+          <variant sku="21663-07-XS" barcode="8682502902970" size="XS" pack_qty="1" stock="0" price="27.00"/>
+          <variant sku="21663-07-S" barcode="8682502902963" size="S" pack_qty="2" stock="0" price="27.00"/>
+          <variant sku="21663-07-M" barcode="8682502902956" size="M" pack_qty="2" stock="0" price="27.00"/>
+          <variant sku="21663-07-L" barcode="8682502902949" size="L" pack_qty="1" stock="0" price="27.00"/>
         </variants>
       </color>
       <color id="21663-48" code="48" name="Ecru">
