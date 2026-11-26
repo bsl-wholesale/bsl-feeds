@@ -19487,7 +19487,7 @@
   </product>
   <product id="20170">
     <shopify_id>8486468354118</shopify_id>
-    <updated_at>2026-11-26T04:05:20Z</updated_at>
+    <updated_at>2026-11-26T15:13:35Z</updated_at>
     <title><![CDATA[Gilded Openwork Oversize Cardigan]]></title>
     <product_type><![CDATA[Cardigans]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Clothing Tops > Cardigans]]></category>
@@ -19503,7 +19503,7 @@
       <color id="20170-62" code="62" name="Stone">
         <unit_price>15.00</unit_price>
         <pack_price>75.00</pack_price>
-        <packs_in_stock>22</packs_in_stock>
+        <packs_in_stock>21</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-hirka_20170_tas-tas_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-hirka_20170_tas-tas_2_buyuk.jpg</image>
@@ -19511,7 +19511,7 @@
           <image position="4">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/varakli-ajurlu-oversize-hirka_20170_tas-tas_4_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="20170-62-STD" barcode="8682502736568" size="STD" pack_qty="5" stock="115" price="15.00"/>
+          <variant sku="20170-62-STD" barcode="8682502736568" size="STD" pack_qty="5" stock="110" price="15.00"/>
         </variants>
       </color>
     </colors>
@@ -32782,7 +32782,7 @@
   </product>
   <product id="21056">
     <shopify_id>8486272335942</shopify_id>
-    <updated_at>2026-11-26T02:34:10Z</updated_at>
+    <updated_at>2026-11-26T15:13:45Z</updated_at>
     <title><![CDATA[Suede-Look Mini Vest Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -32801,7 +32801,7 @@
       <color id="21056-12" code="12" name="Burgundy">
         <unit_price>19.00</unit_price>
         <pack_price>114.00</pack_price>
-        <packs_in_stock>13</packs_in_stock>
+        <packs_in_stock>12</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-jile-elbise_21056_bordo-bordo_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-jile-elbise_21056_bordo-bordo_2_buyuk.jpg</image>
@@ -32811,16 +32811,16 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-jile-elbise_21056_bordo-bordo_6_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21056-12-XS" barcode="8682502827266" size="XS" pack_qty="1" stock="14" price="19.00"/>
-          <variant sku="21056-12-S" barcode="8682502827259" size="S" pack_qty="2" stock="28" price="19.00"/>
-          <variant sku="21056-12-M" barcode="8682502827242" size="M" pack_qty="2" stock="28" price="19.00"/>
-          <variant sku="21056-12-L" barcode="8682502827235" size="L" pack_qty="1" stock="14" price="19.00"/>
+          <variant sku="21056-12-XS" barcode="8682502827266" size="XS" pack_qty="1" stock="13" price="19.00"/>
+          <variant sku="21056-12-S" barcode="8682502827259" size="S" pack_qty="2" stock="26" price="19.00"/>
+          <variant sku="21056-12-M" barcode="8682502827242" size="M" pack_qty="2" stock="26" price="19.00"/>
+          <variant sku="21056-12-L" barcode="8682502827235" size="L" pack_qty="1" stock="13" price="19.00"/>
         </variants>
       </color>
       <color id="21056-55" code="55" name="Mıxed">
         <unit_price>19.00</unit_price>
         <pack_price>114.00</pack_price>
-        <packs_in_stock>31</packs_in_stock>
+        <packs_in_stock>30</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-jile-elbise_21056_hardal-hardal_1_buyuk.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-jile-elbise_21056_hardal-hardal_2_buyuk.jpg</image>
@@ -32829,10 +32829,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/suet-gorunumlu-mini-jile-elbise_21056_hardal-hardal_5_buyuk.jpg</image>
         </images>
         <variants>
-          <variant sku="21056-55-XS" barcode="8682502827303" size="XS" pack_qty="1" stock="32" price="19.00"/>
-          <variant sku="21056-55-S" barcode="8682502827297" size="S" pack_qty="2" stock="64" price="19.00"/>
-          <variant sku="21056-55-M" barcode="8682502827280" size="M" pack_qty="2" stock="64" price="19.00"/>
-          <variant sku="21056-55-L" barcode="8682502827273" size="L" pack_qty="1" stock="32" price="19.00"/>
+          <variant sku="21056-55-XS" barcode="8682502827303" size="XS" pack_qty="1" stock="31" price="19.00"/>
+          <variant sku="21056-55-S" barcode="8682502827297" size="S" pack_qty="2" stock="62" price="19.00"/>
+          <variant sku="21056-55-M" barcode="8682502827280" size="M" pack_qty="2" stock="62" price="19.00"/>
+          <variant sku="21056-55-L" barcode="8682502827273" size="L" pack_qty="1" stock="31" price="19.00"/>
         </variants>
       </color>
     </colors>
@@ -48724,7 +48724,7 @@
   </product>
   <product id="21552">
     <shopify_id>10224569483334</shopify_id>
-    <updated_at>2026-11-26T09:13:45Z</updated_at>
+    <updated_at>2026-11-26T15:13:38Z</updated_at>
     <title><![CDATA[Button-Detail Maxi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -48752,17 +48752,17 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893070_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21552-02-XS" barcode="8682502893070" size="XS" pack_qty="2" stock="2" price="15.00"/>
-          <variant sku="21552-02-S" barcode="8682502893063" size="S" pack_qty="2" stock="2" price="15.00"/>
-          <variant sku="21552-02-M" barcode="8682502893056" size="M" pack_qty="1" stock="1" price="15.00"/>
-          <variant sku="21552-02-XXS" barcode="8682502896859" size="XXS" pack_qty="1" stock="1" price="15.00"/>
+          <variant sku="21552-02-XS" barcode="8682502893070" size="XS" pack_qty="2" stock="0" price="15.00"/>
+          <variant sku="21552-02-S" barcode="8682502893063" size="S" pack_qty="2" stock="0" price="15.00"/>
+          <variant sku="21552-02-M" barcode="8682502893056" size="M" pack_qty="1" stock="0" price="15.00"/>
+          <variant sku="21552-02-XXS" barcode="8682502896859" size="XXS" pack_qty="1" stock="0" price="15.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21553">
     <shopify_id>10238690328646</shopify_id>
-    <updated_at>2026-11-26T03:48:00Z</updated_at>
+    <updated_at>2026-11-26T15:13:45Z</updated_at>
     <title><![CDATA[Button-Detail Cropped Jacket]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -48781,7 +48781,7 @@
       <color id="21553-02" code="02" name="Black">
         <unit_price>23.00</unit_price>
         <pack_price>138.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_2.jpg</image>
@@ -48790,10 +48790,10 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502893117_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21553-02-XS" barcode="8682502893117" size="XS" pack_qty="2" stock="6" price="23.00"/>
-          <variant sku="21553-02-S" barcode="8682502893100" size="S" pack_qty="2" stock="6" price="23.00"/>
-          <variant sku="21553-02-M" barcode="8682502893094" size="M" pack_qty="1" stock="3" price="23.00"/>
-          <variant sku="21553-02-XXS" barcode="8682502896842" size="XXS" pack_qty="1" stock="3" price="23.00"/>
+          <variant sku="21553-02-XS" barcode="8682502893117" size="XS" pack_qty="2" stock="4" price="23.00"/>
+          <variant sku="21553-02-S" barcode="8682502893100" size="S" pack_qty="2" stock="4" price="23.00"/>
+          <variant sku="21553-02-M" barcode="8682502893094" size="M" pack_qty="1" stock="2" price="23.00"/>
+          <variant sku="21553-02-XXS" barcode="8682502896842" size="XXS" pack_qty="1" stock="2" price="23.00"/>
         </variants>
       </color>
     </colors>
@@ -49488,7 +49488,7 @@
   </product>
   <product id="21589">
     <shopify_id>10293131575366</shopify_id>
-    <updated_at>2026-11-24T09:13:36Z</updated_at>
+    <updated_at>2026-11-26T15:13:37Z</updated_at>
     <title><![CDATA[Sleeveless Tweed Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -49507,15 +49507,15 @@
       <color id="21589-12" code="12" name="Burgundy">
         <unit_price>19.00</unit_price>
         <pack_price>114.00</pack_price>
-        <packs_in_stock>4</packs_in_stock>
+        <packs_in_stock>3</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21589.jpg</image>
         </images>
         <variants>
-          <variant sku="21589-12-XS" barcode="8682502899010" size="XS" pack_qty="1" stock="5" price="19.00"/>
-          <variant sku="21589-12-S" barcode="8682502899003" size="S" pack_qty="2" stock="10" price="19.00"/>
-          <variant sku="21589-12-M" barcode="8682502898990" size="M" pack_qty="2" stock="10" price="19.00"/>
-          <variant sku="21589-12-L" barcode="8682502898983" size="L" pack_qty="1" stock="5" price="19.00"/>
+          <variant sku="21589-12-XS" barcode="8682502899010" size="XS" pack_qty="1" stock="4" price="19.00"/>
+          <variant sku="21589-12-S" barcode="8682502899003" size="S" pack_qty="2" stock="8" price="19.00"/>
+          <variant sku="21589-12-M" barcode="8682502898990" size="M" pack_qty="2" stock="8" price="19.00"/>
+          <variant sku="21589-12-L" barcode="8682502898983" size="L" pack_qty="1" stock="4" price="19.00"/>
         </variants>
       </color>
     </colors>
@@ -50598,7 +50598,7 @@
   </product>
   <product id="21647">
     <shopify_id>10265110806598</shopify_id>
-    <updated_at>2026-11-26T01:11:46Z</updated_at>
+    <updated_at>2026-11-26T15:13:45Z</updated_at>
     <title><![CDATA[Button Detail Midi Pencil Skirt]]></title>
     <product_type><![CDATA[Skirts]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Skirts]]></category>
@@ -50626,17 +50626,17 @@
           <image position="5">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900075_5.jpg</image>
         </images>
         <variants>
-          <variant sku="21647-48-XS" barcode="8682502900075" size="XS" pack_qty="1" stock="1" price="16.00"/>
-          <variant sku="21647-48-S" barcode="8682502900068" size="S" pack_qty="2" stock="2" price="16.00"/>
-          <variant sku="21647-48-M" barcode="8682502900051" size="M" pack_qty="2" stock="2" price="16.00"/>
-          <variant sku="21647-48-L" barcode="8682502900044" size="L" pack_qty="1" stock="1" price="16.00"/>
+          <variant sku="21647-48-XS" barcode="8682502900075" size="XS" pack_qty="1" stock="0" price="16.00"/>
+          <variant sku="21647-48-S" barcode="8682502900068" size="S" pack_qty="2" stock="0" price="16.00"/>
+          <variant sku="21647-48-M" barcode="8682502900051" size="M" pack_qty="2" stock="0" price="16.00"/>
+          <variant sku="21647-48-L" barcode="8682502900044" size="L" pack_qty="1" stock="0" price="16.00"/>
         </variants>
       </color>
     </colors>
   </product>
   <product id="21648">
     <shopify_id>10265111068742</shopify_id>
-    <updated_at>2026-11-26T02:33:30Z</updated_at>
+    <updated_at>2026-11-26T15:13:41Z</updated_at>
     <title><![CDATA[Blazer Jacket with Button Detail Without Collar]]></title>
     <product_type><![CDATA[Jackets & Coats]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Outerwear > Coats & Jackets > Blazers]]></category>
@@ -50655,7 +50655,7 @@
       <color id="21648-48" code="48" name="Ecru">
         <unit_price>26.00</unit_price>
         <pack_price>156.00</pack_price>
-        <packs_in_stock>2</packs_in_stock>
+        <packs_in_stock>1</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_1.jpg</image>
           <image position="2">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_2.jpg</image>
@@ -50665,10 +50665,10 @@
           <image position="6">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/8682502900112_6.jpg</image>
         </images>
         <variants>
-          <variant sku="21648-48-XS" barcode="8682502900112" size="XS" pack_qty="1" stock="3" price="26.00"/>
-          <variant sku="21648-48-S" barcode="8682502900105" size="S" pack_qty="2" stock="6" price="26.00"/>
-          <variant sku="21648-48-M" barcode="8682502900099" size="M" pack_qty="2" stock="6" price="26.00"/>
-          <variant sku="21648-48-L" barcode="8682502900082" size="L" pack_qty="1" stock="3" price="26.00"/>
+          <variant sku="21648-48-XS" barcode="8682502900112" size="XS" pack_qty="1" stock="2" price="26.00"/>
+          <variant sku="21648-48-S" barcode="8682502900105" size="S" pack_qty="2" stock="4" price="26.00"/>
+          <variant sku="21648-48-M" barcode="8682502900099" size="M" pack_qty="2" stock="4" price="26.00"/>
+          <variant sku="21648-48-L" barcode="8682502900082" size="L" pack_qty="1" stock="2" price="26.00"/>
         </variants>
       </color>
     </colors>
@@ -50819,7 +50819,7 @@
   </product>
   <product id="21663">
     <shopify_id>10303274287174</shopify_id>
-    <updated_at>2026-11-26T13:12:26Z</updated_at>
+    <updated_at>2026-11-26T15:13:38Z</updated_at>
     <title><![CDATA[Tweed Fabric Mini Dress]]></title>
     <product_type><![CDATA[Dresses]]></product_type>
     <category><![CDATA[Apparel & Accessories > Clothing > Dresses]]></category>
@@ -50838,15 +50838,15 @@
       <color id="21663-02" code="02" name="Black">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_siyah.jpg</image>
         </images>
         <variants>
-          <variant sku="21663-02-XS" barcode="8682502902932" size="XS" pack_qty="1" stock="2" price="27.00"/>
-          <variant sku="21663-02-S" barcode="8682502902925" size="S" pack_qty="2" stock="4" price="27.00"/>
-          <variant sku="21663-02-M" barcode="8682502902918" size="M" pack_qty="2" stock="4" price="27.00"/>
-          <variant sku="21663-02-L" barcode="8682502902901" size="L" pack_qty="1" stock="2" price="27.00"/>
+          <variant sku="21663-02-XS" barcode="8682502902932" size="XS" pack_qty="1" stock="1" price="27.00"/>
+          <variant sku="21663-02-S" barcode="8682502902925" size="S" pack_qty="2" stock="2" price="27.00"/>
+          <variant sku="21663-02-M" barcode="8682502902918" size="M" pack_qty="2" stock="2" price="27.00"/>
+          <variant sku="21663-02-L" barcode="8682502902901" size="L" pack_qty="1" stock="1" price="27.00"/>
         </variants>
       </color>
       <color id="21663-07" code="07" name="Brown">
@@ -50866,15 +50866,15 @@
       <color id="21663-48" code="48" name="Ecru">
         <unit_price>27.00</unit_price>
         <pack_price>162.00</pack_price>
-        <packs_in_stock>1</packs_in_stock>
+        <packs_in_stock>0</packs_in_stock>
         <images>
           <image position="1">https://cdn.shopify.com/s/files/1/0704/7643/1430/files/21663_ekru.jpg</image>
         </images>
         <variants>
-          <variant sku="21663-48-XS" barcode="8682502903014" size="XS" pack_qty="1" stock="2" price="27.00"/>
-          <variant sku="21663-48-S" barcode="8682502903007" size="S" pack_qty="2" stock="4" price="27.00"/>
-          <variant sku="21663-48-M" barcode="8682502902994" size="M" pack_qty="2" stock="4" price="27.00"/>
-          <variant sku="21663-48-L" barcode="8682502902987" size="L" pack_qty="1" stock="2" price="27.00"/>
+          <variant sku="21663-48-XS" barcode="8682502903014" size="XS" pack_qty="1" stock="0" price="27.00"/>
+          <variant sku="21663-48-S" barcode="8682502903007" size="S" pack_qty="2" stock="0" price="27.00"/>
+          <variant sku="21663-48-M" barcode="8682502902994" size="M" pack_qty="2" stock="0" price="27.00"/>
+          <variant sku="21663-48-L" barcode="8682502902987" size="L" pack_qty="1" stock="0" price="27.00"/>
         </variants>
       </color>
     </colors>
